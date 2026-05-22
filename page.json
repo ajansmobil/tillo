@@ -1,0 +1,96 @@
+{
+  "name": "Sayfalar",
+  "path": "page",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "status": "play",
+      "category": "",
+      "id": "yvi9dlb59o",
+      "url": "",
+      "path": "kurumsal",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "hakkimizda",
+      "description": {
+        "tr": "Tillo Kochari kurumsal bilgiler. Hakkımızda, misyon, vizyon ve kalite politikamız. Gaziantep doğal gıda üretimi."
+      }
+    },
+    {
+      "name": {
+        "tr": "Ürünler",
+        "en": "",
+        "ar": "",
+        "de": "",
+        "ja": "",
+        "ko": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "hs54qzyeyo",
+      "url": "",
+      "path": "urunler",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "kpsg6z"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Tillo Kochari ürün kataloğu. 17 kategoride 150+ doğal gıda: ezme, kuru meyve, reçel, pekmez, süt, IQF ve daha fazlası. Detaylı ürün listesi ve gramaj bilgile…",
+        "en": "",
+        "ar": "",
+        "de": "",
+        "ja": "",
+        "ko": ""
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "fhxr98",
+          "bi4hta"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Tillo Kochari iletişim. Toptan sipariş, bayilik ve ürün bilgisi için bize ulaşın. Gaziantep ve Türkiye geneli tedarik."
+      }
+    }
+  ],
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}

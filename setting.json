@@ -1,0 +1,30 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Tillo Kochari — Gaziantep merkezli doğal gıda üreticisi. Antep fıstığı ezme, kurutulmuş meyve-sebze, reçel, pekmez, süt ürünleri, IQF ve aromatik yağlar. Top…"
+  },
+  "keyword": {
+    "tr": "Tillo Kochari, Gaziantep, doğal gıda, tillo kochari gıda, gaziantep gıda üreticisi, kurutulmuş meyve toptan, antep fıstığı ezmesi, doğal reçel pekmez, IQF meyve sebze, süt ürünleri, zeytinyağı"
+  },
+  "category": "Kurumsal",
+  "name": "Tillo Kochari",
+  "domain": "tillotarim.com",
+  "langs": {
+    "tr": true,
+    "en": false,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "eticaret": false
+}

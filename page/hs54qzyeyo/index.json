@@ -1,0 +1,62 @@
+{
+  "name": {
+    "tr": "Ürünler",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ja": "",
+    "ko": ""
+  },
+  "status": "play",
+  "category": "",
+  "id": "hs54qzyeyo",
+  "url": "",
+  "path": "urunler",
+  "index": 1,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "kpsg6z"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Tillo Kochari ürün kataloğu. 17 kategoride 150+ doğal gıda: ezme, kuru meyve, reçel, pekmez, süt, IQF ve daha fazlası. Detaylı ürün listesi ve gramaj bilgile…",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ja": "",
+    "ko": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Ürünlerimiz | Tillo Kochari",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ja": "",
+    "ko": ""
+  },
+  "keyword": {
+    "tr": "Tillo Kochari, Gaziantep, doğal gıda, ürünler, ürün kataloğu, ezme krema, kurutulmuş meyve, reçel pekmez, süt ürünleri, IQF",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ja": "",
+    "ko": ""
+  },
+  "text": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ja": "",
+    "ko": ""
+  },
+  "update": "2026-05-21T08:39:28.779Z",
+  "date": "2026-05-19",
+  "slider": [],
+  "textmodul": false
+}
