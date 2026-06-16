@@ -29,16 +29,16 @@
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
 
   <link rel="stylesheet" href="/src/rubik.css" />
-  <link rel="stylesheet" href="/src/css.css?v=x93gx" />
-  <link rel="preload" href="/src/cookie.css?v=x93gx" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <link rel="stylesheet" href="/src/css.css?v=v19uh" />
+  <link rel="preload" href="/src/cookie.css?v=v19uh" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <link rel="preload" href="/src/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <link rel="preload" href="/src/material-symbols-outlined.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <noscript>
-    <link rel="stylesheet" href="/src/cookie.css?v=x93gx" />
+    <link rel="stylesheet" href="/src/cookie.css?v=v19uh" />
     <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
     <link rel="stylesheet" href="/src/material-symbols-outlined.css" />
   </noscript>
-  <link rel="shortcut icon" href="/img/icon.png?v=x93gx" type="image/png" />
+  <link rel="shortcut icon" href="/img/icon.png?v=v19uh" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -63,46 +63,49 @@
   
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#2196f3">
-<link rel="stylesheet" href="style.css?v=x93gx">
+<link rel="stylesheet" href="style.css?v=v19uh">
 </head>
 
 <body>
-  <div id="header">
-<div class="co2ra">
-  <div class="co2ratitle">
-    <div class="co2ratitlebody">
-      <div class="co2ratitlebodylang">
+  <div id="header"><div class="h0000">
+  <div class="h0000title">
+    <div class="h0000titlebody">
+      <div class="h0000titlebodylang">
         <ul>
           
         </ul>
       </div>
     </div>
   </div>
-  <div class="co2rabody">
-    <a href="/tr/"
-      ><img
-        src="/img/logo.png?v=tlmzm"
+  <div class="h0000body">
+    <a href="/tr/">
+      <img
+        src="/img/logo.png?v=g2l86"
         alt="Tillo Kochari Logo"
-        class="co2rabodylogo"
+        class="h0000bodylogo"
         loading="lazy"
-    /></a>
-    <button type="button" class="co2ra-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
+      />
+    </a>
+    <button type="button" class="h0000-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
       <span class="material-symbols-outlined" aria-hidden="true">menu</span>
     </button>
   </div>
   
-  <div class="co2ra-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
-  <div class="co2ramenubody">
-    <div class="co2ramenu" id="menu-2-root">
-      <div class="co2ramenulistbody">
-        <div class="co2ramenulist">
+  <div class="h0000-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
+  <div class="h0000menubody">
+    <div class="h0000menu" id="menu-2-root">
+      <button type="button" class="h0000-menu2-drawer-close" onclick="menu2_toggle()" aria-label="Menüyü kapat">
+        <span class="material-symbols-outlined" aria-hidden="true">close</span>
+      </button>
+      <div class="h0000menulistbody">
+        <div class="h0000menulist">
           <ul>
-            <a href="/tr/">Anasayfa </a><a href="/tr/hakkimizda/">Kurumsal</a><a href="/tr/urunler/">Ürünler</a><a href="/tr/iletisim/">İletişim</a>
+            <a href="/tr/">Anasayfa</a><div class="h0000menulist-menu"><a href="/tr/hakkimizda/">Kurumsal</a><div class="dropdown-content-h0000"><a href="/tr/hakkimizda/">Hakkımızda</a><a href="/tr/misyon/">Misyon</a><a href="/tr/vizyon/">Vizyon</a><a href="/tr/kalite-politikamiz/">Kalite Politikamız</a><a href="/tr/gizlilik-politikasi/">Gizlilik Politikası</a><a href="/tr/kisisel-veriler/">Kişisel Veriler</a><a href="/tr/kullanici-haklari/">Kullanıcı Hakları</a><a href="/tr/yasal-uyari/">Yasal Uyarı</a></div></div><a href="/tr/urunler/">Ürünler</a><a href="/tr/iletisim/">İletişim</a>
           </ul>
         </div>
       </div>
       
-      <div class="co2ralanguages-mobile">
+      <div class="h0000languages-mobile">
         <ul>
           
         </ul>
@@ -113,87 +116,259 @@
 
 <script>
   
+  if (typeof menu2_isMobileLayout === "undefined") {
+    
+    function menu2_isMobileLayout() {
+      return window.innerWidth <= 1024;
+    }
+  }
+  if (typeof menu2_isTouchNav === "undefined") {
+    function menu2_isTouchNav() {
+      return window.innerWidth <= 1024;
+    }
+  }
+  if (typeof menu2_setBodyScroll === "undefined") {
+    function menu2_setBodyScroll(lock) {
+      if (!menu2_isMobileLayout()) {
+        document.body.style.overflow = "";
+        return;
+      }
+      document.body.style.overflow = lock ? "hidden" : "";
+    }
+  }
   if (typeof menu2_toggle === "undefined") {
     function menu2_toggle() {
       var root = document.getElementById("menu-2-root");
       if (!root) {
         return;
       }
-      var wrapper = root.closest ? root.closest(".co2ra") : null;
+      var wrapper = root.closest ? root.closest(".h0000") : null;
       var target = wrapper || root;
-      if (target.classList.contains("co2ramenu-open")) {
-        target.classList.remove("co2ramenu-open");
+      if (target.classList.contains("h0000menu-open")) {
+        target.classList.remove("h0000menu-open");
+        menu2_setBodyScroll(false);
       } else {
-        target.classList.add("co2ramenu-open");
+        target.classList.add("h0000menu-open");
+        menu2_setBodyScroll(true);
+        menu2_openActiveBranch();
       }
     }
   }
+  if (typeof menu2_closeDrawer === "undefined") {
+    function menu2_closeDrawer() {
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var wrapper = root.closest ? root.closest(".h0000") : null;
+      var target = wrapper || root;
+      target.classList.remove("h0000menu-open");
+      menu2_setBodyScroll(false);
+    }
+  }
+  if (typeof menu2_openActiveBranch === "undefined") {
+    function menu2_openActiveBranch() {
+      if (!menu2_isMobileLayout()) {
+        return;
+      }
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var activeWrap = root.querySelector(".h0000menulist-menu.dropdown-content-active-h0000");
+      if (activeWrap) {
+        activeWrap.classList.add("h0000-dropdown-open");
+      }
+    }
+  }
+  if (typeof menu2_setup === "undefined") {
+    function menu2_setup() {
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var dropdownLinks = root.querySelectorAll(".h0000menulist-menu > a");
+      for (var i = 0; i < dropdownLinks.length; i++) {
+        if (dropdownLinks[i].getAttribute("data-menu2-listener") === "true") {
+          continue;
+        }
+        dropdownLinks[i].setAttribute("data-menu2-listener", "true");
+        dropdownLinks[i].addEventListener("click", function(event) {
+          if (!menu2_isTouchNav()) {
+            return;
+          }
+          var parent = this.parentNode;
+          if (!parent || !parent.querySelector(".dropdown-content-h0000")) {
+            return;
+          }
+          event.preventDefault();
+          var menuRoot = parent.parentNode;
+          var toggled = parent.classList.contains("h0000-dropdown-open");
+          var siblings = menuRoot.querySelectorAll(".h0000menulist-menu");
+          for (var j = 0; j < siblings.length; j++) {
+            siblings[j].classList.remove("h0000-dropdown-open");
+          }
+          if (!toggled) {
+            parent.classList.add("h0000-dropdown-open");
+          }
+        });
+      }
+      var navLinks = root.querySelectorAll(".h0000menulist a[href]");
+      for (var k = 0; k < navLinks.length; k++) {
+        if (navLinks[k].getAttribute("data-menu2-nav-close") === "true") {
+          continue;
+        }
+        navLinks[k].setAttribute("data-menu2-nav-close", "true");
+        navLinks[k].addEventListener("click", function(event) {
+          if (!menu2_isMobileLayout()) {
+            return;
+          }
+          if (event.defaultPrevented) {
+            return;
+          }
+          menu2_closeDrawer();
+        });
+      }
+      menu2_openActiveBranch();
+    }
+    function menu2_resetDropdowns() {
+      if (!menu2_isTouchNav()) {
+        var root = document.getElementById("menu-2-root");
+        if (!root) {
+          return;
+        }
+        var items = root.querySelectorAll(".h0000menulist-menu");
+        for (var i = 0; i < items.length; i++) {
+          items[i].classList.remove("h0000-dropdown-open");
+        }
+      }
+      if (!menu2_isMobileLayout()) {
+        menu2_setBodyScroll(false);
+        menu2_closeDrawer();
+      }
+    }
+    setTimeout(menu2_setup, 150);
+    window.addEventListener("resize", menu2_resetDropdowns);
+  }
 </script>
 </div>
-  <div id="content"><div class="gmq15-title f36">
+  <div id="content"><div class="b0000-title f36">
   <h1>Reçel ve Marmelatlar</h1>
 </div>
 
-<div class="gmq15"></div>
+<div class="b0000"></div>
 
 
 ------------------------
-<div class="kaco1">
-  <div class="kaco1body"><a class="kaco1bodycardlink" href="/tr/visne-receli/"><div class="kaco1bodycard"><div class="kaco1bodyitemimg"><img src="/page/gyiiyqyuqi/index.webp" alt="Vişne Reçeli" loading="lazy"></div><div class="kaco1bodyitemoverlay"></div><div class="kaco1bodyitemtitle"><span>Vişne Reçeli</span></div><div class="kaco1bodyitemaccent"></div></div></a><a class="kaco1bodycardlink" href="/tr/kayisi-receli/"><div class="kaco1bodycard"><div class="kaco1bodyitemimg"><img src="/page/nuu2i2q2i2/index.webp" alt="Kayısı Reçeli" loading="lazy"></div><div class="kaco1bodyitemoverlay"></div><div class="kaco1bodyitemtitle"><span>Kayısı Reçeli</span></div><div class="kaco1bodyitemaccent"></div></div></a><a class="kaco1bodycardlink" href="/tr/i-ncir-receli/"><div class="kaco1bodycard"><div class="kaco1bodyitemimg"><img src="/page/aam6m2qmea/index.webp" alt="İncir Reçeli" loading="lazy"></div><div class="kaco1bodyitemoverlay"></div><div class="kaco1bodyitemtitle"><span>İncir Reçeli</span></div><div class="kaco1bodyitemaccent"></div></div></a><a class="kaco1bodycardlink" href="/tr/ayva-receli/"><div class="kaco1bodycard"><div class="kaco1bodyitemimg"><img src="/page/h6eu6imi6e/index.webp" alt="Ayva Reçeli" loading="lazy"></div><div class="kaco1bodyitemoverlay"></div><div class="kaco1bodyitemtitle"><span>Ayva Reçeli</span></div><div class="kaco1bodyitemaccent"></div></div></a><a class="kaco1bodycardlink" href="/tr/portakal-marmelati/"><div class="kaco1bodycard"><div class="kaco1bodyitemimg"><img src="/page/om626yqequ/index.webp" alt="Portakal Marmelatı" loading="lazy"></div><div class="kaco1bodyitemoverlay"></div><div class="kaco1bodyitemtitle"><span>Portakal Marmelatı</span></div><div class="kaco1bodyitemaccent"></div></div></a><a class="kaco1bodycardlink" href="/tr/cilek-receli/"><div class="kaco1bodycard"><div class="kaco1bodyitemimg"><img src="/page/b6mqqye2i2/index.webp" alt="Çilek Reçeli" loading="lazy"></div><div class="kaco1bodyitemoverlay"></div><div class="kaco1bodyitemtitle"><span>Çilek Reçeli</span></div><div class="kaco1bodyitemaccent"></div></div></a><a class="kaco1bodycardlink" href="/tr/cevizli-recel/"><div class="kaco1bodycard"><div class="kaco1bodyitemimg"><img src="/page/ieuiqiumui/index.webp" alt="Cevizli Reçel" loading="lazy"></div><div class="kaco1bodyitemoverlay"></div><div class="kaco1bodyitemtitle"><span>Cevizli Reçel</span></div><div class="kaco1bodyitemaccent"></div></div></a><a class="kaco1bodycardlink" href="/tr/orman-meyveleri-marmelati/"><div class="kaco1bodycard"><div class="kaco1bodyitemimg"><img src="/page/pu262aeu2u/index.webp" alt="Orman Meyveleri Marmelatı" loading="lazy"></div><div class="kaco1bodyitemoverlay"></div><div class="kaco1bodyitemtitle"><span>Orman Meyveleri Marmelatı</span></div><div class="kaco1bodyitemaccent"></div></div></a><a class="kaco1bodycardlink" href="/tr/gul-receli/"><div class="kaco1bodycard"><div class="kaco1bodyitemimg"><img src="/page/wuae66eyum/index.webp" alt="Gül Reçeli" loading="lazy"></div><div class="kaco1bodyitemoverlay"></div><div class="kaco1bodyitemtitle"><span>Gül Reçeli</span></div><div class="kaco1bodyitemaccent"></div></div></a></div>
+<div class="b0001 b0001cat3">
+  <div class="b0001body"><a class="b0001bodycardlink" href="/tr/visne-receli/" title="Vişne Reçeli"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/gyiiyqyuqi/index.webp" alt="Vişne Reçeli" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Vişne Reçeli</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/kayisi-receli/" title="Kayısı Reçeli"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/nuu2i2q2i2/index.webp" alt="Kayısı Reçeli" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Kayısı Reçeli</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/i-ncir-receli/" title="İncir Reçeli"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/aam6m2qmea/index.webp" alt="İncir Reçeli" loading="lazy"></div><div class="b0001bodyitemtitle"><span>İncir Reçeli</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/ayva-receli/" title="Ayva Reçeli"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/h6eu6imi6e/index.webp" alt="Ayva Reçeli" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Ayva Reçeli</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/portakal-marmelati/" title="Portakal Marmelatı"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/om626yqequ/index.webp" alt="Portakal Marmelatı" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Portakal Marmelatı</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/cilek-receli/" title="Çilek Reçeli"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/b6mqqye2i2/index.webp" alt="Çilek Reçeli" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Çilek Reçeli</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/cevizli-recel/" title="Cevizli Reçel"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/ieuiqiumui/index.webp" alt="Cevizli Reçel" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Cevizli Reçel</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/orman-meyveleri-marmelati/" title="Orman Meyveleri Marmelatı"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/pu262aeu2u/index.webp" alt="Orman Meyveleri Marmelatı" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Orman Meyveleri Marmelatı</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/gul-receli/" title="Gül Reçeli"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/wuae66eyum/index.webp" alt="Gül Reçeli" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Gül Reçeli</span></div><div class="b0001bodyitemaccent"></div></div></a></div>
 </div>
 
+<script>
+  
+  setTimeout(function () {
+    var moduleRoots = document.querySelectorAll(".b0001cat3");
+
+    for (var r = 0; r < moduleRoots.length; r++) {
+      (function (root) {
+        var cards = root.querySelectorAll(".b0001bodycardlink");
+
+        if (!cards.length) {
+          return;
+        }
+
+        
+        if (
+          window.matchMedia &&
+          window.matchMedia("(prefers-reduced-motion: reduce)").matches
+        ) {
+          for (var i = 0; i < cards.length; i++) {
+            cards[i].classList.add("b0001cardvisible");
+          }
+          return;
+        }
+
+        if (typeof IntersectionObserver === "undefined") {
+          for (var j = 0; j < cards.length; j++) {
+            cards[j].classList.add("b0001cardvisible");
+          }
+          return;
+        }
+
+        var observer = new IntersectionObserver(
+          function (entries) {
+            for (var k = 0; k < entries.length; k++) {
+              var entry = entries[k];
+              if (entry.isIntersecting) {
+                entry.target.classList.add("b0001cardvisible");
+                observer.unobserve(entry.target);
+              }
+            }
+          },
+          {
+            threshold: 0.12,
+            rootMargin: "0px 0px -40px 0px",
+          }
+        );
+
+        for (var m = 0; m < cards.length; m++) {
+          observer.observe(cards[m]);
+        }
+      })(moduleRoots[r]);
+    }
+  }, 80);
+</script>
 </div>
   <div id="footer"><footer class="footer">
-  <div class="waves">
-    <div class="wave" id="wave1"></div>
-    <div class="wave" id="wave2"></div>
-    <div class="wave" id="wave3"></div>
-    <div class="wave" id="wave4"></div>
+    <div class="waves">
+      <div class="wave" id="wave1"></div>
+      <div class="wave" id="wave2"></div>
+      <div class="wave" id="wave3"></div>
+      <div class="wave" id="wave4"></div>
+    </div>
+    <ul class="social-icon">
+  
+  
+  
+      
+      
+  
+   
+  
+  
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-facebook"></ion-icon>
+        </a>
+      </li>
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-x"></ion-icon>
+        </a>
+      </li>
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-linkedin"></ion-icon>
+        </a>
+      </li>
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-instagram"></ion-icon>
+        </a>
+      </li>
+    </ul>
+    <ul class="menu">
+      <li class="menu__item"><a class="menu__link" href="/tr/">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/kurumsal">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/urunler">Ürünler</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
+    </ul>
+    <p>Tillo Kochari 2025 cognite. &copy;</p>
+  </footer>
   </div>
-  <ul class="social-icon">
-
-
-
-    
-    
-
- 
-
-
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-facebook"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-x"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-linkedin"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-instagram"></ion-icon>
-      </a>
-    </li>
-  </ul>
-  <ul class="menu">
-    <li class="menu__item"><a class="menu__link" href="/tr/">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/kurumsal">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/urunler">Ürünler</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
-  </ul>
-  <p>Tillo Kochari 2025 cognite. &copy;</p>
-</footer>
-
-</div>
 
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=x93gx"></script>
-  <script defer src="/src/cookie.js?v=x93gx"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=v19uh"></script>
+  <script defer src="/src/cookie.js?v=v19uh"></script>
 
   <script>
     setTimeout(function() {

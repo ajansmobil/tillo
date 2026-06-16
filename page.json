@@ -7,12 +7,13 @@
       "name": {
         "tr": "Kurumsal"
       },
-      "status": "play",
-      "category": "",
       "id": "yvi9dlb59o",
-      "url": "",
-      "path": "kurumsal",
       "index": 0,
+      "path": "kurumsal",
+      "category": "",
+      "status": "play",
+      "url": "",
+      "icon": "home",
       "desing": {
         "header": [],
         "body": [],
@@ -32,12 +33,12 @@
         "ja": "",
         "ko": ""
       },
-      "status": "play",
-      "category": "",
       "id": "hs54qzyeyo",
-      "url": "",
-      "path": "urunler",
       "index": 1,
+      "path": "urunler",
+      "category": "",
+      "status": "play",
+      "url": "",
       "icon": "home",
       "desing": {
         "header": [],
@@ -60,12 +61,12 @@
       "name": {
         "tr": "İletişim"
       },
-      "status": "play",
-      "category": "",
       "id": "xnzu5au0ag",
-      "url": "",
-      "path": "iletisim",
       "index": 2,
+      "path": "iletisim",
+      "category": "",
+      "status": "play",
+      "url": "",
       "icon": "home",
       "desing": {
         "header": [],
@@ -89,7 +90,7 @@
   },
   "modulestatus": {
     "page": true,
-    "bgimg": true,
+    "bgimg": false,
     "detail": true,
     "body": true
   }

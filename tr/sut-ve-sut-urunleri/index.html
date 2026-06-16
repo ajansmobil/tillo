@@ -29,16 +29,16 @@
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
 
   <link rel="stylesheet" href="/src/rubik.css" />
-  <link rel="stylesheet" href="/src/css.css?v=rn174" />
-  <link rel="preload" href="/src/cookie.css?v=rn174" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <link rel="stylesheet" href="/src/css.css?v=fx4ll" />
+  <link rel="preload" href="/src/cookie.css?v=fx4ll" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <link rel="preload" href="/src/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <link rel="preload" href="/src/material-symbols-outlined.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <noscript>
-    <link rel="stylesheet" href="/src/cookie.css?v=rn174" />
+    <link rel="stylesheet" href="/src/cookie.css?v=fx4ll" />
     <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
     <link rel="stylesheet" href="/src/material-symbols-outlined.css" />
   </noscript>
-  <link rel="shortcut icon" href="/img/icon.png?v=rn174" type="image/png" />
+  <link rel="shortcut icon" href="/img/icon.png?v=fx4ll" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -63,46 +63,49 @@
   
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#2196f3">
-<link rel="stylesheet" href="style.css?v=rn174">
+<link rel="stylesheet" href="style.css?v=fx4ll">
 </head>
 
 <body>
-  <div id="header">
-<div class="eyj3y">
-  <div class="eyj3ytitle">
-    <div class="eyj3ytitlebody">
-      <div class="eyj3ytitlebodylang">
+  <div id="header"><div class="h0000">
+  <div class="h0000title">
+    <div class="h0000titlebody">
+      <div class="h0000titlebodylang">
         <ul>
           
         </ul>
       </div>
     </div>
   </div>
-  <div class="eyj3ybody">
-    <a href="/tr/"
-      ><img
-        src="/img/logo.png?v=o6qsr"
+  <div class="h0000body">
+    <a href="/tr/">
+      <img
+        src="/img/logo.png?v=mjzr8"
         alt="Tillo Kochari Logo"
-        class="eyj3ybodylogo"
+        class="h0000bodylogo"
         loading="lazy"
-    /></a>
-    <button type="button" class="eyj3y-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
+      />
+    </a>
+    <button type="button" class="h0000-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
       <span class="material-symbols-outlined" aria-hidden="true">menu</span>
     </button>
   </div>
   
-  <div class="eyj3y-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
-  <div class="eyj3ymenubody">
-    <div class="eyj3ymenu" id="menu-2-root">
-      <div class="eyj3ymenulistbody">
-        <div class="eyj3ymenulist">
+  <div class="h0000-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
+  <div class="h0000menubody">
+    <div class="h0000menu" id="menu-2-root">
+      <button type="button" class="h0000-menu2-drawer-close" onclick="menu2_toggle()" aria-label="Menüyü kapat">
+        <span class="material-symbols-outlined" aria-hidden="true">close</span>
+      </button>
+      <div class="h0000menulistbody">
+        <div class="h0000menulist">
           <ul>
-            <a href="/tr/">Anasayfa </a><a href="/tr/hakkimizda/">Kurumsal</a><a href="/tr/urunler/">Ürünler</a><a href="/tr/iletisim/">İletişim</a>
+            <a href="/tr/">Anasayfa</a><div class="h0000menulist-menu"><a href="/tr/hakkimizda/">Kurumsal</a><div class="dropdown-content-h0000"><a href="/tr/hakkimizda/">Hakkımızda</a><a href="/tr/misyon/">Misyon</a><a href="/tr/vizyon/">Vizyon</a><a href="/tr/kalite-politikamiz/">Kalite Politikamız</a><a href="/tr/gizlilik-politikasi/">Gizlilik Politikası</a><a href="/tr/kisisel-veriler/">Kişisel Veriler</a><a href="/tr/kullanici-haklari/">Kullanıcı Hakları</a><a href="/tr/yasal-uyari/">Yasal Uyarı</a></div></div><a href="/tr/urunler/">Ürünler</a><a href="/tr/iletisim/">İletişim</a>
           </ul>
         </div>
       </div>
       
-      <div class="eyj3ylanguages-mobile">
+      <div class="h0000languages-mobile">
         <ul>
           
         </ul>
@@ -113,87 +116,259 @@
 
 <script>
   
+  if (typeof menu2_isMobileLayout === "undefined") {
+    
+    function menu2_isMobileLayout() {
+      return window.innerWidth <= 1024;
+    }
+  }
+  if (typeof menu2_isTouchNav === "undefined") {
+    function menu2_isTouchNav() {
+      return window.innerWidth <= 1024;
+    }
+  }
+  if (typeof menu2_setBodyScroll === "undefined") {
+    function menu2_setBodyScroll(lock) {
+      if (!menu2_isMobileLayout()) {
+        document.body.style.overflow = "";
+        return;
+      }
+      document.body.style.overflow = lock ? "hidden" : "";
+    }
+  }
   if (typeof menu2_toggle === "undefined") {
     function menu2_toggle() {
       var root = document.getElementById("menu-2-root");
       if (!root) {
         return;
       }
-      var wrapper = root.closest ? root.closest(".eyj3y") : null;
+      var wrapper = root.closest ? root.closest(".h0000") : null;
       var target = wrapper || root;
-      if (target.classList.contains("eyj3ymenu-open")) {
-        target.classList.remove("eyj3ymenu-open");
+      if (target.classList.contains("h0000menu-open")) {
+        target.classList.remove("h0000menu-open");
+        menu2_setBodyScroll(false);
       } else {
-        target.classList.add("eyj3ymenu-open");
+        target.classList.add("h0000menu-open");
+        menu2_setBodyScroll(true);
+        menu2_openActiveBranch();
       }
     }
   }
+  if (typeof menu2_closeDrawer === "undefined") {
+    function menu2_closeDrawer() {
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var wrapper = root.closest ? root.closest(".h0000") : null;
+      var target = wrapper || root;
+      target.classList.remove("h0000menu-open");
+      menu2_setBodyScroll(false);
+    }
+  }
+  if (typeof menu2_openActiveBranch === "undefined") {
+    function menu2_openActiveBranch() {
+      if (!menu2_isMobileLayout()) {
+        return;
+      }
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var activeWrap = root.querySelector(".h0000menulist-menu.dropdown-content-active-h0000");
+      if (activeWrap) {
+        activeWrap.classList.add("h0000-dropdown-open");
+      }
+    }
+  }
+  if (typeof menu2_setup === "undefined") {
+    function menu2_setup() {
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var dropdownLinks = root.querySelectorAll(".h0000menulist-menu > a");
+      for (var i = 0; i < dropdownLinks.length; i++) {
+        if (dropdownLinks[i].getAttribute("data-menu2-listener") === "true") {
+          continue;
+        }
+        dropdownLinks[i].setAttribute("data-menu2-listener", "true");
+        dropdownLinks[i].addEventListener("click", function(event) {
+          if (!menu2_isTouchNav()) {
+            return;
+          }
+          var parent = this.parentNode;
+          if (!parent || !parent.querySelector(".dropdown-content-h0000")) {
+            return;
+          }
+          event.preventDefault();
+          var menuRoot = parent.parentNode;
+          var toggled = parent.classList.contains("h0000-dropdown-open");
+          var siblings = menuRoot.querySelectorAll(".h0000menulist-menu");
+          for (var j = 0; j < siblings.length; j++) {
+            siblings[j].classList.remove("h0000-dropdown-open");
+          }
+          if (!toggled) {
+            parent.classList.add("h0000-dropdown-open");
+          }
+        });
+      }
+      var navLinks = root.querySelectorAll(".h0000menulist a[href]");
+      for (var k = 0; k < navLinks.length; k++) {
+        if (navLinks[k].getAttribute("data-menu2-nav-close") === "true") {
+          continue;
+        }
+        navLinks[k].setAttribute("data-menu2-nav-close", "true");
+        navLinks[k].addEventListener("click", function(event) {
+          if (!menu2_isMobileLayout()) {
+            return;
+          }
+          if (event.defaultPrevented) {
+            return;
+          }
+          menu2_closeDrawer();
+        });
+      }
+      menu2_openActiveBranch();
+    }
+    function menu2_resetDropdowns() {
+      if (!menu2_isTouchNav()) {
+        var root = document.getElementById("menu-2-root");
+        if (!root) {
+          return;
+        }
+        var items = root.querySelectorAll(".h0000menulist-menu");
+        for (var i = 0; i < items.length; i++) {
+          items[i].classList.remove("h0000-dropdown-open");
+        }
+      }
+      if (!menu2_isMobileLayout()) {
+        menu2_setBodyScroll(false);
+        menu2_closeDrawer();
+      }
+    }
+    setTimeout(menu2_setup, 150);
+    window.addEventListener("resize", menu2_resetDropdowns);
+  }
 </script>
 </div>
-  <div id="content"><div class="jf6uv-title f36">
+  <div id="content"><div class="b0000-title f36">
   <h1>Süt ve Süt Ürünleri</h1>
 </div>
 
-<div class="jf6uv"></div>
+<div class="b0000"></div>
 
 
 ------------------------
-<div class="atqi2">
-  <div class="atqi2body"><a class="atqi2bodycardlink" href="/tr/tereyagi-yayik/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/r22yqei22i/index.webp" alt="Tereyağı (Yayık)" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Tereyağı (Yayık)</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/sade-yag/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/yy6aqayi26/index.webp" alt="Sade Yağ" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Sade Yağ</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/keci-sutu/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/l626e6yui2/index.webp" alt="Keçi Sütü" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Keçi Sütü</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/koyun-sutu/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/saq6a6iiei/index.webp" alt="Koyun Sütü" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Koyun Sütü</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/i-nek-sutu/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/zqqiiy62em/index.webp" alt="İnek Sütü" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>İnek Sütü</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/manda-sutu/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/m6666i626i/index.webp" alt="Manda Sütü" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Manda Sütü</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/kaymak/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/t2uem22mqa/index.webp" alt="Kaymak" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Kaymak</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/yogurt-koyun/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/0ymmem62yy/index.webp" alt="Yoğurt (Koyun)" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Yoğurt (Koyun)</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/ayran/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/7eeu66quiy/index.webp" alt="Ayran" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Ayran</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/kasar-peyniri-eski/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/uu2i26e66m/index.webp" alt="Kaşar Peyniri (Eski)" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Kaşar Peyniri (Eski)</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/gravyer-peyniri/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/1qyaa6yque/index.webp" alt="Gravyer Peyniri" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Gravyer Peyniri</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/lor-peyniri/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/8may2aiyyq/index.webp" alt="Lor Peyniri" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Lor Peyniri</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/tam-yagli-beyaz-peynir/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/vim6iua26m/index.webp" alt="Tam Yağlı Beyaz Peynir" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Tam Yağlı Beyaz Peynir</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/yarim-yagli-beyaz-peynir/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/2i6miae6y7/index.webp" alt="Yarım Yağlı Beyaz Peynir" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Yarım Yağlı Beyaz Peynir</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/light-peynir/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/9emuuiq6i6/index.webp" alt="Light Peynir" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Light Peynir</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/suzme-peynir/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/gayqiuyaie/index.webp" alt="Süzme Peynir" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Süzme Peynir</span></div><div class="atqi2bodyitemaccent"></div></div></a><a class="atqi2bodycardlink" href="/tr/cokelek/"><div class="atqi2bodycard"><div class="atqi2bodyitemimg"><img src="/page/3queyi2ieu/index.webp" alt="Çökelek" loading="lazy"></div><div class="atqi2bodyitemoverlay"></div><div class="atqi2bodyitemtitle"><span>Çökelek</span></div><div class="atqi2bodyitemaccent"></div></div></a></div>
+<div class="b0001 b0001cat3">
+  <div class="b0001body"><a class="b0001bodycardlink" href="/tr/tereyagi-yayik/" title="Tereyağı (Yayık)"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/r22yqei22i/index.webp" alt="Tereyağı (Yayık)" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Tereyağı (Yayık)</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/sade-yag/" title="Sade Yağ"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/yy6aqayi26/index.webp" alt="Sade Yağ" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Sade Yağ</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/keci-sutu/" title="Keçi Sütü"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/l626e6yui2/index.webp" alt="Keçi Sütü" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Keçi Sütü</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/koyun-sutu/" title="Koyun Sütü"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/saq6a6iiei/index.webp" alt="Koyun Sütü" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Koyun Sütü</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/i-nek-sutu/" title="İnek Sütü"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/zqqiiy62em/index.webp" alt="İnek Sütü" loading="lazy"></div><div class="b0001bodyitemtitle"><span>İnek Sütü</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/manda-sutu/" title="Manda Sütü"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/m6666i626i/index.webp" alt="Manda Sütü" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Manda Sütü</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/kaymak/" title="Kaymak"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/t2uem22mqa/index.webp" alt="Kaymak" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Kaymak</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/yogurt-koyun/" title="Yoğurt (Koyun)"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/0ymmem62yy/index.webp" alt="Yoğurt (Koyun)" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Yoğurt (Koyun)</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/ayran/" title="Ayran"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/7eeu66quiy/index.webp" alt="Ayran" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Ayran</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/kasar-peyniri-eski/" title="Kaşar Peyniri (Eski)"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/uu2i26e66m/index.webp" alt="Kaşar Peyniri (Eski)" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Kaşar Peyniri (Eski)</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/gravyer-peyniri/" title="Gravyer Peyniri"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/1qyaa6yque/index.webp" alt="Gravyer Peyniri" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Gravyer Peyniri</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/lor-peyniri/" title="Lor Peyniri"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/8may2aiyyq/index.webp" alt="Lor Peyniri" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Lor Peyniri</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/tam-yagli-beyaz-peynir/" title="Tam Yağlı Beyaz Peynir"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/vim6iua26m/index.webp" alt="Tam Yağlı Beyaz Peynir" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Tam Yağlı Beyaz Peynir</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/yarim-yagli-beyaz-peynir/" title="Yarım Yağlı Beyaz Peynir"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/2i6miae6y7/index.webp" alt="Yarım Yağlı Beyaz Peynir" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Yarım Yağlı Beyaz Peynir</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/light-peynir/" title="Light Peynir"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/9emuuiq6i6/index.webp" alt="Light Peynir" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Light Peynir</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/suzme-peynir/" title="Süzme Peynir"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/gayqiuyaie/index.webp" alt="Süzme Peynir" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Süzme Peynir</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/cokelek/" title="Çökelek"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/3queyi2ieu/index.webp" alt="Çökelek" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Çökelek</span></div><div class="b0001bodyitemaccent"></div></div></a></div>
 </div>
 
+<script>
+  
+  setTimeout(function () {
+    var moduleRoots = document.querySelectorAll(".b0001cat3");
+
+    for (var r = 0; r < moduleRoots.length; r++) {
+      (function (root) {
+        var cards = root.querySelectorAll(".b0001bodycardlink");
+
+        if (!cards.length) {
+          return;
+        }
+
+        
+        if (
+          window.matchMedia &&
+          window.matchMedia("(prefers-reduced-motion: reduce)").matches
+        ) {
+          for (var i = 0; i < cards.length; i++) {
+            cards[i].classList.add("b0001cardvisible");
+          }
+          return;
+        }
+
+        if (typeof IntersectionObserver === "undefined") {
+          for (var j = 0; j < cards.length; j++) {
+            cards[j].classList.add("b0001cardvisible");
+          }
+          return;
+        }
+
+        var observer = new IntersectionObserver(
+          function (entries) {
+            for (var k = 0; k < entries.length; k++) {
+              var entry = entries[k];
+              if (entry.isIntersecting) {
+                entry.target.classList.add("b0001cardvisible");
+                observer.unobserve(entry.target);
+              }
+            }
+          },
+          {
+            threshold: 0.12,
+            rootMargin: "0px 0px -40px 0px",
+          }
+        );
+
+        for (var m = 0; m < cards.length; m++) {
+          observer.observe(cards[m]);
+        }
+      })(moduleRoots[r]);
+    }
+  }, 80);
+</script>
 </div>
   <div id="footer"><footer class="footer">
-  <div class="waves">
-    <div class="wave" id="wave1"></div>
-    <div class="wave" id="wave2"></div>
-    <div class="wave" id="wave3"></div>
-    <div class="wave" id="wave4"></div>
+    <div class="waves">
+      <div class="wave" id="wave1"></div>
+      <div class="wave" id="wave2"></div>
+      <div class="wave" id="wave3"></div>
+      <div class="wave" id="wave4"></div>
+    </div>
+    <ul class="social-icon">
+  
+  
+  
+      
+      
+  
+   
+  
+  
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-facebook"></ion-icon>
+        </a>
+      </li>
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-x"></ion-icon>
+        </a>
+      </li>
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-linkedin"></ion-icon>
+        </a>
+      </li>
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-instagram"></ion-icon>
+        </a>
+      </li>
+    </ul>
+    <ul class="menu">
+      <li class="menu__item"><a class="menu__link" href="/tr/">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/kurumsal">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/urunler">Ürünler</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
+    </ul>
+    <p>Tillo Kochari 2025 cognite. &copy;</p>
+  </footer>
   </div>
-  <ul class="social-icon">
-
-
-
-    
-    
-
- 
-
-
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-facebook"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-x"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-linkedin"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-instagram"></ion-icon>
-      </a>
-    </li>
-  </ul>
-  <ul class="menu">
-    <li class="menu__item"><a class="menu__link" href="/tr/">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/kurumsal">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/urunler">Ürünler</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
-  </ul>
-  <p>Tillo Kochari 2025 cognite. &copy;</p>
-</footer>
-
-</div>
 
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=rn174"></script>
-  <script defer src="/src/cookie.js?v=rn174"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=fx4ll"></script>
+  <script defer src="/src/cookie.js?v=fx4ll"></script>
 
   <script>
     setTimeout(function() {

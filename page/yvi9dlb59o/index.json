@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Kurumsal",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Kurumsal"
   },
   "status": "play",
   "category": "",
@@ -20,12 +15,7 @@
   },
   "pathnext": "hakkimizda",
   "description": {
-    "tr": "Tillo Kochari kurumsal bilgiler. Hakkımızda, misyon, vizyon ve kalite politikamız. Gaziantep doğal gıda üretimi.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari kurumsal bilgiler. Hakkımızda, misyon, vizyon ve kalite politikamız. Gaziantep doğal gıda üretimi."
   },
   "desc": {},
   "title": {
@@ -53,5 +43,6 @@
     "ko": ""
   },
   "update": "2026-05-21T08:39:28.773Z",
-  "date": "2026-05-19"
+  "date": "2026-05-19",
+  "icon": "home"
 }

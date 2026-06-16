@@ -29,16 +29,16 @@
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
 
   <link rel="stylesheet" href="/src/rubik.css" />
-  <link rel="stylesheet" href="/src/css.css?v=j51ti" />
-  <link rel="preload" href="/src/cookie.css?v=j51ti" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <link rel="stylesheet" href="/src/css.css?v=dzm5s" />
+  <link rel="preload" href="/src/cookie.css?v=dzm5s" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <link rel="preload" href="/src/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <link rel="preload" href="/src/material-symbols-outlined.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <noscript>
-    <link rel="stylesheet" href="/src/cookie.css?v=j51ti" />
+    <link rel="stylesheet" href="/src/cookie.css?v=dzm5s" />
     <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
     <link rel="stylesheet" href="/src/material-symbols-outlined.css" />
   </noscript>
-  <link rel="shortcut icon" href="/img/icon.png?v=j51ti" type="image/png" />
+  <link rel="shortcut icon" href="/img/icon.png?v=dzm5s" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -63,46 +63,49 @@
   
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#2196f3">
-<link rel="stylesheet" href="style.css?v=j51ti">
+<link rel="stylesheet" href="style.css?v=dzm5s">
 </head>
 
 <body>
-  <div id="header">
-<div class="l657q">
-  <div class="l657qtitle">
-    <div class="l657qtitlebody">
-      <div class="l657qtitlebodylang">
+  <div id="header"><div class="h0000">
+  <div class="h0000title">
+    <div class="h0000titlebody">
+      <div class="h0000titlebodylang">
         <ul>
           
         </ul>
       </div>
     </div>
   </div>
-  <div class="l657qbody">
-    <a href="/tr/"
-      ><img
-        src="/img/logo.png?v=hplfk"
+  <div class="h0000body">
+    <a href="/tr/">
+      <img
+        src="/img/logo.png?v=p1kel"
         alt="Tillo Kochari Logo"
-        class="l657qbodylogo"
+        class="h0000bodylogo"
         loading="lazy"
-    /></a>
-    <button type="button" class="l657q-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
+      />
+    </a>
+    <button type="button" class="h0000-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
       <span class="material-symbols-outlined" aria-hidden="true">menu</span>
     </button>
   </div>
   
-  <div class="l657q-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
-  <div class="l657qmenubody">
-    <div class="l657qmenu" id="menu-2-root">
-      <div class="l657qmenulistbody">
-        <div class="l657qmenulist">
+  <div class="h0000-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
+  <div class="h0000menubody">
+    <div class="h0000menu" id="menu-2-root">
+      <button type="button" class="h0000-menu2-drawer-close" onclick="menu2_toggle()" aria-label="Menüyü kapat">
+        <span class="material-symbols-outlined" aria-hidden="true">close</span>
+      </button>
+      <div class="h0000menulistbody">
+        <div class="h0000menulist">
           <ul>
-            <a href="/tr/">Anasayfa </a><a href="/tr/hakkimizda/">Kurumsal</a><a href="/tr/urunler/">Ürünler</a><a href="/tr/iletisim/">İletişim</a>
+            <a href="/tr/">Anasayfa</a><div class="h0000menulist-menu"><a href="/tr/hakkimizda/">Kurumsal</a><div class="dropdown-content-h0000"><a href="/tr/hakkimizda/">Hakkımızda</a><a href="/tr/misyon/">Misyon</a><a href="/tr/vizyon/">Vizyon</a><a href="/tr/kalite-politikamiz/">Kalite Politikamız</a><a href="/tr/gizlilik-politikasi/">Gizlilik Politikası</a><a href="/tr/kisisel-veriler/">Kişisel Veriler</a><a href="/tr/kullanici-haklari/">Kullanıcı Hakları</a><a href="/tr/yasal-uyari/">Yasal Uyarı</a></div></div><a href="/tr/urunler/">Ürünler</a><a href="/tr/iletisim/">İletişim</a>
           </ul>
         </div>
       </div>
       
-      <div class="l657qlanguages-mobile">
+      <div class="h0000languages-mobile">
         <ul>
           
         </ul>
@@ -113,87 +116,259 @@
 
 <script>
   
+  if (typeof menu2_isMobileLayout === "undefined") {
+    
+    function menu2_isMobileLayout() {
+      return window.innerWidth <= 1024;
+    }
+  }
+  if (typeof menu2_isTouchNav === "undefined") {
+    function menu2_isTouchNav() {
+      return window.innerWidth <= 1024;
+    }
+  }
+  if (typeof menu2_setBodyScroll === "undefined") {
+    function menu2_setBodyScroll(lock) {
+      if (!menu2_isMobileLayout()) {
+        document.body.style.overflow = "";
+        return;
+      }
+      document.body.style.overflow = lock ? "hidden" : "";
+    }
+  }
   if (typeof menu2_toggle === "undefined") {
     function menu2_toggle() {
       var root = document.getElementById("menu-2-root");
       if (!root) {
         return;
       }
-      var wrapper = root.closest ? root.closest(".l657q") : null;
+      var wrapper = root.closest ? root.closest(".h0000") : null;
       var target = wrapper || root;
-      if (target.classList.contains("l657qmenu-open")) {
-        target.classList.remove("l657qmenu-open");
+      if (target.classList.contains("h0000menu-open")) {
+        target.classList.remove("h0000menu-open");
+        menu2_setBodyScroll(false);
       } else {
-        target.classList.add("l657qmenu-open");
+        target.classList.add("h0000menu-open");
+        menu2_setBodyScroll(true);
+        menu2_openActiveBranch();
       }
     }
   }
+  if (typeof menu2_closeDrawer === "undefined") {
+    function menu2_closeDrawer() {
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var wrapper = root.closest ? root.closest(".h0000") : null;
+      var target = wrapper || root;
+      target.classList.remove("h0000menu-open");
+      menu2_setBodyScroll(false);
+    }
+  }
+  if (typeof menu2_openActiveBranch === "undefined") {
+    function menu2_openActiveBranch() {
+      if (!menu2_isMobileLayout()) {
+        return;
+      }
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var activeWrap = root.querySelector(".h0000menulist-menu.dropdown-content-active-h0000");
+      if (activeWrap) {
+        activeWrap.classList.add("h0000-dropdown-open");
+      }
+    }
+  }
+  if (typeof menu2_setup === "undefined") {
+    function menu2_setup() {
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var dropdownLinks = root.querySelectorAll(".h0000menulist-menu > a");
+      for (var i = 0; i < dropdownLinks.length; i++) {
+        if (dropdownLinks[i].getAttribute("data-menu2-listener") === "true") {
+          continue;
+        }
+        dropdownLinks[i].setAttribute("data-menu2-listener", "true");
+        dropdownLinks[i].addEventListener("click", function(event) {
+          if (!menu2_isTouchNav()) {
+            return;
+          }
+          var parent = this.parentNode;
+          if (!parent || !parent.querySelector(".dropdown-content-h0000")) {
+            return;
+          }
+          event.preventDefault();
+          var menuRoot = parent.parentNode;
+          var toggled = parent.classList.contains("h0000-dropdown-open");
+          var siblings = menuRoot.querySelectorAll(".h0000menulist-menu");
+          for (var j = 0; j < siblings.length; j++) {
+            siblings[j].classList.remove("h0000-dropdown-open");
+          }
+          if (!toggled) {
+            parent.classList.add("h0000-dropdown-open");
+          }
+        });
+      }
+      var navLinks = root.querySelectorAll(".h0000menulist a[href]");
+      for (var k = 0; k < navLinks.length; k++) {
+        if (navLinks[k].getAttribute("data-menu2-nav-close") === "true") {
+          continue;
+        }
+        navLinks[k].setAttribute("data-menu2-nav-close", "true");
+        navLinks[k].addEventListener("click", function(event) {
+          if (!menu2_isMobileLayout()) {
+            return;
+          }
+          if (event.defaultPrevented) {
+            return;
+          }
+          menu2_closeDrawer();
+        });
+      }
+      menu2_openActiveBranch();
+    }
+    function menu2_resetDropdowns() {
+      if (!menu2_isTouchNav()) {
+        var root = document.getElementById("menu-2-root");
+        if (!root) {
+          return;
+        }
+        var items = root.querySelectorAll(".h0000menulist-menu");
+        for (var i = 0; i < items.length; i++) {
+          items[i].classList.remove("h0000-dropdown-open");
+        }
+      }
+      if (!menu2_isMobileLayout()) {
+        menu2_setBodyScroll(false);
+        menu2_closeDrawer();
+      }
+    }
+    setTimeout(menu2_setup, 150);
+    window.addEventListener("resize", menu2_resetDropdowns);
+  }
 </script>
 </div>
-  <div id="content"><div class="cuk6l-title f36">
+  <div id="content"><div class="b0000-title f36">
   <h1>Salça, Turşu, Meze ve Soslar</h1>
 </div>
 
-<div class="cuk6l"></div>
+<div class="b0000"></div>
 
 
 ------------------------
-<div class="n8wcn">
-  <div class="n8wcnbody"><a class="n8wcnbodycardlink" href="/tr/domates-salcasi-aci/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/aq6ymeeq62/index.webp" alt="Domates Salçası (Acı)" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Domates Salçası (Acı)</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/domates-salcasi-tatli/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/hmaaia2mqy/index.webp" alt="Domates Salçası (Tatlı)" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Domates Salçası (Tatlı)</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/biber-salcasi/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/4aeiaueqiq/index.webp" alt="Biber Salçası" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Biber Salçası</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/karisik-tursu/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/beiq2maiyu/index.webp" alt="Karışık Turşu" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Karışık Turşu</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/biber-tursusu/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/ieuaqa2666/index.webp" alt="Biber Turşusu" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Biber Turşusu</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/cevizli-biber-mezesi/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/5uu2aeuyii/index.webp" alt="Cevizli Biber Mezesi" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Cevizli Biber Mezesi</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/acili-ezme/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/c6iuuqyymi/index.webp" alt="Acılı Ezme" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Acılı Ezme</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/salamura-fasulye-i-cecegi/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/jmqm6miiue/index.webp" alt="Salamura Fasulye İçeceği" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Salamura Fasulye İçeceği</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/elma-sirkesi/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/q2iuie6eue/index.webp" alt="Elma Sirkesi" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Elma Sirkesi</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/uzum-sirkesi/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/dyau6ii2mq/index.webp" alt="Üzüm Sirkesi" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Üzüm Sirkesi</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/nar-eksili-sos/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/kemuaiya6m/index.webp" alt="Nar Ekşili Sos" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Nar Ekşili Sos</span></div><div class="n8wcnbodyitemaccent"></div></div></a><a class="n8wcnbodycardlink" href="/tr/kebap-sosu/"><div class="n8wcnbodycard"><div class="n8wcnbodyitemimg"><img src="/page/raeyuae6ai/index.webp" alt="Kebap Sosu" loading="lazy"></div><div class="n8wcnbodyitemoverlay"></div><div class="n8wcnbodyitemtitle"><span>Kebap Sosu</span></div><div class="n8wcnbodyitemaccent"></div></div></a></div>
+<div class="b0001 b0001cat3">
+  <div class="b0001body"><a class="b0001bodycardlink" href="/tr/domates-salcasi-aci/" title="Domates Salçası (Acı)"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/aq6ymeeq62/index.webp" alt="Domates Salçası (Acı)" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Domates Salçası (Acı)</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/domates-salcasi-tatli/" title="Domates Salçası (Tatlı)"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/hmaaia2mqy/index.webp" alt="Domates Salçası (Tatlı)" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Domates Salçası (Tatlı)</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/biber-salcasi/" title="Biber Salçası"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/4aeiaueqiq/index.webp" alt="Biber Salçası" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Biber Salçası</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/karisik-tursu/" title="Karışık Turşu"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/beiq2maiyu/index.webp" alt="Karışık Turşu" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Karışık Turşu</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/biber-tursusu/" title="Biber Turşusu"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/ieuaqa2666/index.webp" alt="Biber Turşusu" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Biber Turşusu</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/cevizli-biber-mezesi/" title="Cevizli Biber Mezesi"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/5uu2aeuyii/index.webp" alt="Cevizli Biber Mezesi" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Cevizli Biber Mezesi</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/acili-ezme/" title="Acılı Ezme"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/c6iuuqyymi/index.webp" alt="Acılı Ezme" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Acılı Ezme</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/salamura-fasulye-i-cecegi/" title="Salamura Fasulye İçeceği"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/jmqm6miiue/index.webp" alt="Salamura Fasulye İçeceği" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Salamura Fasulye İçeceği</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/elma-sirkesi/" title="Elma Sirkesi"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/q2iuie6eue/index.webp" alt="Elma Sirkesi" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Elma Sirkesi</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/uzum-sirkesi/" title="Üzüm Sirkesi"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/dyau6ii2mq/index.webp" alt="Üzüm Sirkesi" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Üzüm Sirkesi</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/nar-eksili-sos/" title="Nar Ekşili Sos"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/kemuaiya6m/index.webp" alt="Nar Ekşili Sos" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Nar Ekşili Sos</span></div><div class="b0001bodyitemaccent"></div></div></a><a class="b0001bodycardlink" href="/tr/kebap-sosu/" title="Kebap Sosu"><div class="b0001bodycard"><div class="b0001bodyitemimg"><img src="/page/raeyuae6ai/index.webp" alt="Kebap Sosu" loading="lazy"></div><div class="b0001bodyitemtitle"><span>Kebap Sosu</span></div><div class="b0001bodyitemaccent"></div></div></a></div>
 </div>
 
+<script>
+  
+  setTimeout(function () {
+    var moduleRoots = document.querySelectorAll(".b0001cat3");
+
+    for (var r = 0; r < moduleRoots.length; r++) {
+      (function (root) {
+        var cards = root.querySelectorAll(".b0001bodycardlink");
+
+        if (!cards.length) {
+          return;
+        }
+
+        
+        if (
+          window.matchMedia &&
+          window.matchMedia("(prefers-reduced-motion: reduce)").matches
+        ) {
+          for (var i = 0; i < cards.length; i++) {
+            cards[i].classList.add("b0001cardvisible");
+          }
+          return;
+        }
+
+        if (typeof IntersectionObserver === "undefined") {
+          for (var j = 0; j < cards.length; j++) {
+            cards[j].classList.add("b0001cardvisible");
+          }
+          return;
+        }
+
+        var observer = new IntersectionObserver(
+          function (entries) {
+            for (var k = 0; k < entries.length; k++) {
+              var entry = entries[k];
+              if (entry.isIntersecting) {
+                entry.target.classList.add("b0001cardvisible");
+                observer.unobserve(entry.target);
+              }
+            }
+          },
+          {
+            threshold: 0.12,
+            rootMargin: "0px 0px -40px 0px",
+          }
+        );
+
+        for (var m = 0; m < cards.length; m++) {
+          observer.observe(cards[m]);
+        }
+      })(moduleRoots[r]);
+    }
+  }, 80);
+</script>
 </div>
   <div id="footer"><footer class="footer">
-  <div class="waves">
-    <div class="wave" id="wave1"></div>
-    <div class="wave" id="wave2"></div>
-    <div class="wave" id="wave3"></div>
-    <div class="wave" id="wave4"></div>
+    <div class="waves">
+      <div class="wave" id="wave1"></div>
+      <div class="wave" id="wave2"></div>
+      <div class="wave" id="wave3"></div>
+      <div class="wave" id="wave4"></div>
+    </div>
+    <ul class="social-icon">
+  
+  
+  
+      
+      
+  
+   
+  
+  
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-facebook"></ion-icon>
+        </a>
+      </li>
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-x"></ion-icon>
+        </a>
+      </li>
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-linkedin"></ion-icon>
+        </a>
+      </li>
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="#">
+          <ion-icon name="logo-instagram"></ion-icon>
+        </a>
+      </li>
+    </ul>
+    <ul class="menu">
+      <li class="menu__item"><a class="menu__link" href="/tr/">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/kurumsal">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/urunler">Ürünler</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
+    </ul>
+    <p>Tillo Kochari 2025 cognite. &copy;</p>
+  </footer>
   </div>
-  <ul class="social-icon">
-
-
-
-    
-    
-
- 
-
-
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-facebook"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-x"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-linkedin"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-instagram"></ion-icon>
-      </a>
-    </li>
-  </ul>
-  <ul class="menu">
-    <li class="menu__item"><a class="menu__link" href="/tr/">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/kurumsal">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/urunler">Ürünler</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
-  </ul>
-  <p>Tillo Kochari 2025 cognite. &copy;</p>
-</footer>
-
-</div>
 
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=j51ti"></script>
-  <script defer src="/src/cookie.js?v=j51ti"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=dzm5s"></script>
+  <script defer src="/src/cookie.js?v=dzm5s"></script>
 
   <script>
     setTimeout(function() {

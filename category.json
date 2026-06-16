@@ -14,10 +14,18 @@
         "ja": "",
         "ko": ""
       },
-      "status": "play",
-      "category": "",
       "id": "c01fistik",
+      "index": 0,
       "path": "antep-fistigi-ezme-ve-krema",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
       "description": {
         "tr": "Tillo Kochari Antep Fıstığı Ezme ve Krema. Antep fıstığı ezme ve krema: kavrulmuş, doğal ve kremamsı çeşitler. Gaziantep menşeli Antep fıstığından üretilen e…",
         "en": "",
@@ -25,70 +33,63 @@
         "de": "",
         "ja": "",
         "ko": ""
-      },
-      "index": 0,
-      "icon": "category",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
       }
     },
     {
       "name": {
         "tr": "Fındık Ezme ve Krema"
       },
-      "status": "play",
-      "category": "",
       "id": "c02findik",
-      "path": "findik-ezme-ve-krema",
-      "description": {
-        "tr": "Tillo Kochari Fındık Ezme ve Krema. Seçme fındıktan ezme ve krema; kahvaltı ve pastacılık için. Giresun ve Ordu fındığından ezme ve krema ürünleri. Gaziantep…"
-      },
       "index": 1,
+      "path": "findik-ezme-ve-krema",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Fındık Ezme ve Krema. Seçme fındıktan ezme ve krema; kahvaltı ve pastacılık için. Giresun ve Ordu fındığından ezme ve krema ürünleri. Gaziantep…"
       }
     },
     {
       "name": {
         "tr": "Badem Ezme ve Krema"
       },
-      "status": "play",
-      "category": "",
       "id": "c03badem",
-      "path": "badem-ezme-ve-krema",
-      "description": {
-        "tr": "Tillo Kochari Badem Ezme ve Krema. Badem ezme ve krema: protein deposu, şekersiz seçenekler. Akdeniz ve İç Anadolu bademinden ezme ve krema çeşitleri. Gazian…"
-      },
       "index": 2,
+      "path": "badem-ezme-ve-krema",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Badem Ezme ve Krema. Badem ezme ve krema: protein deposu, şekersiz seçenekler. Akdeniz ve İç Anadolu bademinden ezme ve krema çeşitleri. Gazian…"
       }
     },
     {
       "name": {
         "tr": "Yer Fıstığı Ezme ve Krema"
       },
-      "status": "play",
-      "category": "",
       "id": "c04yerfist",
-      "path": "yer-fistigi-ezme-ve-krema",
-      "description": {
-        "tr": "Tillo Kochari Yer Fıstığı Ezme ve Krema. Yer fıstığı ezme ve krema; klasik ve kakao aromalı çeşitler. Yer fıstığından üretilen ezme ve krema ürünleri. Gazian…"
-      },
       "index": 3,
+      "path": "yer-fistigi-ezme-ve-krema",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Yer Fıstığı Ezme ve Krema. Yer fıstığı ezme ve krema; klasik ve kakao aromalı çeşitler. Yer fıstığından üretilen ezme ve krema ürünleri. Gazian…"
       }
     },
     {
@@ -100,10 +101,17 @@
         "ja": "",
         "ko": ""
       },
-      "status": "play",
-      "category": "",
       "id": "c05kurumey",
+      "index": 4,
       "path": "kurutulmus-meyveler",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
       "description": {
         "tr": "Tillo Kochari Kurutulmuş Meyveler. Kurutulmuş meyveler: kayısı, incir, hurma, orman meyveleri karışımı. Güneş ve fırın kurutma ile korunan doğal kurutulmuş m…",
         "en": "",
@@ -111,13 +119,6 @@
         "de": "",
         "ja": "",
         "ko": ""
-      },
-      "index": 4,
-      "icon": "category",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
       }
     },
     {
@@ -129,10 +130,17 @@
         "ja": "",
         "ko": ""
       },
-      "status": "play",
-      "category": "",
       "id": "c06meycip",
+      "index": 5,
       "path": "meyve-cipsleri",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
       "description": {
         "tr": "Tillo Kochari Meyve Cipsleri. Meyve cipsleri: elma, armut, kivi ve turunçgil dilimleri. Düşük sıcaklıkta kurutulmuş meyve cipsleri; atıştırmalık ve reçeteler…",
         "en": "",
@@ -140,13 +148,6 @@
         "de": "",
         "ja": "",
         "ko": ""
-      },
-      "index": 5,
-      "icon": "category",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
       }
     },
     {
@@ -158,10 +159,17 @@
         "ja": "",
         "ko": ""
       },
-      "status": "play",
-      "category": "",
       "id": "c07kuruseb",
+      "index": 6,
       "path": "kurutulmus-sebzeler",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
       "description": {
         "tr": "Tillo Kochari Kurutulmuş Sebzeler. Kurutulmuş sebzeler: biber, patlıcan, kabak; çorba ve yemeklik. Mevsim sebzelerinin kurutulmuş hali; çorba, yemek ve garni…",
         "en": "",
@@ -169,203 +177,196 @@
         "de": "",
         "ja": "",
         "ko": ""
-      },
-      "index": 6,
-      "icon": "category",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
       }
     },
     {
       "name": {
         "tr": "Reçel ve Marmelatlar"
       },
-      "status": "play",
-      "category": "",
       "id": "c08recel",
-      "path": "recel-ve-marmelatlar",
-      "description": {
-        "tr": "Tillo Kochari Reçel ve Marmelatlar. Reçel ve marmelat: vişne, kayısı, çilek, portakal ve özel karışımlar. Geleneksel reçel ve marmelat çeşitleri; kahvaltı ve…"
-      },
       "index": 7,
+      "path": "recel-ve-marmelatlar",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Reçel ve Marmelatlar. Reçel ve marmelat: vişne, kayısı, çilek, portakal ve özel karışımlar. Geleneksel reçel ve marmelat çeşitleri; kahvaltı ve…"
       }
     },
     {
       "name": {
         "tr": "Lokum, Pestil ve Geleneksel Tatlılar"
       },
-      "status": "play",
-      "category": "",
       "id": "c09gelenek",
-      "path": "lokum-pestil-ve-geleneksel-tatlilar",
-      "description": {
-        "tr": "Tillo Kochari Lokum, Pestil ve Geleneksel Tatlılar. Lokum, pestil, köme, tahin helva ve geleneksel tatlılar. Anadolu mutfağının lokum, pestil, köme ve helva…"
-      },
       "index": 8,
+      "path": "lokum-pestil-ve-geleneksel-tatlilar",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Lokum, Pestil ve Geleneksel Tatlılar. Lokum, pestil, köme, tahin helva ve geleneksel tatlılar. Anadolu mutfağının lokum, pestil, köme ve helva…"
       }
     },
     {
       "name": {
         "tr": "Meyve Suları"
       },
-      "status": "play",
-      "category": "",
       "id": "c10meyves",
-      "path": "meyve-sulari",
-      "description": {
-        "tr": "Tillo Kochari Meyve Suları. Doğal meyve suları: nar, elma, portakal, vişne ve mevsim nektarları. Soğuk sıkım ve pastörize meyve suları; katkısız seçenekler.…"
-      },
       "index": 9,
+      "path": "meyve-sulari",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Meyve Suları. Doğal meyve suları: nar, elma, portakal, vişne ve mevsim nektarları. Soğuk sıkım ve pastörize meyve suları; katkısız seçenekler.…"
       }
     },
     {
       "name": {
         "tr": "Pekmez ve Şuruplar"
       },
-      "status": "play",
-      "category": "",
       "id": "c11pekmez",
-      "path": "pekmez-ve-suruplar",
-      "description": {
-        "tr": "Tillo Kochari Pekmez ve Şuruplar. Pekmez ve şuruplar: üzüm, dut, hurma, keçiboynuzu. Doğal pekmez ve meyve şurupları; kahvaltı ve sağlıklı tatlandırıcı. Gazi…"
-      },
       "index": 10,
+      "path": "pekmez-ve-suruplar",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Pekmez ve Şuruplar. Pekmez ve şuruplar: üzüm, dut, hurma, keçiboynuzu. Doğal pekmez ve meyve şurupları; kahvaltı ve sağlıklı tatlandırıcı. Gazi…"
       }
     },
     {
       "name": {
         "tr": "Süt ve Süt Ürünleri"
       },
-      "status": "play",
-      "category": "",
       "id": "c12sut",
-      "path": "sut-ve-sut-urunleri",
-      "description": {
-        "tr": "Tillo Kochari Süt ve Süt Ürünleri. Süt ve süt ürünleri: peynir, tereyağı, kaymak, yoğurt, ayran. Tereyağı, peynir, yoğurt ve geleneksel süt ürünleri. Gaziant…"
-      },
       "index": 11,
+      "path": "sut-ve-sut-urunleri",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Süt ve Süt Ürünleri. Süt ve süt ürünleri: peynir, tereyağı, kaymak, yoğurt, ayran. Tereyağı, peynir, yoğurt ve geleneksel süt ürünleri. Gaziant…"
       }
     },
     {
       "name": {
         "tr": "Salça, Turşu, Meze ve Soslar"
       },
-      "status": "play",
-      "category": "",
       "id": "c13konserve",
-      "path": "salca-tursu-meze-ve-soslar",
-      "description": {
-        "tr": "Tillo Kochari Salça, Turşu, Meze ve Soslar. Salça, turşu, meze, salamura ve doğal sirkeler. Salça, turşu, meze, salamura içecek, sirke ve sos çeşitleri. Gazi…"
-      },
       "index": 12,
+      "path": "salca-tursu-meze-ve-soslar",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Salça, Turşu, Meze ve Soslar. Salça, turşu, meze, salamura ve doğal sirkeler. Salça, turşu, meze, salamura içecek, sirke ve sos çeşitleri. Gazi…"
       }
     },
     {
       "name": {
         "tr": "Sıvı Yağlar"
       },
-      "status": "play",
-      "category": "",
       "id": "c14siviya",
-      "path": "sivi-yaglar",
-      "description": {
-        "tr": "Tillo Kochari Sıvı Yağlar. Sıvı yağlar: natürel sızma zeytinyağı, fındık ve kabak çekirdeği yağı. Soğuk sıkım zeytinyağı ve bitkisel sıvı yağlar. Gaziantep m…"
-      },
       "index": 13,
+      "path": "sivi-yaglar",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Sıvı Yağlar. Sıvı yağlar: natürel sızma zeytinyağı, fındık ve kabak çekirdeği yağı. Soğuk sıkım zeytinyağı ve bitkisel sıvı yağlar. Gaziantep m…"
       }
     },
     {
       "name": {
         "tr": "Tıbbi Aromatik Yağlar"
       },
-      "status": "play",
-      "category": "",
       "id": "c15aromya",
-      "path": "tibbi-aromatik-yaglar",
-      "description": {
-        "tr": "Tillo Kochari Tıbbi Aromatik Yağlar. Tıbbi aromatik yağlar: bıttım, çörek otu, üzüm çekirdeği. Geleneksel ve aromatik yağlar; kozmetik ve beslenme destek ürü…"
-      },
       "index": 14,
+      "path": "tibbi-aromatik-yaglar",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Tıbbi Aromatik Yağlar. Tıbbi aromatik yağlar: bıttım, çörek otu, üzüm çekirdeği. Geleneksel ve aromatik yağlar; kozmetik ve beslenme destek ürü…"
       }
     },
     {
       "name": {
         "tr": "IQF Dilimlenmiş Sebzeler"
       },
-      "status": "play",
-      "category": "",
       "id": "c16iqfseb",
-      "path": "iqf-dilimlenmis-sebzeler",
-      "description": {
-        "tr": "Tillo Kochari IQF Dilimlenmiş Sebzeler. IQF dilimlenmiş sebzeler: domates, biber, patlıcan, brokoli. Hızlı dondurulmuş (IQF) sebze dilimleri; endüstriyel ve…"
-      },
       "index": 15,
+      "path": "iqf-dilimlenmis-sebzeler",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari IQF Dilimlenmiş Sebzeler. IQF dilimlenmiş sebzeler: domates, biber, patlıcan, brokoli. Hızlı dondurulmuş (IQF) sebze dilimleri; endüstriyel ve…"
       }
     },
     {
       "name": {
         "tr": "IQF Meyveler"
       },
-      "status": "play",
-      "category": "",
       "id": "c17iqfmey",
-      "path": "iqf-meyveler",
-      "description": {
-        "tr": "Tillo Kochari IQF Meyveler. IQF meyveler: çilek, kiraz, nar, ahududu ve karışım. Hızlı dondurulmuş bütün ve dilim meyveler; smoothie ve pastacılık. Gaziantep…"
-      },
       "index": 16,
+      "path": "iqf-meyveler",
+      "category": "",
+      "status": "play",
       "icon": "category",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari IQF Meyveler. IQF meyveler: çilek, kiraz, nar, ahududu ve karışım. Hızlı dondurulmuş bütün ve dilim meyveler; smoothie ve pastacılık. Gaziantep…"
       }
     }
   ],
