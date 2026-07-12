@@ -656,6 +656,15 @@
     }
   }
 
+  
+  @media (prefers-reduced-motion: reduce) {
+    [class*="h0000"],
+    [class*="h0000"] * {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+
 
   
   #content {
@@ -722,7 +731,7 @@
     width: 100%;
     background-color: #1B3A4B;
     padding: 12px 16px;
-    border-radius: --border_radius--;
+    border-radius: 12px;
     border: none;
     cursor: pointer;
     font-weight: bold;
@@ -740,18 +749,18 @@
     width: 240px;
     flex-shrink: 0;
     background-color: #FAF7F2;
-    border-radius: --border_radius--;
+    border-radius: 12px;
     padding: 12px;
     display: flex;
     flex-direction: column;
     gap: 8px;
-    box-shadow: --card_shadow--;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   }
 
   .b0000-menu-link {
     background-color: #fff;
     padding: 10px 12px;
-    border-radius: --border_radius--;
+    border-radius: 12px;
     border: 1px solid rgba(0, 0, 0, 0.06);
     display: flex;
     align-items: center;
@@ -798,8 +807,8 @@
 
   .b0000-img {
     width: 100%;
-    border-radius: --border_radius--;
-    box-shadow: --card_shadow--;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     background-color: #FAF7F2;
     display: flex;
     align-items: center;
@@ -844,7 +853,7 @@
     gap: 2px;
     padding: 8px 12px;
     background-color: #FAF7F2;
-    border-radius: --border_radius--;
+    border-radius: 12px;
     border: 1px solid rgba(0, 0, 0, 0.06);
     font-size: 0.85rem;
   }
@@ -863,7 +872,7 @@
     width: 100%;
     padding: 16px 18px;
     background: rgba(30, 48, 70, 0.06);
-    border-radius: --border_radius--;
+    border-radius: 12px;
     border: 1px solid rgba(30, 48, 70, 0.12);
     box-sizing: border-box;
   }
@@ -971,9 +980,9 @@
   .mob-kurum-card {
     padding: 20px 18px;
     background-color: #FAF7F2;
-    border-radius: --border_radius--;
+    border-radius: 12px;
     border: 1px solid rgba(30, 48, 70, 0.1);
-    box-shadow: --card_shadow--;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
 
@@ -1003,7 +1012,7 @@
     margin: 8px 0 0;
     padding: 18px 20px;
     background: rgba(30, 48, 70, 0.06);
-    border-radius: --border_radius--;
+    border-radius: 12px;
     border: 1px solid rgba(30, 48, 70, 0.08);
     font-size: 0.98rem;
     line-height: 1.65;
@@ -1057,9 +1066,9 @@
   .mob-kurum-hero {
     margin: 0 0 24px;
     padding: 22px 24px;
-    border-radius: --border_radius--;
+    border-radius: 12px;
     background: linear-gradient(135deg, rgba(30, 48, 70, 0.94) 0%, rgba(42, 69, 96, 0.88) 100%);
-    box-shadow: --card_shadow--;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   }
 
   .mob-kurum-hero-legal {
@@ -1164,7 +1173,7 @@
     padding: 22px 24px;
     text-align: center;
     background: linear-gradient(135deg, rgba(222, 109, 38, 0.12) 0%, rgba(30, 48, 70, 0.06) 100%);
-    border-radius: --border_radius--;
+    border-radius: 12px;
     border: 1px solid rgba(222, 109, 38, 0.25);
   }
 
@@ -1182,7 +1191,7 @@
     font-weight: 700;
     color: #fff;
     background: #C4A035;
-    border-radius: --border_radius--;
+    border-radius: 12px;
     text-decoration: none;
     transition: opacity 0.2s ease, transform 0.2s ease;
     cursor: pointer;
@@ -1204,7 +1213,7 @@
     text-align: center;
     padding: 18px 14px;
     background: linear-gradient(180deg, rgba(30, 48, 70, 0.05) 0%, rgba(222, 109, 38, 0.08) 100%);
-    border-radius: --border_radius--;
+    border-radius: 12px;
     border: 1px solid rgba(30, 48, 70, 0.1);
   }
 
@@ -1238,7 +1247,7 @@
     align-items: flex-start;
     padding: 16px 18px;
     background-color: #FAF7F2;
-    border-radius: --border_radius--;
+    border-radius: 12px;
     border: 1px solid rgba(30, 48, 70, 0.08);
   }
 
@@ -1274,7 +1283,7 @@
     padding: 20px 22px 20px 20px;
     border-left: 4px solid #C4A035;
     background: rgba(222, 109, 38, 0.08);
-    border-radius: 0 --border_radius-- --border_radius-- 0;
+    border-radius: 0 12px 12px 0;
     font-size: 1.02rem;
     line-height: 1.65;
     color: #1B3A4B;
@@ -1379,7 +1388,7 @@
       max-width: none !important;
       height: auto !important;
       visibility: visible !important;
-      box-shadow: --card_shadow-- !important;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1) !important;
     }
   }
 
@@ -1482,6 +1491,15 @@
 
     .b0000-lead {
       font-size: 1rem;
+    }
+  }
+
+  
+  @media (prefers-reduced-motion: reduce) {
+    [class*="b0000"],
+    [class*="b0000"] * {
+      animation: none !important;
+      transition: none !important;
     }
   }
 
