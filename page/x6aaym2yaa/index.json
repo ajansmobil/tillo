@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Fındık Ezmesi",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Fındık Ezmesi"
   },
   "status": "play",
   "category": "c02findik",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Fındık Ezmesi: Kavrulmuş fındık ezmesi. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 300 g / 500 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Fındık Ezmesi: Kavrulmuş fındık ezmesi. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 300 g / 500 g. Gaziantep kökenli doğal gıda."
   },
   "index": 6,
   "icon": "nutrition",

@@ -209,6 +209,39 @@
       "id": "2n6519",
       "local": "body",
       "data": []
+    },
+    {
+      "id": "tilkur01",
+      "name": "Sayfa Makale",
+      "path": "page-article",
+      "local": "body",
+      "category": "text",
+      "version": "1.0.1",
+      "icon": "article",
+      "desing": {
+        "linkcolor": "#1B3A4B",
+        "textcolor": "#212a38",
+        "bgcolor": "#FAF7F2",
+        "border_radius": "14px",
+        "card_shadow": "0 12px 32px rgba(27,58,75,.10)",
+        "font-size": "17px",
+        "contact_path": "iletisim",
+        "whatsapp": "",
+        "ui": {
+          "tr": {
+            "quote": "Bize Ulaşın",
+            "whatsapp": ""
+          },
+          "en": {
+            "quote": "Contact Us",
+            "whatsapp": "WhatsApp"
+          },
+          "ar": {
+            "quote": "اتصل بنا",
+            "whatsapp": "واتساب"
+          }
+        }
+      }
     }
   ]
 }

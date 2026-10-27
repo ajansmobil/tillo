@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Karpuz Suyu",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Karpuz Suyu"
   },
   "status": "play",
   "category": "c10meyves",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Karpuz Suyu: Mevsimlik karpuz. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Karpuz Suyu: Mevsimlik karpuz. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
   },
   "index": 79,
   "icon": "local_bar",

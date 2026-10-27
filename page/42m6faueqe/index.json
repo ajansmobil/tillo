@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Fındık Kreması",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Fındık Kreması"
   },
   "status": "play",
   "category": "c02findik",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Fındık Kreması: Yayvan kıvamlı fındık kreması. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 350 g / 750 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Fındık Kreması: Yayvan kıvamlı fındık kreması. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 350 g / 750 g. Gaziantep kökenli doğal gıda."
   },
   "index": 7,
   "icon": "nutrition",

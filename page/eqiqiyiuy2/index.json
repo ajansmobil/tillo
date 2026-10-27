@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Yer Fıstığı Kreması",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Yer Fıstığı Kreması"
   },
   "status": "play",
   "category": "c04yerfist",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Yer Fıstığı Kreması: Kremamsı yer fıstığı kreması. Yer Fıstığı Ezme ve Krema grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Yer Fıstığı Kreması: Kremamsı yer fıstığı kreması. Yer Fıstığı Ezme ve Krema grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
   },
   "index": 17,
   "icon": "nutrition",

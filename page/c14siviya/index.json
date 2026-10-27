@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Sıvı Yağlar",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Sıvı Yağlar"
   },
   "status": "play",
   "category": "",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Sıvı Yağlar. Sıvı yağlar: natürel sızma zeytinyağı, fındık ve kabak çekirdeği yağı. Soğuk sıkım zeytinyağı ve bitkisel sıvı yağlar. Gaziantep m…",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Sıvı Yağlar. Sıvı yağlar: natürel sızma zeytinyağı, fındık ve kabak çekirdeği yağı. Soğuk sıkım zeytinyağı ve bitkisel sıvı yağlar. Gaziantep m…"
   },
   "index": 13,
   "icon": "category",

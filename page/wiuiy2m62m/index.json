@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Orman Meyveleri Karışımı",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Orman Meyveleri Karışımı"
   },
   "status": "play",
   "category": "c05kurumey",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Orman Meyveleri Karışımı: Böğürtlen, ahududu, yaban mersini. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 150 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Orman Meyveleri Karışımı: Böğürtlen, ahududu, yaban mersini. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 150 g. Gaziantep kökenli doğal gıda."
   },
   "index": 31,
   "icon": "spa",

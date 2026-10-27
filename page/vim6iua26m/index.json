@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Tam Yağlı Beyaz Peynir",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tam Yağlı Beyaz Peynir"
   },
   "status": "play",
   "category": "c12sut",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Tam Yağlı Beyaz Peynir: Brine beyaz peynir. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 500 g / 1 kg. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Tam Yağlı Beyaz Peynir: Brine beyaz peynir. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 500 g / 1 kg. Gaziantep kökenli doğal gıda."
   },
   "index": 104,
   "icon": "egg",

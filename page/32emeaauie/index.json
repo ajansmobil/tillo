@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Kavun Suyu",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Kavun Suyu"
   },
   "status": "play",
   "category": "c10meyves",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Kavun Suyu: Kavun nektarı. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Kavun Suyu: Kavun nektarı. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
   },
   "index": 80,
   "icon": "local_bar",

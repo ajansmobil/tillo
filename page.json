@@ -16,13 +16,17 @@
       "icon": "home",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "az99da",
+          "tilkur01"
+        ],
         "footer": []
       },
       "pathnext": "hakkimizda",
       "description": {
         "tr": "Tillo Kochari kurumsal bilgiler. Hakkımızda, misyon, vizyon ve kalite politikamız. Gaziantep doğal gıda üretimi."
-      }
+      },
+      "text": "<h2>Hakkımızda</h2>\n<p>Tillo Kochari; Antep fıstığı, kuru meyve, kuru sebze, hoşaf, pekmez ve doğal aromatik yağların üretiminde Gaziantep kökenli bir doğal gıda markasıdır. Fıstıklı pastalar, fıstık ezmesi, reçeller, bal ve peynir grubu başta olmak üzere 17 ürün kategorisinde 150'den fazla doğal ürün üretiyor; toptan ve özel üretim projeleriyle Türkiye geneline ulaşıyoruz.</p>\n<h2>Misyonumuz</h2>\n<p>Doğal ve sağlıklı hammaddelerden kimyasaldan uzak ürünler üretmek; çevre bilincine sahip, sürdürülebilir ve güvenilir üretim gerçekleştirmek.</p>\n<h2>Vizyonumuz</h2>\n<p>Türkiye genelinde ve uluslararası pazarda doğal gıda denince akla gelen ilk markalardan biri olmak.</p>\n<h2>Kalite Politikamız</h2>\n<p>Tüm üretim süreçlerinde gıda güvenliğini temel alıyoruz. Hammaddeden son pakete kadar izlenebilirlik sağlıyor; ürün kalitesini, müşteri memnuniyetini ve sürekli iyileştirmeyi esas alan çalışma düzenimizi her süreçte uyguluyoruz.</p>\n<h2>Gizlilik ve Kişisel Veriler</h2>\n<p>Sitemizde toplanan kişisel veriler yalnızca sipariş, iletişim ve hizmet amaçlarıyla işlenir; üçüncü kişilerle hukuki yükümlülüğümüz dışında paylaşılmaz. Ürün ve sipariş süreçlerinde tarafınızdan iletilen bilgiler KVKK kapsamında güvence altına alınır.</p>"
     },
     {
       "name": {

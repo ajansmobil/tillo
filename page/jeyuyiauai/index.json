@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Keçiboynuzu Pekmezi",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Keçiboynuzu Pekmezi"
   },
   "status": "play",
   "category": "c11pekmez",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Keçiboynuzu Pekmezi: Geven pekmezi. Pekmez ve Şuruplar grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Keçiboynuzu Pekmezi: Geven pekmezi. Pekmez ve Şuruplar grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
   },
   "index": 88,
   "icon": "water_drop",

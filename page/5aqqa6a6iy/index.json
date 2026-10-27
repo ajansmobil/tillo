@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Fındık Ezmesi (Premium)",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Fındık Ezmesi (Premium)"
   },
   "status": "play",
   "category": "c02findik",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Fındık Ezmesi (Premium): Seçme iri tane fındık. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Fındık Ezmesi (Premium): Seçme iri tane fındık. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda."
   },
   "index": 10,
   "icon": "nutrition",

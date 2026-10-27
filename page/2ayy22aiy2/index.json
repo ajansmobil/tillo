@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Kayısı Nektarı",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Kayısı Nektarı"
   },
   "status": "play",
   "category": "c10meyves",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Kayısı Nektarı: Kayısı nektarı. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Kayısı Nektarı: Kayısı nektarı. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
   },
   "index": 77,
   "icon": "local_bar",

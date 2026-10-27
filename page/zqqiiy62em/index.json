@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "İnek Sütü",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "İnek Sütü"
   },
   "status": "play",
   "category": "c12sut",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari İnek Sütü: Pastörize inek sütü. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari İnek Sütü: Pastörize inek sütü. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
   },
   "index": 96,
   "icon": "egg",

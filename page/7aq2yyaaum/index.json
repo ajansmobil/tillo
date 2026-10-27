@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Yer Fıstığı Ezmesi",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Yer Fıstığı Ezmesi"
   },
   "status": "play",
   "category": "c04yerfist",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Yer Fıstığı Ezmesi: Klasik yer fıstığı ezmesi. Yer Fıstığı Ezme ve Krema grubunda. Sunulan gramaj: 500 g / 1 kg. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Yer Fıstığı Ezmesi: Klasik yer fıstığı ezmesi. Yer Fıstığı Ezme ve Krema grubunda. Sunulan gramaj: 500 g / 1 kg. Gaziantep kökenli doğal gıda."
   },
   "index": 16,
   "icon": "nutrition",

@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Pekmez ve Şuruplar",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Pekmez ve Şuruplar"
   },
   "status": "play",
   "category": "",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Pekmez ve Şuruplar. Pekmez ve şuruplar: üzüm, dut, hurma, keçiboynuzu. Doğal pekmez ve meyve şurupları; kahvaltı ve sağlıklı tatlandırıcı. Gazi…",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Pekmez ve Şuruplar. Pekmez ve şuruplar: üzüm, dut, hurma, keçiboynuzu. Doğal pekmez ve meyve şurupları; kahvaltı ve sağlıklı tatlandırıcı. Gazi…"
   },
   "index": 10,
   "icon": "category",

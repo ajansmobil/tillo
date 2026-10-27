@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Pişmaniye",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Pişmaniye"
   },
   "status": "play",
   "category": "c09gelenek",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Pişmaniye: İnce çekilmiş pişmaniye. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 200 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Pişmaniye: İnce çekilmiş pişmaniye. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 200 g. Gaziantep kökenli doğal gıda."
   },
   "index": 70,
   "icon": "cake",

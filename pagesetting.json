@@ -1,7 +1,9 @@
 {
   "data": [
     {
-      "name": "Sayfalar",
+      "name": {
+        "tr": "Sayfalar"
+      },
       "path": "page",
       "desc": [],
       "data": [],
@@ -16,10 +18,17 @@
         "bgimg": false,
         "detail": true,
         "body": true
-      }
+      },
+      "active": true,
+      "activeicon": "pause",
+      "activeclass": "mx-icon-btn mx-icon-btn-green",
+      "pageTypeBadge": "<span class=\"mx-badge-grey\" style=\"font-size:11px; padding:2px 8px;\">Statik</span>",
+      "pageCountBadge": "<span class=\"mx-badge mx-badge-grey\" style=\"font-size:11px; padding:2px 8px;\" title=\"Bu kategorideki sayfa sayisi\">3 sayfa</span>"
     },
     {
-      "name": "Ürünler",
+      "name": {
+        "tr": "Ürünler"
+      },
       "path": "products",
       "desc": [
         {
@@ -54,10 +63,17 @@
         "img": true,
         "bgimg": false,
         "detail": true
-      }
+      },
+      "active": true,
+      "activeicon": "pause",
+      "activeclass": "mx-icon-btn mx-icon-btn-green",
+      "pageTypeBadge": "<span class=\"mx-badge-green\" style=\"font-size:11px; padding:2px 8px;\">Urun</span>",
+      "pageCountBadge": "<span class=\"mx-badge mx-badge-grey\" style=\"font-size:11px; padding:2px 8px;\" title=\"Bu kategorideki sayfa sayisi\">152 sayfa</span>"
     },
     {
-      "name": "Kurumsal",
+      "name": {
+        "tr": "Kurumsal"
+      },
       "path": "kurumsal",
       "desc": [],
       "data": [],
@@ -74,10 +90,17 @@
         "bgimg": false,
         "detail": true,
         "body": true
-      }
+      },
+      "active": true,
+      "activeicon": "pause",
+      "activeclass": "mx-icon-btn mx-icon-btn-green",
+      "pageTypeBadge": "<span class=\"mx-badge-purple\" style=\"font-size:11px; padding:2px 8px;\">Kurumsal</span>",
+      "pageCountBadge": "<span class=\"mx-badge mx-badge-grey\" style=\"font-size:11px; padding:2px 8px;\" title=\"Bu kategorideki sayfa sayisi\">8 sayfa</span>"
     },
     {
-      "name": "Kategoriler",
+      "name": {
+        "tr": "Kategoriler"
+      },
       "path": "category",
       "icon": "article",
       "active": true,
@@ -94,7 +117,11 @@
       "modulestatus": {
         "body": true
       },
-      "index": 3
+      "index": 3,
+      "activeicon": "pause",
+      "activeclass": "mx-icon-btn mx-icon-btn-green",
+      "pageTypeBadge": "<span class=\"mx-badge-grey\" style=\"font-size:11px; padding:2px 8px;\">Statik</span>",
+      "pageCountBadge": "<span class=\"mx-badge mx-badge-grey\" style=\"font-size:11px; padding:2px 8px;\" title=\"Bu kategorideki sayfa sayisi\">17 sayfa</span>"
     }
   ]
 }

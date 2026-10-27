@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Yoğurt (Koyun)",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Yoğurt (Koyun)"
   },
   "status": "play",
   "category": "c12sut",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Yoğurt (Koyun): Koyun yoğurdu. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 1 kg. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Yoğurt (Koyun): Koyun yoğurdu. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 1 kg. Gaziantep kökenli doğal gıda."
   },
   "index": 99,
   "icon": "egg",

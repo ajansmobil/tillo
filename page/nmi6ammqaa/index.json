@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Kuru Üzüm (Sultani)",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Kuru Üzüm (Sultani)"
   },
   "status": "play",
   "category": "c05kurumey",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Kuru Üzüm (Sultani): Çekirdeksiz kuru üzüm. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 250 g / 500 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Kuru Üzüm (Sultani): Çekirdeksiz kuru üzüm. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 250 g / 500 g. Gaziantep kökenli doğal gıda."
   },
   "index": 24,
   "icon": "spa",

@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Ayran",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Ayran"
   },
   "status": "play",
   "category": "c12sut",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Ayran: Köpüklü ayran. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Ayran: Köpüklü ayran. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
   },
   "index": 100,
   "icon": "egg",

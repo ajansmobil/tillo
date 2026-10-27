@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Kebap Sosu",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Kebap Sosu"
   },
   "status": "play",
   "category": "c13konserve",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Kebap Sosu: Isıl işlem görmüş kebap sosu. Salça, Turşu, Meze ve Soslar grubunda. Sunulan gramaj: 300 ml. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Kebap Sosu: Isıl işlem görmüş kebap sosu. Salça, Turşu, Meze ve Soslar grubunda. Sunulan gramaj: 300 ml. Gaziantep kökenli doğal gıda."
   },
   "index": 120,
   "icon": "lunch_dining",

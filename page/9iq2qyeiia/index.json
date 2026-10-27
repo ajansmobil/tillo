@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Sebze Kurusu Karışımı",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Sebze Kurusu Karışımı"
   },
   "status": "play",
   "category": "c07kuruseb",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Sebze Kurusu Karışımı: Çorbalık sebze mix. Kurutulmuş Sebzeler grubunda. Sunulan gramaj: 200 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Sebze Kurusu Karışımı: Çorbalık sebze mix. Kurutulmuş Sebzeler grubunda. Sunulan gramaj: 200 g. Gaziantep kökenli doğal gıda."
   },
   "index": 50,
   "icon": "grass",

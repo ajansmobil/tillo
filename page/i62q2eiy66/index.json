@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Üzüm Pekmezi",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Üzüm Pekmezi"
   },
   "status": "play",
   "category": "c11pekmez",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Üzüm Pekmezi: Köy üzümü pekmezi. Pekmez ve Şuruplar grubunda. Sunulan gramaj: 400 g / 800 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Üzüm Pekmezi: Köy üzümü pekmezi. Pekmez ve Şuruplar grubunda. Sunulan gramaj: 400 g / 800 g. Gaziantep kökenli doğal gıda."
   },
   "index": 85,
   "icon": "water_drop",

@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Fındık Kreması (Kakao)",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Fındık Kreması (Kakao)"
   },
   "status": "play",
   "category": "c02findik",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Fındık Kreması (Kakao): Kakao aromalı fındık kreması. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Fındık Kreması (Kakao): Kakao aromalı fındık kreması. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
   },
   "index": 9,
   "icon": "nutrition",

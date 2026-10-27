@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Kuru Patlıcan",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Kuru Patlıcan"
   },
   "status": "play",
   "category": "c07kuruseb",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Kuru Patlıcan: Dolma ve yemeklik. Kurutulmuş Sebzeler grubunda. Sunulan gramaj: 100 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Kuru Patlıcan: Dolma ve yemeklik. Kurutulmuş Sebzeler grubunda. Sunulan gramaj: 100 g. Gaziantep kökenli doğal gıda."
   },
   "index": 45,
   "icon": "grass",

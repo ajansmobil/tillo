@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Fıstıklı Sucuk",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Fıstıklı Sucuk"
   },
   "status": "play",
   "category": "c09gelenek",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Fıstıklı Sucuk: Fıstıklı dut sucuğu. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 300 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Fıstıklı Sucuk: Fıstıklı dut sucuğu. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 300 g. Gaziantep kökenli doğal gıda."
   },
   "index": 69,
   "icon": "cake",

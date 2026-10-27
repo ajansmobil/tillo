@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Badem Ezmesi (Kabuklu Öğütülmüş)",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Badem Ezmesi (Kabuklu Öğütülmüş)"
   },
   "status": "play",
   "category": "c03badem",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Badem Ezmesi (Kabuklu Öğütülmüş): Geleneksel taş değirmen. Badem Ezme ve Krema grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Badem Ezmesi (Kabuklu Öğütülmüş): Geleneksel taş değirmen. Badem Ezme ve Krema grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
   },
   "index": 15,
   "icon": "nutrition",

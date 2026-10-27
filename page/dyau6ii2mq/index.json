@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Üzüm Sirkesi",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Üzüm Sirkesi"
   },
   "status": "play",
   "category": "c13konserve",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Üzüm Sirkesi: Fermente üzüm sirkesi. Salça, Turşu, Meze ve Soslar grubunda. Sunulan gramaj: 500 ml. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Üzüm Sirkesi: Fermente üzüm sirkesi. Salça, Turşu, Meze ve Soslar grubunda. Sunulan gramaj: 500 ml. Gaziantep kökenli doğal gıda."
   },
   "index": 118,
   "icon": "lunch_dining",

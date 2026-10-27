@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Koyun Sütü",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Koyun Sütü"
   },
   "status": "play",
   "category": "c12sut",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Koyun Sütü: Koyun sütü. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Koyun Sütü: Koyun sütü. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
   },
   "index": 95,
   "icon": "egg",

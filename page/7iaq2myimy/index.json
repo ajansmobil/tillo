@@ -1,11 +1,6 @@
 {
   "name": {
-    "tr": "Kuru Tatlı Biber",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Kuru Tatlı Biber"
   },
   "status": "play",
   "category": "c07kuruseb",
@@ -21,12 +16,7 @@
     "ko": ""
   },
   "description": {
-    "tr": "Tillo Kochari Kuru Tatlı Biber: Dolmalık biber kurusu. Kurutulmuş Sebzeler grubunda. Sunulan gramaj: 100 g. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "Tillo Kochari Kuru Tatlı Biber: Dolmalık biber kurusu. Kurutulmuş Sebzeler grubunda. Sunulan gramaj: 100 g. Gaziantep kökenli doğal gıda."
   },
   "index": 44,
   "icon": "grass",
