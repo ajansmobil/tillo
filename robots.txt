@@ -181,8 +181,8 @@ Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
 
 # Sitemap
-Sitemap: https://tillotarim.com/sitemap.xml
+Sitemap: https://tillo.webyapar.com/sitemap.xml
 
 # GEO (llmstxt.org)
-# https://tillotarim.com/llms.txt
-# https://tillotarim.com/llms-full.txt
+# https://tillo.webyapar.com/llms.txt
+# https://tillo.webyapar.com/llms-full.txt
