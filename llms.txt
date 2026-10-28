@@ -2,7 +2,7 @@
 
 > Tillo Kochari — Gaziantep merkezli doğal gıda üreticisi. Antep fıstığı ezme, kurutulmuş meyve-sebze, reçel, pekmez, süt ürünleri, IQF ve aromatik yağlar. Top…
 
-Web: https://tillo.webyapar.com/tr/
+Web: https://tillo.webyapar.com/tr/ · Diller: tr, en, ar, de, ko (varsayilan: tr)
 
 ## Sayfalar
 - [Tillo Kochari](https://tillo.webyapar.com/tr/): Tillo Kochari — Gaziantep merkezli doğal gıda üreticisi.
