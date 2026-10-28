@@ -6,11 +6,11 @@
     {
       "name": {
         "tr": "Hakkımızda",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "en": "About Us",
+        "ar": "من نحن",
+        "de": "Über uns",
         "ja": "",
-        "ko": ""
+        "ko": "회사 소개"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -25,16 +25,20 @@
       "icon": "home",
       "description": {
         "tr": "Tillo Kochari hakkında. Gaziantep kökenli doğal gıda üretimi, kalite ve müşteri odaklı hizmet anlayışımız.",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "en": "About Tillo Kochari: Gaziantep-rooted natural food production and our commitment to quality and customer-focused service.",
+        "ar": "Tillo Kochari: نبذة عن إنتاجنا للأغذية الطبيعية ذات الجذور في غازي عنتاب ونهجنا القائم على الجودة وخدمة العملاء.",
+        "de": "Tillo Kochari im Porträt: natürliche Lebensmittelherstellung mit Wurzeln in Gaziantep sowie unser Anspruch an Qualität und kundenorientierten Service.",
         "ja": "",
-        "ko": ""
+        "ko": "Tillo Kochari 소개: 가지안테프에 뿌리를 둔 천연 식품 생산과 품질 및 고객 중심 서비스에 대한 당사의 철학입니다."
       }
     },
     {
       "name": {
-        "tr": "Misyon"
+        "tr": "Misyon",
+        "en": "Mission",
+        "ar": "الرسالة",
+        "de": "Mission",
+        "ko": "미션"
       },
       "status": "play",
       "id": "misyon",
@@ -48,12 +52,20 @@
       "index": 1,
       "icon": "home",
       "description": {
-        "tr": "Tillo Kochari misyonu. Doğal hammaddeden katkısız ürünler; çevreye duyarlı ve sürdürülebilir üretim."
+        "tr": "Tillo Kochari misyonu. Doğal hammaddeden katkısız ürünler; çevreye duyarlı ve sürdürülebilir üretim.",
+        "en": "Tillo Kochari's mission: additive-free products from natural raw materials, made through environmentally conscious and sustainable production.",
+        "ar": "Tillo Kochari – رسالتنا: منتجات خالية من الإضافات مصنوعة من مواد خام طبيعية، بإنتاج مستدام يراعي البيئة.",
+        "de": "Tillo Kochari – unsere Mission: zusatzstofffreie Produkte aus natürlichen Rohstoffen sowie eine umweltbewusste und nachhaltige Produktion.",
+        "ko": "Tillo Kochari의 미션은 천연 원료로 만든 무첨가 제품과 환경을 생각하는 지속 가능한 생산입니다."
       }
     },
     {
       "name": {
-        "tr": "Vizyon"
+        "tr": "Vizyon",
+        "en": "Vision",
+        "ar": "الرؤية",
+        "de": "Vision",
+        "ko": "비전"
       },
       "status": "play",
       "id": "vizyon",
@@ -67,12 +79,20 @@
       "index": 2,
       "icon": "home",
       "description": {
-        "tr": "Tillo Kochari vizyonu. Türkiye ve uluslararası pazarda tercih edilen doğal gıda markası olmak."
+        "tr": "Tillo Kochari vizyonu. Türkiye ve uluslararası pazarda tercih edilen doğal gıda markası olmak.",
+        "en": "Tillo Kochari's vision: to be the natural food brand of choice in Turkey and on the international market.",
+        "ar": "Tillo Kochari – رؤيتنا: أن نكون علامة الأغذية الطبيعية المفضلة في تركيا والأسواق الدولية.",
+        "de": "Tillo Kochari – unsere Vision: die bevorzugte Marke für natürliche Lebensmittel in der Türkei und auf dem internationalen Markt zu sein.",
+        "ko": "Tillo Kochari의 비전은 튀르키예와 해외 시장에서 선택받는 천연 식품 브랜드가 되는 것입니다."
       }
     },
     {
       "name": {
-        "tr": "Kalite Politikamız"
+        "tr": "Kalite Politikamız",
+        "en": "Our Quality Policy",
+        "ar": "سياسة الجودة لدينا",
+        "de": "Unsere Qualitätspolitik",
+        "ko": "품질 방침"
       },
       "status": "play",
       "id": "kalitepolitikamiz",
@@ -86,12 +106,20 @@
       "index": 3,
       "icon": "home",
       "description": {
-        "tr": "Tillo Kochari kalite politikası. Gıda güvenliği, izlenebilirlik ve sürekli iyileştirme taahhüdümüz."
+        "tr": "Tillo Kochari kalite politikası. Gıda güvenliği, izlenebilirlik ve sürekli iyileştirme taahhüdümüz.",
+        "en": "Tillo Kochari quality policy: our commitment to food safety, traceability and continuous improvement.",
+        "ar": "Tillo Kochari – سياسة الجودة: التزامنا بسلامة الغذاء وإمكانية التتبع والتحسين المستمر.",
+        "de": "Tillo Kochari – Qualitätspolitik: unser Bekenntnis zu Lebensmittelsicherheit, Rückverfolgbarkeit und kontinuierlicher Verbesserung.",
+        "ko": "Tillo Kochari 품질 방침은 식품 안전, 이력 추적, 지속적인 개선에 대한 당사의 약속입니다."
       }
     },
     {
       "name": {
-        "tr": "Gizlilik Politikası"
+        "tr": "Gizlilik Politikası",
+        "en": "Privacy Policy",
+        "ar": "سياسة الخصوصية",
+        "de": "Datenschutzerklärung",
+        "ko": "개인정보 처리방침"
       },
       "status": "play",
       "id": "gizlilikpolitikasi",
@@ -105,12 +133,20 @@
       "index": 4,
       "icon": "home",
       "description": {
-        "tr": "Tillo Kochari gizlilik politikası. Kişisel verilerin korunması ve çerez kullanımı hakkında bilgilendirme."
+        "tr": "Tillo Kochari gizlilik politikası. Kişisel verilerin korunması ve çerez kullanımı hakkında bilgilendirme.",
+        "en": "Tillo Kochari privacy policy: information on the protection of personal data and the use of cookies.",
+        "ar": "Tillo Kochari – سياسة الخصوصية: معلومات حول حماية البيانات الشخصية واستخدام ملفات تعريف الارتباط.",
+        "de": "Tillo Kochari – Datenschutzerklärung: Informationen zum Schutz personenbezogener Daten und zur Verwendung von Cookies.",
+        "ko": "Tillo Kochari 개인정보 처리방침으로, 개인정보 보호 및 쿠키 사용에 관한 내용을 안내합니다."
       }
     },
     {
       "name": {
-        "tr": "Kişisel Veriler"
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "ar": "البيانات الشخصية",
+        "de": "Personenbezogene Daten",
+        "ko": "개인정보"
       },
       "status": "play",
       "id": "kisiselveriler",
@@ -124,12 +160,20 @@
       "index": 5,
       "icon": "home",
       "description": {
-        "tr": "Tillo Kochari kişisel veriler aydınlatma metni. 6698 sayılı KVKK kapsamında veri sorumlusu bilgileri."
+        "tr": "Tillo Kochari kişisel veriler aydınlatma metni. 6698 sayılı KVKK kapsamında veri sorumlusu bilgileri.",
+        "en": "Tillo Kochari personal data information notice: data controller details under the Personal Data Protection Law No. 6698 (KVKK).",
+        "ar": "Tillo Kochari – نص الإفصاح عن البيانات الشخصية: معلومات المسؤول عن البيانات بموجب قانون حماية البيانات الشخصية رقم 6698.",
+        "de": "Tillo Kochari – Informationstext zu personenbezogenen Daten: Angaben zum Verantwortlichen gemäß dem Gesetz Nr. 6698 zum Schutz personenbezogener Daten (KVKK).",
+        "ko": "Tillo Kochari 개인정보 고지문으로, 제6698호 개인정보보호법(KVKK)에 따른 개인정보 처리자 정보를 안내합니다."
       }
     },
     {
       "name": {
-        "tr": "Kullanıcı Hakları"
+        "tr": "Kullanıcı Hakları",
+        "en": "User Rights",
+        "ar": "حقوق المستخدم",
+        "de": "Nutzerrechte",
+        "ko": "이용자 권리"
       },
       "status": "play",
       "id": "kullanicahaklari",
@@ -143,12 +187,20 @@
       "index": 6,
       "icon": "home",
       "description": {
-        "tr": "Tillo Kochari kullanıcı hakları. Tüketici hakları, sipariş ve iade süreçleri hakkında bilgi."
+        "tr": "Tillo Kochari kullanıcı hakları. Tüketici hakları, sipariş ve iade süreçleri hakkında bilgi.",
+        "en": "Tillo Kochari user rights: information on consumer rights and on order and return procedures.",
+        "ar": "Tillo Kochari – حقوق المستخدم: معلومات حول حقوق المستهلك وإجراءات الطلب والإرجاع.",
+        "de": "Tillo Kochari – Nutzerrechte: Informationen zu Verbraucherrechten sowie zu Bestell- und Rückgabeverfahren.",
+        "ko": "Tillo Kochari 이용자 권리 안내로, 소비자 권리와 주문 및 반품 절차에 관한 정보를 제공합니다."
       }
     },
     {
       "name": {
-        "tr": "Yasal Uyarı"
+        "tr": "Yasal Uyarı",
+        "en": "Legal Notice",
+        "ar": "إشعار قانوني",
+        "de": "Rechtlicher Hinweis",
+        "ko": "법적 고지"
       },
       "status": "play",
       "id": "yasaluyari",
@@ -162,7 +214,11 @@
       "index": 7,
       "icon": "home",
       "description": {
-        "tr": "Tillo Kochari yasal uyarı. Web sitesi kullanım şartları ve yasal sorumluluk sınırları."
+        "tr": "Tillo Kochari yasal uyarı. Web sitesi kullanım şartları ve yasal sorumluluk sınırları.",
+        "en": "Tillo Kochari legal notice: website terms of use and limits of legal liability.",
+        "ar": "Tillo Kochari – إشعار قانوني: شروط استخدام الموقع الإلكتروني وحدود المسؤولية القانونية.",
+        "de": "Tillo Kochari – rechtlicher Hinweis: Nutzungsbedingungen der Website und Grenzen der rechtlichen Haftung.",
+        "ko": "Tillo Kochari 법적 고지로, 웹사이트 이용 약관과 법적 책임의 한계를 안내합니다."
       }
     }
   ],

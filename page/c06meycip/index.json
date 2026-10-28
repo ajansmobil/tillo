@@ -1,32 +1,32 @@
 {
   "name": {
-    "tr": "Meyve Cipsleri",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Kahvaltılık Ürünler",
+    "en": "Breakfast Products",
+    "ar": "منتجات الإفطار",
+    "de": "Frühstücksprodukte",
     "ja": "",
-    "ko": ""
+    "ko": "아침식사 제품"
   },
   "status": "play",
   "category": "",
   "id": "c06meycip",
   "externalUrl": "",
-  "path": "meyve-cipsleri",
+  "path": "kahvaltilik-urunler",
   "keyword": {
-    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Meyve Cipsleri, meyve cipsi, elma cipsi, kuru meyve cips, sağlıklı atıştırmalık",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari, Kahvaltılık Ürünler",
+    "en": "Tillo Kochari, Breakfast Products",
+    "ar": "Tillo Kochari, منتجات الإفطار",
+    "de": "Tillo Kochari, Frühstücksprodukte",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 아침식사 제품"
   },
   "description": {
-    "tr": "Tillo Kochari Meyve Cipsleri. Meyve cipsleri: elma, armut, kivi ve turunçgil dilimleri. Düşük sıcaklıkta kurutulmuş meyve cipsleri; atıştırmalık ve reçeteler…",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari Kahvaltılık Ürünler ürün grubu.",
+    "en": "Tillo Kochari Breakfast Products product group.",
+    "ar": "مجموعة منتجات منتجات الإفطار من تيلو كوشاري.",
+    "de": "Tillo Kochari Produktgruppe Frühstücksprodukte.",
     "ja": "",
-    "ko": ""
+    "ko": "틸로 코차리 아침식사 제품 제품군."
   },
   "index": 5,
   "icon": "category",
@@ -37,12 +37,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Meyve Cipsleri Ürünleri | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Kahvaltılık Ürünler | Tillo Kochari",
+    "en": "Breakfast Products | Tillo Kochari",
+    "ar": "منتجات الإفطار | Tillo Kochari",
+    "de": "Frühstücksprodukte | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "아침식사 제품 | Tillo Kochari"
   },
   "text": {
     "tr": "",
@@ -52,7 +52,7 @@
     "ja": "",
     "ko": ""
   },
-  "update": "2026-05-21T08:39:29.704Z",
+  "update": "2026-10-28T08:07:44.316Z",
   "date": "2026-05-20T09:54:46.189Z",
   "categorypage": "products",
   "slider": []

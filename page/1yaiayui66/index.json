@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Kabak Çekirdeği Yağı (Aromatik)"
+    "tr": "Kabak Çekirdeği Yağı (Aromatik)",
+    "en": "Pumpkin Seed Oil (Aromatic)",
+    "ar": "زيت بذور اليقطين (عطري)",
+    "de": "Kürbiskernöl (aromatisch)",
+    "ko": "호박씨 오일 (아로마)"
   },
   "status": "play",
-  "category": "c15aromya",
+  "category": "zsyqc5i9oe",
   "id": "1yaiayui66",
   "externalUrl": "",
   "path": "kabak-cekirdegi-yagi-aromatik",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kabak Çekirdeği Yağı (Aromatik), Tıbbi Aromatik Yağlar, bıttım yağı, çörek otu yağı, aromatik yağ, tıbbi yağ",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Pumpkin Seed Oil (Aromatic), Medicinal Aromatic Oils, terebinth oil, black seed oil, aromatic oil, medicinal oil",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, زيت بذور اليقطين (عطري), الزيوت العطرية الطبية, زيت البطم, زيت الحبة السوداء, زيت عطري, زيت طبي",
+    "de": "Tillo Kochari, Gaziantep, Naturlebensmittel, Kürbiskernöl (aromatisch), Medizinisch-aromatische Öle, Terpentinpistazienöl, Schwarzkümmelöl, Aromaöl, Heilöl",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 호박씨 오일 (아로마), 약용 아로마 오일, 테레빈스 열매 오일, 블랙시드 오일, 아로마 오일, 약용 오일"
   },
   "description": {
-    "tr": "Tillo Kochari Kabak Çekirdeği Yağı (Aromatik): Tıbbi aromatik. Tıbbi Aromatik Yağlar grubunda. Sunulan gramaj: 100 ml. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Kabak Çekirdeği Yağı (Aromatik): Tıbbi aromatik. Tıbbi Aromatik Yağlar grubunda. Sunulan gramaj: 100 ml. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Pumpkin Seed Oil (Aromatic) is a medicinal aromatic oil from the Medicinal Aromatic Oils range, offered in 100 ml as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari زيت بذور اليقطين (عطري): زيت عطري طبي ضمن مجموعة الزيوت العطرية الطبية، يُقدَّم بعبوة 100 ml، وهو غذاء طبيعي من أصل غازي عنتاب.",
+    "de": "Tillo Kochari Kürbiskernöl (aromatisch) ist ein medizinisch-aromatisches Öl aus der Gruppe der medizinisch-aromatischen Öle, erhältlich in 100 ml – ein Naturlebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 호박씨 오일 (아로마)은 약용 아로마 오일 군에 속하는 약용 아로마 오일로, 100 ml 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 130,
+  "index": 206,
   "icon": "science",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Kabak Çekirdeği Yağı (Aromatik) | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Pumpkin Seed Oil (Aromatic) | Tillo Kochari",
+    "ar": "زيت بذور اليقطين (عطري) | Tillo Kochari",
+    "de": "Kürbiskernöl (aromatisch) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "호박씨 오일 (아로마) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kabak Çekirdeği Yağı (Aromatik): Damla Damla Kullanım İçin</h2>\n<p>Tillo Kochari Kabak Çekirdeği Yağı (Aromatik), aromatik yağlar grubunda yer alan ve 100 ml'lik küçük şişesiyle öne çıkan bir kabak çekirdeği yağıdır. Koyu yeşil ile kahve arasında gezinen rengi ve derin kokusuyla yoğun bir yağdır. Küçük şişe, az miktarda ve ölçülü kullanım isteyenler için düşünülmüştür.</p>\n<p>Gaziantep'te kabak çekirdeği, kavrulup tuzlanarak akşam sohbetlerine eşlik eden bir atıştırmalık olarak bilinir. Tillo Kochari aynı çekirdeğin yağını mutfakta çeşni, bakımda ise yardımcı bir yağ olarak kullanılabilecek pratik bir şişede hazırladı. Işık ve ısıdan uzak tutulduğunda ve kapağı sıkıca kapatıldığında aromasını daha iyi korur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Sabah yoğurdunun ya da lor peynirinin üzerine birkaç damla ekleyin.</li>\n<li>El ve tırnak çevresine birkaç damla sürüp masaj yaparak bakım yağı olarak kullanın.</li>\n<li>Haşlanmış yumurta ya da avokadolu tostun üzerine gezdirip pul biberle tamamlayın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 100 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Pumpkin Seed Oil (Aromatic): For Use Drop by Drop</h2>\n<p>Tillo Kochari Pumpkin Seed Oil (Aromatic) is a pumpkin seed oil from the aromatic oils range that stands out with its small 100 ml bottle. With a colour that shifts between dark green and brown and a deep scent, it is an intense oil. The small bottle is designed for those who want to use it sparingly and in small amounts.</p>\n<p>In Gaziantep, pumpkin seeds are known as a snack that is roasted and salted to accompany evening conversations. Tillo Kochari has prepared the oil of the same seed in a practical bottle that can be used as a seasoning in the kitchen and as a supporting oil in personal care. It preserves its aroma better when kept away from light and heat with its cap tightly closed.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Add a few drops over your morning yoghurt or curd cheese.</li>\n<li>Use it as a care oil by applying a few drops around the hands and nails and massaging them in.</li>\n<li>Drizzle over boiled eggs or avocado toast and finish with chilli flakes.</li>\n</ul>\n<p><strong>Pack Size:</strong> 100 ml</p>",
+    "ar": "<h2>زيت بذور اليقطين (عطري): للاستخدام قطرةً قطرة</h2>\n<p>زيت بذور اليقطين (عطري) من Tillo Kochari زيتٌ من بذور اليقطين ينتمي إلى مجموعة الزيوت العطرية ويتميّز بزجاجته الصغيرة سعة 100 ml. وهو زيت مركّز بلونه الذي يتراوح بين الأخضر الداكن والبني ورائحته العميقة. وقد صُمّمت الزجاجة الصغيرة لمن يرغبون في استخدامه بكميات قليلة وباعتدال.</p>\n<p>في غازي عنتاب تُعرف بذور اليقطين بأنها وجبة خفيفة تُحمَّص وتُملَّح لترافق أحاديث المساء. وقد أعدّت Tillo Kochari زيت هذه البذور نفسها في زجاجة عملية يمكن استخدامها كتوابل في المطبخ، وكزيت مساعد في العناية الشخصية. ويحافظ على نكهته بشكل أفضل عند حفظه بعيدًا عن الضوء والحرارة مع إحكام إغلاق غطائه.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>أضف بضع قطرات فوق زبادي الصباح أو جبن القريش.</li>\n<li>استخدمه زيتًا للعناية بوضع بضع قطرات حول اليدين والأظافر وتدليكها.</li>\n<li>رُشَّه فوق البيض المسلوق أو خبز الأفوكادو المحمّص وأكمل الطبق برقائق الفلفل الحار.</li>\n</ul>\n<p><strong>العبوة:</strong> 100 ml</p>",
+    "de": "<h2>Kürbiskernöl (aromatisch): Für die tropfenweise Verwendung</h2>\n<p>Tillo Kochari Kürbiskernöl (aromatisch) ist ein Kürbiskernöl aus der Gruppe der aromatischen Öle, das sich durch seine kleine 100 ml Flasche auszeichnet. Mit seiner Farbe zwischen Dunkelgrün und Braun und seinem tiefen Duft ist es ein intensives Öl. Die kleine Flasche ist für alle gedacht, die es sparsam und in kleinen Mengen verwenden möchten.</p>\n<p>In Gaziantep kennt man Kürbiskerne als Knabberei, die geröstet und gesalzen die abendlichen Gespräche begleitet. Tillo Kochari hat das Öl derselben Kerne in einer praktischen Flasche abgefüllt, die in der Küche als Würze und in der Pflege als unterstützendes Öl verwendet werden kann. Vor Licht und Wärme geschützt und mit fest verschlossenem Deckel bewahrt es sein Aroma besser.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Ein paar Tropfen über den Morgenjoghurt oder Quark geben.</li>\n<li>Als Pflegeöl verwenden, indem Sie ein paar Tropfen auf Hände und Nagelhaut auftragen und einmassieren.</li>\n<li>Über gekochte Eier oder Avocado-Toast träufeln und mit Chiliflocken vollenden.</li>\n</ul>\n<p><strong>Packungsgröße:</strong> 100 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>호박씨 오일 (아로마): 한 방울씩 사용하는 오일</h2>\n<p>Tillo Kochari 호박씨 오일 (아로마)은 아로마 오일 군에 속하며 100 ml 소용량 병이 특징인 호박씨 오일입니다. 짙은 녹색과 갈색 사이를 오가는 색과 깊은 향을 지닌 진한 오일입니다. 작은 병은 소량씩 절제하여 사용하고자 하는 분들을 위해 고안되었습니다.</p>\n<p>가지안테프에서 호박씨는 볶아서 소금을 뿌려 저녁 담소에 곁들이는 간식으로 알려져 있습니다. Tillo Kochari는 같은 씨앗의 오일을 주방에서는 양념으로, 관리용으로는 보조 오일로 사용할 수 있는 실용적인 병에 담았습니다. 빛과 열을 피해 보관하고 뚜껑을 단단히 닫아 두면 향을 더 잘 유지합니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>아침 요거트나 커드 치즈 위에 몇 방울 더합니다.</li>\n<li>손과 손톱 주변에 몇 방울 바르고 마사지하여 케어 오일로 사용합니다.</li>\n<li>삶은 달걀이나 아보카도 토스트 위에 두르고 고춧가루 플레이크로 마무리합니다.</li>\n</ul>\n<p><strong>규격:</strong> 100 ml</p>"
   },
-  "update": "2026-10-28T07:04:32.124Z",
+  "update": "2026-10-28T09:07:19.408Z",
   "date": "2026-05-20T09:54:45.927Z",
   "img": "index.webp"
 }

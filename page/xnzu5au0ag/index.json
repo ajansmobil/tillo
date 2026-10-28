@@ -1,11 +1,10 @@
 {
   "name": {
     "tr": "İletişim",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Contact",
+    "ar": "اتصل بنا",
+    "de": "Kontakt",
+    "ko": "문의"
   },
   "status": "play",
   "category": "",
@@ -25,37 +24,28 @@
   "pathnext": "",
   "description": {
     "tr": "Tillo Kochari iletişim. Toptan sipariş, bayilik ve ürün bilgisi için bize ulaşın. Gaziantep ve Türkiye geneli tedarik.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Contact Tillo Kochari for wholesale orders, dealership and product information. Supply from Gaziantep across Turkey.",
+    "ar": "تواصل مع Tillo Kochari لطلبات الجملة والوكالات ومعلومات المنتجات. التوريد من غازي عنتاب إلى جميع أنحاء تركيا.",
+    "de": "Kontaktieren Sie Tillo Kochari für Großbestellungen, Händlerschaft und Produktinformationen. Belieferung aus Gaziantep in der ganzen Türkei.",
+    "ko": "Tillo Kochari에 도매 주문, 대리점 및 제품 정보를 문의하세요. 가지안테프에서 터키 전역으로 공급합니다."
   },
   "desc": {},
   "title": {
     "tr": "İletişim | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Contact | Tillo Kochari",
+    "ar": "اتصل بنا | Tillo Kochari",
+    "de": "Kontakt | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "문의 | Tillo Kochari"
   },
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, iletişim, toptan satış, bayilik, teklif al",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, contact, wholesale, dealership, get a quote",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, اتصال, بيع بالجملة, وكالة, عرض سعر",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Kontakt, Großhandel, Händlerschaft, Angebot anfordern",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 문의, 도매, 대리점, 견적 요청"
   },
-  "text": {
-    "tr": "",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
-  },
-  "update": "2026-05-21T08:39:28.785Z",
+  "update": "2026-10-28T09:08:57.451Z",
   "date": "2026-05-19"
 }

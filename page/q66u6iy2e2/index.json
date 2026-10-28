@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Antep Fıstığı Ezmesi (Cam Kavanoz)"
+    "tr": "Antep Fıstığı Ezmesi (Cam Kavanoz)",
+    "en": "Antep Pistachio Paste (Glass Jar)",
+    "ar": "معجون الفستق العنتابي (برطمان زجاجي)",
+    "de": "Antep-Pistazienpaste (im Glas)",
+    "ko": "안테프 피스타치오 페이스트 (유리병)"
   },
   "status": "play",
-  "category": "c01fistik",
+  "category": "c06meycip",
   "id": "q66u6iy2e2",
   "externalUrl": "",
   "path": "antep-fistigi-ezmesi-cam-kavanoz",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Antep Fıstığı Ezmesi (Cam Kavanoz), Antep Fıstığı Ezme ve Krema, antep fıstığı ezmesi, fıstık kreması, gaziantep fıstık, fıstık ezmesi",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Antep Pistachio Paste (Glass Jar), Antep Pistachio Pastes and Creams, Antep pistachio paste, pistachio cream, Gaziantep pistachio, pistachio spread",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, معجون الفستق العنتابي (برطمان زجاجي), معاجين وكريمات الفستق العنتابي, معجون الفستق العنتابي, كريمة الفستق, فستق غازي عنتاب, معجون الفستق",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Antep-Pistazienpaste (im Glas), Antep-Pistazienpasten und -cremes, Antep-Pistazienpaste, Pistaziencreme, Gaziantep-Pistazie, Pistazienaufstrich",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 안테프 피스타치오 페이스트 (유리병), 안테프 피스타치오 페이스트 및 크림, 안테프 피스타치오 페이스트, 피스타치오 크림, 가지안테프 피스타치오, 피스타치오 스프레드"
   },
   "description": {
-    "tr": "Tillo Kochari Antep Fıstığı Ezmesi (Cam Kavanoz): Hediyelik cam ambalaj. Antep Fıstığı Ezme ve Krema grubunda. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Antep Fıstığı Ezmesi (Cam Kavanoz): Hediyelik cam ambalaj. Antep Fıstığı Ezme ve Krema grubunda. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Antep Pistachio Paste (Glass Jar) comes in gift-ready glass packaging, is part of the Antep Pistachio Pastes and Creams range and is a natural food from Gaziantep.",
+    "ar": "Tillo Kochari — معجون الفستق العنتابي (برطمان زجاجي): عبوة زجاجية للإهداء، من فئة معاجين وكريمات الفستق العنتابي، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Antep-Pistazienpaste (im Glas) in geschenktauglicher Glasverpackung aus der Kategorie Antep-Pistazienpasten und -cremes ist ein Naturprodukt aus Gaziantep.",
+    "ko": "Tillo Kochari 안테프 피스타치오 페이스트 (유리병)는 선물용 유리 포장 제품으로, 안테프 피스타치오 페이스트 및 크림 제품군에 속하는 가지안테프 출신의 천연 식품입니다."
   },
-  "index": 5,
+  "index": 81,
   "icon": "eco",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Antep Fıstığı Ezmesi (Cam Kavanoz) | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Antep Pistachio Paste (Glass Jar) | Tillo Kochari",
+    "ar": "معجون الفستق العنتابي (برطمان زجاجي) | Tillo Kochari",
+    "de": "Antep-Pistazienpaste (im Glas) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "안테프 피스타치오 페이스트 (유리병) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Hediyelik Antep Fıstığı Ezmesi (Cam Kavanoz)</h2><p>Bir ev ziyaretine, bayram sofrasına ya da Gaziantep'ten dönen birinin valizine yakışacak bir hediye arıyorsanız, cam kavanozdaki Antep Fıstığı Ezmesi iyi bir seçim olabilir. Şeffaf cam, ezmenin rengini ve kıvamını dışarıdan gösterir; böylece hediyeyi alan kişi kavanozu açmadan ne beklediğini görür.</p><p>Tillo Kochari bu ürünü hediyelik bir cam ambalajla sunar. Kavanoz, ezme bittikten sonra baharat, kuru yemiş veya ev yapımı reçel saklamak için yeniden kullanılabilir. Kahvaltı masasına doğrudan kavanozuyla konduğunda sofraya derli toplu bir görüntü katar ve servis için ayrıca kâse gerektirmez.</p><h3>Kullanım Önerileri</h3><ul><li>Bayram ziyaretlerinde kurabiye kutusunun yanına küçük bir hediye olarak ekleyin.</li><li>Kahvaltı sofrasında kavanozu doğrudan masaya koyup tahta bir kaşıkla servis edin.</li><li>Boşalan kavanozu yıkayıp baharat ya da kuru yemiş saklama kabı olarak kullanın.</li></ul>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Gift-Ready Antep Pistachio Paste (Glass Jar)</h2><p>If you are looking for a gift fit for a home visit, a holiday table or the suitcase of someone returning from Gaziantep, Antep Pistachio Paste in a glass jar can be a good choice. The clear glass shows the colour and consistency of the paste from the outside, so the recipient can see what to expect without opening the jar.</p><p>Tillo Kochari offers this product in gift-ready glass packaging. Once the paste is finished, the jar can be reused to store spices, nuts and dried fruit, or homemade jam. Placed directly on the breakfast table, it gives the table a neat look and requires no separate bowl for serving.</p><h3>Usage Suggestions</h3><ul><li>Add it as a small gift alongside a box of cookies on holiday visits.</li><li>At breakfast, place the jar directly on the table and serve with a wooden spoon.</li><li>Wash the empty jar and use it as a storage container for spices or nuts and dried fruit.</li></ul>",
+    "ar": "<h2>معجون الفستق العنتابي للإهداء (برطمان زجاجي)</h2><p>إن كنت تبحث عن هدية تليق بزيارة منزلية أو بمائدة العيد أو بحقيبة شخص عائد من غازي عنتاب، فقد يكون معجون الفستق العنتابي في البرطمان الزجاجي خيارًا جيدًا. يُظهر الزجاج الشفاف لون المعجون وقوامه من الخارج، فيرى متلقي الهدية ما ينتظره دون أن يفتح البرطمان.</p><p>تقدّم Tillo Kochari هذا المنتج في عبوة زجاجية مخصّصة للإهداء. ويمكن إعادة استخدام البرطمان بعد انتهاء المعجون لحفظ التوابل أو المكسرات والفواكه المجففة أو المربى المنزلي. وعند وضعه مباشرة على مائدة الإفطار يضفي عليها مظهرًا مرتبًا، ولا يحتاج التقديم إلى وعاء منفصل.</p><h3>اقتراحات الاستخدام</h3><ul><li>أضفه هديةً صغيرة إلى جانب علبة الكعك في زيارات العيد.</li><li>ضع البرطمان مباشرة على مائدة الإفطار وقدّمه بملعقة خشبية.</li><li>اغسل البرطمان الفارغ واستخدمه وعاءً لحفظ التوابل أو المكسرات والفواكه المجففة.</li></ul>",
+    "de": "<h2>Antep-Pistazienpaste (im Glas) als Geschenk</h2><p>Wenn Sie ein Geschenk für einen Hausbesuch, die Festtagstafel oder den Koffer von jemandem suchen, der aus Gaziantep zurückkehrt, kann die Antep-Pistazienpaste im Glas eine gute Wahl sein. Das durchsichtige Glas zeigt Farbe und Konsistenz der Paste schon von außen; so sieht die beschenkte Person, was sie erwartet, ohne das Glas zu öffnen.</p><p>Tillo Kochari bietet dieses Produkt in einer geschenktauglichen Glasverpackung an. Ist die Paste aufgebraucht, kann das Glas zum Aufbewahren von Gewürzen, Nüssen und Trockenfrüchten oder selbstgemachter Marmelade wiederverwendet werden. Direkt auf den Frühstückstisch gestellt, sorgt es für ein aufgeräumtes Bild und macht eine separate Servierschale überflüssig.</p><h3>Verwendungsvorschläge</h3><ul><li>Legen Sie es bei Festtagsbesuchen als kleines Geschenk neben eine Keksdose.</li><li>Stellen Sie das Glas beim Frühstück direkt auf den Tisch und servieren Sie mit einem Holzlöffel.</li><li>Spülen Sie das leere Glas aus und nutzen Sie es als Vorratsbehälter für Gewürze oder Nüsse und Trockenfrüchte.</li></ul>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>선물용 안테프 피스타치오 페이스트 (유리병)</h2><p>가정 방문이나 명절 식탁, 혹은 가지안테프에서 돌아오는 이의 여행 가방에 어울리는 선물을 찾고 계신다면, 유리병에 담긴 안테프 피스타치오 페이스트가 좋은 선택이 될 수 있습니다. 투명한 유리는 페이스트의 색과 농도를 밖에서도 보여 주어, 선물을 받는 분이 병을 열지 않고도 무엇을 기대할 수 있는지 알 수 있습니다.</p><p>Tillo Kochari는 이 제품을 선물용 유리 포장으로 제공합니다. 페이스트를 다 먹은 뒤에는 병을 향신료, 견과류와 건과일, 또는 홈메이드 잼을 보관하는 데 다시 사용할 수 있습니다. 아침 식탁에 병째 올려 두면 식탁이 깔끔해 보이고, 따로 그릇을 준비할 필요도 없습니다.</p><h3>활용 제안</h3><ul><li>명절 방문 시 쿠키 상자 옆에 작은 선물로 곁들여 보세요.</li><li>아침 식탁에 병을 그대로 올리고 나무 숟가락으로 덜어 드세요.</li><li>빈 병은 씻어서 향신료나 견과류와 건과일 보관 용기로 활용해 보세요.</li></ul>"
   },
-  "update": "2026-10-28T07:04:25.348Z",
+  "update": "2026-10-28T09:07:57.377Z",
   "date": "2026-05-20T09:54:44.894Z",
   "img": "index.webp"
 }

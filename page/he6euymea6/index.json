@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "Kivi Suyu"
+    "tr": "Kivi Suyu",
+    "en": "Kiwi Juice",
+    "ar": "عصير الكيوي",
+    "de": "Kiwisaft",
+    "ko": "키위 주스"
   },
   "status": "play",
   "category": "c10meyves",
@@ -9,16 +13,20 @@
   "path": "kivi-suyu",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kivi Suyu, Meyve Suları, meyve suyu, nar suyu, doğal meyve suyu, katkısız içecek",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Kiwi Juice, Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, عصير الكيوي, العصائر, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Kiwisaft, Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연식품, 키위 주스, 과일 주스류, 과일 주스, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
-    "tr": "Tillo Kochari Kivi Suyu: Kivi nektarı. Meyve Suları grubunda. Sunulan gramaj: 750 ml. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Kivi Suyu: Kivi nektarı. Meyve Suları grubunda. Sunulan gramaj: 750 ml. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Kiwi Juice is a kiwi nectar from our Fruit Juices range, offered in 750 ml, a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari عصير الكيوي: رحيق كيوي من مجموعة العصائر، يُقدَّم بسعة 750 ml، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Kiwisaft ist ein Kiwinektar aus der Gruppe Fruchtsäfte, erhältlich in 750 ml – ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 키위 주스는 과일 주스류에 속하는 키위 넥타로, 750 ml 용량으로 제공되는 가지안테프 출신의 자연식품입니다."
   },
-  "index": 82,
+  "index": 158,
   "icon": "local_bar",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Kivi Suyu | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Kiwi Juice | Tillo Kochari",
+    "ar": "عصير الكيوي | Tillo Kochari",
+    "de": "Kiwisaft | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "키위 주스 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kivi Suyu: Yeşil Tonlarıyla Canlı Bir Nektar</h2>\n<p>Kivi Suyu, kivinin hafif ekşi ve tropik çağrışımlı aromasını nektar kıvamında bir araya getirir. Yeşile çalan rengi bardakta hemen fark edilir; tadı ise taze kivi dilimini andıran canlı bir ekşilik ile yumuşak bir tatlılık arasında dengelenir. Alışılmış meyve sularına alternatif arayanlar için farklı bir seçenektir.</p>\n<p>Tillo Kochari'nin meyve suları arasında kivi, daha az denenmiş tatları merak edenler için yer alıyor. Gaziantep kökenli ürün yelpazesinin bir parçası olan bu nektar, 750 ml'lik boyuyla birkaç kişilik servis için uygundur. Soğuk içildiğinde ekşi tonları daha ferah hissettirir ve öğle sıcağında iyi bir eşlikçi olur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Elma suyu ve birkaç nane yaprağıyla karıştırarak yeşil tonlu bir içecek hazırlayın.</li>\n<li>Yoğurt, muz ve bir avuç ıspanakla blenderdan geçirip kahvaltılık yeşil smoothie yapın.</li>\n<li>Alkolsüz kokteyllerde ekşi-tatlı bir taban olarak soda ile birlikte kullanın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 750 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Kiwi Juice: A Lively Nectar in Shades of Green</h2>\n<p>Kiwi Juice brings together the lightly tart, tropical-evoking aroma of kiwi in a nectar consistency. Its greenish color stands out in the glass right away, while its taste balances a lively tartness reminiscent of a fresh kiwi slice with a gentle sweetness. It is a different option for those looking for an alternative to the usual fruit juices.</p>\n<p>Among Tillo Kochari's fruit juices, kiwi is there for those curious about less-tried flavors. Part of the Gaziantep-rooted product range, this nectar comes in a 750 ml size suitable for serving a few people. Served cold, its tart notes feel more refreshing, making it a good companion in the midday heat.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Mix with apple juice and a few mint leaves to make a green-hued drink.</li>\n<li>Blend with yogurt, banana and a handful of spinach for a green breakfast smoothie.</li>\n<li>Use with soda water as a sweet-and-sour base in non-alcoholic cocktails.</li>\n</ul>\n<p><strong>Size:</strong> 750 ml</p>",
+    "ar": "<h2>عصير الكيوي: رحيق حيوي بدرجات الأخضر</h2>\n<p>يجمع عصير الكيوي نكهة الكيوي الحامضة قليلًا ذات الإيحاء الاستوائي بقوام الرحيق. يلفت لونه المائل إلى الأخضر النظر في الكوب فورًا، أما طعمه فيتوازن بين حموضة حيوية تشبه شريحة كيوي طازجة وحلاوة ناعمة. إنه خيار مختلف لمن يبحثون عن بديل للعصائر المعتادة.</p>\n<p>يحتل الكيوي مكانه بين عصائر Tillo Kochari لمن يحبون اكتشاف النكهات الأقل تجربة. هذا الرحيق جزء من تشكيلة المنتجات التي تعود أصولها إلى غازي عنتاب، وتناسب عبوته سعة 750 ml التقديم لعدة أشخاص. عند شربه باردًا تبدو نغماته الحامضة أكثر انتعاشًا، فيكون رفيقًا جيدًا في حر الظهيرة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>امزجه مع عصير التفاح وبضع أوراق نعناع لتحضير مشروب بلون أخضر.</li>\n<li>اخلطه في الخلاط مع الزبادي والموز وحفنة من السبانخ لتحضير سموذي أخضر للفطور.</li>\n<li>استخدمه مع الصودا أساسًا حامضًا حلوًا في الكوكتيلات الخالية من الكحول.</li>\n</ul>\n<p><strong>الحجم:</strong> 750 ml</p>",
+    "de": "<h2>Kiwisaft: lebendiger Nektar in Grüntönen</h2>\n<p>Kiwisaft vereint das leicht säuerliche, an die Tropen erinnernde Aroma der Kiwi in Nektarkonsistenz. Seine grünliche Farbe fällt im Glas sofort auf; geschmacklich hält er die Balance zwischen einer lebendigen Säure, die an eine frische Kiwischeibe erinnert, und einer sanften Süße. Eine besondere Wahl für alle, die eine Alternative zu den gewohnten Fruchtsäften suchen.</p>\n<p>Unter den Fruchtsäften von Tillo Kochari ist die Kiwi für alle da, die neugierig auf weniger bekannte Geschmacksrichtungen sind. Als Teil des Sortiments mit Wurzeln in Gaziantep eignet sich dieser Nektar mit seiner 750-ml-Flasche zum Servieren für mehrere Personen. Gekühlt getrunken wirken seine säuerlichen Noten noch frischer – ein guter Begleiter in der Mittagshitze.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Mit Apfelsaft und ein paar Minzblättern mischen – für ein Getränk in Grüntönen.</li>\n<li>Mit Joghurt, Banane und einer Handvoll Spinat zu einem grünen Frühstücks-Smoothie mixen.</li>\n<li>In alkoholfreien Cocktails zusammen mit Sodawasser als süßsaure Basis verwenden.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 750 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>키위 주스: 초록빛이 살아 있는 생기 있는 넥타</h2>\n<p>키위 주스는 키위의 살짝 새콤하고 열대 과일을 연상시키는 향을 넥타 농도로 담았습니다. 초록빛이 도는 색은 잔에 따르는 순간 눈에 띄며, 맛은 신선한 키위 조각을 닮은 생기 있는 새콤함과 부드러운 단맛 사이에서 균형을 이룹니다. 익숙한 과일 주스의 대안을 찾는 분께 색다른 선택입니다.</p>\n<p>Tillo Kochari의 과일 주스 가운데 키위는 덜 알려진 맛을 궁금해하는 분들을 위해 마련되었습니다. 가지안테프에 뿌리를 둔 제품군의 하나인 이 넥타는 750 ml 용량으로 몇 사람이 나누어 마시기에 알맞습니다. 차갑게 마시면 새콤한 맛이 한층 상쾌하게 느껴져 한낮 더위에 좋은 동반자가 됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>사과 주스와 민트 잎 몇 장을 섞어 초록빛 음료를 만들어 보세요.</li>\n<li>요거트, 바나나, 시금치 한 줌과 함께 블렌더에 갈아 아침용 그린 스무디를 만들어 보세요.</li>\n<li>무알코올 칵테일에 탄산수와 함께 새콤달콤한 베이스로 활용해 보세요.</li>\n</ul>\n<p><strong>용량:</strong> 750 ml</p>"
   },
-  "update": "2026-10-28T07:04:29.467Z",
+  "update": "2026-10-28T09:07:43.701Z",
   "date": "2026-05-20T09:54:45.524Z",
   "img": "index.webp"
 }

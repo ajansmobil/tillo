@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Fıstıklı Lokum"
+    "tr": "Fıstıklı Lokum",
+    "en": "Pistachio Lokum (Turkish Delight)",
+    "ar": "راحة الحلقوم بالفستق",
+    "de": "Pistazien-Lokum",
+    "ko": "피스타치오 로쿰 (터키시 딜라이트)"
   },
   "status": "play",
-  "category": "c09gelenek",
+  "category": "c13konserve",
   "id": "j6m2yaeuum",
   "externalUrl": "",
   "path": "fistikli-lokum",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Fıstıklı Lokum, Lokum, Pestil ve Geleneksel Tatlılar, lokum, pestil, köme, tahin helva",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Pistachio Lokum, Lokum, Pestil and Traditional Sweets, lokum, pestil, köme, tahini halva",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, راحة الحلقوم بالفستق, الحلقوم, البستيل والحلويات التقليدية, راحة الحلقوم, بستيل, كومه, حلاوة طحينية",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Pistazien-Lokum, Lokum, Pestil und traditionelle Süßwaren, Lokum, Pestil, Köme, Tahin-Halva",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 피스타치오 로쿰, 로쿰, 페스틸 및 전통 과자, 로쿰, 페스틸, 쾨메, 타히니 할바"
   },
   "description": {
-    "tr": "Tillo Kochari Fıstıklı Lokum: Antep fıstıklı lokum. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Fıstıklı Lokum: Antep fıstıklı lokum. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Pistachio Lokum, a lokum made with Antep pistachios, is part of the Lokum, Pestil and Traditional Sweets range, offered in 500 g as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari: راحة الحلقوم بفستق عنتاب، ضمن فئة الحلقوم والبستيل والحلويات التقليدية، بوزن 500 g، غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Pistazien-Lokum mit Antep-Pistazien gehört zur Kategorie Lokum, Pestil und traditionelle Süßwaren und ist als natürliches Lebensmittel aus Gaziantep in 500 g erhältlich.",
+    "ko": "Tillo Kochari 피스타치오 로쿰은 안테프 피스타치오를 넣은 로쿰·페스틸·전통 과자 제품으로, 500 g 용량으로 제공되는 가지안테프의 천연 식품입니다."
   },
-  "index": 60,
+  "index": 136,
   "icon": "cake",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Fıstıklı Lokum | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Pistachio Lokum (Turkish Delight) | Tillo Kochari",
+    "ar": "راحة الحلقوم بالفستق | Tillo Kochari",
+    "de": "Pistazien-Lokum | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "피스타치오 로쿰 (터키시 딜라이트) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Fıstıklı Lokum: Antep Fıstığının Yeşili Her Dilimde</h2>\n<p>Fıstıklı Lokum, yumuşak ve esnek lokum dokusunu Antep fıstığının çıtırlığıyla buluşturur. Kesildiğinde dilimlerin arasından görünen yeşil fıstıklar hem göze hem damağa hitap eder. Isırıldıkça hafifçe uzayan lokumun tatlılığı, fıstığın yağlı ve yuvarlak aromasıyla dengelenir; kahvenin yanında küçük bir parça bile tatmin edici gelir.</p>\n<p>Antep fıstığı, Gaziantep'in adıyla birlikte anılan ürünlerin başında gelir; Tillo Kochari'nin bu lokumunda da fıstık, tadın tam merkezinde duruyor. 500 gramlık paket, bayram ziyaretlerinde ikram tabağını doldurmak, kalabalık bir aile sofrasında paylaşmak ya da özenli bir hediye kutusu hazırlamak için rahat bir miktar sunar.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Türk kahvesinin yanında bir iki dilim olarak ikram edin.</li>\n<li>Bayram ve misafir tabaklarında kuru meyvelerle birlikte sunun.</li>\n<li>Küçük küpler hâlinde doğrayıp sütlü tatlıların üzerine serpiştirin.</li>\n</ul>\n<p><strong>Gramaj:</strong> 500 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Pistachio Lokum: The Green of Antep Pistachio in Every Slice</h2>\n<p>Pistachio Lokum brings together the soft, chewy texture of lokum with the crunch of Antep pistachios. When cut, the green pistachios visible between the slices appeal to both the eye and the palate. The sweetness of the lokum, which stretches slightly with each bite, is balanced by the rich, rounded aroma of pistachio; even a small piece alongside coffee is satisfying.</p>\n<p>The Antep pistachio is foremost among the products associated with the name of Gaziantep; in this lokum from Tillo Kochari, too, pistachio sits right at the heart of the flavor. The 500 g pack is a convenient amount for filling the treat plate during holiday visits, sharing at a crowded family table or preparing a thoughtful gift box.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Offer one or two slices alongside Turkish coffee.</li>\n<li>Serve with dried fruits on holiday and guest platters.</li>\n<li>Cut into small cubes and sprinkle over milk desserts.</li>\n</ul>\n<p><strong>Net Weight:</strong> 500 g</p>",
+    "ar": "<h2>راحة الحلقوم بالفستق: خضرة فستق عنتاب في كل شريحة</h2>\n<p>تجمع راحة الحلقوم بالفستق بين قوام الحلقوم الطري المرن وقرمشة فستق عنتاب. عند تقطيعها تخاطب حبات الفستق الخضراء الظاهرة بين الشرائح العين والذوق معًا. وتتوازن حلاوة الحلقوم، التي تتمدد قليلًا مع كل قضمة، مع رائحة الفستق الغنية المستديرة؛ حتى قطعة صغيرة بجانب القهوة تكون مُرضية.</p>\n<p>يأتي فستق عنتاب في مقدمة المنتجات التي يقترن ذكرها باسم غازي عنتاب، وفي راحة الحلقوم هذه من Tillo Kochari يقف الفستق في قلب المذاق تمامًا. وتوفّر العبوة سعة 500 g كمية مريحة لملء طبق الضيافة في زيارات العيد، أو للمشاركة على مائدة عائلية عامرة، أو لتحضير علبة هدايا أنيقة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>قدّم شريحة أو اثنتين منها بجانب القهوة التركية.</li>\n<li>قدّمها مع الفواكه المجففة في أطباق العيد والضيافة.</li>\n<li>قطّعها مكعبات صغيرة وانثرها فوق الحلويات المحضّرة بالحليب.</li>\n</ul>\n<p><strong>الوزن:</strong> 500 g</p>",
+    "de": "<h2>Pistazien-Lokum: Das Grün der Antep-Pistazie in jeder Scheibe</h2>\n<p>Das Pistazien-Lokum verbindet die weiche, elastische Lokum-Textur mit dem Biss der Antep-Pistazie. Beim Anschneiden sprechen die zwischen den Scheiben sichtbaren grünen Pistazien Auge und Gaumen gleichermaßen an. Die Süße des Lokums, das sich beim Abbeißen leicht zieht, wird durch das gehaltvolle, runde Aroma der Pistazie ausgeglichen; schon ein kleines Stück zum Kaffee ist ein Genuss.</p>\n<p>Die Antep-Pistazie steht an erster Stelle der Produkte, die mit dem Namen Gaziantep verbunden werden; auch in diesem Lokum von Tillo Kochari steht die Pistazie im Mittelpunkt des Geschmacks. Die Packung mit 500 g bietet eine praktische Menge, um bei Festtagsbesuchen den Gästeteller zu füllen, am vollen Familientisch zu teilen oder eine liebevolle Geschenkbox zu gestalten.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Ein oder zwei Scheiben zum türkischen Mokka anbieten.</li>\n<li>Auf Festtags- und Gästetellern zusammen mit Trockenfrüchten servieren.</li>\n<li>In kleine Würfel schneiden und über Milchdesserts streuen.</li>\n</ul>\n<p><strong>Gewicht:</strong> 500 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>피스타치오 로쿰: 한 조각마다 담긴 안테프 피스타치오의 초록빛</h2>\n<p>피스타치오 로쿰은 부드럽고 쫀득한 로쿰의 식감에 안테프 피스타치오의 바삭함을 더했습니다. 자르면 단면 사이로 보이는 초록빛 피스타치오가 눈과 입을 모두 즐겁게 합니다. 한 입 베어 물 때마다 살짝 늘어나는 로쿰의 단맛이 피스타치오의 고소하고 둥근 풍미와 균형을 이루어, 커피 곁에 작은 한 조각만으로도 만족스럽습니다.</p>\n<p>안테프 피스타치오는 가지안테프라는 이름과 함께 떠오르는 대표 산물이며, Tillo Kochari의 이 로쿰에서도 피스타치오가 맛의 중심에 자리합니다. 500 g 포장은 명절 방문 때 다과 접시를 채우거나, 북적이는 가족 식탁에서 나누거나, 정성 어린 선물 상자를 준비하기에 알맞은 양입니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>튀르키예 커피와 함께 한두 조각 곁들여 내 보세요.</li>\n<li>명절 및 손님 접대용 접시에 말린 과일과 함께 담아 보세요.</li>\n<li>작은 큐브 모양으로 썰어 우유 디저트 위에 뿌려 보세요.</li>\n</ul>\n<p><strong>중량:</strong> 500 g</p>"
   },
-  "update": "2026-10-28T07:04:28.288Z",
+  "update": "2026-10-28T09:07:46.871Z",
   "date": "2026-05-20T09:54:45.350Z",
   "img": "index.webp"
 }

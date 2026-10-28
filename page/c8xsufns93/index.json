@@ -1,0 +1,57 @@
+{
+  "id": "c8xsufns93",
+  "name": {
+    "tr": "Nohut",
+    "en": "Chickpeas",
+    "ar": "الحمص",
+    "de": "Kichererbsen",
+    "ko": "병아리콩"
+  },
+  "description": {
+    "tr": "Tillo Kochari Nohut, Bakliyat Grubu ve Ürünleri grubunda. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Chickpeas from the Legumes and Legume Products range, a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari الحمص من مجموعة البقوليات ومنتجاتها، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Kichererbsen aus dem Sortiment Hülsenfrüchte und Hülsenfruchtprodukte – ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 병아리콩, 가지안테프에 뿌리를 둔 콩류 및 콩 가공품 제품군의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Nohut, Bakliyat Grubu ve Ürünleri",
+    "en": "Tillo Kochari, Gaziantep, natural food, Chickpeas, Legumes and Legume Products",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, الحمص, البقوليات ومنتجاتها",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Kichererbsen, Hülsenfrüchte und Hülsenfruchtprodukte",
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 병아리콩, 콩류 및 콩 가공품"
+  },
+  "path": "nohut",
+  "icon": "breakfast_dining",
+  "category": "c02findik",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 59,
+  "url": "",
+  "text": {
+    "tr": "<h2>Nohut: Kış Sofrasından Mezeye Her Mevsim</h2>\n<p>Nohut, iri ve yuvarlak taneleriyle Türk mutfağının en sevilen bakliyatlarından biridir. Akşamdan suya konup ertesi gün haşlandığında yumuşak, kremamsı bir iç ve hafif tatlımsı bir tat kazanır. Etli yemeklerden pilavlara, humustan çorbalara kadar sayısız tarifin temel malzemesidir.</p>\n<p>Tillo Kochari kilerinde nohut, her gün elinin altında bulunması gereken temel ürünler arasında. Haşlama suyuna bir tutam karbonat eklemek kabuklarının yumuşamasına yardım eder. Haşlanmış nohudu porsiyonlara ayırıp dondurucuda saklarsanız hafta içi yemeklerinde zaman kazanır, ani misafirlere de hızlıca bir tabak hazırlarsınız.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Tahin, limon ve sarımsakla ezilerek hazırlanan humus</li>\n<li>Kuşbaşı et ve domatesle pişen etli nohut yemeği</li>\n<li>Fırında baharatla kızartılan çıtır nohut atıştırmalığı</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Chickpeas: From Winter Meals to Appetizers, Every Season</h2>\n<p>Chickpeas, with their large, round grains, are one of the most beloved legumes of Turkish cuisine. Soaked in water the evening before and boiled the next day, they gain a soft, creamy interior and a slightly sweet taste. They are the main ingredient of countless recipes, from meat dishes and pilafs to hummus and soups.</p>\n<p>In the Tillo Kochari pantry, chickpeas are among the staples that should always be close at hand. Adding a pinch of baking soda to the cooking water helps soften their skins. If you portion boiled chickpeas and store them in the freezer, you save time on weekday meals and can quickly prepare a dish for unexpected guests.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Hummus made by mashing with tahini, lemon and garlic</li>\n<li>Chickpea stew cooked with diced meat and tomatoes</li>\n<li>Crispy chickpea snack roasted in the oven with spices</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various weights on request.</p>",
+    "ar": "<h2>الحمص: من مائدة الشتاء إلى المقبلات في كل موسم</h2>\n<p>الحمص، بحبّاته الكبيرة المستديرة، من أحب البقوليات في المطبخ التركي. وعند نقعه في الماء من المساء وسلقه في اليوم التالي يكتسب داخلًا طريًا كالكريمة ومذاقًا مائلًا إلى الحلاوة قليلًا. وهو المكوّن الأساسي لوصفات لا تُحصى، من أطباق اللحم والأرز إلى الحمص بالطحينة والشوربات.</p>\n<p>في مخزن Tillo Kochari يُعدّ الحمص من المنتجات الأساسية التي ينبغي أن تكون في متناول اليد كل يوم. وإضافة رشة من بيكربونات الصوديوم إلى ماء السلق تساعد على تليين قشوره. وإذا قسّمتم الحمص المسلوق إلى حصص وحفظتموه في المجمّد، توفّرون الوقت في وجبات أيام الأسبوع، وتحضّرون طبقًا سريعًا للضيوف المفاجئين.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>حمص بالطحينة يُحضَّر بهرس الحمص مع الطحينة والليمون والثوم</li>\n<li>يخنة الحمص باللحم المقطّع مكعبات والطماطم</li>\n<li>وجبة خفيفة من الحمص المقرمش المحمّص في الفرن بالتوابل</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Kichererbsen: Vom Winteressen bis zur Vorspeise – zu jeder Jahreszeit</h2>\n<p>Kichererbsen gehören mit ihren großen, runden Körnern zu den beliebtesten Hülsenfrüchten der türkischen Küche. Am Vorabend eingeweicht und am nächsten Tag gekocht, erhalten sie ein weiches, cremiges Inneres und einen leicht süßlichen Geschmack. Sie sind die Hauptzutat unzähliger Rezepte – von Fleischgerichten und Pilaws bis zu Hummus und Suppen.</p>\n<p>In der Vorratskammer von Tillo Kochari gehören Kichererbsen zu den Grundprodukten, die man jeden Tag griffbereit haben sollte. Eine Prise Natron im Kochwasser hilft, die Schalen weicher zu machen. Wenn Sie gekochte Kichererbsen portionsweise einfrieren, sparen Sie unter der Woche Zeit beim Kochen und können auch für überraschende Gäste schnell einen Teller zubereiten.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Hummus, mit Tahini, Zitrone und Knoblauch püriert</li>\n<li>Kichererbseneintopf mit gewürfeltem Fleisch und Tomaten</li>\n<li>Knuspriger Kichererbsensnack, im Ofen mit Gewürzen geröstet</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Gewichtsgrößen auf Anfrage erhältlich.</p>",
+    "ko": "<h2>병아리콩: 겨울 식탁부터 애피타이저까지 사계절 내내</h2>\n<p>병아리콩은 크고 둥근 알갱이를 지닌, 튀르키예 요리에서 가장 사랑받는 콩류 중 하나입니다. 전날 저녁 물에 불려 다음 날 삶으면 속은 부드럽고 크리미해지며 은은한 단맛이 납니다. 고기 요리와 필라프부터 후무스와 수프까지 수많은 요리의 기본 재료입니다.</p>\n<p>Tillo Kochari 식료품 저장실에서 병아리콩은 늘 가까이 두어야 할 기본 식품 중 하나입니다. 삶는 물에 베이킹소다를 한 꼬집 넣으면 껍질이 부드러워지는 데 도움이 됩니다. 삶은 병아리콩을 1회분씩 나눠 냉동해 두면 주중 식사 준비 시간을 아끼고, 갑작스러운 손님에게도 빠르게 한 접시를 낼 수 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>타히니, 레몬, 마늘과 함께 으깨어 만드는 후무스</li>\n<li>깍둑썬 고기와 토마토로 끓인 병아리콩 스튜</li>\n<li>향신료를 뿌려 오븐에 구운 바삭한 병아리콩 간식</li>\n</ul>\n<p><strong>포장:</strong> 다양한 중량으로 주문에 따라 제공됩니다.</p>"
+  },
+  "title": {
+    "tr": "Nohut | Tillo Kochari",
+    "en": "Chickpeas | Tillo Kochari",
+    "ar": "الحمص | Tillo Kochari",
+    "de": "Kichererbsen | Tillo Kochari",
+    "ko": "병아리콩 | Tillo Kochari"
+  },
+  "date": "2026-10-28T08:16:21.937Z",
+  "update": "2026-10-28T09:07:36.396Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

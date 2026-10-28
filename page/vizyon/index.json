@@ -1,11 +1,10 @@
 {
   "name": {
     "tr": "Vizyon",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Vision",
+    "ar": "الرؤية",
+    "de": "Vision",
+    "ko": "비전"
   },
   "status": "play",
   "id": "vizyon",
@@ -13,11 +12,11 @@
   "category": "",
   "text": {
     "tr": "<h2 style=\"font-size: 24px;\">Vizyonumuz</h2>\n    <p style=\" font-size: 16px;\">\n        Vizyonumuz, Türkiye genelinde ve uluslararası pazarda 'doğal gıda' denince akla gelen ilk ve en güvenilir markalardan biri olmaktır. Kalitemiz, dürüstlüğümüz ve tutarlılığımızla müşterilerimizin güvenini her adımda kazanmayı hedefliyoruz.\n    </p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2 style=\"font-size: 24px;\">Our Vision</h2>\n    <p style=\" font-size: 16px;\">\n        Our vision is to be one of the first and most trusted brands that come to mind when people think of 'natural food', both across Turkey and on the international market. Through our quality, honesty and consistency, we aim to earn our customers' trust at every step.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">رؤيتنا</h2>\n    <p style=\" font-size: 16px;\">\n        تتمثل رؤيتنا في أن نكون من أوائل العلامات التجارية وأكثرها موثوقية التي تتبادر إلى الذهن عند ذكر «الأغذية الطبيعية»، في جميع أنحاء تركيا وفي الأسواق الدولية. ونسعى إلى كسب ثقة عملائنا في كل خطوة بفضل جودتنا ونزاهتنا وثباتنا.\n    </p>",
+    "de": "<h2 style=\"font-size: 24px;\">Unsere Vision</h2>\n    <p style=\" font-size: 16px;\">\n        Unsere Vision ist es, in der gesamten Türkei und auf dem internationalen Markt eine der ersten und vertrauenswürdigsten Marken zu sein, an die man bei „natürlichen Lebensmitteln“ denkt. Mit unserer Qualität, Ehrlichkeit und Beständigkeit wollen wir bei jedem Schritt das Vertrauen unserer Kundinnen und Kunden gewinnen.\n    </p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2 style=\"font-size: 24px;\">우리의 비전</h2>\n    <p style=\" font-size: 16px;\">\n        당사의 비전은 튀르키예 전역과 해외 시장에서 '천연 식품' 하면 가장 먼저 떠오르는, 가장 신뢰받는 브랜드 중 하나가 되는 것입니다. 품질과 정직, 그리고 일관성으로 모든 단계에서 고객의 신뢰를 얻는 것을 목표로 합니다.\n    </p>"
   },
   "desing": {
     "header": [],
@@ -28,29 +27,28 @@
   "index": 2,
   "icon": "home",
   "title": {
-    "tr": "Vizyonumuz | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Vizyon | Tillo Kochari",
+    "en": "Vision | Tillo Kochari",
+    "ar": "الرؤية | Tillo Kochari",
+    "de": "Vision | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "비전 | Tillo Kochari"
   },
   "description": {
     "tr": "Tillo Kochari vizyonu. Türkiye ve uluslararası pazarda tercih edilen doğal gıda markası olmak.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Tillo Kochari's vision: to be the natural food brand of choice in Turkey and on the international market.",
+    "ar": "Tillo Kochari – رؤيتنا: أن نكون علامة الأغذية الطبيعية المفضلة في تركيا والأسواق الدولية.",
+    "de": "Tillo Kochari – unsere Vision: die bevorzugte Marke für natürliche Lebensmittel in der Türkei und auf dem internationalen Markt zu sein.",
+    "ko": "Tillo Kochari의 비전은 튀르키예와 해외 시장에서 선택받는 천연 식품 브랜드가 되는 것입니다."
   },
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, vizyon, gıda markası, ihracat, yenilikçi gıda",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, vision, food brand, export, innovative food",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, الرؤية, علامة غذائية, تصدير, أغذية مبتكرة",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Vision, Lebensmittelmarke, Export, innovative Lebensmittel",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 비전, 식품 브랜드, 수출, 혁신 식품"
   },
-  "update": "2026-05-21T08:39:29.637Z",
+  "update": "2026-10-28T09:08:06.435Z",
   "date": "2026-05-19"
 }

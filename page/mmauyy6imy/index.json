@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Ayçiçek Yağı"
+    "tr": "Ayçiçek Yağı",
+    "en": "Sunflower Oil",
+    "ar": "زيت دوار الشمس",
+    "de": "Sonnenblumenöl",
+    "ko": "해바라기유"
   },
   "status": "play",
-  "category": "c14siviya",
+  "category": "c03badem",
   "id": "mmauyy6imy",
   "externalUrl": "",
   "path": "aycicek-yagi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Ayçiçek Yağı, Sıvı Yağlar, zeytinyağı, sızma zeytinyağı, fındık yağı, soğuk sıkım",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Sunflower Oil, Liquid Oils, olive oil, extra virgin olive oil, hazelnut oil, cold-pressed",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, زيت دوار الشمس, الزيوت السائلة, زيت الزيتون, زيت الزيتون البكر الممتاز, زيت البندق, معصور على البارد",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Sonnenblumenöl, Speiseöle, Olivenöl, natives Olivenöl extra, Haselnussöl, kaltgepresst",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연식품, 해바라기유, 식용유, 올리브유, 엑스트라 버진 올리브유, 헤이즐넛 오일, 냉압착"
   },
   "description": {
-    "tr": "Tillo Kochari Ayçiçek Yağı: Rafine ayçiçek. Sıvı Yağlar grubunda. Sunulan gramaj: 1 L / 5 L. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Ayçiçek Yağı: Rafine ayçiçek. Sıvı Yağlar grubunda. Sunulan gramaj: 1 L / 5 L. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Sunflower Oil is a refined sunflower oil from the Liquid Oils range, offered in 1 L / 5 L as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari زيت دوار الشمس زيت دوار شمس مكرّر ضمن مجموعة الزيوت السائلة، يُقدَّم بحجم 1 L / 5 L غذاءً طبيعيًا أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Sonnenblumenöl ist ein raffiniertes Sonnenblumenöl aus der Gruppe Speiseöle, erhältlich in 1 L / 5 L als natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 해바라기유는 식용유 카테고리의 정제 해바라기유로, 1 L / 5 L 용량으로 제공되는 가지안테프 태생의 자연식품입니다."
   },
-  "index": 125,
+  "index": 201,
   "icon": "opacity",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Ayçiçek Yağı | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Sunflower Oil | Tillo Kochari",
+    "ar": "زيت دوار الشمس | Tillo Kochari",
+    "de": "Sonnenblumenöl | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "해바라기유 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Ayçiçek Yağı: Günlük Pişirmenin Temel Yağı</h2>\n<p>Tillo Kochari Ayçiçek Yağı, rafine edilmiş bir ayçiçek yağıdır. Açık rengi, belirgin bir kokusu olmayan yapısı ve hafif kıvamıyla mutfakta en sık başvurulan yağlardan biridir. Kızartmadan hamur işine, sote yemeklerinden tatlılara kadar yemeğin kendi tadına karışmadan işini görür ve her tarifle kolayca uyum sağlar.</p>\n<p>Gaziantep'te bayram öncesi hazırlanan hamur işleri, sabah kızartılan pişiler ve fırın tepsileri hep elin altında duran bir yağ ister. Ayçiçek yağı 1 L ve 5 L seçenekleriyle geliyor; sık pişiren mutfaklar 5 L'lik seçenekten, küçük haneler ise 1 L'lik seçenekten yararlanabilir. Kullandıktan sonra kapağı sıkıca kapatmayı unutmayın.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Patates, patlıcan ya da kabak kızartmasında derin kızartma yağı olarak kullanın.</li>\n<li>Pişi ve poğaça hamurlarında yoğurtla birlikte hamurun yağ kısmını oluşturun.</li>\n<li>Ev yapımı mayonez çırparken nötr tadıyla sosun temelini oluşturun.</li>\n</ul>\n<p><strong>Gramaj:</strong> 1 L / 5 L</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Sunflower Oil: The Staple Oil of Everyday Cooking</h2>\n<p>Tillo Kochari Sunflower Oil is a refined sunflower oil. With its light colour, lack of a pronounced scent and light consistency, it is one of the most frequently used oils in the kitchen. From frying to baking, from sautéed dishes to desserts, it does its job without interfering with the dish's own taste and adapts easily to every recipe.</p>\n<p>In Gaziantep, the pastries prepared before holidays, the fried dough breads made in the morning and the oven trays all call for an oil that is always within reach. Sunflower oil comes in 1 L and 5 L options; kitchens that cook often can benefit from the 5 L option, while small households can opt for the 1 L option. Don't forget to close the cap tightly after use.</p>\n<h3>Usage Suggestions</h3>\n<ul>\n<li>Use it as a deep-frying oil for fried potatoes, aubergines or courgettes.</li>\n<li>In doughs for fried breads and savoury buns, use it together with yoghurt as the fat component of the dough.</li>\n<li>When whisking homemade mayonnaise, let its neutral taste form the base of the sauce.</li>\n</ul>\n<p><strong>Size:</strong> 1 L / 5 L</p>",
+    "ar": "<h2>زيت دوار الشمس: الزيت الأساسي للطهي اليومي</h2>\n<p>زيت دوار الشمس من Tillo Kochari زيت دوار شمس مكرّر. وبلونه الفاتح وخلوّه من رائحة واضحة وقوامه الخفيف، يُعدّ من أكثر الزيوت استخدامًا في المطبخ. فمن القلي إلى المعجنات، ومن الأطباق المقلّبة إلى الحلويات، يؤدي مهمته دون أن يتداخل مع طعم الطعام نفسه، ويتلاءم بسهولة مع كل وصفة.</p>\n<p>في غازي عنتاب، تتطلب المعجنات التي تُحضَّر قبل الأعياد، والفطائر المقلية صباحًا، وصواني الفرن زيتًا حاضرًا دائمًا في متناول اليد. ويأتي زيت دوار الشمس بخياري 1 L و 5 L؛ إذ يمكن للمطابخ التي تطهو كثيرًا الاستفادة من خيار 5 L، وللأسر الصغيرة من خيار 1 L. ولا تنسَ إحكام إغلاق الغطاء بعد الاستخدام.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>استخدمه زيتًا للقلي العميق عند قلي البطاطس أو الباذنجان أو الكوسا.</li>\n<li>في عجين الفطائر المقلية والكعك المالح، استخدمه مع اللبن الزبادي ليشكّل الجزء الدهني من العجين.</li>\n<li>عند خفق المايونيز المنزلي، دع طعمه المحايد يشكّل أساس الصلصة.</li>\n</ul>\n<p><strong>الحجم:</strong> 1 L / 5 L</p>",
+    "de": "<h2>Sonnenblumenöl: Das Grundöl für das tägliche Kochen</h2>\n<p>Das Tillo Kochari Sonnenblumenöl ist ein raffiniertes Sonnenblumenöl. Mit seiner hellen Farbe, seinem kaum wahrnehmbaren Geruch und seiner leichten Konsistenz gehört es zu den am häufigsten verwendeten Ölen in der Küche. Vom Frittieren bis zum Backen, von sautierten Gerichten bis zu Desserts erfüllt es seine Aufgabe, ohne den Eigengeschmack des Gerichts zu beeinflussen, und passt sich jedem Rezept mühelos an.</p>\n<p>In Gaziantep verlangen das Gebäck vor den Feiertagen, die morgens ausgebackenen Teigfladen und die Backbleche stets nach einem Öl, das griffbereit ist. Sonnenblumenöl gibt es in den Varianten 1 L und 5 L; Küchen, in denen viel gekocht wird, profitieren von der Variante mit 5 L, kleine Haushalte von der Variante mit 1 L. Vergessen Sie nicht, den Deckel nach Gebrauch fest zu verschließen.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Als Frittieröl für Kartoffeln, Auberginen oder Zucchini verwenden.</li>\n<li>In Teigen für ausgebackene Fladen und herzhaftes Hefegebäck zusammen mit Joghurt als Fettanteil des Teigs einsetzen.</li>\n<li>Beim Aufschlagen hausgemachter Mayonnaise mit seinem neutralen Geschmack die Grundlage der Soße bilden.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 1 L / 5 L</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>해바라기유: 매일 요리의 기본 오일</h2>\n<p>Tillo Kochari 해바라기유는 정제된 해바라기씨 오일입니다. 맑은 색과 두드러진 냄새가 없는 특성, 가벼운 질감으로 주방에서 가장 자주 쓰이는 오일 중 하나입니다. 튀김부터 반죽 요리, 볶음 요리부터 디저트까지 음식 본연의 맛에 섞여 들지 않고 제 역할을 하며 어떤 레시피와도 쉽게 어우러집니다.</p>\n<p>가지안테프에서는 명절을 앞두고 만드는 반죽 요리, 아침에 튀겨 내는 튀김빵, 오븐 쟁반 요리 모두 언제나 손 닿는 곳에 있는 오일을 필요로 합니다. 해바라기유는 1 L와 5 L 두 가지 용량으로 제공되며, 요리를 자주 하는 주방은 5 L 제품을, 소가구는 1 L 제품을 이용할 수 있습니다. 사용 후에는 뚜껑을 꼭 닫아 주십시오.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>감자, 가지, 애호박 튀김을 할 때 튀김용 기름으로 사용하십시오.</li>\n<li>튀김빵과 짭짤한 번 반죽에 요거트와 함께 넣어 반죽의 유지 성분으로 사용하십시오.</li>\n<li>홈메이드 마요네즈를 만들 때 중립적인 맛으로 소스의 바탕을 만드십시오.</li>\n</ul>\n<p><strong>용량:</strong> 1 L / 5 L</p>"
   },
-  "update": "2026-10-28T07:04:31.844Z",
+  "update": "2026-10-28T09:07:52.013Z",
   "date": "2026-05-20T09:54:45.893Z",
   "img": "index.webp"
 }

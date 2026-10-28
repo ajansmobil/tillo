@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Fındık Ezmesi (Premium)"
+    "tr": "Fındık Ezmesi (Premium)",
+    "en": "Hazelnut Butter (Premium)",
+    "ar": "زبدة البندق (بريميوم)",
+    "de": "Haselnussmus (Premium)",
+    "ko": "헤이즐넛 버터 (프리미엄)"
   },
   "status": "play",
-  "category": "c02findik",
+  "category": "c06meycip",
   "id": "5aqqa6a6iy",
   "externalUrl": "",
   "path": "findik-ezmesi-premium",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Fındık Ezmesi (Premium), Fındık Ezme ve Krema, fındık ezmesi, fındık kreması, giresun fındık, fındık ezme",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Hazelnut Butter (Premium), Hazelnut Butters & Creams, hazelnut butter, hazelnut cream, Giresun hazelnuts, hazelnut spread",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, زبدة البندق (بريميوم), زبدة وكريمة البندق, زبدة البندق, كريمة البندق, بندق غيرسون, معجون البندق",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Haselnussmus (Premium), Haselnussmus & -creme, Haselnussmus, Haselnusscreme, Giresun-Haselnüsse, Haselnussaufstrich",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 헤이즐넛 버터 (프리미엄), 헤이즐넛 버터·크림, 헤이즐넛 버터, 헤이즐넛 크림, 기레순 헤이즐넛, 헤이즐넛 스프레드"
   },
   "description": {
-    "tr": "Tillo Kochari Fındık Ezmesi (Premium): Seçme iri tane fındık. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Fındık Ezmesi (Premium): Seçme iri tane fındık. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Hazelnut Butter (Premium) is made from select large hazelnuts, belongs to the Hazelnut Butters & Creams range and is offered in 500 g as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari زبدة البندق (بريميوم) مصنوعة من حبات بندق مختارة كبيرة الحجم، وهي من مجموعة زبدة وكريمة البندق، تتوفر بوزن 500 g، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Haselnussmus (Premium) wird aus ausgewählten großen Haselnüssen hergestellt, gehört zur Gruppe Haselnussmus & -creme und ist mit 500 g erhältlich – ein Naturprodukt aus Gaziantep.",
+    "ko": "Tillo Kochari 헤이즐넛 버터 (프리미엄) 제품은 엄선한 굵은 헤이즐넛으로 만든 헤이즐넛 버터·크림 라인 제품으로, 500 g 용량으로 제공되는 가지안테프의 천연 식품입니다."
   },
-  "index": 10,
+  "index": 86,
   "icon": "nutrition",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Fındık Ezmesi (Premium) | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Hazelnut Butter (Premium) | Tillo Kochari",
+    "ar": "زبدة البندق (بريميوم) | Tillo Kochari",
+    "de": "Haselnussmus (Premium) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "헤이즐넛 버터 (프리미엄) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Seçme İri Tanelerden Fındık Ezmesi (Premium)</h2><p>Premium serideki bu fındık ezmesinde seçme iri tane fındık kullanılır. Ezme kaşıkta yoğun durur ve fındığın tadını belirgin biçimde hissettirir; dilde bıraktığı aroma uzun süre kalır. Tillo Kochari, Gaziantep kökenli ürün gamında bu ezmeyi fındığı özel günlerde ve özenli sofralarda ön plana çıkarmak isteyenler için ayırır.</p><p>Yoğun tadı nedeniyle küçük miktarlarla bile tarife karakter katar. Peynir tabağının yanında bir kâse ezme, ev yapımı pralin ya da fındıklı tart için güçlü bir temel olabilir. 500 gramlık kavanoz, hem kahvaltı sofrasında kullanmaya hem de hediye olarak paylaşmaya uygun bir boyuttadır.</p><h3>Kullanım Önerileri</h3><ul><li>Olgun peynirler ve kuru meyvelerle hazırlanan bir peynir tabağına küçük bir kâse ezme ekleyin.</li><li>Eritilmiş bitter çikolatayla karıştırıp soğutarak ev yapımı pralin topları yuvarlayın.</li><li>Tart tabanına ince bir kat sürüp üzerine taze meyve dizerek fındık tabanlı bir tatlı oluşturun.</li></ul><p><strong>Gramaj:</strong> 500 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Hazelnut Butter (Premium) from Select Large Hazelnuts</h2><p>This hazelnut butter from the Premium series is made with select, large hazelnuts. It holds dense on the spoon and lets the hazelnut flavor come through distinctly; the aroma it leaves on the palate lingers for a long time. Within its Gaziantep-rooted product range, Tillo Kochari reserves this butter for those who want to put hazelnuts in the spotlight on special occasions and at carefully prepared tables.</p><p>Because of its intense flavor, even small amounts add character to a recipe. Served in a bowl beside a cheese platter, it can also be a strong base for homemade pralines or a hazelnut tart. The 500 g jar is a size suited both for the breakfast table and for sharing as a gift.</p><h3>Serving Suggestions</h3><ul><li>Add a small bowl of the butter to a cheese platter prepared with aged cheeses and dried fruit.</li><li>Mix it with melted dark chocolate, chill, and roll into homemade praline balls.</li><li>Spread a thin layer over a tart base and arrange fresh fruit on top for a hazelnut-based dessert.</li></ul><p><strong>Weight:</strong> 500 g</p>",
+    "ar": "<h2>زبدة البندق (بريميوم) من حبات مختارة كبيرة الحجم</h2><p>تُستخدم في زبدة البندق هذه من سلسلة بريميوم حباتُ بندق مختارة كبيرة الحجم. تبقى الزبدة كثيفة على الملعقة وتُبرز طعم البندق بوضوح، ويدوم أثر نكهتها على اللسان طويلًا. وتخصص Tillo Kochari هذه الزبدة، ضمن منتجاتها ذات الجذور في غازي عنتاب، لمن يرغبون في إبراز البندق في المناسبات الخاصة وعلى الموائد المُعدّة بعناية.</p><p>وبفضل نكهتها المركزة، تضفي حتى الكميات الصغيرة منها طابعًا مميزًا على الوصفة. ويمكن تقديمها في وعاء بجانب طبق الأجبان، أو أن تكون أساسًا قويًا للبرالين المنزلي أو تارت البندق. ويأتي البرطمان بوزن 500 g بحجم مناسب للاستخدام على مائدة الإفطار وللإهداء على حد سواء.</p><h3>اقتراحات الاستخدام</h3><ul><li>أضف وعاءً صغيرًا من الزبدة إلى طبق أجبان محضّر من الأجبان المعتّقة والفواكه المجففة.</li><li>اخلطها مع الشوكولاتة الداكنة المذابة ثم بردها وشكّل منها كرات برالين منزلية.</li><li>ادهن طبقة رقيقة على قاعدة التارت ورتّب فوقها الفاكهة الطازجة لتحضير حلوى أساسها البندق.</li></ul><p><strong>الوزن:</strong> 500 g</p>",
+    "de": "<h2>Haselnussmus (Premium) aus ausgewählten großen Haselnüssen</h2><p>Für dieses Haselnussmus der Premium-Serie werden ausgewählte, große Haselnüsse verwendet. Das Mus ist auf dem Löffel kompakt und lässt den Haselnussgeschmack deutlich hervortreten; das Aroma bleibt lange am Gaumen. Innerhalb seines aus Gaziantep stammenden Sortiments hält Tillo Kochari dieses Mus für alle bereit, die Haselnüsse zu besonderen Anlässen und an liebevoll gedeckten Tischen in den Mittelpunkt stellen möchten.</p><p>Dank seines intensiven Geschmacks verleiht es Rezepten schon in kleinen Mengen Charakter. Als Schälchen neben einer Käseplatte oder als kräftige Grundlage für selbst gemachte Pralinen oder eine Haselnusstarte macht es eine gute Figur. Das Glas mit 500 g hat eine Größe, die sich sowohl für den Frühstückstisch als auch als Geschenk eignet.</p><h3>Verwendungsvorschläge</h3><ul><li>Stellen Sie ein kleines Schälchen Mus zu einer Käseplatte mit gereiften Käsesorten und Trockenfrüchten.</li><li>Verrühren Sie es mit geschmolzener Zartbitterschokolade, lassen Sie die Masse abkühlen und rollen Sie daraus selbst gemachte Pralinenkugeln.</li><li>Streichen Sie eine dünne Schicht auf einen Tarteboden und belegen Sie ihn mit frischem Obst – für ein Dessert auf Haselnussbasis.</li></ul><p><strong>Gewicht:</strong> 500 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>엄선한 굵은 알맹이로 만든 헤이즐넛 버터 (프리미엄)</h2><p>프리미엄 시리즈의 이 헤이즐넛 버터는 엄선한 굵은 헤이즐넛으로 만듭니다. 숟가락 위에서 묵직한 질감을 유지하며 헤이즐넛의 맛을 뚜렷하게 전하고, 입안에 남는 향이 오래 지속됩니다. Tillo Kochari는 가지안테프에 뿌리를 둔 제품군 중에서 이 버터를 특별한 날과 정성껏 차린 식탁에서 헤이즐넛을 주인공으로 삼고 싶은 분들을 위해 준비했습니다.</p><p>진한 맛 덕분에 적은 양으로도 요리에 개성을 더합니다. 치즈 플레이트 옆에 한 그릇 곁들이거나, 홈메이드 프랄린이나 헤이즐넛 타르트의 든든한 베이스로 활용할 수 있습니다. 500 g 용량은 아침 식탁에서 사용하기에도, 선물로 나누기에도 알맞은 크기입니다.</p><h3>활용 방법</h3><ul><li>숙성 치즈와 말린 과일로 차린 치즈 플레이트에 버터를 작은 그릇에 담아 곁들여 보세요.</li><li>녹인 다크 초콜릿과 섞어 식힌 뒤 동그랗게 굴려 홈메이드 프랄린 볼을 만들어 보세요.</li><li>타르트 바닥에 얇게 펴 바르고 신선한 과일을 올려 헤이즐넛 베이스 디저트를 완성해 보세요.</li></ul><p><strong>중량:</strong> 500 g</p>"
   },
-  "update": "2026-10-28T07:04:25.600Z",
+  "update": "2026-10-28T09:07:25.813Z",
   "date": "2026-05-20T09:54:44.935Z",
   "img": "index.webp"
 }

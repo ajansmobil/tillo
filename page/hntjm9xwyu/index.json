@@ -1,0 +1,45 @@
+{
+  "id": "hntjm9xwyu",
+  "name": {
+    "tr": "Kadayıf Çeşitleri",
+    "en": "Kadayıf Varieties",
+    "ar": "أنواع القطايف",
+    "de": "Kadayıf-Sorten",
+    "ko": "카다이프 종류"
+  },
+  "description": {
+    "tr": "Tillo Kochari Kadayıf Çeşitleri ürün grubu.",
+    "en": "Tillo Kochari Kadayıf Varieties product group.",
+    "ar": "مجموعة منتجات أنواع القطايف من تيلو كوشاري.",
+    "de": "Tillo Kochari Produktgruppe Kadayıf-Sorten.",
+    "ko": "틸로 코차리 카다이프 종류 제품군."
+  },
+  "keyword": {
+    "tr": "Tillo Kochari, Kadayıf Çeşitleri",
+    "en": "Tillo Kochari, Kadayıf Varieties",
+    "ar": "Tillo Kochari, أنواع القطايف",
+    "de": "Tillo Kochari, Kadayıf-Sorten",
+    "ko": "Tillo Kochari, 카다이프 종류"
+  },
+  "path": "kadayif-cesitleri",
+  "icon": "category",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 17,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Kadayıf Çeşitleri | Tillo Kochari",
+    "en": "Kadayıf Varieties | Tillo Kochari",
+    "ar": "أنواع القطايف | Tillo Kochari",
+    "de": "Kadayıf-Sorten | Tillo Kochari",
+    "ko": "카다이프 종류 | Tillo Kochari"
+  },
+  "date": "2026-10-28T08:07:20.750Z",
+  "update": "2026-10-28T08:07:44.437Z"
+}

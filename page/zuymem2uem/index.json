@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Limon Cipsi"
+    "tr": "Limon Cipsi",
+    "en": "Lemon Chips",
+    "ar": "رقائق الليمون",
+    "de": "Zitronenchips",
+    "ko": "레몬칩"
   },
   "status": "play",
-  "category": "c06meycip",
+  "category": "c13konserve",
   "id": "zuymem2uem",
   "externalUrl": "",
   "path": "limon-cipsi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Limon Cipsi, Meyve Cipsleri, meyve cipsi, elma cipsi, kuru meyve cips, sağlıklı atıştırmalık",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Lemon Chips, Fruit Chips, fruit chips, apple chips, dried fruit chips, healthy snack",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, رقائق الليمون, رقائق الفواكه, رقائق فواكه, رقائق التفاح, رقائق فواكه مجففة, وجبة خفيفة صحية",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Zitronenchips, Fruchtchips, Obstchips, Apfelchips, getrocknete Fruchtchips, gesunder Snack",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 레몬칩, 과일칩, 과일 칩, 사과칩, 건과일 칩, 건강 간식"
   },
   "description": {
-    "tr": "Tillo Kochari Limon Cipsi: Dekoratif ve atıştırmalık. Meyve Cipsleri grubunda. Sunulan gramaj: 50 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Limon Cipsi: Dekoratif ve atıştırmalık. Meyve Cipsleri grubunda. Sunulan gramaj: 50 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Lemon Chips: decorative and snackable chips from the Fruit Chips range, offered in a 50 g pack — natural food from Gaziantep.",
+    "ar": "Tillo Kochari رقائق الليمون: رقائق للتزيين وللتناول كوجبة خفيفة ضمن فئة رقائق الفواكه، تُقدَّم بوزن 50 g، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Zitronenchips: zum Dekorieren und Knabbern, aus der Kategorie Fruchtchips, angeboten in 50 g – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 레몬칩은 장식용으로도 간식으로도 좋은 과일칩 제품으로, 50 g 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 40,
+  "index": 116,
   "icon": "breakfast_dining",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Limon Cipsi | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Lemon Chips | Tillo Kochari",
+    "ar": "رقائق الليمون | Tillo Kochari",
+    "de": "Zitronenchips | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "레몬칩 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Limon Cipsi: Bardağa da Tabağa da Yakışan Kuru Dilimler</h2><p>Limon Cipsi, kurutulmuş ince limon dilimlerinden oluşur. Açık sarı rengi ve tekerlek biçimli kesiti sayesinde özellikle sunumda öne çıkar; bir bardağın kenarında ya da pasta üzerinde hemen fark edilir. Tadı canlı ve ekşidir, bu yüzden atıştırmalık olarak tercih edenler onu genellikle küçük ısırıklarla tüketir.</p><p>Tillo Kochari'nin Gaziantep'ten sunduğu meyve cipsleri arasında Limon Cipsi, tadı kadar görüntüsüyle de iş gören bir üründür. Dilimler hafif olduğu için az miktar bile bir tepsiyi süslemeye yeter. Ekşiliği sevenler ise onu bal ya da tatlı bir kuru meyveyle birlikte atıştırarak dengeleyebilir.</p><h3>Kullanım Önerileri</h3><ul><li>Limonata, kokteyl veya sıcak çay bardağının kenarına süs olarak takın.</li><li>Pasta ve tartların üzerine yerleştirerek sunumu tamamlayın.</li><li>Fırın balık ya da tavuk servis tabağına renk katmak için kullanın.</li></ul><p><strong>Gramaj:</strong> 50 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Lemon Chips: Dried Slices That Suit Both Glass and Plate</h2><p>Lemon Chips consist of thin, dried lemon slices. Thanks to their pale yellow colour and wheel-shaped cross-section, they stand out especially in presentation; they catch the eye at once on the rim of a glass or on top of a cake. The taste is lively and sour, so those who choose them as a snack usually enjoy them in small bites.</p><p>Among the fruit chips Tillo Kochari offers from Gaziantep, Lemon Chips are a product that works as much through its look as through its taste. Because the slices are light, even a small amount is enough to decorate a tray. Those who love sourness can balance it by snacking on them together with honey or a sweet dried fruit.</p><h3>Serving Suggestions</h3><ul><li>Attach them as decoration to the rim of a glass of lemonade, a cocktail or hot tea.</li><li>Place them on cakes and tarts to complete the presentation.</li><li>Use them to add colour to a serving plate of baked fish or chicken.</li></ul><p><strong>Weight:</strong> 50 g</p>",
+    "ar": "<h2>رقائق الليمون: شرائح مجففة تليق بالكأس والطبق معًا</h2><p>تتكوّن رقائق الليمون من شرائح ليمون رفيعة مجففة. وبفضل لونها الأصفر الفاتح ومقطعها الدائري الشبيه بالعجلة، تبرز بشكل خاص في التقديم؛ إذ تلفت النظر فورًا على حافة كأس أو فوق كعكة. ومذاقها حيوي وحامض، ولذلك يتناولها من يختارها كوجبة خفيفة عادةً بقضمات صغيرة.</p><p>من بين رقائق الفواكه التي تقدّمها Tillo Kochari من غازي عنتاب، تُعدّ رقائق الليمون منتجًا يؤدي دوره بمظهره بقدر ما يؤديه بمذاقه. ولأن الشرائح خفيفة، فإن كمية قليلة منها تكفي لتزيين صينية. أما محبو الحموضة فيمكنهم موازنتها بتناولها مع العسل أو مع فاكهة مجففة حلوة.</p><h3>اقتراحات للاستخدام</h3><ul><li>ثبّتها للزينة على حافة كأس الليموناضة أو الكوكتيل أو الشاي الساخن.</li><li>ضعها فوق الكعك والتارت لإكمال التقديم.</li><li>استخدمها لإضفاء اللون على طبق تقديم السمك أو الدجاج المخبوز في الفرن.</li></ul><p><strong>الوزن:</strong> 50 g</p>",
+    "de": "<h2>Zitronenchips: Getrocknete Scheiben für Glas und Teller</h2><p>Zitronenchips bestehen aus dünnen, getrockneten Zitronenscheiben. Dank ihrer hellgelben Farbe und ihres radförmigen Querschnitts fallen sie besonders bei der Präsentation auf; am Rand eines Glases oder auf einer Torte sind sie sofort ein Blickfang. Ihr Geschmack ist lebhaft und sauer, daher genießen sie diejenigen, die sie als Snack wählen, meist in kleinen Bissen.</p><p>Unter den Fruchtchips, die Tillo Kochari aus Gaziantep anbietet, sind die Zitronenchips ein Produkt, das ebenso durch sein Aussehen wie durch seinen Geschmack überzeugt. Da die Scheiben leicht sind, genügt schon eine kleine Menge, um ein Tablett zu dekorieren. Wer Säure liebt, kann sie ausgleichen, indem er die Chips zusammen mit Honig oder einer süßen Trockenfrucht knabbert.</p><h3>Verwendungsvorschläge</h3><ul><li>Als Dekoration an den Rand eines Glases Limonade, eines Cocktails oder heißen Tees stecken.</li><li>Auf Torten und Tartes legen, um die Präsentation abzurunden.</li><li>Einem Servierteller mit Ofenfisch oder Ofenhähnchen damit Farbe verleihen.</li></ul><p><strong>Gewicht:</strong> 50 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>레몬칩: 잔에도 접시에도 잘 어울리는 말린 슬라이스</h2><p>레몬칩은 얇게 썰어 말린 레몬 슬라이스로 이루어져 있습니다. 연한 노란빛과 바퀴 모양의 단면 덕분에 특히 플레이팅에서 돋보이며, 잔 가장자리나 케이크 위에서 단번에 눈에 띕니다. 맛은 생기 있고 새콤하여, 간식으로 즐기는 분들은 보통 조금씩 베어 먹습니다.</p><p>Tillo Kochari가 가지안테프에서 선보이는 과일칩 가운데 레몬칩은 맛만큼이나 모양으로도 제 역할을 하는 제품입니다. 슬라이스가 가벼워 적은 양으로도 쟁반 하나를 장식하기에 충분합니다. 새콤한 맛을 좋아하는 분들은 꿀이나 달콤한 건과일과 함께 곁들여 균형을 맞출 수 있습니다.</p><h3>활용 제안</h3><ul><li>레모네이드, 칵테일, 따뜻한 차 잔 가장자리에 장식으로 꽂아 보세요.</li><li>케이크와 타르트 위에 올려 플레이팅을 완성하세요.</li><li>오븐에 구운 생선이나 닭고기 서빙 접시에 색감을 더할 때 활용하세요.</li></ul><p><strong>중량:</strong> 50 g</p>"
   },
-  "update": "2026-10-28T07:04:27.186Z",
+  "update": "2026-10-28T09:08:12.552Z",
   "date": "2026-05-20T09:54:45.174Z",
   "img": "index.webp"
 }

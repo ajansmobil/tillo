@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "IQF Karnabahar"
+    "tr": "IQF Karnabahar",
+    "en": "IQF Cauliflower",
+    "ar": "قرنبيط IQF",
+    "de": "IQF Blumenkohl",
+    "ko": "IQF 콜리플라워"
   },
   "status": "play",
   "category": "c16iqfseb",
@@ -9,16 +13,20 @@
   "path": "iqf-karnabahar",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, IQF Karnabahar, IQF Dilimlenmiş Sebzeler, IQF sebze, dondurulmuş sebze, endüstriyel sebze, dilim sebze",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, IQF Cauliflower, IQF Sliced Vegetables, IQF vegetables, frozen vegetables, industrial vegetables, sliced vegetables",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, قرنبيط IQF, خضروات مقطعة IQF, خضروات IQF, خضروات مجمدة, خضروات للصناعات الغذائية, خضروات مقطعة شرائح",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, IQF Blumenkohl, IQF geschnittenes Gemüse, IQF Gemüse, Tiefkühlgemüse, Industriegemüse, geschnittenes Gemüse",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, IQF 콜리플라워, IQF 슬라이스 채소, IQF 채소, 냉동 채소, 산업용 채소, 슬라이스 채소"
   },
   "description": {
-    "tr": "Tillo Kochari IQF Karnabahar: Çiçek karnabahar. IQF Dilimlenmiş Sebzeler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari IQF Karnabahar: Çiçek karnabahar. IQF Dilimlenmiş Sebzeler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari IQF Cauliflower: cauliflower florets from the IQF Sliced Vegetables range, offered in a 10 kg pack — a natural food from Gaziantep.",
+    "ar": "Tillo Kochari – قرنبيط IQF: زهيرات قرنبيط ضمن مجموعة الخضروات المقطّعة IQF، متوفرة بعبوة 10 kg، غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari IQF Blumenkohl: Blumenkohlröschen aus der Gruppe IQF geschnittenes Gemüse, erhältlich in der Packung zu 10 kg – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari IQF 콜리플라워는 IQF 슬라이스 채소 그룹의 송이 콜리플라워로, 10 kg 포장으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 141,
+  "index": 217,
   "icon": "ac_unit",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "IQF Karnabahar | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "IQF Cauliflower | Tillo Kochari",
+    "ar": "قرنبيط IQF | Tillo Kochari",
+    "de": "IQF Blumenkohl | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "IQF 콜리플라워 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>IQF Karnabahar ile Fırından Çorbaya</h2>\n<p>Karnabahar, hafif ve nötr tadıyla çok farklı pişirme yöntemlerine uyum sağlayan bir sebzedir. Tillo Kochari IQF Karnabahar, çiçeklerine ayrılmış ve tane tane dondurulmuş karnabahardan oluşur. 10 kg'lık ambalajıyla, ayıklama ve parçalama işini mutfaktan alarak hazırlık süresini kısaltmak isteyen işletmelere hitap eder.</p>\n<p>Fırında yüksek ısıda pişirildiğinde kenarları kızarır ve tatlımsı bir lezzet kazanır; haşlandığında ise püre ve çorbalara kadifemsi bir kıvam verir. Baharatla da iyi anlaşır: kimyon, pul biber ya da zerdeçalla kolayca tatlandırılabilir. Gaziantep merkezli Tillo Kochari'nin sebze serisinde çok yönlü bir seçenektir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Zeytinyağı, kimyon ve pul biberle harmanlayıp fırında kızarana kadar pişirin.</li>\n<li>Haşlayıp blenderdan geçirerek kremamsı bir karnabahar çorbası yapın.</li>\n<li>Yumurtalı harca bulayıp tavada kızartarak karnabahar kızartması hazırlayın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 10 kg</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>From the Oven to the Soup Pot with IQF Cauliflower</h2>\n<p>With its light, neutral flavor, cauliflower is a vegetable that adapts to a wide range of cooking methods. Tillo Kochari IQF Cauliflower consists of cauliflower separated into florets and frozen piece by piece. With its 10 kg pack, it is aimed at businesses that want to shorten prep time by taking trimming and cutting out of the kitchen.</p>\n<p>Roasted at high heat, its edges brown and it takes on a sweetish flavor; when boiled, it gives purées and soups a velvety consistency. It also pairs well with spices: it can easily be seasoned with cumin, red pepper flakes or turmeric. It is a versatile choice in the vegetable range of Gaziantep-based Tillo Kochari.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Toss with olive oil, cumin and red pepper flakes and roast in the oven until golden.</li>\n<li>Boil and blend to make a creamy cauliflower soup.</li>\n<li>Coat in an egg batter and pan-fry to make fried cauliflower.</li>\n</ul>\n<p><strong>Weight:</strong> 10 kg</p>",
+    "ar": "<h2>من الفرن إلى الحساء مع قرنبيط IQF</h2>\n<p>القرنبيط خضار يتكيّف مع طرق طهي متنوعة للغاية بفضل مذاقه الخفيف والمحايد. يتكوّن قرنبيط IQF من Tillo Kochari من قرنبيط مقسّم إلى زهيرات ومجمّد حبةً حبة. وبعبوته البالغة 10 kg، يلبّي احتياجات المنشآت التي تريد تقليص وقت التحضير بإخراج عمليات التنقية والتقطيع من المطبخ.</p>\n<p>عند طهيه في الفرن على حرارة عالية تتحمّر أطرافه ويكتسب نكهة مائلة إلى الحلاوة، وعند سلقه يمنح الهريس والحساء قواماً مخملياً. كما ينسجم جيداً مع التوابل، إذ يمكن تتبيله بسهولة بالكمون أو رقائق الفلفل الأحمر أو الكركم. وهو خيار متعدد الاستخدامات ضمن تشكيلة الخضروات لدى Tillo Kochari ومقرها غازي عنتاب.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اخلطه مع زيت الزيتون والكمون ورقائق الفلفل الأحمر واخبزه في الفرن حتى يتحمّر.</li>\n<li>اسلقه ثم اخفقه في الخلاط لتحضير حساء قرنبيط كريمي.</li>\n<li>غلّفه بخليط البيض واقله في المقلاة لتحضير قرنبيط مقلي.</li>\n</ul>\n<p><strong>الوزن:</strong> 10 kg</p>",
+    "de": "<h2>Mit IQF Blumenkohl vom Ofen bis zur Suppe</h2>\n<p>Blumenkohl ist dank seines milden, neutralen Geschmacks ein Gemüse, das sich an ganz unterschiedliche Garmethoden anpasst. Tillo Kochari IQF Blumenkohl besteht aus in Röschen zerteiltem und einzeln tiefgefrorenem Blumenkohl. Mit seiner Packung zu 10 kg richtet er sich an Betriebe, die ihre Vorbereitungszeit verkürzen möchten, indem Putzen und Zerteilen in der Küche entfallen.</p>\n<p>Bei hoher Hitze im Ofen geröstet, bräunen seine Ränder und er entwickelt ein leicht süßliches Aroma; gekocht verleiht er Pürees und Suppen eine samtige Konsistenz. Auch mit Gewürzen harmoniert er gut: Mit Kreuzkümmel, Chiliflocken oder Kurkuma lässt er sich mühelos würzen. In der Gemüsereihe von Tillo Kochari mit Sitz in Gaziantep ist er eine vielseitige Wahl.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Mit Olivenöl, Kreuzkümmel und Chiliflocken vermengen und im Ofen goldbraun rösten.</li>\n<li>Kochen und im Mixer pürieren – für eine cremige Blumenkohlsuppe.</li>\n<li>In Eierteig wenden und in der Pfanne zu gebratenem Blumenkohl ausbacken.</li>\n</ul>\n<p><strong>Gewicht:</strong> 10 kg</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>IQF 콜리플라워로 오븐 요리부터 수프까지</h2>\n<p>콜리플라워는 순하고 담백한 맛 덕분에 다양한 조리법에 잘 어울리는 채소입니다. Tillo Kochari IQF 콜리플라워는 송이로 나눈 콜리플라워를 한 알 한 알 개별 냉동한 제품입니다. 10 kg 포장으로 손질과 자르기 작업을 주방에서 덜어 준비 시간을 줄이고자 하는 업체에 적합합니다.</p>\n<p>높은 온도의 오븐에서 구우면 가장자리가 노릇해지며 달큰한 풍미가 생기고, 삶으면 퓌레와 수프에 벨벳처럼 부드러운 농도를 더합니다. 향신료와도 잘 어울려 커민, 고춧가루 플레이크, 강황으로 손쉽게 맛을 낼 수 있습니다. 가지안테프에 본사를 둔 Tillo Kochari의 채소 시리즈 중 활용도가 높은 제품입니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>올리브유, 커민, 고춧가루 플레이크와 버무려 노릇해질 때까지 오븐에 구우세요.</li>\n<li>삶은 뒤 블렌더에 갈아 크리미한 콜리플라워 수프를 만드세요.</li>\n<li>달걀 반죽을 입혀 팬에 부쳐 콜리플라워 튀김을 준비하세요.</li>\n</ul>\n<p><strong>중량:</strong> 10 kg</p>"
   },
-  "update": "2026-10-28T07:04:32.713Z",
+  "update": "2026-10-28T09:07:45.895Z",
   "date": "2026-05-20T09:54:46.009Z",
   "img": "index.webp"
 }

@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Light Peynir"
+    "tr": "Light Peynir",
+    "en": "Light Cheese",
+    "ar": "جبن لايت",
+    "de": "Light-Käse",
+    "ko": "라이트 치즈"
   },
   "status": "play",
-  "category": "c12sut",
+  "category": "c07kuruseb",
   "id": "9emuuiq6i6",
   "externalUrl": "",
   "path": "light-peynir",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Light Peynir, Süt ve Süt Ürünleri, süt ürünleri, kaşar peynir, beyaz peynir, tereyağı",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Light Cheese, Milk and Dairy Products, dairy products, kashar cheese, white cheese, butter",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, جبن لايت, الحليب ومشتقاته, منتجات الألبان, جبن قشقوان, جبن أبيض, زبدة",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Light-Käse, Milch und Milchprodukte, Milchprodukte, Kaschar-Käse, Weißkäse, Butter",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 라이트 치즈, 우유 및 유제품, 유제품, 카샤르 치즈, 화이트 치즈, 버터"
   },
   "description": {
-    "tr": "Tillo Kochari Light Peynir: Düşük yağlı peynir. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Light Peynir: Düşük yağlı peynir. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Light Cheese is a low-fat cheese from the Milk and Dairy Products range, offered in 400 g – a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari جبن لايت: جبن قليل الدسم من فئة الحليب ومشتقاته، متوفر بوزن 400 g، وهو غذاء طبيعي ذو أصول من غازي عنتاب.",
+    "de": "Tillo Kochari Light-Käse ist ein fettarmer Käse aus der Kategorie Milch und Milchprodukte, erhältlich in 400 g – ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 라이트 치즈는 우유 및 유제품 카테고리의 저지방 치즈로, 400 g 용량으로 제공되는 가지안테프 기반의 자연 식품입니다."
   },
-  "index": 106,
+  "index": 182,
   "icon": "egg",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Light Peynir | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Light Cheese | Tillo Kochari",
+    "ar": "جبن لايت | Tillo Kochari",
+    "de": "Light-Käse | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "라이트 치즈 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Tillo Kochari Light Peynir ile Sade ve Hafif Sofralar</h2><p>Light peynir, düşük yağlı yapısıyla hafif bir kahvaltı ya da ara öğün arayanlara yönelik bir beyaz peynir çeşididir. Tadı yumuşak ve sade, dokusu kolay dilimlenebilir kıvamdadır. Tillo Kochari, Gaziantep'te köklenen ürün çizgisini bu 400 gramlık peynirle daha sade sofra tercihlerine de uyarlıyor.</p><p>Hafif tadı sayesinde light peynir; otlar, baharatlar ve sebzelerle kolayca uyum sağlar. Kekik ve zeytinyağıyla tatlandırıldığında basit bir kahvaltı tabağını canlandırır; tam tahıllı krakerler ya da salatalık dilimleri üzerinde pratik bir atıştırmalık olur. Ağzı kapalı bir kapta, buzdolabında muhafaza edilmelidir.</p><h3>Kullanım Önerileri</h3><ul><li>Dilimleri kekik, pul biber ve birkaç damla zeytinyağıyla tatlandırarak kahvaltıda sunun.</li><li>Salatalık dilimlerinin üzerine küçük parçalar koyarak hızlı bir atıştırmalık hazırlayın.</li><li>Mevsim yeşillikleri ve cevizle hafif bir peynirli salata kurun.</li></ul><p><strong>Gramaj:</strong> 400 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Simple, Light Meals with Tillo Kochari Light Cheese</h2><p>Light cheese is a low-fat white cheese variety for those looking for a light breakfast or snack. Its taste is mild and simple, and its texture slices easily. With this 400 g cheese, Tillo Kochari adapts its product line, rooted in Gaziantep, to simpler table preferences as well.</p><p>Thanks to its mild taste, light cheese pairs easily with herbs, spices and vegetables. Seasoned with thyme and olive oil, it livens up a simple breakfast plate; on wholegrain crackers or cucumber slices, it makes a practical snack. It should be stored in the refrigerator in a closed container.</p><h3>Serving Suggestions</h3><ul><li>Season the slices with thyme, chilli flakes and a few drops of olive oil and serve at breakfast.</li><li>Place small pieces on cucumber slices for a quick snack.</li><li>Make a light cheese salad with seasonal greens and walnuts.</li></ul><p><strong>Weight:</strong> 400 g</p>",
+    "ar": "<h2>موائد بسيطة وخفيفة مع جبن Tillo Kochari لايت</h2><p>الجبن اللايت نوعٌ من الجبن الأبيض قليل الدسم، موجَّه لمن يبحثون عن فطور خفيف أو وجبة خفيفة بين الوجبات. مذاقه طريّ وبسيط، وقوامه سهل التقطيع إلى شرائح. ومع هذا الجبن بوزن 400 g، تُكيّف Tillo Kochari خط منتجاتها المتجذّر في غازي عنتاب ليناسب أيضًا تفضيلات الموائد الأبسط.</p><p>بفضل مذاقه الخفيف، ينسجم الجبن اللايت بسهولة مع الأعشاب والتوابل والخضروات. وعند تتبيله بالزعتر وزيت الزيتون يُضفي حيوية على طبق فطور بسيط، وعلى البسكويت المالح من الحبوب الكاملة أو شرائح الخيار يصبح وجبة خفيفة عملية. ويجب حفظه في الثلاجة داخل وعاء مغلق.</p><h3>اقتراحات الاستخدام</h3><ul><li>تبّل الشرائح بالزعتر ورقائق الفلفل الأحمر وبضع قطرات من زيت الزيتون وقدّمها على الفطور.</li><li>ضع قطعًا صغيرة منه فوق شرائح الخيار لتحضير وجبة خفيفة سريعة.</li><li>حضّر سلطة جبن خفيفة مع الخضار الورقية الموسمية والجوز.</li></ul><p><strong>الوزن:</strong> 400 g</p>",
+    "de": "<h2>Schlichte, leichte Mahlzeiten mit Tillo Kochari Light-Käse</h2><p>Light-Käse ist eine fettarme Weißkäsesorte für alle, die ein leichtes Frühstück oder eine leichte Zwischenmahlzeit suchen. Sein Geschmack ist mild und schlicht, seine Textur lässt sich leicht in Scheiben schneiden. Mit diesem 400-g-Käse passt Tillo Kochari seine in Gaziantep verwurzelte Produktlinie auch an schlichtere Essgewohnheiten an.</p><p>Dank seines milden Geschmacks harmoniert Light-Käse mühelos mit Kräutern, Gewürzen und Gemüse. Mit Thymian und Olivenöl verfeinert, belebt er einen einfachen Frühstücksteller; auf Vollkorncrackern oder Gurkenscheiben wird er zum praktischen Snack. Er sollte in einem verschlossenen Behälter im Kühlschrank aufbewahrt werden.</p><h3>Serviervorschläge</h3><ul><li>Die Scheiben mit Thymian, Chiliflocken und ein paar Tropfen Olivenöl würzen und zum Frühstück servieren.</li><li>Kleine Stücke auf Gurkenscheiben legen – für einen schnellen Snack.</li><li>Mit Blattgemüse der Saison und Walnüssen einen leichten Käsesalat anrichten.</li></ul><p><strong>Gewicht:</strong> 400 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>Tillo Kochari 라이트 치즈로 차리는 담백하고 가벼운 식탁</h2><p>라이트 치즈는 가벼운 아침 식사나 간식을 찾는 분들을 위한 저지방 화이트 치즈입니다. 맛은 부드럽고 담백하며, 쉽게 썰리는 질감입니다. Tillo Kochari는 가지안테프에 뿌리를 둔 제품 라인을 이 400 g 치즈로 보다 담백한 식탁 취향에도 맞추었습니다.</p><p>순한 맛 덕분에 라이트 치즈는 허브, 향신료, 채소와 쉽게 어울립니다. 타임과 올리브유로 맛을 더하면 소박한 아침 접시에 생기를 불어넣고, 통곡물 크래커나 오이 슬라이스 위에 올리면 간편한 간식이 됩니다. 뚜껑을 닫은 용기에 담아 냉장 보관해야 합니다.</p><h3>활용 제안</h3><ul><li>슬라이스에 타임, 고춧가루 플레이크, 올리브유 몇 방울을 더해 아침 식사로 냅니다.</li><li>오이 슬라이스 위에 작게 자른 치즈를 올려 간단한 간식을 만듭니다.</li><li>제철 잎채소와 호두를 곁들여 가벼운 치즈 샐러드를 만듭니다.</li></ul><p><strong>중량:</strong> 400 g</p>"
   },
-  "update": "2026-10-28T07:04:30.751Z",
+  "update": "2026-10-28T09:07:32.009Z",
   "date": "2026-05-20T09:54:45.731Z",
   "img": "index.webp"
 }

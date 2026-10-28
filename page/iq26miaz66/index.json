@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Kuru Hurma (Medjoul)"
+    "tr": "Kuru Hurma (Medjoul)",
+    "en": "Dried Dates (Medjool)",
+    "ar": "تمر مجفف (مجهول)",
+    "de": "Getrocknete Datteln (Medjool)",
+    "ko": "말린 대추야자 (메드줄)"
   },
   "status": "play",
-  "category": "c05kurumey",
+  "category": "c13konserve",
   "id": "iq26miaz66",
   "externalUrl": "",
   "path": "kuru-hurma-medjoul",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kuru Hurma (Medjoul), Kurutulmuş Meyveler, kurutulmuş meyve, kuru kayısı, kuru incir, gün kurusu",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Dried Dates (Medjool), Dried Fruits, dried fruit, dried apricots, dried figs, sun-dried",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, تمر مجفف (مجهول), الفواكه المجففة, فاكهة مجففة, مشمش مجفف, تين مجفف, مجفف بالشمس",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Getrocknete Datteln (Medjool), Trockenfrüchte, Trockenobst, getrocknete Aprikosen, getrocknete Feigen, sonnengetrocknet",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 말린 대추야자 (메드줄), 건과일, 말린 과일, 말린 살구, 말린 무화과, 햇볕 건조"
   },
   "description": {
-    "tr": "Tillo Kochari Kuru Hurma (Medjoul): İri taneli hurma. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Kuru Hurma (Medjoul): İri taneli hurma. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Dried Dates (Medjool): large dates from the Dried Fruits range, offered in 500 g – a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari – تمر مجفف (مجهول) كبير الحبات من مجموعة الفواكه المجففة، متوفر بوزن 500 g، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Getrocknete Datteln (Medjool): großfruchtige Datteln aus der Gruppe Trockenfrüchte, erhältlich in 500 g – ein natürliches Lebensmittel mit Ursprung in Gaziantep.",
+    "ko": "Tillo Kochari 말린 대추야자 (메드줄)는 알이 굵은 대추야자로 건과일군에 속하며, 500 g으로 제공되는 가지안테프에 뿌리를 둔 천연 식품입니다."
   },
-  "index": 29,
+  "index": 105,
   "icon": "spa",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Kuru Hurma (Medjoul) | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Dried Dates (Medjool) | Tillo Kochari",
+    "ar": "تمر مجفف (مجهول) | Tillo Kochari",
+    "de": "Getrocknete Datteln (Medjool) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "말린 대추야자 (메드줄) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kuru Hurma (Medjoul): İri Taneli, Yumuşak ve Tatlı</h2><p>Medjoul, iri taneleri ve yumuşak, nemli dokusuyla bilinen bir hurma çeşididir. Kabuğu ince ve hafif buruşuk, içi ise karamele yakın derin bir tatlılık taşır. Çekirdeği kolayca ayrıldığı için doldurmaya ve doğramaya elverişlidir. Bir fincan Türk kahvesinin yanında tek bir tanesi bile tatlı ihtiyacını karşılamaya yeter.</p><p>Gaziantep sofralarında misafire kahvenin yanında küçük bir ikram sunmak köklü bir alışkanlıktır; Tillo Kochari'nin Medjoul hurması bu ikramın sade ve şık bir parçası olabilir. İri taneleri tabakta göze hoş görünür. Ev yapımı enerji toplarında ve şeker eklenmeyen tatlı denemelerinde bağlayıcı olarak da sıkça tercih edilir.</p><h3>Kullanım Önerileri</h3><ul><li>Çekirdeğini çıkarıp yerine bir Antep fıstığı ya da ceviz yerleştirerek dolgulu hurma ikram edin.</li><li>Blenderda sütle birlikte çekerek koyu kıvamlı bir hurmalı içecek yapın.</li><li>Yulaf ve kakaoyla yoğurarak fırınsız lokmalar hazırlayın.</li></ul><p><strong>Gramaj:</strong> 500 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Dried Dates (Medjool): Large, Soft and Sweet</h2><p>Medjool is a date variety known for its large fruits and soft, moist texture. Its skin is thin and slightly wrinkled, while the inside carries a deep, almost caramel-like sweetness. Because the stone separates easily, it is well suited to stuffing and chopping. Even a single date alongside a cup of Turkish coffee is enough to satisfy a sweet craving.</p><p>At Gaziantep tables, offering guests a small treat with their coffee is a deep-rooted custom; Tillo Kochari's Medjool dates can be a simple and elegant part of this hospitality. Their large fruits look appealing on the plate. They are also frequently chosen as a binder in homemade energy balls and in desserts made without added sugar.</p><h3>Serving Suggestions</h3><ul><li>Remove the stone and replace it with a pistachio or a walnut to serve stuffed dates.</li><li>Blend with milk to make a thick date drink.</li><li>Knead with oats and cocoa to prepare no-bake bites.</li></ul><p><strong>Weight:</strong> 500 g</p>",
+    "ar": "<h2>تمر مجفف (مجهول): حبات كبيرة وطرية وحلوة</h2><p>المجهول صنف من التمر معروف بحباته الكبيرة وقوامه الطري الرطب. قشرته رقيقة ومجعّدة قليلًا، أما داخله فيحمل حلاوة عميقة قريبة من الكراميل. ولأن نواته تنفصل بسهولة، فهو مناسب للحشو والتقطيع. وحتى حبة واحدة منه إلى جانب فنجان من القهوة التركية تكفي لتلبية الرغبة في الحلو.</p><p>تقديم ضيافة صغيرة للضيف مع القهوة عادة راسخة على موائد غازي عنتاب؛ ويمكن أن يكون تمر المجهول من Tillo Kochari جزءًا بسيطًا وأنيقًا من هذه الضيافة. وتبدو حباته الكبيرة جذابة في الطبق. كما يُختار كثيرًا مادةً رابطة في كرات الطاقة المنزلية وفي تجارب الحلويات التي لا يُضاف إليها السكر.</p><h3>اقتراحات الاستخدام</h3><ul><li>انزع النواة وضع مكانها حبة فستق حلبي أو جوز لتقديم تمر محشو.</li><li>اخلطه مع الحليب في الخلاط لتحضير مشروب تمر كثيف القوام.</li><li>اعجنه مع الشوفان والكاكاو لتحضير لقيمات دون خَبز.</li></ul><p><strong>الوزن:</strong> 500 g</p>",
+    "de": "<h2>Getrocknete Datteln (Medjool): Groß, weich und süß</h2><p>Medjool ist eine Dattelsorte, die für ihre großen Früchte und ihre weiche, saftige Konsistenz bekannt ist. Die Haut ist dünn und leicht runzlig, das Innere trägt eine tiefe, fast karamellartige Süße. Da sich der Kern leicht löst, eignet sie sich gut zum Füllen und Hacken. Schon eine einzige Dattel zu einer Tasse türkischem Kaffee genügt, um die Lust auf Süßes zu stillen.</p><p>An den Tischen Gazianteps ist es ein tief verwurzelter Brauch, Gästen zum Kaffee eine kleine Leckerei anzubieten; die Medjool-Datteln von Tillo Kochari können ein schlichter und eleganter Teil dieser Gastfreundschaft sein. Ihre großen Früchte sehen auf dem Teller ansprechend aus. Auch als Bindemittel in selbst gemachten Energiekugeln und bei Dessertversuchen ohne Zuckerzusatz werden sie gern verwendet.</p><h3>Verwendungsvorschläge</h3><ul><li>Den Kern entfernen und durch eine Pistazie oder eine Walnuss ersetzen – als gefüllte Datteln servieren.</li><li>Im Mixer mit Milch zu einem dickflüssigen Dattelgetränk pürieren.</li><li>Mit Haferflocken und Kakao verkneten und zu Häppchen ohne Backen formen.</li></ul><p><strong>Gewicht:</strong> 500 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>말린 대추야자 (메드줄): 큼직하고 부드럽고 달콤한</h2><p>메드줄은 큼직한 열매와 부드럽고 촉촉한 식감으로 잘 알려진 대추야자 품종입니다. 껍질은 얇고 살짝 주름져 있으며, 속은 캐러멜에 가까운 깊은 단맛을 품고 있습니다. 씨가 쉽게 분리되어 속을 채우거나 잘게 썰기에 알맞습니다. 튀르키예식 커피 한 잔에 단 한 알만 곁들여도 단것이 당길 때 충분히 만족스럽습니다.</p><p>가지안테프의 식탁에서는 손님에게 커피와 함께 작은 다과를 내는 것이 오랜 관습입니다. Tillo Kochari의 메드줄 대추야자는 이러한 대접에 담백하고 품격 있게 어울리는 한 부분이 될 수 있습니다. 큼직한 열매는 접시 위에서 보기에도 좋습니다. 홈메이드 에너지 볼이나 설탕을 넣지 않는 디저트를 만들 때 재료를 뭉쳐 주는 역할로도 자주 쓰입니다.</p><h3>활용 제안</h3><ul><li>씨를 빼고 그 자리에 피스타치오나 호두를 채워 속을 채운 대추야자로 내 보세요.</li><li>우유와 함께 블렌더에 갈아 걸쭉한 대추야자 음료를 만들어 보세요.</li><li>귀리, 코코아와 함께 반죽해 굽지 않는 한입 간식을 만들어 보세요.</li></ul><p><strong>중량:</strong> 500 g</p>"
   },
-  "update": "2026-10-28T07:04:26.580Z",
+  "update": "2026-10-28T09:07:46.384Z",
   "date": "2026-05-20T09:54:45.094Z",
   "img": "index.webp"
 }

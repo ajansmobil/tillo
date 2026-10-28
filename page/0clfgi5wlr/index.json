@@ -1,0 +1,57 @@
+{
+  "id": "0clfgi5wlr",
+  "name": {
+    "tr": "Peynir Helvası",
+    "en": "Peynir Helvası (Cheese Halva)",
+    "ar": "حلاوة الجبن",
+    "de": "Peynir Helvası (Käse-Halva)",
+    "ko": "페이니르 헬바스 (치즈 할바)"
+  },
+  "description": {
+    "tr": "Tillo Kochari Peynir Helvası, Pekmez Çeşitleri, Tahin ve Helva grubunda. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Peynir Helvası, from our Pekmez Varieties, Tahini and Halva range, is a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari حلاوة الجبن من مجموعة أصناف الدبس والطحينة والحلاوة، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Peynir Helvası aus dem Sortiment Pekmez-Sorten, Tahini und Halva ist ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 페이니르 헬바스는 페크메즈 종류, 타히니와 할바 그룹에 속한 가지안테프 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Peynir Helvası, Pekmez Çeşitleri, Tahin ve Helva",
+    "en": "Tillo Kochari, Gaziantep, natural food, Peynir Helvası, Pekmez Varieties, Tahini and Halva",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, حلاوة الجبن, أصناف الدبس, الطحينة والحلاوة",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Peynir Helvası, Pekmez-Sorten, Tahini und Halva",
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 페이니르 헬바스, 페크메즈 종류, 타히니와 할바"
+  },
+  "path": "peynir-helvasi",
+  "icon": "breakfast_dining",
+  "category": "c12sut",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 30,
+  "url": "",
+  "text": {
+    "tr": "<h2>Peynir Helvası: Sıcak Servis Edilen Geleneksel Tatlı</h2>\n<p>Peynir helvası, peynirin tatlıyla buluştuğu ve genellikle sıcak servis edilen geleneksel bir tatlıdır. Isıtıldığında yumuşar, peynir hafifçe uzar ve kendine özgü lifli bir doku ortaya çıkar. Tatlılığı ile peynirin yumuşak tadı arasındaki denge, onu ağır şerbetli tatlılardan ayırır ve yemek sonrasına hafif bir kapanış sunar.</p>\n<p>Tillo Kochari peynir helvasını, evde hızlıca hazırlanabilecek bir tatlı arayanlar için pekmez, tahin ve helva grubunda sunar. Tavada ya da fırında kısa süre ısıtmak yeterlidir; servis etmeden önce üzerine dövülmüş fıstık ya da tarçın serpmek görünüşünü tamamlar. Çay ya da Türk kahvesiyle birlikte ikram etmek için de uygundur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Küçük bir tavada ısıtıp üzerine dövülmüş fıstık serperek sıcak servis edin.</li>\n<li>Fırın kaplarında porsiyonlayıp yanında kaymak ya da dondurmayla sunun.</li>\n<li>Misafir ikramlarında Türk kahvesinin yanına küçük dilimler halinde ekleyin.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Peynir Helvası: A Traditional Dessert Served Warm</h2>\n<p>Peynir helvası is a traditional dessert in which cheese meets sweetness, usually served warm. When heated, it softens, the cheese stretches slightly and a distinctive stringy texture emerges. The balance between its sweetness and the mild taste of the cheese sets it apart from heavy syrup-soaked desserts and offers a light finish after a meal.</p>\n<p>Tillo Kochari offers peynir helvası in its pekmez, tahini and halva range for those looking for a dessert that can be prepared quickly at home. Heating it briefly in a pan or in the oven is all it takes; sprinkling crushed pistachios or cinnamon on top before serving completes its look. It is also well suited to serving guests alongside tea or Turkish coffee.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Heat in a small pan, sprinkle with crushed pistachios and serve warm.</li>\n<li>Portion into baking dishes and serve with clotted cream or ice cream on the side.</li>\n<li>When hosting guests, add small slices alongside Turkish coffee.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various weights upon request.</p>",
+    "ar": "<h2>حلاوة الجبن: حلوى تقليدية تُقدَّم ساخنة</h2>\n<p>حلاوة الجبن حلوى تقليدية يلتقي فيها الجبن بالحلاوة، وتُقدَّم عادةً ساخنة. وعند تسخينها تلين، ويمتطّ الجبن قليلًا، فيظهر قوام ليفي مميّز. ويميّزها التوازن بين حلاوتها وطعم الجبن الناعم عن الحلويات الثقيلة المُشرَّبة بالقطر، ويمنح ختامًا خفيفًا بعد الطعام.</p>\n<p>تقدّم Tillo Kochari حلاوة الجبن ضمن مجموعة الدبس والطحينة والحلاوة لمن يبحثون عن حلوى يمكن تحضيرها بسرعة في المنزل. ويكفي تسخينها لفترة قصيرة في المقلاة أو الفرن؛ ونثر الفستق المدقوق أو القرفة فوقها قبل التقديم يكمل مظهرها. كما أنها مناسبة للضيافة مع الشاي أو القهوة التركية.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>سخّنها في مقلاة صغيرة وانثر فوقها الفستق المدقوق وقدّمها ساخنة.</li>\n<li>وزّعها حصصًا في أطباق الفرن وقدّمها مع القشطة أو المثلجات إلى جانبها.</li>\n<li>أضفها شرائحَ صغيرة إلى جانب القهوة التركية عند ضيافة الزوار.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Peynir Helvası: Ein traditionelles Dessert, warm serviert</h2>\n<p>Peynir Helvası ist ein traditionelles Dessert, bei dem Käse auf Süße trifft, und wird meist warm serviert. Beim Erwärmen wird es weich, der Käse zieht leichte Fäden und es entsteht eine charakteristische faserige Textur. Die Balance zwischen seiner Süße und dem milden Geschmack des Käses unterscheidet es von schweren, in Sirup getränkten Desserts und sorgt für einen leichten Abschluss nach dem Essen.</p>\n<p>Tillo Kochari bietet Peynir Helvası in seinem Sortiment Pekmez, Tahini und Halva für alle an, die ein Dessert suchen, das sich zu Hause schnell zubereiten lässt. Ein kurzes Erwärmen in der Pfanne oder im Ofen genügt; zerstoßene Pistazien oder Zimt, vor dem Servieren darübergestreut, runden das Aussehen ab. Es eignet sich auch gut, um es Gästen zu Tee oder türkischem Kaffee anzubieten.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>In einer kleinen Pfanne erwärmen, mit zerstoßenen Pistazien bestreuen und warm servieren.</li>\n<li>In Auflaufförmchen portionieren und mit dickem Rahm oder Eis servieren.</li>\n<li>Beim Bewirten von Gästen in kleinen Stücken zum türkischen Kaffee reichen.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Gewichtsgrößen auf Anfrage erhältlich.</p>",
+    "ko": "<h2>페이니르 헬바스: 따뜻하게 내는 전통 디저트</h2>\n<p>페이니르 헬바스는 치즈와 단맛이 어우러진 전통 디저트로, 보통 따뜻하게 제공됩니다. 데우면 부드러워지고 치즈가 살짝 늘어나면서 특유의 결이 살아 있는 식감이 생깁니다. 단맛과 치즈의 부드러운 맛 사이의 균형이 무거운 시럽 디저트와 구별되며, 식사 후 가벼운 마무리를 선사합니다.</p>\n<p>Tillo Kochari는 집에서 빠르게 준비할 수 있는 디저트를 찾는 분들을 위해 페이니르 헬바스를 페크메즈·타히니·할바 그룹에서 선보입니다. 팬이나 오븐에서 잠시 데우기만 하면 되며, 내기 전에 빻은 피스타치오나 계피를 뿌리면 모양이 완성됩니다. 차나 튀르키예 커피와 함께 손님에게 대접하기에도 좋습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>작은 팬에 데운 뒤 빻은 피스타치오를 뿌려 따뜻하게 내 보세요.</li>\n<li>오븐 용기에 1인분씩 나눠 담고 카이막이나 아이스크림을 곁들여 보세요.</li>\n<li>손님 접대 시 튀르키예 커피 옆에 작은 조각으로 곁들여 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+  },
+  "title": {
+    "tr": "Peynir Helvası | Tillo Kochari",
+    "en": "Peynir Helvası (Cheese Halva) | Tillo Kochari",
+    "ar": "حلاوة الجبن | Tillo Kochari",
+    "de": "Peynir Helvası (Käse-Halva) | Tillo Kochari",
+    "ko": "페이니르 헬바스 (치즈 할바) | Tillo Kochari"
+  },
+  "date": "2026-10-28T08:16:27.129Z",
+  "update": "2026-10-28T09:07:16.752Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

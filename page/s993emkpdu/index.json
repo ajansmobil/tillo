@@ -1,0 +1,57 @@
+{
+  "id": "s993emkpdu",
+  "name": {
+    "tr": "Kuskus",
+    "en": "Couscous",
+    "ar": "كسكس",
+    "de": "Couscous",
+    "ko": "쿠스쿠스"
+  },
+  "description": {
+    "tr": "Tillo Kochari Kuskus, Makarna Grubu grubunda. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Couscous from the Pasta Products range, a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari كسكس من مجموعة منتجات المعكرونة، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Couscous aus dem Teigwarensortiment – ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 쿠스쿠스, 가지안테프에 뿌리를 둔 파스타류 제품군의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kuskus, Makarna Grubu",
+    "en": "Tillo Kochari, Gaziantep, natural food, Couscous, Pasta Products",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, كسكس, منتجات المعكرونة",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Couscous, Teigwaren",
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 쿠스쿠스, 파스타류"
+  },
+  "path": "kuskus",
+  "icon": "breakfast_dining",
+  "category": "c04yerfist",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 49,
+  "url": "",
+  "text": {
+    "tr": "<h2>Küçük Taneleriyle Kuskus</h2>\n<p>Kuskus, küçük ve yuvarlak taneleriyle pilavdan salataya pek çok tarifte kullanılan bir makarna çeşididir. Pişirildiğinde taneler birbirinden ayrı kalır ve hafifçe dişe gelen bir doku sunar. Sade tadı sayesinde etli, tavuklu ya da sebzeli yemeklerin yanında rahatlıkla yer alır, sosları da kolayca üzerine alır.</p>\n<p>Tillo Kochari olarak kuskusu, pratik ama doyurucu bir garnitür arayanlar için öneriyoruz. Tereyağında hafifçe kavurup ardından sıcak su ya da et suyu ekleyerek pilav usulü pişirebilir, demlenmeye bıraktığınızda tane tane bir sonuç alabilirsiniz. Haşlayıp süzerek soğuk salatalarda da değerlendirebilirsiniz.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Tereyağında kavurduğunuz kuskus pilavını tavuk sote ya da et kavurmanın yanında sunun.</li>\n<li>Nar taneleri, maydanoz, taze soğan ve nar ekşisiyle renkli bir kuskus salatası hazırlayın.</li>\n<li>Salçalı sosla pişirip üzerine közlenmiş patlıcan küpleri ekleyerek tek tencere yemek yapın.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Couscous with Its Tiny Grains</h2>\n<p>Couscous is a type of pasta with small, round grains, used in many recipes from pilafs to salads. When cooked, the grains stay separate and offer a slightly al dente texture. Thanks to its mild flavor, it pairs easily with meat, chicken or vegetable dishes and readily absorbs sauces.</p>\n<p>At Tillo Kochari, we recommend couscous for anyone looking for a practical yet filling side dish. You can lightly toast it in butter, then add hot water or meat stock and cook it pilaf-style; left to rest, it turns out fluffy with separate grains. You can also boil and drain it for use in cold salads.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve couscous pilaf toasted in butter alongside sautéed chicken or pan-fried meat.</li>\n<li>Prepare a colorful couscous salad with pomegranate seeds, parsley, spring onions and pomegranate molasses.</li>\n<li>Cook it in a tomato paste sauce and top with fire-roasted eggplant cubes for a one-pot meal.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various weights on request.</p>",
+    "ar": "<h2>الكسكس بحبيباته الصغيرة</h2>\n<p>الكسكس نوع من المعكرونة ذو حبيبات صغيرة مستديرة، يُستخدم في وصفات كثيرة من أطباق الأرز المفلفل إلى السلطات. وعند طهيه تبقى حبيباته منفصلة بعضها عن بعض وتمنح قوامًا متماسكًا قليلًا عند المضغ. وبفضل مذاقه البسيط يرافق بسهولة أطباق اللحم أو الدجاج أو الخضار، ويتشرّب الصلصات بسهولة.</p>\n<p>في Tillo Kochari ننصح بالكسكس لمن يبحثون عن طبق جانبي عملي ومُشبع في آن. يمكنكم تحميصه قليلًا بالزبدة ثم إضافة الماء الساخن أو مرق اللحم وطهيه على طريقة الأرز المفلفل، وعند تركه ليرتاح تحصلون على حبيبات منفصلة. ويمكنكم أيضًا سلقه وتصفيته لاستخدامه في السلطات الباردة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>قدّموا الكسكس المحمّص بالزبدة بجانب الدجاج السوتيه أو اللحم المحمّر.</li>\n<li>حضّروا سلطة كسكس ملوّنة بحبوب الرمان والبقدونس والبصل الأخضر ودبس الرمان.</li>\n<li>اطبخوه في صلصة معجون الطماطم وأضيفوا فوقه مكعبات الباذنجان المشوي على الجمر لوجبة في قدر واحد.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Couscous mit seinen kleinen Körnern</h2>\n<p>Couscous ist eine Nudelsorte mit kleinen, runden Körnern, die in vielen Rezepten vom Pilaw bis zum Salat verwendet wird. Beim Garen bleiben die Körner voneinander getrennt und bieten einen leichten Biss. Dank seines milden Geschmacks passt er problemlos zu Fleisch-, Hähnchen- oder Gemüsegerichten und nimmt Soßen leicht auf.</p>\n<p>Bei Tillo Kochari empfehlen wir Couscous allen, die eine praktische und zugleich sättigende Beilage suchen. Sie können ihn in Butter leicht anrösten, dann heißes Wasser oder Fleischbrühe zugeben und ihn wie Pilaw garen; lässt man ihn anschließend quellen, wird er schön locker und körnig. Gekocht und abgetropft eignet er sich auch für kalte Salate.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Servieren Sie in Butter angerösteten Couscous-Pilaw zu Hähnchengeschnetzeltem oder angebratenem Fleisch.</li>\n<li>Bereiten Sie einen bunten Couscous-Salat mit Granatapfelkernen, Petersilie, Frühlingszwiebeln und Granatapfelsirup zu.</li>\n<li>Garen Sie ihn in einer Tomatenmarksoße und geben Sie über offener Flamme geröstete Auberginenwürfel darüber – fertig ist das Eintopfgericht.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Gewichtsgrößen auf Anfrage erhältlich.</p>",
+    "ko": "<h2>작은 알갱이의 쿠스쿠스</h2>\n<p>쿠스쿠스는 작고 둥근 알갱이를 가진 파스타의 일종으로, 필라프부터 샐러드까지 다양한 요리에 쓰입니다. 익히면 알갱이가 서로 달라붙지 않고 살짝 씹히는 식감을 줍니다. 담백한 맛 덕분에 고기, 닭고기, 채소 요리 곁에 잘 어울리며 소스도 쉽게 흡수합니다.</p>\n<p>Tillo Kochari는 간편하면서도 든든한 곁들임 요리를 찾는 분들께 쿠스쿠스를 추천합니다. 버터에 살짝 볶은 뒤 뜨거운 물이나 육수를 부어 필라프처럼 익히고 뜸을 들이면 알알이 살아 있는 결과를 얻을 수 있습니다. 삶아서 물기를 뺀 뒤 차가운 샐러드에 활용하셔도 좋습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>버터에 볶은 쿠스쿠스 필라프를 치킨 소테나 고기 볶음 곁에 내어 보세요.</li>\n<li>석류알, 파슬리, 쪽파, 석류 당밀로 알록달록한 쿠스쿠스 샐러드를 만들어 보세요.</li>\n<li>토마토 페이스트 소스에 익힌 뒤 불에 구운 가지 큐브를 올려 한 냄비 요리를 완성해 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 다양한 중량으로 주문에 따라 제공됩니다.</p>"
+  },
+  "title": {
+    "tr": "Kuskus | Tillo Kochari",
+    "en": "Couscous | Tillo Kochari",
+    "ar": "كسكس | Tillo Kochari",
+    "de": "Couscous | Tillo Kochari",
+    "ko": "쿠스쿠스 | Tillo Kochari"
+  },
+  "date": "2026-10-28T08:16:23.583Z",
+  "update": "2026-10-28T09:08:01.042Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "IQF Patlıcan Dilim"
+    "tr": "IQF Patlıcan Dilim",
+    "en": "IQF Aubergine Slices",
+    "ar": "شرائح باذنجان مجمدة سريعًا (آي كيو إف)",
+    "de": "IQF Auberginenscheiben",
+    "ko": "IQF 가지 슬라이스"
   },
   "status": "play",
   "category": "c16iqfseb",
@@ -9,16 +13,20 @@
   "path": "iqf-patlican-dilim",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, IQF Patlıcan Dilim, IQF Dilimlenmiş Sebzeler, IQF sebze, dondurulmuş sebze, endüstriyel sebze, dilim sebze",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, IQF Aubergine Slices, IQF Sliced Vegetables, IQF vegetables, frozen vegetables, industrial vegetables, sliced vegetables",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, شرائح باذنجان مجمدة سريعًا (آي كيو إف), الخضروات المقطّعة المجمدة سريعًا, خضروات آي كيو إف, خضروات مجمدة, خضروات للصناعات الغذائية, خضروات مقطّعة شرائح",
+    "de": "Tillo Kochari, Gaziantep, Naturlebensmittel, IQF Auberginenscheiben, IQF geschnittenes Gemüse, IQF-Gemüse, Tiefkühlgemüse, Industriegemüse, Gemüsescheiben",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, IQF 가지 슬라이스, IQF 슬라이스 채소, IQF 채소, 냉동 채소, 업소용 채소, 슬라이스 채소"
   },
   "description": {
-    "tr": "Tillo Kochari IQF Patlıcan Dilim: Kızartmalık dilim. IQF Dilimlenmiş Sebzeler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari IQF Patlıcan Dilim: Kızartmalık dilim. IQF Dilimlenmiş Sebzeler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari IQF Aubergine Slices are frying slices from the IQF Sliced Vegetables range, offered in 10 kg as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari شرائح باذنجان مجمدة سريعًا (آي كيو إف): شرائح مخصّصة للقلي ضمن مجموعة الخضروات المقطّعة المجمدة سريعًا، تُقدَّم بعبوة 10 kg، وهي غذاء طبيعي من أصل غازي عنتاب.",
+    "de": "Tillo Kochari IQF Auberginenscheiben sind Scheiben zum Frittieren aus der Gruppe IQF geschnittenes Gemüse, erhältlich in 10 kg – ein Naturlebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari IQF 가지 슬라이스는 IQF 슬라이스 채소 군에 속하는 튀김용 슬라이스로, 10 kg 규격으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 137,
+  "index": 213,
   "icon": "ac_unit",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "IQF Patlıcan Dilim | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "IQF Aubergine Slices | Tillo Kochari",
+    "ar": "شرائح باذنجان مجمدة سريعًا (آي كيو إف) | Tillo Kochari",
+    "de": "IQF Auberginenscheiben | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "IQF 가지 슬라이스 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>IQF Patlıcan Dilim: Kızartmaya Hazır Patlıcan</h2>\n<p>Patlıcan, Antep mutfağının vazgeçilmez sebzelerinden biridir; kebaptan musakkaya kadar sofrada sık sık karşımıza çıkar. Tillo Kochari IQF Patlıcan Dilim, kızartmalık dilimler hâlinde kesilmiş patlıcanı tane tane dondurulmuş olarak sunar. 10 kg'lık ambalaj, patlıcanı gün boyu kullanan lokanta ve catering mutfakları için uygundur.</p>\n<p>Dilimler hazır geldiğinden doğrama zahmeti ortadan kalkar ve her porsiyonda benzer kalınlık elde edilir. Kızgın yağda ya da fırında pişen patlıcan, içi yumuşak ve kremamsı, dışı hafifçe kızarmış bir doku kazanır. Közlemeyi andıran is tadı istendiğinde dilimleri ızgarada pişirmek de iyi sonuç verir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Kızarttığınız dilimleri sarımsaklı yoğurt ve domates sosuyla şakşuka olarak sunun.</li>\n<li>Fırın tepsisinde kıymalı harçla kat kat dizerek musakka hazırlayın.</li>\n<li>Izgarada pişirip zeytinyağı ve nar ekşisiyle tatlandırarak soğuk meze yapın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 10 kg</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>IQF Aubergine Slices: Aubergine Ready for Frying</h2>\n<p>Aubergine is one of the indispensable vegetables of Antep cuisine; from kebabs to moussaka, it appears on the table time and again. Tillo Kochari IQF Aubergine Slices offer aubergine cut into frying slices and frozen piece by piece. The 10 kg pack is suitable for restaurant and catering kitchens that use aubergine throughout the day.</p>\n<p>Because the slices arrive ready-cut, the effort of chopping is eliminated and a consistent thickness is achieved in every portion. Cooked in hot oil or in the oven, aubergine takes on a texture that is soft and creamy inside and lightly browned outside. When a smoky taste reminiscent of fire-roasting is wanted, cooking the slices on the grill also gives good results.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve the fried slices shakshuka-style with garlic yoghurt and tomato sauce.</li>\n<li>Layer them with a minced meat filling in a baking tray to make moussaka.</li>\n<li>Grill them, then dress with olive oil and pomegranate molasses to make a cold mezze.</li>\n</ul>\n<p><strong>Pack Size:</strong> 10 kg</p>",
+    "ar": "<h2>شرائح باذنجان مجمدة سريعًا (آي كيو إف): باذنجان جاهز للقلي</h2>\n<p>الباذنجان من الخضار التي لا غنى عنها في مطبخ عنتاب؛ فهو يحضر على المائدة كثيرًا من الكباب إلى المسقعة. وتقدّم شرائح الباذنجان المجمدة سريعًا (آي كيو إف) من Tillo Kochari الباذنجانَ مقطّعًا شرائح للقلي ومجمّدًا قطعةً قطعة. والعبوة سعة 10 kg مناسبة لمطابخ المطاعم وخدمات التموين التي تستخدم الباذنجان طوال اليوم.</p>\n<p>ولأن الشرائح تصل جاهزة، تزول مشقة التقطيع ويُحصل على سماكة متقاربة في كل حصة. وعند طهيه في الزيت الساخن أو في الفرن يكتسب الباذنجان قوامًا طريًا كريميًا من الداخل ومحمّرًا قليلًا من الخارج. وعند الرغبة في نكهة مدخّنة تذكّر بالشوي على الجمر، يعطي طهي الشرائح على الشواية نتيجة جيدة أيضًا.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>قدّم الشرائح المقلية على طريقة الشكشوكة مع الزبادي بالثوم وصلصة الطماطم.</li>\n<li>رتّبها طبقاتٍ مع حشوة اللحم المفروم في صينية الفرن لتحضير المسقعة.</li>\n<li>اشوِها ثم تبّلها بزيت الزيتون ودبس الرمان لتحضير مقبلات باردة.</li>\n</ul>\n<p><strong>العبوة:</strong> 10 kg</p>",
+    "de": "<h2>IQF Auberginenscheiben: Auberginen bereit zum Frittieren</h2>\n<p>Die Aubergine ist eines der unverzichtbaren Gemüse der Antep-Küche; vom Kebab bis zur Moussaka kommt sie immer wieder auf den Tisch. Tillo Kochari IQF Auberginenscheiben bieten Auberginen, die in Scheiben zum Frittieren geschnitten und Stück für Stück tiefgefroren wurden. Die 10 kg Packung eignet sich für Restaurant- und Cateringküchen, die den ganzen Tag über Auberginen verwenden.</p>\n<p>Da die Scheiben fertig geschnitten geliefert werden, entfällt das mühsame Schneiden, und jede Portion erhält eine ähnliche Dicke. In heißem Öl oder im Ofen gegart, bekommt die Aubergine eine innen weiche, cremige und außen leicht gebräunte Textur. Wer ein rauchiges Aroma wie vom Garen über offener Flamme wünscht, erzielt auch durch Grillen der Scheiben gute Ergebnisse.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Die frittierten Scheiben nach Art der Schakschuka mit Knoblauchjoghurt und Tomatensauce servieren.</li>\n<li>Schichtweise mit einer Hackfleischfüllung in eine Auflaufform legen und Moussaka zubereiten.</li>\n<li>Grillen und mit Olivenöl und Granatapfelsirup abschmecken – fertig ist eine kalte Mezze.</li>\n</ul>\n<p><strong>Packungsgröße:</strong> 10 kg</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>IQF 가지 슬라이스: 바로 튀길 수 있는 가지</h2>\n<p>가지는 안테프 요리에서 빼놓을 수 없는 채소 중 하나로, 케밥부터 무사카까지 식탁에 자주 오릅니다. Tillo Kochari IQF 가지 슬라이스는 튀김용으로 썬 가지를 한 조각씩 냉동한 제품입니다. 10 kg 포장은 하루 종일 가지를 사용하는 식당과 케이터링 주방에 적합합니다.</p>\n<p>슬라이스가 손질된 상태로 제공되어 써는 수고가 없고, 모든 1인분에서 비슷한 두께를 얻을 수 있습니다. 뜨거운 기름이나 오븐에서 익힌 가지는 속은 부드럽고 크리미하며 겉은 살짝 노릇한 식감을 갖게 됩니다. 불에 구운 듯한 스모키한 맛을 원할 때는 슬라이스를 그릴에 굽는 것도 좋은 결과를 냅니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>튀긴 슬라이스를 마늘 요거트와 토마토소스를 곁들여 샥슈카 스타일로 냅니다.</li>\n<li>오븐 팬에 다진 고기 소와 번갈아 층층이 깔아 무사카를 만듭니다.</li>\n<li>그릴에 구운 뒤 올리브 오일과 석류 당밀로 맛을 내 차가운 메제로 만듭니다.</li>\n</ul>\n<p><strong>규격:</strong> 10 kg</p>"
   },
-  "update": "2026-10-28T07:04:32.497Z",
+  "update": "2026-10-28T09:07:34.261Z",
   "date": "2026-05-20T09:54:45.978Z",
   "img": "index.webp"
 }

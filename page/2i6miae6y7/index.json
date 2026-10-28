@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Yarım Yağlı Beyaz Peynir"
+    "tr": "Yarım Yağlı Beyaz Peynir",
+    "en": "Half-Fat White Cheese",
+    "ar": "جبن أبيض نصف دسم",
+    "de": "Halbfetter Weißkäse",
+    "ko": "반지방 화이트 치즈"
   },
   "status": "play",
-  "category": "c12sut",
+  "category": "c07kuruseb",
   "id": "2i6miae6y7",
   "externalUrl": "",
   "path": "yarim-yagli-beyaz-peynir",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Yarım Yağlı Beyaz Peynir, Süt ve Süt Ürünleri, süt ürünleri, kaşar peynir, beyaz peynir, tereyağı",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Half-Fat White Cheese, Milk and Dairy Products, dairy products, kashar cheese, white cheese, butter",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, جبن أبيض نصف دسم, الحليب ومشتقاته, منتجات الألبان, جبن قشقوان, جبن أبيض, زبدة",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Halbfetter Weißkäse, Milch und Milchprodukte, Milchprodukte, Kaschar-Käse, Weißkäse, Butter",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 반지방 화이트 치즈, 우유 및 유제품, 유제품, 카샤르 치즈, 화이트 치즈, 버터"
   },
   "description": {
-    "tr": "Tillo Kochari Yarım Yağlı Beyaz Peynir: Hafif beyaz peynir. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Yarım Yağlı Beyaz Peynir: Hafif beyaz peynir. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Half-Fat White Cheese is a light white cheese from the Milk and Dairy Products range, offered in 500 g – a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari جبن أبيض نصف دسم: جبن أبيض خفيف من فئة الحليب ومشتقاته، متوفر بوزن 500 g، وهو غذاء طبيعي ذو أصول من غازي عنتاب.",
+    "de": "Tillo Kochari Halbfetter Weißkäse ist ein leichter Weißkäse aus der Kategorie Milch und Milchprodukte, erhältlich in 500 g – ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 반지방 화이트 치즈는 우유 및 유제품 카테고리의 가벼운 화이트 치즈로, 500 g 용량으로 제공되는 가지안테프 기반의 자연 식품입니다."
   },
-  "index": 105,
+  "index": 181,
   "icon": "egg",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Yarım Yağlı Beyaz Peynir | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Half-Fat White Cheese | Tillo Kochari",
+    "ar": "جبن أبيض نصف دسم | Tillo Kochari",
+    "de": "Halbfetter Weißkäse | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "반지방 화이트 치즈 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Daha Hafif Bir Tercih: Tillo Kochari Yarım Yağlı Beyaz Peynir</h2><p>Yarım yağlı beyaz peynir, tam yağlı muadiline göre daha hafif bir ağız hissi bırakan bir beyaz peynir çeşididir. Tadı sade ve temizdir. Tillo Kochari'nin 500 gramlık bu seçeneği, Gaziantep'ten gelen peynir ailesinin hafif tarafını oluşturuyor ve gündelik sofralara kolayca uyum sağlıyor.</p><p>Gün içinde sık peynir tüketenler için yarım yağlı çeşit, kahvaltıdan ara öğüne kadar dengeli bir alternatif sunar. Salatalara küp küp doğranabilir, sıcak yemeklerde de rahatça kullanılabilir. Ekmek arasında domates ve rokayla da hafif ama doyurucu bir sandviç olur.</p><h3>Kullanım Önerileri</h3><ul><li>Küp doğrayıp çoban salatasına veya kısırın yanına ekleyin.</li><li>Tam buğday ekmeğine domates ve roka katarak hafif bir sandviç hazırlayın.</li><li>Ispanaklı yumurta ya da sebzeli omletin içine ufalayın.</li></ul><p><strong>Gramaj:</strong> 500 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>A Lighter Choice: Tillo Kochari Half-Fat White Cheese</h2><p>Half-fat white cheese is a white cheese variety that leaves a lighter mouthfeel than its full-fat counterpart. Its taste is simple and clean. This 500 g option from Tillo Kochari forms the lighter side of the cheese family from Gaziantep and fits easily into everyday meals.</p><p>For those who eat cheese often throughout the day, the half-fat variety offers a balanced alternative, from breakfast to snacks. It can be diced into salads and used with ease in hot dishes as well. Tucked into bread with tomato and rocket, it also makes a light yet satisfying sandwich.</p><h3>Serving Suggestions</h3><ul><li>Dice and add to a shepherd's salad or serve alongside a bulgur salad.</li><li>Make a light sandwich with whole-wheat bread, tomato and rocket.</li><li>Crumble into eggs with spinach or a vegetable omelette.</li></ul><p><strong>Weight:</strong> 500 g</p>",
+    "ar": "<h2>خيار أخف: جبن Tillo Kochari الأبيض نصف الدسم</h2><p>الجبن الأبيض نصف الدسم نوعٌ من الجبن الأبيض يترك إحساسًا أخف في الفم مقارنةً بنظيره كامل الدسم. مذاقه بسيط ونقي. ويمثّل هذا الخيار من Tillo Kochari بوزن 500 g الجانبَ الأخف من عائلة الأجبان القادمة من غازي عنتاب، ويتناسب بسهولة مع الموائد اليومية.</p><p>لمن يُكثرون من تناول الجبن خلال اليوم، يقدّم الصنف نصف الدسم بديلًا متوازنًا من الفطور حتى الوجبات الخفيفة. يمكن تقطيعه مكعبات وإضافته إلى السلطات، كما يمكن استخدامه بسهولة في الأطباق الساخنة. وبين شريحتي خبز مع الطماطم والجرجير يصبح شطيرة خفيفة ومُشبعة في آنٍ معًا.</p><h3>اقتراحات الاستخدام</h3><ul><li>قطّعه مكعبات وأضفه إلى سلطة الراعي أو قدّمه بجانب سلطة البرغل.</li><li>حضّر شطيرة خفيفة بخبز القمح الكامل مع الطماطم والجرجير.</li><li>فتّته داخل البيض بالسبانخ أو عجّة الخضار.</li></ul><p><strong>الوزن:</strong> 500 g</p>",
+    "de": "<h2>Eine leichtere Wahl: Tillo Kochari Halbfetter Weißkäse</h2><p>Halbfetter Weißkäse ist eine Weißkäsesorte, die im Vergleich zur vollfetten Variante ein leichteres Mundgefühl hinterlässt. Sein Geschmack ist schlicht und klar. Diese 500-g-Variante von Tillo Kochari bildet die leichte Seite der Käsefamilie aus Gaziantep und fügt sich mühelos in den Alltag ein.</p><p>Wer im Laufe des Tages häufig Käse isst, findet in der halbfetten Sorte eine ausgewogene Alternative – vom Frühstück bis zur Zwischenmahlzeit. Er lässt sich gewürfelt in Salate geben und auch in warmen Gerichten problemlos verwenden. Mit Tomate und Rucola im Brot wird er zu einem leichten und dennoch sättigenden Sandwich.</p><h3>Serviervorschläge</h3><ul><li>Würfeln und in einen Hirtensalat geben oder zu Bulgursalat reichen.</li><li>Mit Vollkornbrot, Tomate und Rucola ein leichtes Sandwich zubereiten.</li><li>In Rührei mit Spinat oder ein Gemüseomelett bröseln.</li></ul><p><strong>Gewicht:</strong> 500 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>더 가벼운 선택, Tillo Kochari 반지방 화이트 치즈</h2><p>반지방 화이트 치즈는 전지방 치즈에 비해 입안에 더 가벼운 느낌을 남기는 화이트 치즈입니다. 맛은 담백하고 깔끔합니다. Tillo Kochari의 500 g 제품은 가지안테프에서 온 치즈 라인업 가운데 가벼운 쪽을 담당하며, 일상의 식탁에 손쉽게 어울립니다.</p><p>하루에도 여러 번 치즈를 즐기는 분들께 반지방 제품은 아침 식사부터 간식까지 균형 잡힌 대안이 됩니다. 깍둑썰기해 샐러드에 넣을 수 있고, 따뜻한 요리에도 부담 없이 활용할 수 있습니다. 빵 사이에 토마토, 루콜라와 함께 넣으면 가볍지만 든든한 샌드위치가 됩니다.</p><h3>활용 제안</h3><ul><li>깍둑썰기해 목동 샐러드에 넣거나 불구르 샐러드에 곁들입니다.</li><li>통밀빵에 토마토와 루콜라를 더해 가벼운 샌드위치를 만듭니다.</li><li>시금치 달걀 요리나 채소 오믈렛에 잘게 부숴 넣습니다.</li></ul><p><strong>중량:</strong> 500 g</p>"
   },
-  "update": "2026-10-28T07:04:30.694Z",
+  "update": "2026-10-28T09:07:21.229Z",
   "date": "2026-05-20T09:54:45.723Z",
   "img": "index.webp"
 }

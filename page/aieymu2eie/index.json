@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "Erik Suyu"
+    "tr": "Erik Suyu",
+    "en": "Plum Juice",
+    "ar": "عصير البرقوق",
+    "de": "Pflaumensaft",
+    "ko": "자두 주스"
   },
   "status": "play",
   "category": "c10meyves",
@@ -9,16 +13,20 @@
   "path": "erik-suyu",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Erik Suyu, Meyve Suları, meyve suyu, nar suyu, doğal meyve suyu, katkısız içecek",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Plum Juice, Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, عصير البرقوق, العصائر, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Pflaumensaft, Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연식품, 자두 주스, 과일 주스류, 과일 주스, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
-    "tr": "Tillo Kochari Erik Suyu: Erik özü. Meyve Suları grubunda. Sunulan gramaj: 750 ml. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Erik Suyu: Erik özü. Meyve Suları grubunda. Sunulan gramaj: 750 ml. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Plum Juice is a plum extract drink from our Fruit Juices range, offered in 750 ml, a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari عصير البرقوق: مشروب من خلاصة البرقوق ضمن مجموعة العصائر، يُقدَّم بسعة 750 ml، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Pflaumensaft ist ein Getränk aus Pflaumenextrakt aus der Gruppe Fruchtsäfte, erhältlich in 750 ml – ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 자두 주스는 과일 주스류에 속하는 자두 엑기스 음료로, 750 ml 용량으로 제공되는 가지안테프 출신의 자연식품입니다."
   },
-  "index": 81,
+  "index": 157,
   "icon": "local_bar",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Erik Suyu | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Plum Juice | Tillo Kochari",
+    "ar": "عصير البرقوق | Tillo Kochari",
+    "de": "Pflaumensaft | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "자두 주스 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Erik Suyu ile Mayhoş ve Canlı Bir Lezzet</h2>\n<p>Erik Suyu, erik özünden hazırlanan, tatlı ile ekşi arasında gidip gelen mayhoş bir içecektir. Canlı rengi ve hafif buruk bitişi, onu klasik meyve sularından ayırır. Ağır bir tat bırakmaz; yemek yanında da tek başına da rahatça içilebilecek dengeli bir yapısı vardır ve her yudumda eriğin kendisini hatırlatır.</p>\n<p>Gaziantep'te bahar ve yaz aylarında erik, pazar tezgâhlarının ilk renklerinden biridir. Tillo Kochari, bu meyvenin karakterli tadını 750 ml'lik bir şişede bir araya getiriyor. Taze eriğin ekşiliğini sevenler kadar daha yumuşak bir içecek arayanlar da bu tatta kendine uygun bir denge bulabilir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Öğle yemeğinde etli yemeklerin yanında hafif ekşi bir içecek olarak servis edin.</li>\n<li>Az miktarda bal ve buzla çalkalayarak mayhoş bir şerbet hazırlayın.</li>\n<li>Ev yapımı jöle veya meyveli puding tabanında su yerine kullanın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 750 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>A Tangy, Lively Flavor with Plum Juice</h2>\n<p>Plum Juice is a tangy drink made from plum extract, swinging between sweet and sour. Its vivid color and slightly astringent finish set it apart from classic fruit juices. It leaves no heavy aftertaste; with a balanced profile that is easy to drink both with meals and on its own, every sip is a reminder of the plum itself.</p>\n<p>In Gaziantep, plums are among the first colors on market stalls in spring and summer. Tillo Kochari brings the characterful taste of this fruit together in a 750 ml bottle. Those who love the tartness of fresh plums, as well as those looking for a softer drink, can find a balance that suits them in this flavor.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve at lunch as a lightly tart drink alongside meat dishes.</li>\n<li>Shake with a little honey and ice to make a tangy sherbet.</li>\n<li>Use instead of water as the base for homemade jelly or fruit pudding.</li>\n</ul>\n<p><strong>Size:</strong> 750 ml</p>",
+    "ar": "<h2>عصير البرقوق: نكهة حامضة حلوة مفعمة بالحيوية</h2>\n<p>عصير البرقوق مشروب حامض حلو يُحضَّر من خلاصة البرقوق، يتأرجح طعمه بين الحلاوة والحموضة. يميّزه لونه الزاهي ونهايته القابضة قليلًا عن العصائر التقليدية. لا يترك طعمًا ثقيلًا، ويتمتع بتركيبة متوازنة تجعله سهل الشرب مع الطعام أو بمفرده، وتذكّرك كل رشفة منه بالبرقوق نفسه.</p>\n<p>في غازي عنتاب، يُعدّ البرقوق من أوائل الألوان التي تظهر على بسطات الأسواق في الربيع والصيف. وتجمع Tillo Kochari الطعم المميز لهذه الفاكهة في زجاجة سعة 750 ml. يمكن لمحبي حموضة البرقوق الطازج، وكذلك الباحثين عن مشروب ألطف، أن يجدوا في هذا الطعم توازنًا يناسبهم.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>قدّمه على الغداء مشروبًا حامضًا خفيفًا إلى جانب أطباق اللحوم.</li>\n<li>رُجّه مع قليل من العسل والثلج لتحضير شراب منعش حامض حلو.</li>\n<li>استخدمه بدلًا من الماء أساسًا للجيلي أو البودينغ بالفواكه المنزلي.</li>\n</ul>\n<p><strong>الحجم:</strong> 750 ml</p>",
+    "de": "<h2>Pflaumensaft: säuerlich-süß und lebendig</h2>\n<p>Pflaumensaft ist ein säuerlich-süßes Getränk aus Pflaumenextrakt, das zwischen süß und sauer pendelt. Seine lebhafte Farbe und der leicht herbe Abgang heben ihn von klassischen Fruchtsäften ab. Er hinterlässt keinen schweren Nachgeschmack; dank seines ausgewogenen Profils lässt er sich zum Essen ebenso gut trinken wie pur, und jeder Schluck erinnert an die Pflaume selbst.</p>\n<p>In Gaziantep gehören Pflaumen im Frühling und Sommer zu den ersten Farbtupfern an den Marktständen. Tillo Kochari fängt den charaktervollen Geschmack dieser Frucht in einer 750-ml-Flasche ein. Wer die Säure frischer Pflaumen liebt, findet hier ebenso eine passende Balance wie alle, die ein milderes Getränk suchen.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Zum Mittagessen als leicht säuerliches Getränk zu Fleischgerichten servieren.</li>\n<li>Mit etwas Honig und Eis shaken – für ein säuerlich-süßes Scherbett.</li>\n<li>Statt Wasser als Basis für hausgemachtes Gelee oder Fruchtpudding verwenden.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 750 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>자두 주스로 즐기는 새콤달콤하고 생기 있는 맛</h2>\n<p>자두 주스는 자두 엑기스로 만든, 단맛과 신맛 사이를 오가는 새콤달콤한 음료입니다. 선명한 색과 살짝 떫은 끝맛이 일반 과일 주스와 차별화됩니다. 무거운 뒷맛을 남기지 않으며, 식사와 함께해도 단독으로 마셔도 편안한 균형 잡힌 맛으로 한 모금마다 자두 그 자체를 떠올리게 합니다.</p>\n<p>가지안테프에서 자두는 봄과 여름 시장 좌판을 가장 먼저 물들이는 색 가운데 하나입니다. Tillo Kochari는 이 과일의 개성 있는 맛을 750 ml 병에 담았습니다. 신선한 자두의 새콤함을 좋아하는 분도, 더 부드러운 음료를 찾는 분도 이 맛에서 자신에게 맞는 균형을 찾을 수 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>점심 식사 때 육류 요리에 곁들이는 가볍게 새콤한 음료로 내 보세요.</li>\n<li>꿀 약간과 얼음을 넣고 흔들어 새콤달콤한 셔벗 음료를 만들어 보세요.</li>\n<li>홈메이드 젤리나 과일 푸딩의 베이스로 물 대신 사용해 보세요.</li>\n</ul>\n<p><strong>용량:</strong> 750 ml</p>"
   },
-  "update": "2026-10-28T07:04:29.395Z",
+  "update": "2026-10-28T09:07:33.742Z",
   "date": "2026-05-20T09:54:45.518Z",
   "img": "index.webp"
 }

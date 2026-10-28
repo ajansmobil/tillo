@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Kivi Cipsi"
+    "tr": "Kivi Cipsi",
+    "en": "Kiwi Chips",
+    "ar": "رقائق الكيوي",
+    "de": "Kiwichips",
+    "ko": "키위칩"
   },
   "status": "play",
-  "category": "c06meycip",
+  "category": "c13konserve",
   "id": "ymy6uyiamy",
   "externalUrl": "",
   "path": "kivi-cipsi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kivi Cipsi, Meyve Cipsleri, meyve cipsi, elma cipsi, kuru meyve cips, sağlıklı atıştırmalık",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Kiwi Chips, Fruit Chips, fruit chips, apple chips, dried fruit chips, healthy snack",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, رقائق الكيوي, رقائق الفواكه, رقائق فواكه, رقائق التفاح, رقائق فواكه مجففة, وجبة خفيفة صحية",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Kiwichips, Fruchtchips, Obstchips, Apfelchips, getrocknete Fruchtchips, gesunder Snack",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 키위칩, 과일칩, 과일 칩, 사과칩, 건과일 칩, 건강 간식"
   },
   "description": {
-    "tr": "Tillo Kochari Kivi Cipsi: Ekşi-tatlı kivi cipsi. Meyve Cipsleri grubunda. Sunulan gramaj: 60 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Kivi Cipsi: Ekşi-tatlı kivi cipsi. Meyve Cipsleri grubunda. Sunulan gramaj: 60 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Kiwi Chips: sweet-and-sour kiwi chips from the Fruit Chips range, offered in a 60 g pack — natural food from Gaziantep.",
+    "ar": "Tillo Kochari رقائق الكيوي: رقائق كيوي بطعم حامض حلو ضمن فئة رقائق الفواكه، تُقدَّم بوزن 60 g، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Kiwichips: süßsaure Kiwichips aus der Kategorie Fruchtchips, angeboten in 60 g – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 키위칩은 새콤달콤한 키위로 만든 과일칩 제품으로, 60 g 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 37,
+  "index": 113,
   "icon": "breakfast_dining",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Kivi Cipsi | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Kiwi Chips | Tillo Kochari",
+    "ar": "رقائق الكيوي | Tillo Kochari",
+    "de": "Kiwichips | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "키위칩 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kivi Cipsi: Ekşi-Tatlı ve Çıtır</h2><p>Kivi cipsi, aynı meyvenin yumuşak kuru dilimlerinden farklı olarak çıtır bir yapıya sahiptir; ısırıldığında kırılır, ağızda hızla dağılır. Kivinin ekşi-tatlı karakteri bu formda daha keskin hissedilir. Yeşil zemin üzerindeki siyah çekirdek halkası her dilimde görünür kalır ve ürüne tanıdık bir görüntü kazandırır.</p><p>Gaziantep kökenli Tillo Kochari, kivi cipsini hafif ve küçük bir pakette hazırlıyor. Ekşili tatları sevenler için tatlı atıştırmalıklara iyi bir denge oluşturur. Çantada fazla yer kaplamaz; yürüyüşlerde, ofiste ya da uzun yolculuklarda yanınıza alabileceğiniz küçük bir meyve molası sağlar. Diğer meyve cipsleriyle karıştırıldığında renkli bir kâse çıkar.</p><h3>Kullanım Önerileri</h3><ul><li>Meyveli yoğurt kasesinin üzerine ufalayarak ekşi bir çıtırlık ekleyin.</li><li>Elma, armut ve portakal cipsiyle karıştırarak renkli bir meyve cipsi tabağı hazırlayın.</li><li>Limonlu muhallebinin üzerine birkaç bütün dilim dizerek ferah bir sunum yapın.</li></ul><p><strong>Gramaj:</strong> 60 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Kiwi Chips: Sweet, Sour and Crisp</h2><p>Unlike soft dried slices of the same fruit, kiwi chips have a crisp texture; they snap when bitten and quickly break apart in the mouth. In this form, the kiwi's sweet-and-sour character comes through more sharply. The ring of black seeds on the green background remains visible in every slice, giving the product a familiar look.</p><p>Gaziantep-born Tillo Kochari prepares its kiwi chips in a light, small pack. For those who enjoy tangy flavours, they offer a good balance to sweet snacks. They take up little space in a bag, providing a small fruit break you can take along on walks, to the office or on long journeys. Mixed with other fruit chips, they make a colourful bowl.</p><h3>Serving Suggestions</h3><ul><li>Crumble them over a fruit yoghurt bowl to add a tangy crunch.</li><li>Mix them with apple, pear and orange chips to prepare a colourful fruit chips platter.</li><li>Arrange a few whole slices on top of lemon milk pudding for a refreshing presentation.</li></ul><p><strong>Weight:</strong> 60 g</p>",
+    "ar": "<h2>رقائق الكيوي: حامضة حلوة ومقرمشة</h2><p>تتميز رقائق الكيوي، على خلاف الشرائح المجففة الطرية من الفاكهة نفسها، بقوام مقرمش؛ فهي تتكسّر عند القضم وتتفتت سريعًا في الفم. ويظهر الطابع الحامض الحلو للكيوي بشكل أكثر حدة في هذا الشكل. وتبقى حلقة البذور السوداء على الخلفية الخضراء ظاهرة في كل شريحة، مما يمنح المنتج مظهرًا مألوفًا.</p><p>تُحضّر Tillo Kochari، المنحدرة من غازي عنتاب، رقائق الكيوي في عبوة صغيرة وخفيفة. وهي تشكّل توازنًا جيدًا مع الوجبات الخفيفة الحلوة لمحبي النكهات الحامضة. ولا تشغل حيزًا كبيرًا في الحقيبة، فتوفر استراحة فاكهة صغيرة يمكنك اصطحابها في جولات المشي أو إلى المكتب أو في الرحلات الطويلة. وعند خلطها مع رقائق الفواكه الأخرى يتكوّن وعاء ملوّن.</p><h3>اقتراحات للاستخدام</h3><ul><li>فتّتها فوق وعاء الزبادي بالفواكه لإضافة قرمشة حامضة.</li><li>اخلطها مع رقائق التفاح والكمثرى والبرتقال لتحضير طبق ملوّن من رقائق الفواكه.</li><li>رتّب بضع شرائح كاملة فوق المهلبية بالليمون لتقديم منعش.</li></ul><p><strong>الوزن:</strong> 60 g</p>",
+    "de": "<h2>Kiwichips: Süßsauer und knusprig</h2><p>Anders als weiche getrocknete Scheiben derselben Frucht haben Kiwichips eine knusprige Textur; sie brechen beim Hineinbeißen und zerfallen schnell im Mund. In dieser Form tritt der süßsaure Charakter der Kiwi noch deutlicher hervor. Der Ring aus schwarzen Kernen auf grünem Grund bleibt in jeder Scheibe sichtbar und verleiht dem Produkt ein vertrautes Aussehen.</p><p>Tillo Kochari aus Gaziantep bietet seine Kiwichips in einer leichten, kleinen Packung an. Für Liebhaber säuerlicher Aromen bilden sie einen guten Ausgleich zu süßen Snacks. Sie nehmen in der Tasche kaum Platz ein und sorgen für eine kleine Obstpause, die Sie auf Spaziergänge, ins Büro oder auf lange Reisen mitnehmen können. Mit anderen Fruchtchips gemischt, ergeben sie eine bunte Schale.</p><h3>Verwendungsvorschläge</h3><ul><li>Über eine Schale Fruchtjoghurt bröseln und so für säuerliche Knusprigkeit sorgen.</li><li>Mit Apfel-, Birnen- und Orangenchips mischen und einen bunten Fruchtchips-Teller zubereiten.</li><li>Einige ganze Scheiben auf Zitronen-Milchpudding legen – für eine erfrischende Präsentation.</li></ul><p><strong>Gewicht:</strong> 60 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>키위칩: 새콤달콤하고 바삭하게</h2><p>키위칩은 같은 과일의 부드러운 말린 슬라이스와 달리 바삭한 식감을 지녀, 베어 물면 부서지고 입안에서 금세 흩어집니다. 이런 형태에서는 키위의 새콤달콤한 개성이 더욱 선명하게 느껴집니다. 초록 바탕 위 검은 씨앗 고리가 슬라이스마다 그대로 보여 친숙한 모습을 선사합니다.</p><p>가지안테프에 뿌리를 둔 Tillo Kochari는 키위칩을 가볍고 작은 포장으로 선보입니다. 새콤한 맛을 좋아하는 분들께는 달콤한 간식과 좋은 균형을 이룹니다. 가방 속에서 자리를 많이 차지하지 않아 산책길, 사무실, 장거리 여행에 챙겨 갈 수 있는 작은 과일 휴식이 되어 줍니다. 다른 과일칩과 섞으면 알록달록한 한 그릇이 완성됩니다.</p><h3>활용 제안</h3><ul><li>과일 요거트 볼 위에 부숴 올려 새콤한 바삭함을 더해 보세요.</li><li>사과칩, 배칩, 오렌지칩과 섞어 알록달록한 과일칩 플레이트를 준비해 보세요.</li><li>레몬 우유 푸딩 위에 통 슬라이스 몇 장을 올려 산뜻하게 연출해 보세요.</li></ul><p><strong>중량:</strong> 60 g</p>"
   },
-  "update": "2026-10-28T07:04:27.029Z",
+  "update": "2026-10-28T09:08:11.097Z",
   "date": "2026-05-20T09:54:45.152Z",
   "img": "index.webp"
 }

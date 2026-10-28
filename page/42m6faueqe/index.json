@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Fındık Kreması"
+    "tr": "Fındık Kreması",
+    "en": "Hazelnut Cream",
+    "ar": "كريمة البندق",
+    "de": "Haselnusscreme",
+    "ko": "헤이즐넛 크림"
   },
   "status": "play",
-  "category": "c02findik",
+  "category": "c06meycip",
   "id": "42m6faueqe",
   "externalUrl": "",
   "path": "findik-kremasi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Fındık Kreması, Fındık Ezme ve Krema, fındık ezmesi, giresun fındık, fındık ezme",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Hazelnut Cream, Hazelnut Pastes and Creams, hazelnut paste, Giresun hazelnut, hazelnut spread",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, كريمة البندق, معاجين وكريمات البندق, معجون البندق, بندق غيرسون, دهن البندق",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Haselnusscreme, Haselnusspasten und -cremes, Haselnusspaste, Giresun-Haselnuss, Haselnussaufstrich",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 헤이즐넛 크림, 헤이즐넛 페이스트 및 크림, 헤이즐넛 페이스트, 기레순 헤이즐넛, 헤이즐넛 스프레드"
   },
   "description": {
-    "tr": "Tillo Kochari Fındık Kreması: Yayvan kıvamlı fındık kreması. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 350 g / 750 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Fındık Kreması: Yayvan kıvamlı fındık kreması. Fındık Ezme ve Krema grubunda. Sunulan gramaj: 350 g / 750 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Hazelnut Cream is an easy-spreading hazelnut cream, part of the Hazelnut Pastes and Creams range, available in 350 g / 750 g, and a natural food from Gaziantep.",
+    "ar": "Tillo Kochari — كريمة البندق: كريمة بندق سهلة الانتشار، من فئة معاجين وكريمات البندق، متوفرة بأوزان 350 g / 750 g، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Haselnusscreme ist eine streichzarte Haselnusscreme aus der Kategorie Haselnusspasten und -cremes, erhältlich in 350 g / 750 g – ein Naturprodukt aus Gaziantep.",
+    "ko": "Tillo Kochari 헤이즐넛 크림은 부드럽게 펴 발리는 헤이즐넛 크림으로, 헤이즐넛 페이스트 및 크림 제품군에 속하며 350 g / 750 g으로 제공되는 가지안테프 출신의 천연 식품입니다."
   },
-  "index": 7,
+  "index": 83,
   "icon": "nutrition",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Fındık Kreması | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Hazelnut Cream | Tillo Kochari",
+    "ar": "كريمة البندق | Tillo Kochari",
+    "de": "Haselnusscreme | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "헤이즐넛 크림 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Yayvan Kıvamıyla Fındık Kreması</h2><p>Fındık Kreması'nın en belirgin özelliği yayvan kıvamıdır: ekmeğe bıçak değdiği an kolayca açılır ve ince bir tabaka hâlinde dağılır. Fındığın yumuşak aroması bu dokuda daha hafif algılanır. Tillo Kochari, Gaziantep kökenli ürünleri arasında bu kremayı gündelik ve pratik bir kahvaltılık olarak sunar.</p><p>Hızlı hazırlanan sabah kahvaltılarında, okul beslenme çantalarında ya da ikindi çayının yanında sık başvurulan bir kavanoz olmaya adaydır. 350 gramlık kavanoz tek kişilik ya da küçük haneler için, 750 gramlık kavanoz ise kremayı pasta ve tatlılarda da kullanmak isteyen mutfaklar için tercih edilebilir.</p><h3>Kullanım Önerileri</h3><ul><li>Beslenme çantası için iki dilim ekmeğin arasına sürüp sandviç hazırlayın.</li><li>Pasta katlarının arasına ince bir tabaka yayarak fındıklı bir ara kat oluşturun.</li><li>Simit ya da açmayı ortadan ikiye bölüp kremayla ikindi çayına eşlik ettirin.</li></ul><p><strong>Gramaj:</strong> 350 g / 750 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Hazelnut Cream with an Easy-Spreading Consistency</h2><p>The most distinctive feature of Hazelnut Cream is its easy-spreading consistency: the moment the knife touches the bread, it opens up easily and spreads in a thin layer. The soft aroma of hazelnut comes across more lightly in this texture. Among its Gaziantep-rooted products, Tillo Kochari offers this cream as an everyday, practical breakfast spread.</p><p>It is set to become a go-to jar for quick morning breakfasts, school lunch boxes or alongside afternoon tea. The 350 g jar can be chosen by single people or small households, while the 750 g jar suits kitchens that also want to use the cream in cakes and desserts.</p><h3>Usage Suggestions</h3><ul><li>Spread it between two slices of bread to make a sandwich for the lunch box.</li><li>Spread a thin layer between cake layers to create a hazelnut filling.</li><li>Halve a simit (sesame bread ring) or açma (soft bread roll) and serve it with the cream alongside afternoon tea.</li></ul><p><strong>Weight:</strong> 350 g / 750 g</p>",
+    "ar": "<h2>كريمة البندق بقوامها السهل الانتشار</h2><p>أبرز ما يميّز كريمة البندق قوامها السهل الانتشار: فما إن تلامس السكين الخبز حتى تنفرد بسهولة وتتوزع طبقةً رقيقة. ويُدرَك عبير البندق الناعم بصورة أخف في هذا القوام. وتقدّم Tillo Kochari هذه الكريمة، ضمن منتجاتها ذات الأصل من غازي عنتاب، طعامَ إفطار يوميًا وعمليًا.</p><p>وهي مرشّحة لتكون برطمانًا يُلجأ إليه كثيرًا في وجبات الإفطار الصباحية السريعة، وفي حقائب طعام المدرسة، أو إلى جانب شاي العصر. ويمكن اختيار برطمان 350 g للأفراد أو الأسر الصغيرة، أما برطمان 750 g فللمطابخ التي ترغب في استخدام الكريمة في الكعك والحلويات أيضًا.</p><h3>اقتراحات الاستخدام</h3><ul><li>ادهنها بين شريحتي خبز لتحضير شطيرة لحقيبة الطعام.</li><li>افرد طبقة رقيقة بين طبقات الكعكة لتكوين طبقة وسطى بالبندق.</li><li>اقسم السميت (حلقة الخبز بالسمسم) أو الأتشما (خبز طري) إلى نصفين وقدّمه مع الكريمة إلى جانب شاي العصر.</li></ul><p><strong>الوزن:</strong> 350 g / 750 g</p>",
+    "de": "<h2>Haselnusscreme mit streichzarter Konsistenz</h2><p>Das markanteste Merkmal der Haselnusscreme ist ihre streichzarte Konsistenz: Sobald das Messer das Brot berührt, verteilt sie sich mühelos in einer dünnen Schicht. Das sanfte Haselnussaroma wirkt in dieser Textur leichter. Tillo Kochari bietet diese Creme unter seinen Produkten mit Wurzeln in Gaziantep als praktischen Frühstücksaufstrich für jeden Tag an.</p><p>Sie hat das Zeug dazu, beim schnellen Frühstück am Morgen, in der Schulbrotdose oder zum Nachmittagstee zum Lieblingsglas zu werden. Das Glas mit 350 g eignet sich für Singles oder kleine Haushalte, das Glas mit 750 g für Küchen, die die Creme auch für Torten und Desserts verwenden möchten.</p><h3>Verwendungsvorschläge</h3><ul><li>Streichen Sie sie zwischen zwei Brotscheiben und bereiten Sie so ein Sandwich für die Brotdose zu.</li><li>Verteilen Sie eine dünne Schicht zwischen den Tortenböden für eine Zwischenschicht mit Haselnuss.</li><li>Halbieren Sie einen Simit (Sesamkringel) oder eine Açma (weiches Hefegebäck) und reichen Sie das Gebäck mit der Creme zum Nachmittagstee.</li></ul><p><strong>Gewicht:</strong> 350 g / 750 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>부드럽게 펴 발리는 헤이즐넛 크림</h2><p>헤이즐넛 크림의 가장 큰 특징은 부드럽게 펴 발리는 농도입니다. 칼이 빵에 닿는 순간 쉽게 펴지며 얇은 층으로 고르게 퍼집니다. 이 질감 속에서 헤이즐넛의 부드러운 향은 한층 가볍게 느껴집니다. Tillo Kochari는 가지안테프에 뿌리를 둔 제품 가운데 이 크림을 일상적이고 실용적인 아침 식사용 스프레드로 선보입니다.</p><p>바쁜 아침 식사, 학교 도시락, 또는 오후의 차 시간에 자주 손이 가는 제품이 될 것입니다. 350 g 병은 1인 가구나 소가구에, 750 g 병은 케이크와 디저트에도 크림을 활용하고자 하는 주방에 알맞습니다.</p><h3>활용 제안</h3><ul><li>도시락용으로 빵 두 조각 사이에 발라 샌드위치를 만들어 보세요.</li><li>케이크 시트 사이에 얇게 펴 발라 헤이즐넛 크림 층을 만들어 보세요.</li><li>시미트(참깨 링빵)나 아치마(부드러운 빵)를 반으로 갈라 크림을 발라 오후의 차와 함께 즐겨 보세요.</li></ul><p><strong>중량:</strong> 350 g / 750 g</p>"
   },
-  "update": "2026-10-28T07:04:25.445Z",
+  "update": "2026-10-28T09:07:22.837Z",
   "date": "2026-05-20T09:54:44.911Z",
   "img": "index.webp"
 }

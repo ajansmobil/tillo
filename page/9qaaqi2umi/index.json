@@ -1,11 +1,11 @@
 {
   "name": {
     "tr": "İncir Suyu",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Fig Juice",
+    "ar": "عصير التين",
+    "de": "Feigensaft",
     "ja": "",
-    "ko": ""
+    "ko": "무화과 주스"
   },
   "status": "play",
   "category": "c10meyves",
@@ -14,21 +14,21 @@
   "path": "i-ncir-suyu",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, İncir Suyu, Meyve Suları, meyve suyu, nar suyu, doğal meyve suyu, katkısız içecek",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Fig Juice, Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, عصير التين, عصائر الفواكه, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Feigensaft, Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 무화과 주스, 과일 주스, 과일즙, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
     "tr": "Tillo Kochari İncir Suyu: İncir özü. Meyve Suları grubunda. Sunulan gramaj: 750 ml. Gaziantep kökenli doğal gıda.",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari Fig Juice is a fig essence drink from the Fruit Juices range, offered in 750 ml as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari — عصير التين: مشروب من خلاصة التين ضمن فئة عصائر الفواكه، يُقدَّم بسعة 750 ml، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Feigensaft – ein Getränk aus Feigenessenz aus der Kategorie Fruchtsäfte, angeboten in 750 ml, ein Naturprodukt mit Wurzeln in Gaziantep.",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari 무화과 주스는 과일 주스 카테고리의 무화과 진액 음료로, 750 ml 용량으로 제공되는 가지안테프 출신의 자연 식품입니다."
   },
-  "index": 78,
+  "index": 154,
   "icon": "local_bar",
   "desing": {
     "header": [],
@@ -42,21 +42,21 @@
   },
   "title": {
     "tr": "İncir Suyu | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Fig Juice | Tillo Kochari",
+    "ar": "عصير التين | Tillo Kochari",
+    "de": "Feigensaft | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "무화과 주스 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>İncir Suyu: İncirin Özünden Gelen Doğal Tatlılık</h2>\n<p>İncir Suyu, incirin özünden hazırlanan, bal tonlarında ve hafif karamelimsi bir tada sahip bir içecektir. Meyvenin taneli yapısı yerine yumuşak, akışkan bir kıvam sunar; incirin tanıdık aromasını ise korur. Sıra dışı bir meyve suyu arayanlar için sofraya farklı bir renk katan seçeneklerden biridir.</p>\n<p>İncir, Türkiye'de hem tazesi hem kurusuyla sofralarda geniş yer bulan bir meyvedir. Tillo Kochari, Gaziantep'ten sunduğu ürünler arasında incire içecek olarak da yer veriyor. 750 ml'lik boy, birkaç kişilik bir ikram ya da birkaç günlük kişisel tüketim için uygundur; soğuk servis edildiğinde aroması daha iyi hissedilir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Sabah kahvaltısında beyaz peynir ve cevizli ekmeğin yanında soğuk olarak için.</li>\n<li>Yulaf lapasını ceviz ve tarçınla pişirirken suyun bir kısmı yerine ekleyin.</li>\n<li>Kuzu veya ördek gibi etler için hazırlanan tatlı-ekşi soslara az miktarda katın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 750 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Fig Juice: Natural Sweetness from the Essence of Figs</h2>\n<p>Fig Juice is a drink prepared from the essence of figs, with honey tones and a slightly caramel-like taste. Instead of the fruit's seedy texture, it offers a smooth, flowing consistency while preserving the familiar aroma of figs. It is one of the options that add a different touch to the table for those looking for an unusual fruit juice.</p>\n<p>In Turkey, figs are widely enjoyed at the table both fresh and dried. Among the products Tillo Kochari offers from Gaziantep, figs also have a place as a drink. The 750 ml size is suitable for serving a few guests or for a few days of personal consumption; its aroma comes through better when served cold.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Drink it cold at breakfast alongside white cheese and walnut bread.</li>\n<li>Add it in place of part of the water when cooking oatmeal with walnuts and cinnamon.</li>\n<li>Add a small amount to sweet-and-sour sauces prepared for meats such as lamb or duck.</li>\n</ul>\n<p><strong>Volume:</strong> 750 ml</p>",
+    "ar": "<h2>عصير التين: حلاوة طبيعية من خلاصة التين</h2>\n<p>عصير التين مشروب يُحضَّر من خلاصة التين، بنغمات عسلية ومذاق يشبه الكراميل قليلًا. وبدلًا من قوام الفاكهة المليء بالبذور، يقدّم قوامًا ناعمًا وسلسًا، مع الحفاظ على نكهة التين المألوفة. وهو من الخيارات التي تضفي لونًا مختلفًا على المائدة لمن يبحثون عن عصير فواكه غير مألوف.</p>\n<p>التين في تركيا فاكهة تحظى بمكانة واسعة على الموائد طازجةً ومجففةً. ومن بين المنتجات التي تقدّمها Tillo Kochari من غازي عنتاب، يحظى التين بمكان على هيئة مشروب أيضًا. والحجم 750 ml مناسب لضيافة بضعة أشخاص أو للاستهلاك الشخصي لبضعة أيام؛ وتظهر نكهته على نحو أفضل عند تقديمه باردًا.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>اشربه باردًا في الفطور إلى جانب الجبن الأبيض وخبز الجوز.</li>\n<li>أضفه بدلًا من جزء من الماء عند طهي الشوفان بالجوز والقرفة.</li>\n<li>أضف كمية قليلة منه إلى الصلصات الحلوة الحامضة المعدّة للحوم مثل لحم الضأن أو البط.</li>\n</ul>\n<p><strong>الحجم:</strong> 750 ml</p>",
+    "de": "<h2>Feigensaft: Natürliche Süße aus der Essenz der Feige</h2>\n<p>Feigensaft ist ein aus der Essenz der Feige zubereitetes Getränk mit Honignoten und einem leicht karamellartigen Geschmack. Statt der körnigen Struktur der Frucht bietet er eine weiche, fließende Konsistenz, bewahrt aber das vertraute Aroma der Feige. Für alle, die einen ungewöhnlichen Fruchtsaft suchen, ist er eine der Optionen, die dem Tisch eine besondere Note verleihen.</p>\n<p>Die Feige ist in der Türkei frisch wie getrocknet eine Frucht, die auf dem Tisch viel Platz findet. Unter den Produkten, die Tillo Kochari aus Gaziantep anbietet, hat die Feige auch als Getränk ihren Platz. Die 750-ml-Größe eignet sich für die Bewirtung einiger Gäste oder für den persönlichen Genuss über einige Tage; gekühlt serviert kommt sein Aroma besser zur Geltung.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Zum Frühstück gekühlt zu Weißkäse und Walnussbrot trinken.</li>\n<li>Beim Kochen von Haferbrei mit Walnüssen und Zimt anstelle eines Teils des Wassers hinzufügen.</li>\n<li>In kleiner Menge zu süß-sauren Soßen für Fleisch wie Lamm oder Ente geben.</li>\n</ul>\n<p><strong>Inhalt:</strong> 750 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>무화과 주스: 무화과 진액에서 온 자연스러운 단맛</h2>\n<p>무화과 주스는 무화과 진액으로 만든 음료로, 꿀 같은 풍미와 은은한 캐러멜 맛을 지니고 있습니다. 과육의 오돌토돌한 씨앗 식감 대신 부드럽고 매끄러운 농도를 제공하면서도 무화과 특유의 친숙한 향은 그대로 간직합니다. 색다른 과일 주스를 찾는 분들께 식탁에 새로운 색을 더해 주는 선택지 중 하나입니다.</p>\n<p>무화과는 튀르키예에서 생과와 말린 과일 모두 식탁에 널리 오르는 과일입니다. Tillo Kochari가 가지안테프에서 선보이는 제품 가운데 무화과는 음료로도 자리하고 있습니다. 750 ml 용량은 몇 사람을 대접하거나 며칠 동안 혼자 즐기기에 알맞으며, 차갑게 내면 향이 더 잘 느껴집니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>아침 식사에 흰 치즈, 호두빵과 함께 차갑게 마시기 좋습니다.</li>\n<li>호두와 시나몬을 넣어 오트밀을 끓일 때 물의 일부 대신 넣을 수 있습니다.</li>\n<li>양고기나 오리고기 등에 곁들이는 새콤달콤한 소스에 소량 더할 수 있습니다.</li>\n</ul>\n<p><strong>용량:</strong> 750 ml</p>"
   },
-  "update": "2026-10-28T07:04:29.244Z",
+  "update": "2026-10-28T09:07:32.749Z",
   "date": "2026-05-20T09:54:45.495Z",
   "slider": [],
   "img": "index.webp"

@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "Kurumsal"
+    "tr": "Kurumsal",
+    "en": "Corporate",
+    "ar": "المؤسسة",
+    "de": "Unternehmen",
+    "ko": "회사 소개"
   },
   "status": "play",
   "category": "",
@@ -10,29 +14,36 @@
   "index": 0,
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "az99da",
+      "tilkur01"
+    ],
     "footer": []
   },
   "pathnext": "hakkimizda",
   "description": {
-    "tr": "Tillo Kochari kurumsal bilgiler. Hakkımızda, misyon, vizyon ve kalite politikamız. Gaziantep doğal gıda üretimi."
+    "tr": "Tillo Kochari kurumsal bilgiler. Hakkımızda, misyon, vizyon ve kalite politikamız. Gaziantep doğal gıda üretimi.",
+    "en": "Tillo Kochari corporate information: about us, mission, vision and quality policy. Natural food production in Gaziantep.",
+    "ar": "معلومات مؤسسة Tillo Kochari: من نحن، رسالتنا، رؤيتنا وسياسة الجودة. إنتاج الأغذية الطبيعية في غازي عنتاب.",
+    "de": "Unternehmensinformationen von Tillo Kochari: Über uns, Mission, Vision und Qualitätspolitik. Natürliche Lebensmittelproduktion in Gaziantep.",
+    "ko": "Tillo Kochari 회사 정보: 회사 소개, 사명, 비전, 품질 정책. 가지안테프의 천연 식품 생산."
   },
   "desc": {},
   "title": {
     "tr": "Kurumsal | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Corporate | Tillo Kochari",
+    "ar": "المؤسسة | Tillo Kochari",
+    "de": "Unternehmen | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "회사 소개 | Tillo Kochari"
   },
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, kurumsal, hakkımızda, vizyon misyon, kalite politikası",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, corporate, about us, vision, mission, quality policy",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, مؤسسة, من نحن, رؤية ورسالة, سياسة الجودة",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Unternehmen, Über uns, Vision, Mission, Qualitätspolitik",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 회사 소개, 비전, 사명, 품질 정책"
   },
   "text": {
     "tr": "",
@@ -42,7 +53,7 @@
     "ja": "",
     "ko": ""
   },
-  "update": "2026-05-21T08:39:28.773Z",
+  "update": "2026-10-28T09:08:57.446Z",
   "date": "2026-05-19",
   "icon": "home"
 }

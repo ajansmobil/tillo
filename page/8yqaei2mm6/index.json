@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Üzüm Çekirdeği Yağı"
+    "tr": "Üzüm Çekirdeği Yağı",
+    "en": "Grape Seed Oil",
+    "ar": "زيت بذور العنب",
+    "de": "Traubenkernöl",
+    "ko": "포도씨 오일"
   },
   "status": "play",
-  "category": "c15aromya",
+  "category": "zsyqc5i9oe",
   "id": "8yqaei2mm6",
   "externalUrl": "",
   "path": "uzum-cekirdegi-yagi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Üzüm Çekirdeği Yağı, Tıbbi Aromatik Yağlar, bıttım yağı, çörek otu yağı, aromatik yağ, tıbbi yağ",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Grape Seed Oil, Medicinal Aromatic Oils, terebinth oil, black seed oil, aromatic oil, medicinal oil",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, زيت بذور العنب, الزيوت العطرية الطبية, زيت البطم, زيت الحبة السوداء, زيت عطري, زيت طبي",
+    "de": "Tillo Kochari, Gaziantep, Naturlebensmittel, Traubenkernöl, Medizinisch-aromatische Öle, Terpentinpistazienöl, Schwarzkümmelöl, Aromaöl, Heilöl",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 포도씨 오일, 약용 아로마 오일, 테레빈스 열매 오일, 블랙시드 오일, 아로마 오일, 약용 오일"
   },
   "description": {
-    "tr": "Tillo Kochari Üzüm Çekirdeği Yağı: Likopen kaynağı. Tıbbi Aromatik Yağlar grubunda. Sunulan gramaj: 250 ml. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Üzüm Çekirdeği Yağı: Likopen kaynağı. Tıbbi Aromatik Yağlar grubunda. Sunulan gramaj: 250 ml. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Grape Seed Oil is a source of lycopene from the Medicinal Aromatic Oils range, offered in 250 ml as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari زيت بذور العنب: مصدر لليكوبين ضمن مجموعة الزيوت العطرية الطبية، يُقدَّم بعبوة 250 ml، وهو غذاء طبيعي من أصل غازي عنتاب.",
+    "de": "Tillo Kochari Traubenkernöl ist eine Lycopinquelle aus der Gruppe der medizinisch-aromatischen Öle, erhältlich in 250 ml – ein Naturlebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 포도씨 오일은 약용 아로마 오일 군에 속하는 리코펜 공급원으로, 250 ml 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 131,
+  "index": 207,
   "icon": "science",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Üzüm Çekirdeği Yağı | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Grape Seed Oil | Tillo Kochari",
+    "ar": "زيت بذور العنب | Tillo Kochari",
+    "de": "Traubenkernöl | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "포도씨 오일 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Üzüm Çekirdeği Yağı: Hafif Dokulu ve Sade</h2>\n<p>Tillo Kochari Üzüm Çekirdeği Yağı, üzüm çekirdeklerinden elde edilen açık renkli ve hafif dokulu bir yağdır. Kokusu ve tadı belirgin değildir; bu sadelik, onu salata soslarında başka aromaları öne çıkarmak isteyenler için kullanışlı kılar. İnce yapısı sayesinde bakımda da ciltte kolayca yayılır.</p>\n<p>Üzüm, Gaziantep'te bağ bozumundan pekmeze, pestilden sirkeye uzanan geniş bir mutfak kültürünün parçasıdır; meyvenin çekirdeği bile değerlendirilir. Tillo Kochari üzüm çekirdeği yağını 250 ml'lik bir hacimle sunuyor. Mutfakta sos yağı, bakımda ise masaj ya da taşıyıcı yağ olarak kullanılabilecek çok yönlü bir seçenektir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Hardal, bal ve limonla çırparak yeşil salatalar için hafif bir sos hazırlayın.</li>\n<li>Ev yapımı mayonez ve aioli gibi emülsiyon soslarda nötr yağ olarak kullanın.</li>\n<li>Sevdiğiniz bir uçucu yağı seyreltmek için taşıyıcı yağ olarak değerlendirin.</li>\n</ul>\n<p><strong>Gramaj:</strong> 250 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Grape Seed Oil: Light-Textured and Mild</h2>\n<p>Tillo Kochari Grape Seed Oil is a light-coloured, light-textured oil obtained from grape seeds. Its scent and taste are not pronounced; this mildness makes it useful in salad dressings for those who want other flavours to come to the fore. Thanks to its fine consistency, it also spreads easily on the skin in personal care.</p>\n<p>In Gaziantep, the grape is part of a broad culinary culture that stretches from the harvest to grape molasses and from fruit leather to vinegar; even the seed of the fruit is put to use. Tillo Kochari offers grape seed oil in a 250 ml volume. It is a versatile option that can be used as a dressing oil in the kitchen and as a massage or carrier oil in personal care.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Whisk with mustard, honey and lemon to make a light dressing for green salads.</li>\n<li>Use as a neutral oil in emulsified sauces such as homemade mayonnaise and aioli.</li>\n<li>Use it as a carrier oil to dilute an essential oil of your choice.</li>\n</ul>\n<p><strong>Pack Size:</strong> 250 ml</p>",
+    "ar": "<h2>زيت بذور العنب: قوام خفيف ونكهة هادئة</h2>\n<p>زيت بذور العنب من Tillo Kochari زيتٌ فاتح اللون خفيف القوام يُستخلص من بذور العنب. رائحته ومذاقه غير بارزين؛ وهذه البساطة تجعله مفيدًا في صلصات السلطة لمن يرغبون في إبراز نكهات أخرى. وبفضل قوامه الرقيق ينتشر بسهولة على البشرة في العناية الشخصية أيضًا.</p>\n<p>العنب في غازي عنتاب جزء من ثقافة مطبخية واسعة تمتد من قطاف الكروم إلى دبس العنب، ومن لفائف الفاكهة المجففة إلى الخل؛ حتى بذور الثمرة يُستفاد منها. وتقدّم Tillo Kochari زيت بذور العنب بعبوة سعتها 250 ml. وهو خيار متعدد الاستخدامات يمكن استعماله زيتًا للصلصات في المطبخ، وزيتًا للتدليك أو زيتًا ناقلًا في العناية الشخصية.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اخفقه مع الخردل والعسل والليمون لتحضير صلصة خفيفة للسلطات الخضراء.</li>\n<li>استخدمه زيتًا محايدًا في الصلصات المستحلبة مثل المايونيز المنزلي والأيولي.</li>\n<li>استعمله زيتًا ناقلًا لتخفيف زيت عطري تفضّله.</li>\n</ul>\n<p><strong>العبوة:</strong> 250 ml</p>",
+    "de": "<h2>Traubenkernöl: Leicht in der Textur und mild</h2>\n<p>Tillo Kochari Traubenkernöl ist ein helles Öl mit leichter Textur, das aus Traubenkernen gewonnen wird. Duft und Geschmack sind zurückhaltend; diese Schlichtheit macht es in Salatdressings praktisch für alle, die andere Aromen in den Vordergrund stellen möchten. Dank seiner feinen Konsistenz lässt es sich bei der Pflege auch leicht auf der Haut verteilen.</p>\n<p>Die Traube ist in Gaziantep Teil einer reichen Küchenkultur, die von der Weinlese bis zum Traubensirup und vom Fruchtleder bis zum Essig reicht; selbst die Kerne der Frucht werden verwertet. Tillo Kochari bietet Traubenkernöl in einem Volumen von 250 ml an. Es ist eine vielseitige Wahl, die in der Küche als Dressingöl und in der Pflege als Massage- oder Trägeröl verwendet werden kann.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Mit Senf, Honig und Zitrone aufschlagen und so ein leichtes Dressing für grüne Salate zubereiten.</li>\n<li>Als neutrales Öl in emulgierten Saucen wie hausgemachter Mayonnaise und Aioli verwenden.</li>\n<li>Als Trägeröl nutzen, um ein ätherisches Öl Ihrer Wahl zu verdünnen.</li>\n</ul>\n<p><strong>Packungsgröße:</strong> 250 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>포도씨 오일: 가볍고 담백한 오일</h2>\n<p>Tillo Kochari 포도씨 오일은 포도씨에서 얻은 밝은 색의 가벼운 질감의 오일입니다. 향과 맛이 두드러지지 않아, 샐러드 드레싱에서 다른 풍미를 살리고 싶은 분들에게 유용합니다. 질감이 가벼워 관리용으로 사용할 때도 피부에 쉽게 펴 발립니다.</p>\n<p>가지안테프에서 포도는 포도 수확에서 포도 당밀까지, 과일 레더에서 식초까지 이어지는 폭넓은 식문화의 일부이며, 열매의 씨앗까지도 활용됩니다. Tillo Kochari는 포도씨 오일을 250 ml 용량으로 선보입니다. 주방에서는 드레싱용 오일로, 관리용으로는 마사지 오일이나 캐리어 오일로 사용할 수 있는 다용도 제품입니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>머스터드, 꿀, 레몬과 함께 휘저어 그린 샐러드용 가벼운 드레싱을 만듭니다.</li>\n<li>홈메이드 마요네즈와 아이올리 같은 유화 소스에 중성 오일로 사용합니다.</li>\n<li>좋아하는 에센셜 오일을 희석하는 캐리어 오일로 활용합니다.</li>\n</ul>\n<p><strong>규격:</strong> 250 ml</p>"
   },
-  "update": "2026-10-28T07:04:32.185Z",
+  "update": "2026-10-28T09:07:31.759Z",
   "date": "2026-05-20T09:54:45.934Z",
   "img": "index.webp"
 }

@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "İnek Sütü"
+    "tr": "İnek Sütü",
+    "en": "Cow's Milk",
+    "ar": "حليب البقر",
+    "de": "Kuhmilch",
+    "ko": "우유"
   },
   "status": "play",
-  "category": "c12sut",
+  "category": "c07kuruseb",
   "id": "zqqiiy62em",
   "externalUrl": "",
   "path": "i-nek-sutu",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, İnek Sütü, Süt ve Süt Ürünleri, süt ürünleri, kaşar peynir, beyaz peynir, tereyağı",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Cow's Milk, Milk and Dairy Products, dairy products, kashar cheese, white cheese, butter",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, حليب البقر, الحليب ومشتقاته, منتجات الألبان, جبن قشقوان, جبن أبيض, زبدة",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Kuhmilch, Milch und Milchprodukte, Milchprodukte, Kaşar-Käse, Weißkäse, Butter",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 우유, 우유 및 유제품, 유제품, 카사르 치즈, 화이트 치즈, 버터"
   },
   "description": {
-    "tr": "Tillo Kochari İnek Sütü: Pastörize inek sütü. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari İnek Sütü: Pastörize inek sütü. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Cow's Milk is a pasteurised cow's milk from the Milk and Dairy Products range, available in 1 L, and a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari حليب البقر: حليب بقر مبستر من فئة الحليب ومشتقاته، متوفر بسعة 1 L، وهو غذاء طبيعي يعود أصله إلى غازي عنتاب.",
+    "de": "Tillo Kochari Kuhmilch ist eine pasteurisierte Kuhmilch aus der Kategorie Milch und Milchprodukte, erhältlich in 1 L – ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 우유는 우유 및 유제품 카테고리의 살균 우유로, 1 L 용량으로 제공되는 가지안테프 출신의 자연 식품입니다."
   },
-  "index": 96,
+  "index": 172,
   "icon": "egg",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "İnek Sütü | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Cow's Milk | Tillo Kochari",
+    "ar": "حليب البقر | Tillo Kochari",
+    "de": "Kuhmilch | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "우유 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Günlük Kullanıma Uygun Tillo Kochari İnek Sütü</h2><p>Pastörize inek sütü, mutfağın en çok başvurulan temel malzemelerinden biridir. Hafif ve dengeli tadıyla kahvaltıda tek başına içilebilir, kahveye ya da çaya eklenebilir, hamur işlerinde rahatça kullanılabilir. Tillo Kochari, Gaziantep'ten uzanan doğal gıda anlayışını her gün sofrada yer alan bu ürüne de taşıyor.</p><p>Bir litrelik boy, ailece tüketim için pratik bir ölçü sunar. Sabah kahvaltısındaki tahıl kasesinden akşamki beşamel sosa kadar pek çok tarifte rahatlıkla kullanılabilir. Açtıktan sonra buzdolabında saklamanız ve ağzını kapalı tutmanız, tadını ve kokusunu korumanıza yardımcı olur.</p><h3>Kullanım Önerileri</h3><ul><li>Beşamel sos için tereyağı ve unu kavurup sütü yavaşça ekleyin, kıvam alana dek karıştırın.</li><li>Kakao ve bir tutam tarçınla ısıtarak kış akşamları için sıcak bir içecek hazırlayın.</li><li>Krep ve pankek hamurlarında sıvı malzeme olarak kullanın.</li></ul><p><strong>Gramaj:</strong> 1 L</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Tillo Kochari Cow's Milk for Everyday Use</h2><p>Pasteurised cow's milk is one of the most frequently used basic ingredients in the kitchen. With its light and balanced taste, it can be enjoyed on its own at breakfast, added to coffee or tea, and used freely in baking. Tillo Kochari carries its Gaziantep-rooted approach to natural food into this product that is on the table every day.</p><p>The 1 L size offers a practical amount for family consumption. It can easily be used in many recipes, from the morning cereal bowl to the evening béchamel sauce. After opening, storing it in the refrigerator with the cap closed helps preserve its taste and aroma.</p><h3>Serving Suggestions</h3><ul><li>For béchamel sauce, cook butter and flour together, add the milk slowly and stir until it thickens.</li><li>Heat it with cocoa and a pinch of cinnamon to make a warm drink for winter evenings.</li><li>Use it as the liquid ingredient in crêpe and pancake batters.</li></ul><p><strong>Size:</strong> 1 L</p>",
+    "ar": "<h2>حليب البقر من Tillo Kochari للاستخدام اليومي</h2><p>يُعد حليب البقر المبستر من أكثر المكونات الأساسية استخدامًا في المطبخ. وبفضل طعمه الخفيف والمتوازن يمكن شربه وحده على الفطور، أو إضافته إلى القهوة أو الشاي، واستخدامه بسهولة في المعجنات. وتنقل Tillo Kochari رؤيتها للغذاء الطبيعي الممتدة من غازي عنتاب إلى هذا المنتج الحاضر على المائدة كل يوم.</p><p>توفر العبوة بسعة 1 L كمية عملية لاستهلاك العائلة. ويمكن استخدامه بسهولة في وصفات كثيرة، من طبق حبوب الإفطار صباحًا حتى صلصة البشاميل مساءً. إن حفظه في الثلاجة بعد الفتح وإبقاء غطائه مغلقًا يساعدان على الحفاظ على طعمه ورائحته.</p><h3>اقتراحات الاستخدام</h3><ul><li>لتحضير صلصة البشاميل، حمّص الزبدة مع الدقيق ثم أضف الحليب تدريجيًا وحرّك حتى يتماسك القوام.</li><li>سخّنه مع الكاكاو ورشة من القرفة لتحضير مشروب دافئ لأمسيات الشتاء.</li><li>استخدمه مكوّنًا سائلًا في عجينة الكريب والبان كيك.</li></ul><p><strong>العبوة:</strong> 1 L</p>",
+    "de": "<h2>Tillo Kochari Kuhmilch für den täglichen Gebrauch</h2><p>Pasteurisierte Kuhmilch gehört zu den am häufigsten verwendeten Grundzutaten in der Küche. Mit ihrem milden, ausgewogenen Geschmack lässt sie sich zum Frühstück pur trinken, in Kaffee oder Tee geben und problemlos zum Backen verwenden. Tillo Kochari überträgt sein in Gaziantep verwurzeltes Verständnis natürlicher Lebensmittel auch auf dieses Produkt, das täglich auf den Tisch kommt.</p><p>Die Packung zu 1 L bietet eine praktische Menge für den Familienverbrauch. Ob für die Müslischale am Morgen oder die Béchamelsoße am Abend – sie lässt sich in vielen Rezepten mühelos verwenden. Nach dem Öffnen im Kühlschrank aufbewahrt und gut verschlossen, behält sie ihren Geschmack und Duft besser.</p><h3>Verwendungstipps</h3><ul><li>Für eine Béchamelsoße Butter und Mehl anschwitzen, die Milch langsam zugießen und rühren, bis die Soße andickt.</li><li>Mit Kakao und einer Prise Zimt erhitzen und so ein warmes Getränk für Winterabende zubereiten.</li><li>Als flüssige Zutat für Crêpe- und Pfannkuchenteig verwenden.</li></ul><p><strong>Packungsgröße:</strong> 1 L</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>매일 즐기기 좋은 Tillo Kochari 우유</h2><p>살균 우유는 주방에서 가장 자주 쓰이는 기본 재료 중 하나입니다. 가볍고 균형 잡힌 맛 덕분에 아침 식사에 그대로 마시거나 커피나 차에 넣을 수 있으며, 베이킹에도 부담 없이 활용할 수 있습니다. Tillo Kochari는 가지안테프에서 이어져 온 자연 식품 철학을 매일 식탁에 오르는 이 제품에도 담았습니다.</p><p>1 L 용량은 가족이 함께 마시기에 실용적인 크기입니다. 아침의 시리얼 한 그릇부터 저녁의 베샤멜 소스까지 다양한 레시피에 손쉽게 활용할 수 있습니다. 개봉 후에는 냉장 보관하고 입구를 닫아 두면 맛과 향을 유지하는 데 도움이 됩니다.</p><h3>활용 제안</h3><ul><li>베샤멜 소스를 만들 때는 버터와 밀가루를 볶은 뒤 우유를 천천히 부으며 걸쭉해질 때까지 저어 주세요.</li><li>코코아와 계핏가루 한 꼬집을 넣고 데워 겨울밤을 위한 따뜻한 음료를 만들어 보세요.</li><li>크레페와 팬케이크 반죽의 액체 재료로 사용하세요.</li></ul><p><strong>용량:</strong> 1 L</p>"
   },
-  "update": "2026-10-28T07:04:30.196Z",
+  "update": "2026-10-28T09:08:12.310Z",
   "date": "2026-05-20T09:54:45.640Z",
   "img": "index.webp"
 }

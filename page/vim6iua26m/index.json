@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Tam Yağlı Beyaz Peynir"
+    "tr": "Tam Yağlı Beyaz Peynir",
+    "en": "Full-Fat White Cheese",
+    "ar": "جبن أبيض كامل الدسم",
+    "de": "Vollfetter Weißkäse",
+    "ko": "전지방 화이트 치즈"
   },
   "status": "play",
-  "category": "c12sut",
+  "category": "c07kuruseb",
   "id": "vim6iua26m",
   "externalUrl": "",
   "path": "tam-yagli-beyaz-peynir",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Tam Yağlı Beyaz Peynir, Süt ve Süt Ürünleri, süt ürünleri, kaşar peynir, beyaz peynir, tereyağı",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Full-Fat White Cheese, Milk and Dairy Products, dairy products, kashar cheese, white cheese, butter",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, جبن أبيض كامل الدسم, الحليب ومشتقاته, منتجات الألبان, جبن قشقوان, جبن أبيض, زبدة",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Vollfetter Weißkäse, Milch und Milchprodukte, Milchprodukte, Kaschar-Käse, Weißkäse, Butter",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 전지방 화이트 치즈, 우유 및 유제품, 유제품, 카샤르 치즈, 화이트 치즈, 버터"
   },
   "description": {
-    "tr": "Tillo Kochari Tam Yağlı Beyaz Peynir: Brine beyaz peynir. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 500 g / 1 kg. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Tam Yağlı Beyaz Peynir: Brine beyaz peynir. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 500 g / 1 kg. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Full-Fat White Cheese is a brined white cheese from the Milk and Dairy Products range, offered in 500 g / 1 kg – a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari جبن أبيض كامل الدسم: جبن أبيض محفوظ في محلول ملحي من فئة الحليب ومشتقاته، متوفر بوزن 500 g / 1 kg، وهو غذاء طبيعي ذو أصول من غازي عنتاب.",
+    "de": "Tillo Kochari Vollfetter Weißkäse ist ein in Salzlake eingelegter Weißkäse aus der Kategorie Milch und Milchprodukte, erhältlich in 500 g / 1 kg – ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 전지방 화이트 치즈는 우유 및 유제품 카테고리의 염수 화이트 치즈로, 500 g / 1 kg 용량으로 제공되는 가지안테프 기반의 자연 식품입니다."
   },
-  "index": 104,
+  "index": 180,
   "icon": "egg",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Tam Yağlı Beyaz Peynir | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Full-Fat White Cheese | Tillo Kochari",
+    "ar": "جبن أبيض كامل الدسم | Tillo Kochari",
+    "de": "Vollfetter Weißkäse | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "전지방 화이트 치즈 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Salamurada Bekleyen Tillo Kochari Tam Yağlı Beyaz Peynir</h2><p>Tam yağlı beyaz peynir, salamura içinde saklanan ve Türk kahvaltısında en sık görülen peynirlerden biridir. Dilimlendiğinde dağılmayan, ağızda yumuşacık eriyen dokusu ve dengeli tuzlu tadıyla öne çıkar. Tillo Kochari bu klasiği Gaziantep'ten, ihtiyaca göre seçilebilen 500 gram ve 1 kilogramlık seçeneklerle sunuyor.</p><p>Salamura, peynirin nemini ve kıvamını korumasına yardımcı olur; bu nedenle peyniri suyundan çıkarmadan saklamak en doğru yoldur. Fazla tuzlu bulanlar servisten önce dilimleri kısa süre suda bekletebilir. Domates, salatalık ve zeytinle kurulan sade bir kahvaltı tabağından karpuzlu yaz ikramına kadar pek çok sofraya uyum sağlar.</p><h3>Kullanım Önerileri</h3><ul><li>Yaz akşamlarında soğuk karpuz dilimlerinin yanında servis edin.</li><li>Ezip maydanozla karıştırarak su böreği ya da pişi içi hazırlayın.</li><li>Kekik ve zeytinyağında marine ederek meze tabağına ekleyin.</li></ul><p><strong>Gramaj:</strong> 500 g / 1 kg</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Tillo Kochari Full-Fat White Cheese, Kept in Brine</h2><p>Full-fat white cheese is stored in brine and is one of the cheeses most often found on a Turkish breakfast table. It stands out for a texture that holds together when sliced yet melts softly in the mouth, and for its balanced salty flavour. Tillo Kochari brings this classic from Gaziantep in 500 g and 1 kg options, so you can choose according to your needs.</p><p>The brine helps the cheese retain its moisture and consistency, so the best way to store it is without taking it out of its liquid. If you find it too salty, soak the slices briefly in water before serving. It suits many tables, from a simple breakfast plate with tomatoes, cucumbers and olives to a summer treat with watermelon.</p><h3>Serving Suggestions</h3><ul><li>Serve alongside chilled watermelon slices on summer evenings.</li><li>Mash and mix with parsley to make a filling for börek or fried dough.</li><li>Marinate in thyme and olive oil and add to a meze platter.</li></ul><p><strong>Weight:</strong> 500 g / 1 kg</p>",
+    "ar": "<h2>جبن Tillo Kochari الأبيض كامل الدسم المحفوظ في المحلول الملحي</h2><p>الجبن الأبيض كامل الدسم جبنٌ يُحفظ في محلول ملحي، وهو من أكثر الأجبان حضورًا على مائدة الفطور التركية. يتميّز بقوامٍ لا يتفتّت عند التقطيع ويذوب بنعومة في الفم، وبمذاقٍ مالحٍ متوازن. وتقدّم Tillo Kochari هذا الصنف الكلاسيكي من غازي عنتاب بخيارين يناسبان احتياجاتك: 500 g و1 kg.</p><p>يساعد المحلول الملحي الجبنَ على الاحتفاظ برطوبته وقوامه، لذا فإن أفضل طريقة لحفظه هي إبقاؤه في مائه دون إخراجه. ومن يجده مالحًا أكثر من اللازم يمكنه نقع الشرائح في الماء لفترة قصيرة قبل التقديم. ويناسب موائد كثيرة، من طبق فطور بسيط مع الطماطم والخيار والزيتون إلى ضيافة صيفية مع البطيخ.</p><h3>اقتراحات الاستخدام</h3><ul><li>قدّمه بجانب شرائح البطيخ المبرّد في أمسيات الصيف.</li><li>اهرسه واخلطه بالبقدونس لتحضير حشوة للبورك أو للعجين المقلي.</li><li>تبّله بالزعتر وزيت الزيتون واتركه لينقع، ثم أضفه إلى طبق المازة.</li></ul><p><strong>الوزن:</strong> 500 g / 1 kg</p>",
+    "de": "<h2>In Salzlake gelagert: Tillo Kochari Vollfetter Weißkäse</h2><p>Vollfetter Weißkäse wird in Salzlake aufbewahrt und gehört zu den Käsesorten, die man am häufigsten auf dem türkischen Frühstückstisch findet. Er überzeugt mit einer Textur, die beim Schneiden nicht zerfällt und dennoch weich im Mund schmilzt, sowie mit einem ausgewogen salzigen Geschmack. Tillo Kochari bietet diesen Klassiker aus Gaziantep je nach Bedarf in 500 g und 1 kg an.</p><p>Die Salzlake hilft dem Käse, Feuchtigkeit und Konsistenz zu bewahren; deshalb bewahrt man ihn am besten in seiner Lake auf. Wem er zu salzig ist, der kann die Scheiben vor dem Servieren kurz in Wasser legen. Er passt zu vielen Tafeln – vom schlichten Frühstücksteller mit Tomaten, Gurken und Oliven bis zum sommerlichen Genuss mit Wassermelone.</p><h3>Serviervorschläge</h3><ul><li>An Sommerabenden zu gekühlten Wassermelonenscheiben servieren.</li><li>Zerdrücken und mit Petersilie vermischen – als Füllung für Börek oder frittierte Teigfladen.</li><li>In Thymian und Olivenöl marinieren und auf die Meze-Platte geben.</li></ul><p><strong>Gewicht:</strong> 500 g / 1 kg</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>염수에 담가 보관하는 Tillo Kochari 전지방 화이트 치즈</h2><p>전지방 화이트 치즈는 염수에 담가 보관하는 치즈로, 터키식 아침 식탁에서 가장 자주 볼 수 있는 치즈 중 하나입니다. 썰어도 부서지지 않으면서 입안에서 부드럽게 녹는 식감과 균형 잡힌 짠맛이 특징입니다. Tillo Kochari는 이 클래식 치즈를 가지안테프에서 필요에 따라 고를 수 있는 500 g과 1 kg 두 가지 용량으로 선보입니다.</p><p>염수는 치즈의 수분과 질감을 유지하는 데 도움을 주므로, 치즈를 염수에서 꺼내지 않고 보관하는 것이 가장 좋습니다. 짠맛이 강하게 느껴진다면 서빙 전에 슬라이스를 잠시 물에 담가 두면 됩니다. 토마토, 오이, 올리브를 곁들인 소박한 아침 접시부터 수박을 곁들인 여름 간식까지 다양한 식탁에 잘 어울립니다.</p><h3>활용 제안</h3><ul><li>여름 저녁, 차가운 수박 조각과 함께 곁들여 냅니다.</li><li>으깬 뒤 파슬리와 섞어 뵈렉이나 튀긴 반죽 빵의 속으로 만듭니다.</li><li>타임과 올리브유에 재워 메제 플래터에 곁들입니다.</li></ul><p><strong>중량:</strong> 500 g / 1 kg</p>"
   },
-  "update": "2026-10-28T07:04:30.632Z",
+  "update": "2026-10-28T09:08:06.191Z",
   "date": "2026-05-20T09:54:45.713Z",
   "img": "index.webp"
 }

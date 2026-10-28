@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Kuru Muz Dilim"
+    "tr": "Kuru Muz Dilim",
+    "en": "Dried Banana Slices",
+    "ar": "شرائح موز مجففة",
+    "de": "Getrocknete Bananenscheiben",
+    "ko": "말린 바나나 슬라이스"
   },
   "status": "play",
-  "category": "c05kurumey",
+  "category": "c13konserve",
   "id": "hieaaiuae2",
   "externalUrl": "",
   "path": "kuru-muz-dilim",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kuru Muz Dilim, Kurutulmuş Meyveler, kurutulmuş meyve, kuru kayısı, kuru incir, gün kurusu",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Dried Banana Slices, Dried Fruits, dried fruit, dried apricots, dried figs, sun-dried",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, شرائح موز مجففة, الفواكه المجففة, فاكهة مجففة, مشمش مجفف, تين مجفف, مجفف بالشمس",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Getrocknete Bananenscheiben, Trockenfrüchte, Trockenobst, getrocknete Aprikosen, getrocknete Feigen, sonnengetrocknet",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 말린 바나나 슬라이스, 건과일, 말린 과일, 말린 살구, 말린 무화과, 햇볕 건조"
   },
   "description": {
-    "tr": "Tillo Kochari Kuru Muz Dilim: Tropikal kuru muz. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 150 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Kuru Muz Dilim: Tropikal kuru muz. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 150 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Dried Banana Slices: tropical dried banana from the Dried Fruits range, offered in 150 g – a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari – شرائح موز مجففة من الموز الاستوائي ضمن مجموعة الفواكه المجففة، متوفرة بوزن 150 g، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Getrocknete Bananenscheiben: tropische getrocknete Banane aus der Gruppe Trockenfrüchte, erhältlich in 150 g – ein natürliches Lebensmittel mit Ursprung in Gaziantep.",
+    "ko": "Tillo Kochari 말린 바나나 슬라이스는 열대 과일 바나나를 말린 것으로 건과일군에 속하며, 150 g으로 제공되는 가지안테프에 뿌리를 둔 천연 식품입니다."
   },
-  "index": 26,
+  "index": 102,
   "icon": "spa",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Kuru Muz Dilim | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Dried Banana Slices | Tillo Kochari",
+    "ar": "شرائح موز مجففة | Tillo Kochari",
+    "de": "Getrocknete Bananenscheiben | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "말린 바나나 슬라이스 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kuru Muz Dilim: Tatlı ve Taşınması Kolay Bir Ara Öğün</h2><p>Dilimler hâlinde kurutulan muz, taze meyvenin yumuşak tatlılığını daha yoğun bir biçimde sunar. Tropikal bir meyvenin kurutulmuş hâli olarak tadı karamelimsi notalara yaklaşır, dokusu ise hafif çiğnemeliktir. Kabuk soyma, kararma ya da ezilme derdi olmadığı için evde, okulda veya yolda rahatlıkla tüketilebilir.</p><p>Tillo Kochari'nin kuru muz dilimleri, çocukların beslenme çantasına konabilecek, büyüklerin ise kahve yanında tercih edebileceği sade bir atıştırmalık. Gaziantep kökenli markanın kurutulmuş meyve grubundaki diğer ürünlerle karıştırıldığında, ekşi meyvelerin yanına yumuşak ve tatlı bir denge getirir; kendi karışımınızı oluşturmak için iyi bir başlangıç noktasıdır.</p><h3>Kullanım Önerileri</h3><ul><li>Yulaf lapasının üzerine dilimleri dizip bir tutam tarçın serpin.</li><li>Dilimleri kakaolu yer fıstığı kremasına batırarak hızlı bir tatlı atıştırmalık hazırlayın.</li><li>Robottan geçirip ev yapımı granola barlarına katın.</li></ul><p><strong>Gramaj:</strong> 150 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Dried Banana Slices: A Sweet Snack That Is Easy to Carry</h2><p>Banana dried in slices offers the soft sweetness of the fresh fruit in a more concentrated form. As the dried form of a tropical fruit, its taste approaches caramel-like notes, while its texture is slightly chewy. With no peeling, browning or bruising to worry about, it can easily be enjoyed at home, at school or on the go.</p><p>Tillo Kochari's dried banana slices are a simple snack that can go into children's lunchboxes and that adults may choose to have with their coffee. When mixed with the other products in the Gaziantep-rooted brand's dried fruit range, they bring a soft, sweet balance alongside the tart fruits; a good starting point for creating your own mix.</p><h3>Serving Suggestions</h3><ul><li>Arrange the slices on top of oat porridge and sprinkle with a pinch of cinnamon.</li><li>Dip the slices into cocoa peanut cream for a quick sweet snack.</li><li>Pulse them in a food processor and add them to homemade granola bars.</li></ul><p><strong>Weight:</strong> 150 g</p>",
+    "ar": "<h2>شرائح موز مجففة: وجبة خفيفة حلوة سهلة الحمل</h2><p>يقدّم الموز المجفف على شكل شرائح الحلاوةَ الناعمة للفاكهة الطازجة بصورة أكثر تركيزًا. وبوصفه الشكل المجفف لفاكهة استوائية، يقترب مذاقه من نفحات تشبه الكراميل، بينما يكون قوامه قابلًا للمضغ قليلًا. ولأنه لا داعي للقلق من التقشير أو الاسوداد أو الهرس، يمكن تناوله بسهولة في البيت أو المدرسة أو أثناء التنقل.</p><p>شرائح الموز المجففة من Tillo Kochari وجبة خفيفة بسيطة يمكن وضعها في حقيبة طعام الأطفال، ويمكن للكبار اختيارها إلى جانب القهوة. وعند خلطها مع المنتجات الأخرى في مجموعة الفواكه المجففة لدى العلامة التي تعود أصولها إلى غازي عنتاب، تضيف توازنًا ناعمًا وحلوًا إلى جانب الفواكه الحامضة؛ وهي نقطة انطلاق جيدة لتكوين خليطك الخاص.</p><h3>اقتراحات الاستخدام</h3><ul><li>رصّ الشرائح فوق عصيدة الشوفان ورشّ عليها رشة من القرفة.</li><li>اغمس الشرائح في كريمة الفول السوداني بالكاكاو لتحضير وجبة خفيفة حلوة وسريعة.</li><li>اطحنها في محضّرة الطعام وأضفها إلى ألواح الجرانولا المنزلية.</li></ul><p><strong>الوزن:</strong> 150 g</p>",
+    "de": "<h2>Getrocknete Bananenscheiben: Ein süßer Snack, der sich leicht mitnehmen lässt</h2><p>In Scheiben getrocknete Banane bietet die sanfte Süße der frischen Frucht in konzentrierterer Form. Als getrocknete Variante einer tropischen Frucht erinnert ihr Geschmack an karamellartige Noten, während die Konsistenz leicht zäh ist. Da man sich um Schälen, Braunwerden oder Druckstellen keine Gedanken machen muss, lässt sie sich zu Hause, in der Schule oder unterwegs bequem genießen.</p><p>Die getrockneten Bananenscheiben von Tillo Kochari sind ein schlichter Snack, der in die Brotdose der Kinder passt und den Erwachsene gern zum Kaffee wählen. Gemischt mit den anderen Produkten aus der Trockenfruchtgruppe der aus Gaziantep stammenden Marke bringen sie neben säuerlichen Früchten eine weiche, süße Balance – ein guter Ausgangspunkt für Ihre eigene Mischung.</p><h3>Verwendungsvorschläge</h3><ul><li>Die Scheiben auf Haferbrei verteilen und mit einer Prise Zimt bestreuen.</li><li>Die Scheiben in Erdnusscreme mit Kakao tauchen – für einen schnellen süßen Snack.</li><li>In der Küchenmaschine zerkleinern und unter selbst gemachte Granolariegel mischen.</li></ul><p><strong>Gewicht:</strong> 150 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>말린 바나나 슬라이스: 달콤하고 휴대하기 쉬운 간식</h2><p>슬라이스로 말린 바나나는 생과일의 부드러운 단맛을 더욱 진하게 전해 줍니다. 열대 과일을 말린 것으로 맛은 캐러멜에 가까운 풍미를 띠고, 식감은 살짝 쫀득합니다. 껍질을 벗기거나 갈변되거나 짓무를 걱정이 없어 집에서도, 학교에서도, 이동 중에도 편하게 즐길 수 있습니다.</p><p>Tillo Kochari의 말린 바나나 슬라이스는 아이들 도시락 가방에 넣기 좋고 어른들은 커피에 곁들이기 좋은 담백한 간식입니다. 가지안테프에 뿌리를 둔 브랜드의 다른 건과일 제품과 섞으면 새콤한 과일 곁에서 부드럽고 달콤한 균형을 더해 주어, 나만의 믹스를 만드는 좋은 출발점이 됩니다.</p><h3>활용 제안</h3><ul><li>오트밀 죽 위에 슬라이스를 올리고 계피를 한 꼬집 뿌려 보세요.</li><li>슬라이스를 코코아 땅콩 크림에 찍어 간단한 달콤한 간식을 즐겨 보세요.</li><li>푸드 프로세서에 갈아 홈메이드 그래놀라 바에 넣어 보세요.</li></ul><p><strong>중량:</strong> 150 g</p>"
   },
-  "update": "2026-10-28T07:04:26.430Z",
+  "update": "2026-10-28T09:07:43.939Z",
   "date": "2026-05-20T09:54:45.065Z",
   "img": "index.webp"
 }

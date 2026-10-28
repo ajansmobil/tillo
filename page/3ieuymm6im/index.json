@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "IQF Acı Biber"
+    "tr": "IQF Acı Biber",
+    "en": "IQF Hot Pepper",
+    "ar": "فلفل حار مجمد سريعًا (آي كيو إف)",
+    "de": "IQF Scharfe Peperoni",
+    "ko": "IQF 매운 고추"
   },
   "status": "play",
   "category": "c16iqfseb",
@@ -9,16 +13,20 @@
   "path": "iqf-aci-biber",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, IQF Acı Biber, IQF Dilimlenmiş Sebzeler, IQF sebze, dondurulmuş sebze, endüstriyel sebze, dilim sebze",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, IQF Hot Pepper, IQF Sliced Vegetables, IQF vegetables, frozen vegetables, industrial vegetables, sliced vegetables",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, فلفل حار مجمد سريعًا (آي كيو إف), الخضروات المقطّعة المجمدة سريعًا, خضروات آي كيو إف, خضروات مجمدة, خضروات للصناعات الغذائية, خضروات مقطّعة شرائح",
+    "de": "Tillo Kochari, Gaziantep, Naturlebensmittel, IQF Scharfe Peperoni, IQF geschnittenes Gemüse, IQF-Gemüse, Tiefkühlgemüse, Industriegemüse, Gemüsescheiben",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, IQF 매운 고추, IQF 슬라이스 채소, IQF 채소, 냉동 채소, 업소용 채소, 슬라이스 채소"
   },
   "description": {
-    "tr": "Tillo Kochari IQF Acı Biber: Jalapeno tipi. IQF Dilimlenmiş Sebzeler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari IQF Acı Biber: Jalapeno tipi. IQF Dilimlenmiş Sebzeler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari IQF Hot Pepper is a jalapeño-type pepper from the IQF Sliced Vegetables range, offered in 10 kg as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari فلفل حار مجمد سريعًا (آي كيو إف): فلفل من نوع الهالبينو ضمن مجموعة الخضروات المقطّعة المجمدة سريعًا، يُقدَّم بعبوة 10 kg، وهو غذاء طبيعي من أصل غازي عنتاب.",
+    "de": "Tillo Kochari IQF Scharfe Peperoni sind Peperoni vom Jalapeño-Typ aus der Gruppe IQF geschnittenes Gemüse, erhältlich in 10 kg – ein Naturlebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari IQF 매운 고추는 IQF 슬라이스 채소 군에 속하는 할라피뇨 타입 고추로, 10 kg 규격으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 136,
+  "index": 212,
   "icon": "ac_unit",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "IQF Acı Biber | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "IQF Hot Pepper | Tillo Kochari",
+    "ar": "فلفل حار مجمد سريعًا (آي كيو إف) | Tillo Kochari",
+    "de": "IQF Scharfe Peperoni | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "IQF 매운 고추 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>IQF Acı Biber: Jalapeno Tipi Yeşil Acılık</h2>\n<p>Jalapeno tipi bu acı biber, orta düzeydeki yakıcılığı ve taze yeşil aromasıyla pek çok mutfakta karşılık bulur. Tillo Kochari IQF Acı Biber, dilimlenmiş olarak ve parçaları birbirine yapışmadan dondurulmuş hâlde gelir. 10 kg'lık ambalajıyla fast food, restoran ve hazır yemek üretimi gibi yoğun kullanım alanlarına uygundur.</p>\n<p>Acı sevenler için küçük bir dokunuş, tabağın karakterini değiştirmeye yeter. Bu biber; nacho, burger ve pizza gibi tariflerde de, Gaziantep sofrasından tanıdık acılı ezmelerde de kendine yer bulur. Donmuş hâlde porsiyonlanabildiği için kullanılmayan kısım dondurucuya geri döner ve mutfakta israf azalır.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Burger ve dürümlerde peynirin üzerine birkaç dilim yerleştirerek ısıtın.</li>\n<li>Nacho tabağında eritilmiş peynir ve fasulyeyle birlikte servis edin.</li>\n<li>Domates, soğan ve maydanozla hazırlanan acılı ezmeye ince kıyarak katın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 10 kg</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>IQF Hot Pepper: Jalapeño-Type Green Heat</h2>\n<p>This jalapeño-type hot pepper finds favour in many cuisines with its medium heat and fresh green aroma. Tillo Kochari IQF Hot Pepper comes sliced and frozen without the pieces sticking together. With its 10 kg pack, it is suited to high-volume uses such as fast food, restaurants and ready-meal production.</p>\n<p>For those who love spice, a small touch is enough to change the character of a plate. This pepper finds its place both in recipes such as nachos, burgers and pizza and in the spicy relishes familiar from the Gaziantep table. Because it can be portioned while frozen, the unused part goes back into the freezer and kitchen waste is reduced.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Place a few slices on top of the cheese in burgers and wraps and heat through.</li>\n<li>Serve on a plate of nachos together with melted cheese and beans.</li>\n<li>Chop finely and add to a spicy relish made with tomato, onion and parsley.</li>\n</ul>\n<p><strong>Pack Size:</strong> 10 kg</p>",
+    "ar": "<h2>فلفل حار مجمد سريعًا (آي كيو إف): حرارة خضراء من نوع الهالبينو</h2>\n<p>يحظى هذا الفلفل الحار من نوع الهالبينو بمكانة في مطابخ كثيرة بفضل حرارته المتوسطة ونكهته الخضراء الطازجة. ويصل فلفل Tillo Kochari الحار المجمد سريعًا (آي كيو إف) مقطّعًا شرائح ومجمّدًا دون أن تلتصق قطعه ببعضها. وبعبوته سعة 10 kg يناسب مجالات الاستخدام الكثيف مثل الوجبات السريعة والمطاعم وإنتاج الوجبات الجاهزة.</p>\n<p>لمحبي الطعم الحار، تكفي لمسة صغيرة لتغيير طابع الطبق. ويجد هذا الفلفل مكانه في وصفات مثل الناتشوز والبرغر والبيتزا، كما يجده في المقبلات الحارة المهروسة المألوفة على مائدة غازي عنتاب. ولأنه يمكن تقسيمه إلى حصص وهو مجمّد، يعود الجزء غير المستخدم إلى المجمّد ويقلّ الهدر في المطبخ.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>ضع بضع شرائح فوق الجبن في البرغر والسندويتشات الملفوفة ثم سخّنها.</li>\n<li>قدّمه في طبق الناتشوز مع الجبن الذائب والفاصولياء.</li>\n<li>افرمه ناعمًا وأضفه إلى المقبلات الحارة المحضّرة من الطماطم والبصل والبقدونس.</li>\n</ul>\n<p><strong>العبوة:</strong> 10 kg</p>",
+    "de": "<h2>IQF Scharfe Peperoni: Grüne Schärfe vom Jalapeño-Typ</h2>\n<p>Diese scharfe Peperoni vom Jalapeño-Typ ist mit ihrer mittleren Schärfe und ihrem frischen grünen Aroma in vielen Küchen beliebt. Tillo Kochari IQF Scharfe Peperoni werden in Scheiben geschnitten und so tiefgefroren geliefert, dass die Stücke nicht aneinanderkleben. Mit der 10 kg Packung eignen sie sich für Bereiche mit hohem Verbrauch wie Fast Food, Restaurants und die Fertiggerichteherstellung.</p>\n<p>Für Liebhaber scharfer Speisen genügt schon eine kleine Prise, um den Charakter eines Tellers zu verändern. Diese Peperoni findet ihren Platz in Rezepten wie Nachos, Burgern und Pizza ebenso wie in den scharfen Gemüsepasten, die man von der Tafel in Gaziantep kennt. Da sie sich gefroren portionieren lässt, wandert der unbenutzte Teil zurück in den Gefrierschrank, und in der Küche fällt weniger Abfall an.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Bei Burgern und Wraps ein paar Scheiben auf den Käse legen und erhitzen.</li>\n<li>Auf einem Nacho-Teller zusammen mit geschmolzenem Käse und Bohnen servieren.</li>\n<li>Fein hacken und unter eine scharfe Paste aus Tomaten, Zwiebeln und Petersilie mischen.</li>\n</ul>\n<p><strong>Packungsgröße:</strong> 10 kg</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>IQF 매운 고추: 할라피뇨 타입의 초록빛 매운맛</h2>\n<p>할라피뇨 타입의 이 매운 고추는 중간 정도의 매운맛과 신선한 초록 향으로 다양한 요리에서 사랑받습니다. Tillo Kochari IQF 매운 고추는 슬라이스된 상태로, 조각끼리 달라붙지 않게 냉동되어 제공됩니다. 10 kg 포장으로 패스트푸드, 레스토랑, 간편식 생산처럼 사용량이 많은 곳에 적합합니다.</p>\n<p>매운맛을 즐기는 분들에게는 작은 터치만으로도 요리의 개성이 달라집니다. 이 고추는 나초, 버거, 피자 같은 레시피는 물론, 가지안테프 식탁에서 익숙한 매콤한 다진 채소 요리에도 잘 어울립니다. 냉동 상태로 소분할 수 있어 사용하지 않은 부분은 다시 냉동고에 넣으면 되므로 주방의 낭비가 줄어듭니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>버거와 랩에 치즈 위로 몇 조각 올려 데웁니다.</li>\n<li>나초 접시에 녹인 치즈, 콩과 함께 냅니다.</li>\n<li>잘게 다져 토마토, 양파, 파슬리로 만든 매콤한 다진 채소 요리에 넣습니다.</li>\n</ul>\n<p><strong>규격:</strong> 10 kg</p>"
   },
-  "update": "2026-10-28T07:04:32.448Z",
+  "update": "2026-10-28T09:07:22.058Z",
   "date": "2026-05-20T09:54:45.968Z",
   "img": "index.webp"
 }

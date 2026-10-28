@@ -1,22 +1,30 @@
 {
   "name": {
-    "tr": "Tıbbi Aromatik Yağlar"
+    "tr": "Kurutulmuş Sebze Grubu",
+    "en": "Dried Vegetables",
+    "ar": "الخضروات المجففة",
+    "de": "Getrocknetes Gemüse",
+    "ko": "건조 채소"
   },
   "status": "play",
   "category": "",
   "id": "c15aromya",
   "externalUrl": "",
-  "path": "tibbi-aromatik-yaglar",
+  "path": "kurutulmus-sebze-grubu",
   "keyword": {
-    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Tıbbi Aromatik Yağlar, bıttım yağı, çörek otu yağı, aromatik yağ, tıbbi yağ",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari, Kurutulmuş Sebze Grubu",
+    "en": "Tillo Kochari, Dried Vegetables",
+    "ar": "Tillo Kochari, الخضروات المجففة",
+    "de": "Tillo Kochari, Getrocknetes Gemüse",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 건조 채소"
   },
   "description": {
-    "tr": "Tillo Kochari Tıbbi Aromatik Yağlar. Tıbbi aromatik yağlar: bıttım, çörek otu, üzüm çekirdeği. Geleneksel ve aromatik yağlar; kozmetik ve beslenme destek ürü…"
+    "tr": "Tillo Kochari Kurutulmuş Sebze Grubu ürün grubu.",
+    "en": "Tillo Kochari Dried Vegetables product group.",
+    "ar": "مجموعة منتجات الخضروات المجففة من تيلو كوشاري.",
+    "de": "Tillo Kochari Produktgruppe Getrocknetes Gemüse.",
+    "ko": "틸로 코차리 건조 채소 제품군."
   },
   "index": 14,
   "icon": "category",
@@ -27,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Tıbbi Aromatik Yağlar Ürünleri | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Kurutulmuş Sebze Grubu | Tillo Kochari",
+    "en": "Dried Vegetables | Tillo Kochari",
+    "ar": "الخضروات المجففة | Tillo Kochari",
+    "de": "Getrocknetes Gemüse | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "건조 채소 | Tillo Kochari"
   },
   "text": {
     "tr": "",
@@ -42,7 +50,7 @@
     "ja": "",
     "ko": ""
   },
-  "update": "2026-05-21T08:39:29.760Z",
+  "update": "2026-10-28T08:07:44.407Z",
   "date": "2026-05-20T09:54:46.258Z",
   "categorypage": "products"
 }

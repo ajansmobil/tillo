@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Badem Ezmesi"
+    "tr": "Badem Ezmesi",
+    "en": "Almond Butter",
+    "ar": "زبدة اللوز",
+    "de": "Mandelmus",
+    "ko": "아몬드 버터"
   },
   "status": "play",
-  "category": "c03badem",
+  "category": "c06meycip",
   "id": "cqqaeuiuqm",
   "externalUrl": "",
   "path": "badem-ezmesi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Badem Ezmesi, Badem Ezme ve Krema, badem kreması, badem ezme, doğal badem",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Almond Butter, Almond Butters & Creams, almond cream, almond spread, natural almonds",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, زبدة اللوز, زبدة وكريمة اللوز, كريمة اللوز, معجون اللوز, لوز طبيعي",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Mandelmus, Mandelmus & -creme, Mandelcreme, Mandelaufstrich, naturbelassene Mandeln",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 아몬드 버터, 아몬드 버터·크림, 아몬드 크림, 아몬드 스프레드, 천연 아몬드"
   },
   "description": {
-    "tr": "Tillo Kochari Badem Ezmesi: Kavrulmuş badem ezmesi. Badem Ezme ve Krema grubunda. Sunulan gramaj: 250 g / 500 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Badem Ezmesi: Kavrulmuş badem ezmesi. Badem Ezme ve Krema grubunda. Sunulan gramaj: 250 g / 500 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Almond Butter is a roasted almond butter from the Almond Butters & Creams range, offered in 250 g / 500 g as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari زبدة اللوز هي زبدة من اللوز المحمّص من مجموعة زبدة وكريمة اللوز، تتوفر بوزن 250 g / 500 g، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Mandelmus ist ein Mus aus gerösteten Mandeln aus der Gruppe Mandelmus & -creme, erhältlich mit 250 g / 500 g – ein Naturprodukt aus Gaziantep.",
+    "ko": "Tillo Kochari 아몬드 버터 제품은 아몬드 버터·크림 라인의 볶은 아몬드 버터로, 250 g / 500 g 용량으로 제공되는 가지안테프의 천연 식품입니다."
   },
-  "index": 11,
+  "index": 87,
   "icon": "nutrition",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Badem Ezmesi | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Almond Butter | Tillo Kochari",
+    "ar": "زبدة اللوز | Tillo Kochari",
+    "de": "Mandelmus | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "아몬드 버터 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kavrulmuş Bademden Badem Ezmesi</h2><p>Badem kavrulduğunda, çiğ hâlindeki hafif sütlü tadını daha sıcak ve kızarmış notalara bırakır. Tillo Kochari Badem Ezmesi bu kavrulmuş bademden hazırlanır; dolgun dokusuyla ekmekte de kaşıkta da tok bir his verir. Gaziantep kökenli üreticinin ezme serisinde bademi temsil eden temel kavanozdur.</p><p>Badem ezmesinin tadı fıstık ve fındığa göre daha sakindir; bu da onu meyve, yoğurt ve tahıllarla rahat eşleşen bir yardımcı yapar. 250 gramlık kavanoz bademi ezme olarak ilk kez deneyecekler için, 500 gramlık kavanoz ise onu mutfağında düzenli kullananlar için uygun bir seçenektir.</p><h3>Kullanım Önerileri</h3><ul><li>Süzme yoğurdun üzerine bir kaşık ekleyip bal ve tarçınla tamamlayın.</li><li>Smoothie yaparken muz ve sütle birlikte blendera ekleyerek kıvamı artırın.</li><li>Tavuk ya da sebze sotesine son aşamada ekleyerek bademli, hafif koyu bir sos elde edin.</li></ul><p><strong>Gramaj:</strong> 250 g / 500 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Almond Butter from Roasted Almonds</h2><p>When almonds are roasted, their slightly milky raw taste gives way to warmer, toasty notes. Tillo Kochari Almond Butter is made from these roasted almonds; with its full-bodied texture, it feels satisfying both on bread and on the spoon. It is the core jar representing almonds in the Gaziantep-rooted producer's spread range.</p><p>Almond butter tastes milder than pistachio or hazelnut butter, which makes it an easy companion for fruit, yogurt and grains. The 250 g jar is a good option for those trying almonds as a spread for the first time, while the 500 g jar suits those who use it regularly in their kitchen.</p><h3>Serving Suggestions</h3><ul><li>Add a spoonful on top of strained yogurt and finish with honey and cinnamon.</li><li>When making a smoothie, add it to the blender with banana and milk for a thicker consistency.</li><li>Stir it into a chicken or vegetable sauté at the final stage for a slightly thick almond sauce.</li></ul><p><strong>Weight:</strong> 250 g / 500 g</p>",
+    "ar": "<h2>زبدة اللوز من اللوز المحمّص</h2><p>عندما يُحمَّص اللوز، يتحول طعمه النيء ذو اللمسة الحليبية الخفيفة إلى نكهات أدفأ ومحمّصة. تُحضَّر زبدة اللوز من Tillo Kochari من هذا اللوز المحمّص، وتمنح بقوامها الممتلئ إحساسًا مُشبعًا سواء على الخبز أو بالملعقة. وهي البرطمان الأساسي الذي يمثل اللوز في سلسلة الزبدات لدى المنتج ذي الجذور في غازي عنتاب.</p><p>مذاق زبدة اللوز أهدأ من الفستق والبندق، ما يجعلها رفيقًا سهلًا للفواكه واللبن الزبادي والحبوب. ويُعد البرطمان بوزن 250 g خيارًا مناسبًا لمن يجربون اللوز كزبدة لأول مرة، أما البرطمان بوزن 500 g فيناسب من يستخدمونها بانتظام في مطابخهم.</p><h3>اقتراحات الاستخدام</h3><ul><li>أضف ملعقة منها فوق اللبن المصفّى وأكملها بالعسل والقرفة.</li><li>عند تحضير السموذي، أضفها إلى الخلاط مع الموز والحليب لزيادة القوام.</li><li>أضفها إلى الدجاج أو الخضار المقلية سريعًا في المرحلة الأخيرة للحصول على صلصة باللوز كثيفة قليلًا.</li></ul><p><strong>الوزن:</strong> 250 g / 500 g</p>",
+    "de": "<h2>Mandelmus aus gerösteten Mandeln</h2><p>Beim Rösten weicht der leicht milchige Geschmack roher Mandeln wärmeren, gerösteten Noten. Tillo Kochari Mandelmus wird aus diesen gerösteten Mandeln hergestellt; dank seiner vollmundigen Textur wirkt es auf Brot wie auf dem Löffel sättigend. In der Aufstrichserie des aus Gaziantep stammenden Herstellers ist es das Basisglas, das die Mandel vertritt.</p><p>Mandelmus schmeckt milder als Pistazien- oder Haselnussmus und ist daher ein unkomplizierter Begleiter zu Obst, Joghurt und Getreide. Das Glas mit 250 g eignet sich für alle, die Mandeln zum ersten Mal als Mus probieren, das Glas mit 500 g für alle, die es regelmäßig in der Küche verwenden.</p><h3>Verwendungsvorschläge</h3><ul><li>Geben Sie einen Löffel auf abgetropften Joghurt und runden Sie ihn mit Honig und Zimt ab.</li><li>Geben Sie es beim Zubereiten eines Smoothies zusammen mit Banane und Milch in den Mixer, um die Konsistenz zu verdicken.</li><li>Rühren Sie es zum Schluss unter ein Hähnchen- oder Gemüsepfannengericht, um eine leicht sämige Mandelsauce zu erhalten.</li></ul><p><strong>Gewicht:</strong> 250 g / 500 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>볶은 아몬드로 만든 아몬드 버터</h2><p>아몬드를 볶으면 생아몬드의 은은한 우유 같은 맛이 한층 따뜻하고 고소한 구운 풍미로 바뀝니다. Tillo Kochari 아몬드 버터는 이렇게 볶은 아몬드로 만들며, 꽉 찬 질감 덕분에 빵에 발라도 숟가락으로 떠먹어도 든든한 느낌을 줍니다. 가지안테프에 뿌리를 둔 생산자의 스프레드 시리즈에서 아몬드를 대표하는 기본 제품입니다.</p><p>아몬드 버터는 피스타치오나 헤이즐넛보다 맛이 차분하여 과일, 요거트, 곡물과 편안하게 어울립니다. 250 g 제품은 아몬드 버터를 처음 맛보는 분께, 500 g 제품은 주방에서 꾸준히 사용하는 분께 알맞은 선택입니다.</p><h3>활용 방법</h3><ul><li>그릭 요거트 위에 한 숟가락 올리고 꿀과 계피로 마무리해 보세요.</li><li>스무디를 만들 때 바나나, 우유와 함께 블렌더에 넣어 농도를 더해 보세요.</li><li>닭고기나 채소 볶음의 마지막 단계에 넣어 아몬드 향이 나는 약간 걸쭉한 소스를 만들어 보세요.</li></ul><p><strong>중량:</strong> 250 g / 500 g</p>"
   },
-  "update": "2026-10-28T07:04:25.662Z",
+  "update": "2026-10-28T09:07:37.199Z",
   "date": "2026-05-20T09:54:44.941Z",
   "img": "index.webp"
 }

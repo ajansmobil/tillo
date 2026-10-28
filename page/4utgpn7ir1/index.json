@@ -1,0 +1,57 @@
+{
+  "id": "4utgpn7ir1",
+  "name": {
+    "tr": "Köftelik Bulgur",
+    "en": "Fine Bulgur for Köfte",
+    "ar": "برغل ناعم للكبة",
+    "de": "Feiner Bulgur für Köfte",
+    "ko": "쾨프테용 고운 불구르"
+  },
+  "description": {
+    "tr": "Tillo Kochari Köftelik Bulgur, Tahıl Grubu ve Unları grubunda. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Fine Bulgur for Köfte, from the Grains and Flours range: a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari – برغل ناعم للكبة من مجموعة الحبوب ودقيقها، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Feiner Bulgur für Köfte aus der Gruppe Getreide und Mehle – ein natürliches Lebensmittel mit Ursprung in Gaziantep.",
+    "ko": "Tillo Kochari 쾨프테용 고운 불구르는 곡물 및 곡물가루 제품군에 속하는, 가지안테프에 뿌리를 둔 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Köftelik Bulgur, Tahıl Grubu ve Unları",
+    "en": "Tillo Kochari, Gaziantep, natural food, Fine Bulgur for Köfte, Grains and Flours",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, برغل ناعم للكبة, الحبوب ودقيقها",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Feiner Bulgur für Köfte, Getreide und Mehle",
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 쾨프테용 고운 불구르, 곡물 및 곡물가루"
+  },
+  "path": "koftelik-bulgur",
+  "icon": "breakfast_dining",
+  "category": "c01fistik",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 65,
+  "url": "",
+  "text": {
+    "tr": "<h2>İnce Taneli Köftelik Bulgur</h2>\n<p>Köftelik Bulgur, ince taneleriyle çiğ köfte, içli köfte ve kısır gibi tariflerin temel malzemesidir. Kaynatma gerektirmez; sıcak su ya da salçalı bir karışımla ıslatıldığında kısa sürede yumuşar ve kolayca yoğrulur. Tanelerin inceliği sayesinde baharatı ve salçayı iyice içine çeker, harca bütünlük kazandırır.</p>\n<p>Gaziantep mutfağında köftelik bulgur hemen her evin kilerinde bulunur; Tillo Kochari olarak biz de bu alışkanlığa yakın duruyoruz. Yoğururken küçük dokunuşlarla su eklemek, hamurun dağılmadan şekil almasını sağlar. Kuru ve serin bir yerde, ağzı kapalı bir kapta saklamak tazeliğini korumanıza yardımcı olur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Bol isotlu, nar ekşili mercimekli köfte yoğurup marul yaprağıyla servis edin.</li>\n<li>Taze nane, maydanoz ve taze soğanla ferah bir kısır hazırlayın.</li>\n<li>İçli köftenin dış hamurunda irmikle birlikte kullanarak ince ve sağlam bir kabuk elde edin.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Fine-Grained Bulgur for Köfte</h2>\n<p>With its fine grains, köfte bulgur is the key ingredient in recipes such as çiğ köfte (spiced bulgur köfte), içli köfte (stuffed bulgur shells) and kısır (bulgur salad). It needs no boiling; when soaked with hot water or a mixture with paste, it softens quickly and is easy to knead. Thanks to its fine grains, it thoroughly absorbs spices and paste, giving the mixture cohesion.</p>\n<p>In Gaziantep cuisine, köfte bulgur is found in the pantry of almost every home, and at Tillo Kochari we stay close to this tradition. Adding water little by little while kneading helps the dough take shape without crumbling. Storing it in a cool, dry place in a closed container helps keep it fresh.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Knead lentil köfte with plenty of isot pepper and pomegranate molasses and serve with lettuce leaves.</li>\n<li>Prepare a refreshing kısır with fresh mint, parsley and spring onions.</li>\n<li>Use it with semolina in the outer dough of içli köfte to get a thin yet sturdy shell.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various weights, on request.</p>",
+    "ar": "<h2>برغل ناعم الحبات للكبة</h2>\n<p>برغل الكبة الناعم، بحباته الدقيقة، هو المكوّن الأساسي لوصفات مثل الكبة النيئة المتبلة والكبة المحشوة وسلطة الكسير. لا يحتاج إلى غلي؛ فعند نقعه بالماء الساخن أو بخليط فيه معجون، يلين سريعًا ويسهل عجنه. وبفضل دقة حباته يتشرب التوابل والمعجون جيدًا، فيمنح الخليط تماسكًا.</p>\n<p>في مطبخ غازي عنتاب يكاد لا يخلو مخزن بيت من برغل الكبة، ونحن في Tillo Kochari قريبون من هذه العادة. إضافة الماء شيئًا فشيئًا أثناء العجن تساعد العجينة على التشكل دون أن تتفتت. وحفظه في مكان جاف وبارد داخل وعاء محكم الإغلاق يساعدك على الحفاظ على طزاجته.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اعجن كفتة العدس مع الكثير من فلفل الإيسوت ودبس الرمان، وقدّمها مع أوراق الخس.</li>\n<li>حضّر سلطة كسير منعشة بالنعناع الطازج والبقدونس والبصل الأخضر.</li>\n<li>استخدمه مع السميد في العجينة الخارجية للكبة المحشوة للحصول على قشرة رقيقة ومتماسكة.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Feinkörniger Bulgur für Köfte</h2>\n<p>Mit seinen feinen Körnern ist Köfte-Bulgur die Grundzutat für Rezepte wie Çiğ Köfte (würzige Bulgurköfte), İçli Köfte (gefüllte Bulgurtaschen) und Kısır (Bulgursalat). Er muss nicht gekocht werden; mit heißem Wasser oder einer Mischung mit Würzpaste eingeweicht, wird er schnell weich und lässt sich leicht kneten. Dank der feinen Körnung nimmt er Gewürze und Würzpaste gut auf und verleiht der Masse Zusammenhalt.</p>\n<p>In der Küche von Gaziantep findet sich Köfte-Bulgur in fast jeder Vorratskammer; auch wir bei Tillo Kochari fühlen uns dieser Gewohnheit verbunden. Wenn Sie beim Kneten nach und nach etwas Wasser zugeben, nimmt der Teig Form an, ohne zu zerbröseln. Kühl, trocken und in einem verschlossenen Behälter aufbewahrt, bleibt er länger frisch.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Kneten Sie Linsenköfte mit reichlich Isot-Pfeffer und Granatapfelsirup und servieren Sie sie mit Salatblättern.</li>\n<li>Bereiten Sie mit frischer Minze, Petersilie und Frühlingszwiebeln einen erfrischenden Kısır zu.</li>\n<li>Verwenden Sie ihn zusammen mit Grieß für den Außenteig von İçli Köfte, um eine dünne und dennoch stabile Hülle zu erhalten.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Gewichtsgrößen, auf Anfrage erhältlich.</p>",
+    "ko": "<h2>고운 알갱이의 쾨프테용 불구르</h2>\n<p>쾨프테용 불구르는 고운 알갱이로 치으 쾨프테(양념 불구르 쾨프테), 이칠리 쾨프테(속을 채운 쾨프테), 크스르(불구르 샐러드) 같은 요리의 기본 재료입니다. 끓일 필요 없이 뜨거운 물이나 페이스트를 섞은 물에 불리면 금세 부드러워지고 쉽게 반죽됩니다. 알갱이가 고와서 향신료와 페이스트를 속까지 잘 흡수해 반죽에 일체감을 더해 줍니다.</p>\n<p>가지안테프 요리에서 쾨프테용 불구르는 거의 모든 가정의 식료품 저장실에 있는 재료이며, Tillo Kochari 역시 이러한 전통을 가까이하고 있습니다. 반죽할 때 물을 조금씩 더하면 반죽이 부서지지 않고 모양을 잡을 수 있습니다. 서늘하고 건조한 곳에 뚜껑을 닫은 용기에 보관하면 신선함을 유지하는 데 도움이 됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>이소트 고추를 듬뿍 넣고 석류 당밀을 더해 렌틸콩 쾨프테를 반죽한 뒤 양상추 잎과 함께 내 보세요.</li>\n<li>신선한 민트, 파슬리, 쪽파로 상큼한 크스르를 만들어 보세요.</li>\n<li>이칠리 쾨프테의 겉반죽에 세몰리나와 함께 사용하면 얇으면서도 튼튼한 껍질을 만들 수 있습니다.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+  },
+  "title": {
+    "tr": "Köftelik Bulgur | Tillo Kochari",
+    "en": "Fine Bulgur for Köfte | Tillo Kochari",
+    "ar": "برغل ناعم للكبة | Tillo Kochari",
+    "de": "Feiner Bulgur für Köfte | Tillo Kochari",
+    "ko": "쾨프테용 고운 불구르 | Tillo Kochari"
+  },
+  "date": "2026-10-28T08:16:21.013Z",
+  "update": "2026-10-28T09:07:24.708Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

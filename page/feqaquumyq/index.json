@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "Vişne Suyu"
+    "tr": "Vişne Suyu",
+    "en": "Sour Cherry Juice",
+    "ar": "عصير الكرز الحامض",
+    "de": "Sauerkirschsaft",
+    "ko": "사워체리 주스"
   },
   "status": "play",
   "category": "c10meyves",
@@ -9,16 +13,20 @@
   "path": "visne-suyu",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Vişne Suyu, Meyve Suları, meyve suyu, nar suyu, doğal meyve suyu, katkısız içecek",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Sour Cherry Juice, Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, عصير الكرز الحامض, عصائر الفواكه, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Sauerkirschsaft, Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 사워체리 주스, 과일 주스, 과일즙, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
-    "tr": "Tillo Kochari Vişne Suyu: Ekşi vişne nektarı. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Vişne Suyu: Ekşi vişne nektarı. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Sour Cherry Juice is a tart sour cherry nectar from the Fruit Juices range, offered in 1 L as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari — عصير الكرز الحامض: رحيق الكرز الحامض ضمن فئة عصائر الفواكه، يُقدَّم بسعة 1 L، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Sauerkirschsaft – ein säuerlicher Sauerkirschnektar aus der Kategorie Fruchtsäfte, angeboten in 1 L, ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 사워체리 주스는 과일 주스 카테고리의 새콤한 사워체리 넥타로, 1 L 용량으로 제공되는 가지안테프 출신의 자연 식품입니다."
   },
-  "index": 76,
+  "index": 152,
   "icon": "local_bar",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Vişne Suyu | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Sour Cherry Juice | Tillo Kochari",
+    "ar": "عصير الكرز الحامض | Tillo Kochari",
+    "de": "Sauerkirschsaft | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "사워체리 주스 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Vişne Suyu: Ekşi Tonlarıyla Ferah Bir Nektar</h2>\n<p>Tillo Kochari Vişne Suyu, vişnenin kendine has ekşiliğini öne çıkaran bir nektardır. Koyu yakut rengi ve hafif buruk bitişiyle şekerli içeceklerden sıkılanlara farklı bir seçenek sunar. Soğuk servis edildiğinde ekşi ile tatlı arasındaki denge daha belirgin hissedilir ve sofrada kolayca yer bulur.</p>\n<p>Gaziantep mutfağında ekşi tatlar hem içecekte hem tatlıda sıkça karşımıza çıkar; vişne de bu tanıdık lezzetlerden biridir. Tillo Kochari, onu 1 litrelik pratik bir şişede sunuyor. Kahvaltıdan akşam yemeğine kadar günün her saatinde, tek başına ya da karışımlarda rahatlıkla değerlendirebilirsiniz.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Buzlu bardakta bir dilim limonla serinletici bir içecek olarak servis edin.</li>\n<li>Maden suyuyla yarı yarıya karıştırıp hafif köpüklü bir vişne şerbeti hazırlayın.</li>\n<li>Sütlaç veya muhallebi üzerine dökülecek vişne sosunu nişastayla koyulaştırarak yapın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 1 L</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Sour Cherry Juice: A Refreshing Nectar with Tart Notes</h2>\n<p>Tillo Kochari Sour Cherry Juice is a nectar that highlights the distinctive tartness of sour cherries. With its deep ruby color and slightly astringent finish, it offers a different option for those tired of sugary drinks. Served cold, the balance between sour and sweet is felt more clearly, and it easily finds a place at the table.</p>\n<p>In Gaziantep cuisine, sour flavors often appear in both drinks and desserts, and sour cherry is one of these familiar tastes. Tillo Kochari offers it in a practical 1 L bottle. You can easily enjoy it at any time of day, from breakfast to dinner, on its own or in blends.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve in a glass with ice and a slice of lemon as a cooling drink.</li>\n<li>Mix half and half with mineral water to prepare a lightly sparkling sour cherry sherbet.</li>\n<li>Thicken with starch to make a sour cherry sauce to pour over rice pudding or milk pudding.</li>\n</ul>\n<p><strong>Volume:</strong> 1 L</p>",
+    "ar": "<h2>عصير الكرز الحامض: رحيق منعش بنغمات حامضة</h2>\n<p>عصير الكرز الحامض من Tillo Kochari رحيقٌ يُبرز الحموضة المميزة للكرز الحامض. وبلونه الياقوتي الداكن ونهايته القابضة قليلًا، يقدّم خيارًا مختلفًا لمن ملّوا المشروبات المحلّاة. وعند تقديمه باردًا يصبح التوازن بين الحامض والحلو أوضح، ويجد مكانه على المائدة بسهولة.</p>\n<p>في مطبخ غازي عنتاب تظهر النكهات الحامضة كثيرًا في المشروبات والحلويات على حد سواء، والكرز الحامض واحد من هذه النكهات المألوفة. وتقدّمه Tillo Kochari في زجاجة عملية سعة 1 L. ويمكنكم الاستمتاع به بسهولة في أي وقت من اليوم، من الفطور حتى العشاء، وحده أو في مزيج.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>قدّمه مشروبًا منعشًا في كأس مع الثلج وشريحة ليمون.</li>\n<li>امزجه مناصفةً مع المياه المعدنية لتحضير شراب كرز حامض فوّار قليلًا.</li>\n<li>كثّف صلصة الكرز الحامض بالنشا لسكبها فوق الأرز بالحليب أو المهلبية.</li>\n</ul>\n<p><strong>الحجم:</strong> 1 L</p>",
+    "de": "<h2>Sauerkirschsaft: Ein erfrischender Nektar mit säuerlichen Noten</h2>\n<p>Tillo Kochari Sauerkirschsaft ist ein Nektar, der die charakteristische Säure der Sauerkirsche in den Vordergrund stellt. Mit seiner tiefen Rubinfarbe und dem leicht herben Abgang bietet er eine Alternative für alle, die zuckrige Getränke leid sind. Gekühlt serviert, ist die Balance zwischen sauer und süß deutlicher zu spüren, und er findet mühelos seinen Platz am Tisch.</p>\n<p>In der Küche von Gaziantep begegnen uns saure Aromen häufig sowohl in Getränken als auch in Desserts; die Sauerkirsche ist einer dieser vertrauten Geschmäcker. Tillo Kochari bietet sie in einer praktischen 1-L-Flasche an. Vom Frühstück bis zum Abendessen können Sie ihn zu jeder Tageszeit pur oder in Mischungen genießen.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Im Glas mit Eis und einer Zitronenscheibe als erfrischendes Getränk servieren.</li>\n<li>Halb und halb mit Mineralwasser mischen und einen leicht sprudelnden Sauerkirsch-Scherbet zubereiten.</li>\n<li>Mit Stärke eine Sauerkirschsoße andicken, um sie über Milchreis oder Pudding zu gießen.</li>\n</ul>\n<p><strong>Inhalt:</strong> 1 L</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>사워체리 주스: 새콤한 풍미의 상쾌한 넥타</h2>\n<p>Tillo Kochari 사워체리 주스는 사워체리 특유의 새콤함을 살린 넥타입니다. 짙은 루비색과 살짝 떫은 여운으로 단 음료에 싫증 난 분들께 색다른 선택지를 제공합니다. 차갑게 내면 신맛과 단맛의 균형이 더욱 뚜렷하게 느껴지며 식탁에 자연스럽게 어울립니다.</p>\n<p>가지안테프 요리에서는 새콤한 맛이 음료와 디저트 모두에 자주 등장하며, 사워체리도 이러한 친숙한 맛 중 하나입니다. Tillo Kochari는 이를 실용적인 1 L 병에 담아 선보입니다. 아침 식사부터 저녁 식사까지 하루 중 언제든 그대로, 또는 섞어서 편하게 즐길 수 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>얼음을 넣은 잔에 레몬 한 조각을 곁들여 시원한 음료로 내기 좋습니다.</li>\n<li>탄산수와 반반 섞으면 은은하게 톡 쏘는 사워체리 셔벗 음료가 됩니다.</li>\n<li>전분으로 걸쭉하게 만든 사워체리 소스를 쌀 푸딩이나 우유 푸딩 위에 끼얹을 수 있습니다.</li>\n</ul>\n<p><strong>용량:</strong> 1 L</p>"
   },
-  "update": "2026-10-28T07:04:29.133Z",
+  "update": "2026-10-28T09:07:41.017Z",
   "date": "2026-05-20T09:54:45.480Z",
   "img": "index.webp"
 }

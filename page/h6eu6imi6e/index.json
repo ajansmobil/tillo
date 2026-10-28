@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Ayva Reçeli"
+    "tr": "Ayva Reçeli",
+    "en": "Quince Jam",
+    "ar": "مربى السفرجل",
+    "de": "Quittenkonfitüre",
+    "ko": "모과 잼"
   },
   "status": "play",
-  "category": "c08recel",
+  "category": "c09gelenek",
   "id": "h6eu6imi6e",
   "externalUrl": "",
   "path": "ayva-receli",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Ayva Reçeli, Reçel ve Marmelatlar, reçel, marmelat, kayısı reçeli, ev yapımı reçel",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Quince Jam, Jams and Marmalades, jam, marmalade, apricot jam, homemade jam",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, مربى السفرجل, المربيات والمرملاد, مربى, مرملاد, مربى المشمش, مربى منزلي",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Quittenkonfitüre, Konfitüren und Marmeladen, Konfitüre, Marmelade, Aprikosenkonfitüre, hausgemachte Konfitüre",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 모과 잼, 잼과 마멀레이드, 잼, 마멀레이드, 살구 잼, 수제 잼"
   },
   "description": {
-    "tr": "Tillo Kochari Ayva Reçeli: Geleneksel ayva. Reçel ve Marmelatlar grubunda. Sunulan gramaj: 380 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Ayva Reçeli: Geleneksel ayva. Reçel ve Marmelatlar grubunda. Sunulan gramaj: 380 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Quince Jam is a traditional quince jam from the Jams and Marmalades range, offered in 380 g as a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari مربى السفرجل: سفرجل تقليدي ضمن مجموعة المربيات والمرملاد، يُقدَّم بوزن 380 g، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Quittenkonfitüre ist eine traditionelle Quittenkonfitüre aus der Gruppe Konfitüren und Marmeladen, angeboten in 380 g – ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 모과 잼은 전통 방식의 모과 잼으로 잼과 마멀레이드 그룹에 속하며, 380 g 용량으로 제공되는 가지안테프 출신의 천연 식품입니다."
   },
-  "index": 54,
+  "index": 130,
   "icon": "bakery_dining",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Ayva Reçeli | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Quince Jam | Tillo Kochari",
+    "ar": "مربى السفرجل | Tillo Kochari",
+    "de": "Quittenkonfitüre | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "모과 잼 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Ayva Reçeli: Geleneksel Tadıyla Kış Sofralarında</h2><p>Ayva Reçeli, ayvanın kendine has kokusunu ve hafif buruk tadını taşıyan geleneksel bir reçeldir. Pişen ayva, açık pembe ile kızıl arasında değişen sıcak bir renk alır. Ayva parçaları şurubun içinde dişe gelen bir doku bırakır; kokusu ise kavanoz açılır açılmaz mutfağa yayılır ve kış sabahlarını hatırlatır.</p><p>Ayva, eski ev reçellerinin en sevilen meyvelerindendir. Tillo Kochari'nin Ayva Reçeli de bu geleneksel tadı Gaziantep'ten sofranıza ulaştırır. Kaymakla birlikte sunulduğunda ayva tatlısını hatırlatan bir tabak ortaya çıkar; tek başına sabah çayına eşlik etmesi de yeterince keyiflidir.</p><h3>Kullanım Önerileri</h3><ul><li>Kaymak ya da yoğurt kaymağıyla birlikte tatlı tabağında sunun.</li><li>Sütlaç veya sade muhallebinin yanına bir kaşık ekleyin.</li><li>Tereyağlı tost ekmeğine sürüp sıcak çayla eşleştirin.</li></ul><p><strong>Gramaj:</strong> 380 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Quince Jam: A Traditional Taste on Winter Tables</h2><p>Quince Jam is a traditional jam that carries the quince's distinctive aroma and gently astringent taste. As it cooks, the quince takes on a warm colour ranging from pale pink to russet. The quince pieces leave a pleasant bite in the syrup, while the aroma fills the kitchen as soon as the jar is opened, evoking winter mornings.</p><p>Quince is one of the most beloved fruits of old homemade jams. Tillo Kochari's Quince Jam brings this traditional taste from Gaziantep to your table. Served with clotted cream, it creates a plate reminiscent of the classic quince dessert; on its own, accompanying morning tea, it is just as enjoyable.</p><h3>Serving Suggestions</h3><ul><li>Serve on a dessert plate with clotted cream or yogurt cream.</li><li>Add a spoonful next to rice pudding or plain milk pudding.</li><li>Spread on buttered toast and pair with hot tea.</li></ul><p><strong>Weight:</strong> 380 g</p>",
+    "ar": "<h2>مربى السفرجل: بطعمه التقليدي على موائد الشتاء</h2><p>مربى السفرجل مربى تقليدي يحمل رائحة السفرجل المميزة وطعمه القابض الخفيف. ويكتسب السفرجل أثناء الطهي لونًا دافئًا يتراوح بين الوردي الفاتح والأحمر القاني. وتترك قطع السفرجل في الشراب قوامًا يُحسّ تحت الأسنان، أما رائحته فتنتشر في المطبخ بمجرد فتح البرطمان وتذكّر بصباحات الشتاء.</p><p>السفرجل من أحب الفواكه في مربيات البيوت القديمة. ويوصل مربى السفرجل من Tillo Kochari هذا الطعم التقليدي من غازي عنتاب إلى مائدتكم. وعند تقديمه مع القشطة يظهر طبق يذكّر بحلوى السفرجل؛ كما أن مرافقته وحده لشاي الصباح ممتعة بما يكفي.</p><h3>اقتراحات الاستخدام</h3><ul><li>قدّموه في طبق الحلوى مع القشطة أو قشدة الزبادي.</li><li>أضيفوا ملعقة منه بجانب الأرز بالحليب أو المهلبية السادة.</li><li>ادهنوه على خبز التوست بالزبدة وقدّموه مع الشاي الساخن.</li></ul><p><strong>الوزن:</strong> 380 g</p>",
+    "de": "<h2>Quittenkonfitüre: Traditioneller Geschmack auf winterlichen Tischen</h2><p>Quittenkonfitüre ist eine traditionelle Konfitüre, die den unverwechselbaren Duft und den leicht herben Geschmack der Quitte mitbringt. Beim Kochen nimmt die Quitte eine warme Farbe zwischen Zartrosa und Rostrot an. Die Quittenstücke hinterlassen im Sirup einen spürbaren Biss; ihr Duft verbreitet sich in der Küche, sobald das Glas geöffnet wird, und erinnert an Wintermorgen.</p><p>Die Quitte gehört zu den beliebtesten Früchten alter hausgemachter Konfitüren. Die Quittenkonfitüre von Tillo Kochari bringt diesen traditionellen Geschmack aus Gaziantep auf Ihren Tisch. Mit dickem Rahm serviert, entsteht ein Teller, der an ein Quittendessert erinnert; pur zum Morgentee ist sie ebenso ein Genuss.</p><h3>Verwendungsvorschläge</h3><ul><li>Servieren Sie sie mit dickem Rahm oder Joghurtrahm auf einem Dessertteller.</li><li>Geben Sie einen Löffel neben Milchreis oder schlichten Milchpudding.</li><li>Streichen Sie sie auf gebuttertes Toastbrot und genießen Sie dazu heißen Tee.</li></ul><p><strong>Gewicht:</strong> 380 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>모과 잼: 전통의 맛으로 채우는 겨울 식탁</h2><p>모과 잼은 모과 특유의 향과 은은하게 떫은맛을 담은 전통 잼입니다. 조리된 모과는 연분홍에서 적갈색 사이의 따뜻한 색을 띱니다. 모과 조각은 시럽 속에서 씹는 맛을 남기며, 병을 여는 순간 향이 주방 가득 퍼져 겨울 아침을 떠올리게 합니다.</p><p>모과는 옛 가정식 잼에서 가장 사랑받던 과일 중 하나입니다. Tillo Kochari의 모과 잼은 이 전통의 맛을 가지안테프에서 여러분의 식탁으로 전합니다. 클로티드 크림과 함께 내면 모과 디저트를 떠올리게 하는 한 접시가 되며, 그대로 아침 차에 곁들여도 충분히 즐겁습니다.</p><h3>활용 제안</h3><ul><li>클로티드 크림이나 요거트 크림과 함께 디저트 접시에 담아 보세요.</li><li>라이스 푸딩이나 플레인 밀크 푸딩 곁에 한 스푼 곁들여 보세요.</li><li>버터를 바른 토스트에 발라 따뜻한 차와 함께 즐겨 보세요.</li></ul><p><strong>중량:</strong> 380 g</p>"
   },
-  "update": "2026-10-28T07:04:27.959Z",
+  "update": "2026-10-28T09:07:43.453Z",
   "date": "2026-05-20T09:54:45.294Z",
   "img": "index.webp"
 }

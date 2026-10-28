@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Çörek Otu Yağı"
+    "tr": "Çörek Otu Yağı",
+    "en": "Black Seed Oil",
+    "ar": "زيت الحبة السوداء",
+    "de": "Schwarzkümmelöl",
+    "ko": "블랙시드 오일"
   },
   "status": "play",
-  "category": "c15aromya",
+  "category": "zsyqc5i9oe",
   "id": "uia626iuq2",
   "externalUrl": "",
   "path": "corek-otu-yagi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Çörek Otu Yağı, Tıbbi Aromatik Yağlar, bıttım yağı, aromatik yağ, tıbbi yağ",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Black Seed Oil, Medicinal Aromatic Oils, terebinth oil, aromatic oil, medicinal oil",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, زيت الحبة السوداء, الزيوت العطرية الطبية, زيت البطم, زيت عطري, زيت طبي",
+    "de": "Tillo Kochari, Gaziantep, Naturlebensmittel, Schwarzkümmelöl, Medizinisch-aromatische Öle, Terpentinpistazienöl, Aromaöl, Heilöl",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 블랙시드 오일, 약용 아로마 오일, 테레빈스 열매 오일, 아로마 오일, 약용 오일"
   },
   "description": {
-    "tr": "Tillo Kochari Çörek Otu Yağı: Siyah kimyon yağı. Tıbbi Aromatik Yağlar grubunda. Sunulan gramaj: 100 ml. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Çörek Otu Yağı: Siyah kimyon yağı. Tıbbi Aromatik Yağlar grubunda. Sunulan gramaj: 100 ml. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Black Seed Oil is a black cumin oil from the Medicinal Aromatic Oils range, offered in 100 ml as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari زيت الحبة السوداء: زيت الكمون الأسود ضمن مجموعة الزيوت العطرية الطبية، يُقدَّم بعبوة 100 ml، وهو غذاء طبيعي من أصل غازي عنتاب.",
+    "de": "Tillo Kochari Schwarzkümmelöl ist ein Öl aus Schwarzkümmelsamen aus der Gruppe der medizinisch-aromatischen Öle, erhältlich in 100 ml – ein Naturlebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 블랙시드 오일은 약용 아로마 오일 군에 속하는 블랙 커민 오일로, 100 ml 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 129,
+  "index": 205,
   "icon": "science",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Çörek Otu Yağı | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Black Seed Oil | Tillo Kochari",
+    "ar": "زيت الحبة السوداء | Tillo Kochari",
+    "de": "Schwarzkümmelöl | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "블랙시드 오일 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Çörek Otu Yağı: Siyah Kimyonun Keskin Aroması</h2>\n<p>Tillo Kochari Çörek Otu Yağı, siyah kimyon olarak da bilinen çörek otu tohumlarından elde edilen bir yağdır. Koyu amber rengi, baharatlı ve hafif acımsı tadıyla oldukça yoğun bir aromaya sahiptir. Bu nedenle bolca değil, genellikle az miktarlarda ve damla damla kullanılır; tek başına tadı keskin gelebilir.</p>\n<p>Gaziantep fırınlarında çörek otu, simidin, pidenin ve çöreğin üzerinde sıkça görülen tanıdık bir tanedir. Bu tohumun yağı, Tillo Kochari'nin aromatik yağlar seçkisinde 100 ml'lik boyuyla yer alıyor. Geleneksel olarak hem mutfakta lezzet verici olarak hem de saç ve cilt bakım rutinlerinde kullanılır.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Zeytinyağıyla karıştırıp birkaç damlasını beyaz peynirli kahvaltı tabağına gezdirin.</li>\n<li>Poğaça ve çörek hamurunun üzerine sürülen yumurtaya birkaç damla ekleyin.</li>\n<li>Saç bakımında taşıyıcı bir yağla seyrelterek uçlara az miktarda uygulayın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 100 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Black Seed Oil: The Sharp Aroma of Black Cumin</h2>\n<p>Tillo Kochari Black Seed Oil is an oil obtained from the seeds of nigella, also known as black cumin. With its dark amber colour and spicy, slightly bitter taste, it has a very intense aroma. For this reason it is used not generously but usually in small amounts, drop by drop; on its own, its taste can come across as sharp.</p>\n<p>In Gaziantep's bakeries, black seed is a familiar grain often seen on top of sesame bread rings, flatbreads and buns. The oil of this seed has its place in Tillo Kochari's selection of aromatic oils in a 100 ml size. Traditionally, it is used both in the kitchen as a flavouring and in hair and skin care routines.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Mix with olive oil and drizzle a few drops over a breakfast plate with white cheese.</li>\n<li>Add a few drops to the egg wash brushed over savoury pastry and bun dough.</li>\n<li>For hair care, dilute with a carrier oil and apply a small amount to the ends.</li>\n</ul>\n<p><strong>Pack Size:</strong> 100 ml</p>",
+    "ar": "<h2>زيت الحبة السوداء: النكهة الحادة للكمون الأسود</h2>\n<p>زيت الحبة السوداء من Tillo Kochari زيتٌ يُستخلص من بذور الحبة السوداء المعروفة أيضًا بالكمون الأسود. ويتميّز بلونه الكهرماني الداكن ومذاقه المتبّل المائل قليلًا إلى المرارة، وبنكهة مركّزة جدًا. لذلك لا يُستخدم بوفرة، بل بكميات قليلة عادةً وقطرةً قطرة؛ فقد يبدو مذاقه حادًا إذا تُنوول وحده.</p>\n<p>في أفران غازي عنتاب، تُعدّ الحبة السوداء حبةً مألوفة تُرى كثيرًا فوق كعك السميط والخبز المسطّح والكعك. ويحتل زيت هذه البذرة مكانه ضمن تشكيلة الزيوت العطرية من Tillo Kochari بعبوة سعتها 100 ml. ويُستخدم تقليديًا في المطبخ لإضفاء النكهة، وكذلك في روتين العناية بالشعر والبشرة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اخلطه بزيت الزيتون ورُشَّ بضع قطرات منه على طبق الفطور مع الجبن الأبيض.</li>\n<li>أضف بضع قطرات إلى البيض الذي تُدهن به عجينة المعجنات المالحة والكعك.</li>\n<li>للعناية بالشعر، خفّفه بزيت ناقل وضع كمية قليلة منه على الأطراف.</li>\n</ul>\n<p><strong>العبوة:</strong> 100 ml</p>",
+    "de": "<h2>Schwarzkümmelöl: Das kräftige Aroma des Schwarzkümmels</h2>\n<p>Tillo Kochari Schwarzkümmelöl ist ein Öl, das aus den Samen der Nigella, auch Schwarzkümmel genannt, gewonnen wird. Mit seiner dunklen Bernsteinfarbe und seinem würzigen, leicht bitteren Geschmack besitzt es ein sehr intensives Aroma. Deshalb wird es nicht großzügig, sondern meist in kleinen Mengen und tropfenweise verwendet; pur kann sein Geschmack scharf wirken.</p>\n<p>In den Bäckereien von Gaziantep ist Schwarzkümmel ein vertrautes Korn, das man häufig auf Sesamkringeln, Fladenbroten und Hefegebäck sieht. Das Öl dieses Samens ist in der Auswahl aromatischer Öle von Tillo Kochari in der Größe von 100 ml vertreten. Traditionell wird es sowohl in der Küche als Würze als auch in der Haar- und Hautpflege verwendet.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Mit Olivenöl vermischen und ein paar Tropfen über einen Frühstücksteller mit Weißkäse träufeln.</li>\n<li>Ein paar Tropfen in das verquirlte Ei geben, mit dem herzhaftes Gebäck und Hefeteig bestrichen werden.</li>\n<li>Zur Haarpflege mit einem Trägeröl verdünnen und in kleiner Menge auf die Spitzen auftragen.</li>\n</ul>\n<p><strong>Packungsgröße:</strong> 100 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>블랙시드 오일: 블랙 커민의 강렬한 향</h2>\n<p>Tillo Kochari 블랙시드 오일은 블랙 커민으로도 알려진 니겔라 씨앗에서 얻은 오일입니다. 짙은 호박색과 스파이시하면서 살짝 쌉싸름한 맛을 지녀 향이 매우 진합니다. 그래서 넉넉히 쓰기보다는 보통 소량씩, 한 방울씩 사용하며, 단독으로 맛보면 맛이 강하게 느껴질 수 있습니다.</p>\n<p>가지안테프의 빵집에서 블랙시드는 참깨 링 빵, 납작빵, 번 위에서 자주 볼 수 있는 친숙한 씨앗입니다. 이 씨앗의 오일은 Tillo Kochari 아로마 오일 셀렉션에 100 ml 용량으로 자리하고 있습니다. 전통적으로 주방에서는 풍미를 더하는 재료로, 또한 모발과 피부 관리 루틴에도 사용됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>올리브 오일과 섞어 화이트 치즈를 곁들인 아침 식사 접시에 몇 방울 둘러 줍니다.</li>\n<li>짭짤한 페이스트리와 번 반죽 위에 바르는 달걀물에 몇 방울 더합니다.</li>\n<li>모발 관리 시에는 캐리어 오일로 희석하여 모발 끝에 소량 바릅니다.</li>\n</ul>\n<p><strong>규격:</strong> 100 ml</p>"
   },
-  "update": "2026-10-28T07:04:32.069Z",
+  "update": "2026-10-28T09:08:04.467Z",
   "date": "2026-05-20T09:54:45.920Z",
   "img": "index.webp"
 }

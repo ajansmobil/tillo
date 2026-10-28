@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Fındık Yağı"
+    "tr": "Fındık Yağı",
+    "en": "Hazelnut Oil",
+    "ar": "زيت البندق",
+    "de": "Haselnussöl",
+    "ko": "헤이즐넛 오일"
   },
   "status": "play",
-  "category": "c14siviya",
+  "category": "c03badem",
   "id": "sia266eq66",
   "externalUrl": "",
   "path": "findik-yagi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Fındık Yağı, Sıvı Yağlar, zeytinyağı, sızma zeytinyağı, soğuk sıkım",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Hazelnut Oil, Liquid Oils, olive oil, extra virgin olive oil, cold-pressed",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, زيت البندق, الزيوت السائلة, زيت الزيتون, زيت الزيتون البكر الممتاز, معصور على البارد",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Haselnussöl, Speiseöle, Olivenöl, natives Olivenöl extra, kaltgepresst",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연식품, 헤이즐넛 오일, 식용유, 올리브유, 엑스트라 버진 올리브유, 냉압착"
   },
   "description": {
-    "tr": "Tillo Kochari Fındık Yağı: Soğuk sıkım fındık. Sıvı Yağlar grubunda. Sunulan gramaj: 250 ml / 500 ml. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Fındık Yağı: Soğuk sıkım fındık. Sıvı Yağlar grubunda. Sunulan gramaj: 250 ml / 500 ml. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Hazelnut Oil is a cold-pressed hazelnut oil from the Liquid Oils range, offered in 250 ml / 500 ml as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari زيت البندق زيت بندق معصور على البارد ضمن مجموعة الزيوت السائلة، يُقدَّم بحجم 250 ml / 500 ml غذاءً طبيعيًا أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Haselnussöl ist ein kaltgepresstes Haselnussöl aus der Gruppe Speiseöle, erhältlich in 250 ml / 500 ml als natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 헤이즐넛 오일은 식용유 카테고리의 냉압착 헤이즐넛 오일로, 250 ml / 500 ml 용량으로 제공되는 가지안테프 태생의 자연식품입니다."
   },
-  "index": 123,
+  "index": 199,
   "icon": "opacity",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Fındık Yağı | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Hazelnut Oil | Tillo Kochari",
+    "ar": "زيت البندق | Tillo Kochari",
+    "de": "Haselnussöl | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "헤이즐넛 오일 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Fındık Yağı: Soğuk Sıkımın Yumuşak Aroması</h2>\n<p>Tillo Kochari Fındık Yağı, fındığın soğuk sıkımla elde edilen yağıdır. Açık altın rengi ve fındığı hatırlatan hafif kokusuyla zeytinyağından oldukça farklı bir karakter taşır. Akışkan yapısı sayesinde salatalara, tatlılara ve hamur işlerine kolayca karışır; yemeğe baskın olmayan, incelikli bir fındık dokunuşu ekler.</p>\n<p>Gaziantep mutfağı kuruyemişle iç içe yaşar; fıstık, ceviz ve fındık hem tatlıda hem tuzluda kendine yer bulur. Fındık yağı 250 ml ve 500 ml gramaj seçenekleriyle sunulur; ihtiyacınıza göre küçük ya da büyük hacmi seçebilirsiniz. Aromasını korumak için çoğunlukla çiğ ya da düşük ısıda kullanılması önerilir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Roka, armut ve keçi peynirinden oluşan bir salataya balzamik sirkeyle birlikte gezdirin.</li>\n<li>Kek ve kurabiye hamurunda sıvı yağın bir kısmının yerine kullanarak fındık aroması katın.</li>\n<li>Yoğurt kâsesinin ya da sabah yulafının üzerine birkaç damla ekleyip kavrulmuş fındıkla tamamlayın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 250 ml / 500 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Hazelnut Oil: The Gentle Aroma of Cold Pressing</h2>\n<p>Tillo Kochari Hazelnut Oil is oil obtained from hazelnuts by cold pressing. With its light golden colour and subtle scent reminiscent of hazelnuts, it has a character quite different from olive oil. Thanks to its fluid texture, it blends easily into salads, desserts and baked goods, adding a refined hazelnut touch that does not dominate the dish.</p>\n<p>Gaziantep cuisine lives hand in hand with nuts; pistachios, walnuts and hazelnuts find their place in both sweet and savoury dishes. Hazelnut oil is offered in 250 ml and 500 ml size options, so you can choose the smaller or larger volume according to your needs. To preserve its aroma, it is mostly recommended for raw use or low heat.</p>\n<h3>Usage Suggestions</h3>\n<ul>\n<li>Drizzle it with balsamic vinegar over a salad of rocket, pear and goat's cheese.</li>\n<li>Use it in place of part of the vegetable oil in cake and cookie doughs to add hazelnut aroma.</li>\n<li>Add a few drops over a bowl of yoghurt or morning oats and finish with toasted hazelnuts.</li>\n</ul>\n<p><strong>Size:</strong> 250 ml / 500 ml</p>",
+    "ar": "<h2>زيت البندق: الرائحة الناعمة للعصر على البارد</h2>\n<p>زيت البندق من Tillo Kochari زيتٌ يُستخلص من البندق بالعصر على البارد. ويحمل بلونه الذهبي الفاتح ورائحته الخفيفة التي تذكّر بالبندق شخصيةً مختلفة تمامًا عن زيت الزيتون. وبفضل قوامه السائل يمتزج بسهولة في السلطات والحلويات والمعجنات، ويضيف لمسة بندق رقيقة لا تطغى على الطعام.</p>\n<p>يعيش مطبخ غازي عنتاب متداخلًا مع المكسرات؛ إذ يجد الفستق والجوز والبندق مكانها في الأطباق الحلوة والمالحة على حد سواء. ويُقدَّم زيت البندق بخياري حجم 250 ml و 500 ml، فيمكنك اختيار الحجم الصغير أو الكبير حسب حاجتك. وللحفاظ على رائحته يُنصح غالبًا باستخدامه نيئًا أو على حرارة منخفضة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اسكبه مع الخل البلسمي على سلطة من الجرجير والإجاص وجبن الماعز.</li>\n<li>استخدمه بدلًا من جزء من الزيت النباتي في عجين الكيك والبسكويت لإضافة رائحة البندق.</li>\n<li>أضف بضع قطرات منه على وعاء اللبن الزبادي أو شوفان الصباح وأكمله بالبندق المحمّص.</li>\n</ul>\n<p><strong>الحجم:</strong> 250 ml / 500 ml</p>",
+    "de": "<h2>Haselnussöl: Das sanfte Aroma der Kaltpressung</h2>\n<p>Das Tillo Kochari Haselnussöl ist ein durch Kaltpressung gewonnenes Öl aus Haselnüssen. Mit seiner hellgoldenen Farbe und dem dezenten, an Haselnüsse erinnernden Duft hat es einen ganz anderen Charakter als Olivenöl. Dank seiner flüssigen Konsistenz lässt es sich leicht in Salate, Desserts und Backwaren einarbeiten und verleiht eine feine Haselnussnote, ohne das Gericht zu dominieren.</p>\n<p>Die Gaziantep-Küche ist eng mit Nüssen verbunden; Pistazien, Walnüsse und Haselnüsse finden sowohl in Süßem als auch in Herzhaftem ihren Platz. Haselnussöl wird in den Größen 250 ml und 500 ml angeboten; je nach Bedarf können Sie die kleinere oder größere Füllmenge wählen. Um sein Aroma zu bewahren, wird es meist für die Verwendung im Rohzustand oder bei niedriger Hitze empfohlen.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Zusammen mit Balsamico-Essig über einen Salat aus Rucola, Birne und Ziegenkäse träufeln.</li>\n<li>In Kuchen- und Plätzchenteig einen Teil des Pflanzenöls ersetzen und so Haselnussaroma hinzufügen.</li>\n<li>Einige Tropfen über eine Schale Joghurt oder Frühstückshaferflocken geben und mit gerösteten Haselnüssen vollenden.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 250 ml / 500 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>헤이즐넛 오일: 냉압착이 주는 부드러운 향</h2>\n<p>Tillo Kochari 헤이즐넛 오일은 헤이즐넛을 냉압착하여 얻은 오일입니다. 연한 황금빛과 헤이즐넛을 떠올리게 하는 은은한 향으로 올리브유와는 사뭇 다른 개성을 지닙니다. 잘 흐르는 질감 덕분에 샐러드, 디저트, 베이커리에 쉽게 어우러지며, 요리를 압도하지 않는 섬세한 헤이즐넛 풍미를 더합니다.</p>\n<p>가지안테프 요리는 견과류와 함께 살아 숨 쉬며, 피스타치오, 호두, 헤이즐넛은 단 요리와 짭짤한 요리 모두에 자리합니다. 헤이즐넛 오일은 250 ml와 500 ml 두 가지 용량으로 제공되어 필요에 따라 작은 용량이나 큰 용량을 선택할 수 있습니다. 향을 지키기 위해 주로 가열하지 않거나 낮은 온도에서 사용하는 것을 권장합니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>루콜라, 배, 염소 치즈로 만든 샐러드에 발사믹 식초와 함께 두르십시오.</li>\n<li>케이크와 쿠키 반죽에서 식용유의 일부를 대신해 헤이즐넛 향을 더하십시오.</li>\n<li>요거트 한 그릇이나 아침 귀리 위에 몇 방울 더하고 볶은 헤이즐넛으로 마무리하십시오.</li>\n</ul>\n<p><strong>용량:</strong> 250 ml / 500 ml</p>"
   },
-  "update": "2026-10-28T07:04:31.735Z",
+  "update": "2026-10-28T09:08:01.785Z",
   "date": "2026-05-20T09:54:45.877Z",
   "img": "index.webp"
 }

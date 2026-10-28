@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "IQF Kabak Dilim"
+    "tr": "IQF Kabak Dilim",
+    "en": "IQF Courgette Slices",
+    "ar": "شرائح كوسا مجمدة سريعًا (آي كيو إف)",
+    "de": "IQF Zucchinischeiben",
+    "ko": "IQF 애호박 슬라이스"
   },
   "status": "play",
   "category": "c16iqfseb",
@@ -9,16 +13,20 @@
   "path": "iqf-kabak-dilim",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, IQF Kabak Dilim, IQF Dilimlenmiş Sebzeler, IQF sebze, dondurulmuş sebze, endüstriyel sebze, dilim sebze",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, IQF Courgette Slices, IQF Sliced Vegetables, IQF vegetables, frozen vegetables, industrial vegetables, sliced vegetables",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, شرائح كوسا مجمدة سريعًا (آي كيو إف), الخضروات المقطّعة المجمدة سريعًا, خضروات آي كيو إف, خضروات مجمدة, خضروات للصناعات الغذائية, خضروات مقطّعة شرائح",
+    "de": "Tillo Kochari, Gaziantep, Naturlebensmittel, IQF Zucchinischeiben, IQF geschnittenes Gemüse, IQF-Gemüse, Tiefkühlgemüse, Industriegemüse, Gemüsescheiben",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, IQF 애호박 슬라이스, IQF 슬라이스 채소, IQF 채소, 냉동 채소, 업소용 채소, 슬라이스 채소"
   },
   "description": {
-    "tr": "Tillo Kochari IQF Kabak Dilim: Halka kabak. IQF Dilimlenmiş Sebzeler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari IQF Kabak Dilim: Halka kabak. IQF Dilimlenmiş Sebzeler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari IQF Courgette Slices are courgette rounds from the IQF Sliced Vegetables range, offered in 10 kg as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari شرائح كوسا مجمدة سريعًا (آي كيو إف): حلقات كوسا ضمن مجموعة الخضروات المقطّعة المجمدة سريعًا، تُقدَّم بعبوة 10 kg، وهي غذاء طبيعي من أصل غازي عنتاب.",
+    "de": "Tillo Kochari IQF Zucchinischeiben sind Zucchiniringe aus der Gruppe IQF geschnittenes Gemüse, erhältlich in 10 kg – ein Naturlebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari IQF 애호박 슬라이스는 IQF 슬라이스 채소 군에 속하는 원형 애호박 슬라이스로, 10 kg 규격으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 138,
+  "index": 214,
   "icon": "ac_unit",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "IQF Kabak Dilim | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "IQF Courgette Slices | Tillo Kochari",
+    "ar": "شرائح كوسا مجمدة سريعًا (آي كيو إف) | Tillo Kochari",
+    "de": "IQF Zucchinischeiben | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "IQF 애호박 슬라이스 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>IQF Kabak Dilim: Halka Halka Pratik Sebze</h2>\n<p>Yumuşak dokusu ve hafif tadıyla kabak, hemen her sebze yemeğine uyum sağlayan bir malzemedir. Tillo Kochari IQF Kabak Dilim, kabağı halka biçiminde kesilmiş ve dilimleri ayrı ayrı dondurulmuş olarak sunar. 10 kg'lık ambalajıyla, menüsünde sebze ağırlıklı tabaklara geniş yer veren işletmeler için hazırlanmıştır.</p>\n<p>Kabak su oranı yüksek bir sebze olduğundan, donmuş dilimleri yüksek ateşte ve kısa sürede pişirmek dokusunu korumaya yardımcı olur. Sotelerde, çorbalarda ve fırın güveçlerinde rahatça kullanılır. Gaziantep merkezli Tillo Kochari'nin dilimlenmiş sebze serisindeki bu ürün, mevsim beklemeden kabakla çalışmayı kolaylaştırır.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Havuç ve biberle birlikte wok tavada yüksek ateşte sote edin.</li>\n<li>Zeytinyağında çevirip sarımsaklı yoğurtla karıştırarak yoğurtlu kabak mezesi yapın.</li>\n<li>Domates ve soğanla fırın güvecine katarak sebze türlüsü hazırlayın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 10 kg</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>IQF Courgette Slices: Practical Vegetables in Rounds</h2>\n<p>With its soft texture and mild taste, courgette is an ingredient that suits almost any vegetable dish. Tillo Kochari IQF Courgette Slices offer courgette cut into rounds with the slices frozen individually. With its 10 kg pack, it is prepared for businesses that give vegetable-based dishes a large place on their menus.</p>\n<p>Since courgette is a vegetable with a high water content, cooking the frozen slices over high heat for a short time helps preserve their texture. They can easily be used in sautés, soups and oven casseroles. This product from the sliced vegetable series of Gaziantep-based Tillo Kochari makes it easy to work with courgette without waiting for the season.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Sauté over high heat in a wok together with carrots and peppers.</li>\n<li>Toss in olive oil and mix with garlic yoghurt to make a courgette and yoghurt mezze.</li>\n<li>Add to an oven casserole with tomatoes and onions to prepare a mixed vegetable stew.</li>\n</ul>\n<p><strong>Pack Size:</strong> 10 kg</p>",
+    "ar": "<h2>شرائح كوسا مجمدة سريعًا (آي كيو إف): خضار عملية على شكل حلقات</h2>\n<p>بقوامها الطري ومذاقها الخفيف، تُعدّ الكوسا مكوّنًا يتلاءم مع كل أطباق الخضار تقريبًا. وتقدّم شرائح الكوسا المجمدة سريعًا (آي كيو إف) من Tillo Kochari الكوسا مقطّعة على شكل حلقات ومجمّدة شريحةً شريحة. وقد أُعدّت بعبوتها سعة 10 kg للمنشآت التي تمنح أطباق الخضار مساحة واسعة في قوائم طعامها.</p>\n<p>ولأن الكوسا من الخضار الغنية بالماء، فإن طهي الشرائح المجمدة على نار عالية ولمدة قصيرة يساعد على الحفاظ على قوامها. ويمكن استخدامها بسهولة في الأطباق المقلّبة والحساء وطواجن الفرن. ويسهّل هذا المنتج، ضمن سلسلة الخضار المقطّعة من Tillo Kochari ومقرّها غازي عنتاب، العمل بالكوسا دون انتظار موسمها.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>قلّبها على نار عالية في مقلاة الووك مع الجزر والفلفل.</li>\n<li>قلّبها في زيت الزيتون واخلطها مع الزبادي بالثوم لتحضير مقبلات الكوسا بالزبادي.</li>\n<li>أضفها إلى طاجن الفرن مع الطماطم والبصل لتحضير يخنة خضار مشكّلة.</li>\n</ul>\n<p><strong>العبوة:</strong> 10 kg</p>",
+    "de": "<h2>IQF Zucchinischeiben: Praktisches Gemüse in Ringen</h2>\n<p>Mit ihrer weichen Textur und ihrem milden Geschmack passt die Zucchini zu fast jedem Gemüsegericht. Tillo Kochari IQF Zucchinischeiben bieten Zucchini in Ringe geschnitten und Scheibe für Scheibe einzeln tiefgefroren. Mit der 10 kg Packung sind sie für Betriebe gedacht, die Gemüsegerichten auf ihrer Speisekarte viel Platz einräumen.</p>\n<p>Da Zucchini einen hohen Wasseranteil haben, hilft es, die gefrorenen Scheiben bei starker Hitze und kurz zu garen, um ihre Textur zu bewahren. Sie lassen sich problemlos in Pfannengerichten, Suppen und Ofenschmorgerichten verwenden. Dieses Produkt aus der Serie geschnittenes Gemüse von Tillo Kochari mit Sitz in Gaziantep macht es leicht, unabhängig von der Saison mit Zucchini zu arbeiten.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Zusammen mit Karotten und Paprika im Wok bei starker Hitze anbraten.</li>\n<li>In Olivenöl anschwenken und mit Knoblauchjoghurt zu einer Zucchini-Joghurt-Mezze vermengen.</li>\n<li>Mit Tomaten und Zwiebeln in einen Ofenschmortopf geben und einen gemischten Gemüseeintopf zubereiten.</li>\n</ul>\n<p><strong>Packungsgröße:</strong> 10 kg</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>IQF 애호박 슬라이스: 동그랗게 썬 실용적인 채소</h2>\n<p>부드러운 질감과 순한 맛을 지닌 애호박은 거의 모든 채소 요리에 잘 어울리는 재료입니다. Tillo Kochari IQF 애호박 슬라이스는 애호박을 원형으로 썰어 슬라이스마다 개별 냉동한 제품입니다. 10 kg 포장으로, 메뉴에서 채소 위주의 요리 비중이 큰 업장을 위해 준비되었습니다.</p>\n<p>애호박은 수분 함량이 높은 채소이므로, 냉동 슬라이스를 센 불에서 짧게 익히면 식감을 유지하는 데 도움이 됩니다. 볶음 요리, 수프, 오븐 캐서롤에 편하게 사용할 수 있습니다. 가지안테프에 본사를 둔 Tillo Kochari의 슬라이스 채소 시리즈에 속한 이 제품은 제철을 기다리지 않고도 애호박을 손쉽게 다룰 수 있게 해 줍니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>당근, 파프리카와 함께 웍에서 센 불로 볶습니다.</li>\n<li>올리브 오일에 살짝 볶은 뒤 마늘 요거트와 섞어 애호박 요거트 메제를 만듭니다.</li>\n<li>토마토, 양파와 함께 오븐 캐서롤에 넣어 모둠 채소 스튜를 만듭니다.</li>\n</ul>\n<p><strong>규격:</strong> 10 kg</p>"
   },
-  "update": "2026-10-28T07:04:32.562Z",
+  "update": "2026-10-28T09:08:08.638Z",
   "date": "2026-05-20T09:54:45.986Z",
   "img": "index.webp"
 }

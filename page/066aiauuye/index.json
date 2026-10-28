@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Bıttım Yağı"
+    "tr": "Bıttım Yağı",
+    "en": "Bıttım Oil (Terebinth Fruit Oil)",
+    "ar": "زيت البطم",
+    "de": "Bıttım-Öl (Terebinthenfruchtöl)",
+    "ko": "비틈 오일(테레빈 열매 오일)"
   },
   "status": "play",
-  "category": "c15aromya",
+  "category": "zsyqc5i9oe",
   "id": "066aiauuye",
   "externalUrl": "",
   "path": "bittim-yagi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Bıttım Yağı, Tıbbi Aromatik Yağlar, çörek otu yağı, aromatik yağ, tıbbi yağ",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Bıttım Oil, Medicinal Aromatic Oils, black seed oil, aromatic oil, medicinal oil",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, زيت البطم, الزيوت العطرية الطبية, زيت الحبة السوداء, زيت عطري, زيت طبي",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Bıttım-Öl, Medizinische Aromaöle, Schwarzkümmelöl, Aromaöl, Heilöl",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연식품, 비틈 오일, 약용 아로마 오일, 블랙시드 오일, 아로마 오일, 약용 오일"
   },
   "description": {
-    "tr": "Tillo Kochari Bıttım Yağı: Siirt bıttım sabunu yağı. Tıbbi Aromatik Yağlar grubunda. Sunulan gramaj: 250 ml. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Bıttım Yağı: Siirt bıttım sabunu yağı. Tıbbi Aromatik Yağlar grubunda. Sunulan gramaj: 250 ml. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Bıttım Oil is the oil behind Siirt's bıttım soap, from the Medicinal Aromatic Oils range, offered in 250 ml as a natural product rooted in Gaziantep.",
+    "ar": "Tillo Kochari زيت البطم هو زيت صابون البطم الشهير في سعرت ضمن مجموعة الزيوت العطرية الطبية، يُقدَّم بحجم 250 ml منتجًا طبيعيًا أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Bıttım-Öl ist das Öl der Bıttım-Seife aus Siirt aus der Gruppe Medizinische Aromaöle, erhältlich in 250 ml als Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 비틈 오일은 약용 아로마 오일 카테고리에 속하는 시이르트 비틈 비누의 원료 오일로, 250 ml 용량으로 제공되는 가지안테프 태생의 자연 제품입니다."
   },
-  "index": 127,
+  "index": 203,
   "icon": "science",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Bıttım Yağı | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Bıttım Oil (Terebinth Fruit Oil) | Tillo Kochari",
+    "ar": "زيت البطم | Tillo Kochari",
+    "de": "Bıttım-Öl (Terebinthenfruchtöl) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "비틈 오일(테레빈 열매 오일) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Bıttım Yağı: Siirt'in Bıttım Sabunu Geleneğinden</h2>\n<p>Tillo Kochari Bıttım Yağı, Siirt'te bıttım sabunu yapımıyla bilinen bıttım meyvesinin yağıdır. Bıttım, menengiç adıyla da anılan yabani bir fıstık türünün küçük meyvesidir. Koyu rengi ve reçinemsi, keskin kokusuyla mutfakta alışılmış yağlardan oldukça farklı bir karakter taşır; daha çok bakım ve sabun geleneğiyle anılır.</p>\n<p>Menengiç, Gaziantep'te de kahvesiyle tanınan, yöre insanının yakından bildiği bir meyvedir. Tillo Kochari bıttım yağını 250 ml'lik bir boyla sunuyor. Geleneksel olarak saç ve cilt bakımında, ev yapımı sabunlarda kullanılan bu yağı ilk kez deneyecekseniz önce küçük bir alanda denemeniz iyi olur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Ev yapımı sabun tariflerinde yağ karışımının bir bölümü olarak kullanın.</li>\n<li>Saç bakımında, yıkamadan önce uçlara az miktarda sürerek geleneksel bir bakım alışkanlığı edinin.</li>\n<li>Ev yapımı balm ve bakım kremlerinde bitkisel yağ bileşeni olarak değerlendirin.</li>\n</ul>\n<p><strong>Gramaj:</strong> 250 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Bıttım Oil: From Siirt's Bıttım Soap Tradition</h2>\n<p>Tillo Kochari Bıttım Oil is the oil of the bıttım fruit, known in Siirt for the making of bıttım soap. Bıttım is the small fruit of a wild pistachio species also known as menengiç (terebinth). With its dark colour and resinous, sharp scent, it has a character quite different from the usual kitchen oils; it is associated more with personal care and the soap-making tradition.</p>\n<p>Menengiç is also a fruit well known to the people of Gaziantep, where it is famous for its coffee. Tillo Kochari offers bıttım oil in a 250 ml size. If you are trying this oil, traditionally used in hair and skin care and in homemade soaps, for the first time, it is best to test it on a small area first.</p>\n<h3>Usage Suggestions</h3>\n<ul>\n<li>Use it as part of the oil blend in homemade soap recipes.</li>\n<li>For hair care, apply a small amount to the ends before washing to adopt a traditional care habit.</li>\n<li>Consider it as a plant-oil component in homemade balms and care creams.</li>\n</ul>\n<p><strong>Size:</strong> 250 ml</p>",
+    "ar": "<h2>زيت البطم: من تقليد صابون البطم في سعرت</h2>\n<p>زيت البطم من Tillo Kochari هو زيت ثمرة البطم المعروفة في سعرت بصناعة صابون البطم. والبطم هو الثمرة الصغيرة لنوع من الفستق البري يُعرف أيضًا باسم المننغيج. ويحمل بلونه الداكن ورائحته الراتنجية الحادة شخصيةً مختلفة تمامًا عن الزيوت المألوفة في المطبخ؛ ويرتبط اسمه أكثر بتقاليد العناية وصناعة الصابون.</p>\n<p>والمننغيج ثمرة يعرفها أهل غازي عنتاب جيدًا أيضًا، وتشتهر هناك بقهوتها. وتقدّم Tillo Kochari زيت البطم بحجم 250 ml. وإذا كنت ستجرّب لأول مرة هذا الزيت المستخدم تقليديًا في العناية بالشعر والبشرة وفي الصابون المنزلي، فمن الأفضل أن تجرّبه أولًا على مساحة صغيرة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>استخدمه جزءًا من مزيج الزيوت في وصفات الصابون المنزلي.</li>\n<li>في العناية بالشعر، ضع كمية قليلة على الأطراف قبل الغسل لتكتسب عادة عناية تقليدية.</li>\n<li>استعمله مكوّنًا من الزيوت النباتية في البلسم وكريمات العناية المنزلية.</li>\n</ul>\n<p><strong>الحجم:</strong> 250 ml</p>",
+    "de": "<h2>Bıttım-Öl: Aus der Bıttım-Seifentradition von Siirt</h2>\n<p>Das Tillo Kochari Bıttım-Öl ist das Öl der Bıttım-Frucht, die in Siirt für die Herstellung von Bıttım-Seife bekannt ist. Bıttım ist die kleine Frucht einer wilden Pistazienart, die auch unter dem Namen Menengiç (Terebinthe) bekannt ist. Mit seiner dunklen Farbe und seinem harzigen, kräftigen Duft hat es einen ganz anderen Charakter als die üblichen Küchenöle; es wird eher mit der Pflege- und Seifentradition in Verbindung gebracht.</p>\n<p>Menengiç ist auch in Gaziantep eine den Menschen der Region wohlbekannte Frucht, die dort für ihren Kaffee geschätzt wird. Tillo Kochari bietet Bıttım-Öl in der Größe 250 ml an. Wenn Sie dieses traditionell in der Haar- und Hautpflege sowie in selbst gemachten Seifen verwendete Öl zum ersten Mal ausprobieren, testen Sie es am besten zunächst an einer kleinen Stelle.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>In Rezepten für selbst gemachte Seife als Teil der Ölmischung verwenden.</li>\n<li>Zur Haarpflege vor dem Waschen eine kleine Menge in die Spitzen einarbeiten und so eine traditionelle Pflegegewohnheit übernehmen.</li>\n<li>In selbst gemachten Balsamen und Pflegecremes als pflanzlichen Ölbestandteil einsetzen.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 250 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>비틈 오일: 시이르트의 비틈 비누 전통에서</h2>\n<p>Tillo Kochari 비틈 오일은 시이르트에서 비틈 비누를 만드는 데 쓰이는 것으로 알려진 비틈 열매의 오일입니다. 비틈은 메넹기치(테레빈나무)라는 이름으로도 불리는 야생 피스타치오 품종의 작은 열매입니다. 짙은 색과 송진 같은 강렬한 향으로 주방에서 흔히 쓰는 오일과는 사뭇 다른 개성을 지니며, 주로 관리용 및 비누 전통과 함께 언급됩니다.</p>\n<p>메넹기치는 가지안테프에서도 커피로 잘 알려져 있어 지역 사람들에게 친숙한 열매입니다. Tillo Kochari는 비틈 오일을 250 ml 용량으로 선보입니다. 전통적으로 모발과 피부 관리, 홈메이드 비누에 사용되어 온 이 오일을 처음 사용하신다면 먼저 좁은 부위에 시험해 보시는 것이 좋습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>홈메이드 비누 레시피에서 오일 배합의 일부로 사용하십시오.</li>\n<li>모발 관리 시 샴푸 전에 모발 끝에 소량을 발라 전통적인 관리 습관을 들여 보십시오.</li>\n<li>홈메이드 밤과 케어 크림에 식물성 오일 성분으로 활용하십시오.</li>\n</ul>\n<p><strong>용량:</strong> 250 ml</p>"
   },
-  "update": "2026-10-28T07:04:31.947Z",
+  "update": "2026-10-28T09:07:16.205Z",
   "date": "2026-05-20T09:54:45.906Z",
   "img": "index.webp"
 }

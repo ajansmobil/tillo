@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Hurma Pekmezi"
+    "tr": "Hurma Pekmezi",
+    "en": "Date Pekmez (Date Molasses)",
+    "ar": "دبس التمر",
+    "de": "Dattel-Pekmez (Dattelsirup)",
+    "ko": "대추야자 페크메즈(대추야자 당밀)"
   },
   "status": "play",
-  "category": "c11pekmez",
+  "category": "c12sut",
   "id": "p2uy2miqy6",
   "externalUrl": "",
   "path": "hurma-pekmezi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Hurma Pekmezi, Pekmez ve Şuruplar, pekmez, üzüm pekmezi, keçiboynuzu pekmezi, meyve şurubu",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Date Pekmez, Pekmez & Syrups, pekmez, grape pekmez, carob pekmez, fruit syrup",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, دبس التمر, الدبس والشراب, دبس, دبس العنب, دبس الخروب, شراب فواكه",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Dattel-Pekmez, Pekmez & Sirupe, Pekmez, Trauben-Pekmez, Johannisbrot-Pekmez, Fruchtsirup",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연식품, 대추야자 페크메즈, 페크메즈 및 시럽, 페크메즈, 포도 페크메즈, 캐럽 페크메즈, 과일 시럽"
   },
   "description": {
-    "tr": "Tillo Kochari Hurma Pekmezi: Hurma özü pekmez. Pekmez ve Şuruplar grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Hurma Pekmezi: Hurma özü pekmez. Pekmez ve Şuruplar grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Date Pekmez is a molasses made from date extract, part of our Pekmez & Syrups range, offered in 400 g, a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari دبس التمر: دبس من خلاصة التمر ضمن مجموعة الدبس والشراب، يُقدَّم بوزن 400 g، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Dattel-Pekmez ist ein Sirup aus Dattelextrakt aus der Gruppe Pekmez & Sirupe, erhältlich in 400 g – ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 대추야자 페크메즈는 페크메즈 및 시럽류에 속하는 대추야자 엑기스 당밀로, 400 g 중량으로 제공되는 가지안테프 출신의 자연식품입니다."
   },
-  "index": 86,
+  "index": 162,
   "icon": "water_drop",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Hurma Pekmezi | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Date Pekmez (Date Molasses) | Tillo Kochari",
+    "ar": "دبس التمر | Tillo Kochari",
+    "de": "Dattel-Pekmez (Dattelsirup) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "대추야자 페크메즈(대추야자 당밀) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Hurma Pekmezi ile Yumuşak, Bal Kıvamında Bir Tatlılık</h2>\n<p>Hurma Pekmezi, hurma özünden elde edilen, koyu amber renkli ve ipeksi kıvamlı bir pekmezdir. Tadı üzüm pekmezine göre daha yumuşaktır; karamel ve hurmanın kendine has notalarıyla zenginleşen bir tatlılık sunar. Ekşilik neredeyse hissedilmez, bu nedenle hem tatlı tariflerinde hem de içeceklerde rahatça kullanılır.</p>\n<p>Tillo Kochari'nin pekmez yelpazesinde hurma, alışılmış meyvelerin dışına çıkmak isteyenler için ayrı bir seçenektir. Gaziantep'ten sofralara uzanan bu ürün, 400 gramlık boyuyla mutfağa yeni bir tatlandırıcı eklemek isteyenler için pratik bir başlangıç sunar. Az miktarı bile tarife belirgin bir derinlik katar.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Sıcak süt veya badem sütüne bir tatlı kaşığı ekleyerek karıştırın.</li>\n<li>Yulaf lapası ve granola kâselerinin üzerine gezdirip muz dilimleriyle servis edin.</li>\n<li>Ev yapımı atıştırmalık toplar hazırlarken ceviz, yulaf ve kakaoyu birbirine bağlamak için kullanın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 400 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>A Soft, Honey-Thick Sweetness with Date Pekmez</h2>\n<p>Date Pekmez is a pekmez made from date extract, with a deep amber color and a silky consistency. Its taste is softer than grape pekmez, offering a sweetness enriched with caramel and the distinctive notes of dates. Sourness is barely noticeable, so it is easy to use both in dessert recipes and in drinks.</p>\n<p>In Tillo Kochari's pekmez range, date is a separate option for those who want to step beyond the usual fruits. Coming from Gaziantep to your table, this product's 400-gram size offers a practical start for anyone wanting to add a new sweetener to their kitchen. Even a small amount gives a recipe a noticeable depth.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Stir a dessert spoonful into hot milk or almond milk.</li>\n<li>Drizzle over oatmeal and granola bowls and serve with banana slices.</li>\n<li>Use it to bind walnuts, oats and cocoa together when making homemade snack balls.</li>\n</ul>\n<p><strong>Size:</strong> 400 g</p>",
+    "ar": "<h2>دبس التمر: حلاوة ناعمة بقوام العسل</h2>\n<p>دبس التمر دبس يُستخلص من خلاصة التمر، بلون كهرماني داكن وقوام حريري. طعمه أنعم من دبس العنب، ويقدّم حلاوة غنية بنغمات الكراميل والنكهة المميزة للتمر. وتكاد الحموضة لا تُلحظ، لذا يُستخدم بسهولة في وصفات الحلويات وكذلك في المشروبات.</p>\n<p>في تشكيلة الدبس من Tillo Kochari، يُعدّ التمر خيارًا مستقلًا لمن يرغبون في الخروج عن الفواكه المعتادة. هذا المنتج القادم من غازي عنتاب إلى الموائد يقدّم بعبوته البالغة 400 g بداية عملية لمن يريد إضافة مُحلٍّ جديد إلى مطبخه. وحتى الكمية القليلة منه تضفي على الوصفة عمقًا واضحًا.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>أضف ملعقة حلوى منه إلى الحليب الساخن أو حليب اللوز وقلّبه.</li>\n<li>رُشّه فوق أوعية عصيدة الشوفان والغرانولا وقدّمه مع شرائح الموز.</li>\n<li>استخدمه لربط الجوز والشوفان والكاكاو معًا عند تحضير كرات الوجبات الخفيفة المنزلية.</li>\n</ul>\n<p><strong>الوزن:</strong> 400 g</p>",
+    "de": "<h2>Dattel-Pekmez: sanfte Süße mit honigartiger Konsistenz</h2>\n<p>Dattel-Pekmez ist ein Pekmez aus Dattelextrakt mit dunkler Bernsteinfarbe und seidiger Konsistenz. Geschmacklich ist er milder als Trauben-Pekmez und bietet eine Süße, die von Karamell und den typischen Noten der Dattel bereichert wird. Säure ist kaum wahrnehmbar, deshalb lässt er sich problemlos in Dessertrezepten und Getränken verwenden.</p>\n<p>Im Pekmez-Sortiment von Tillo Kochari ist die Dattel eine eigene Option für alle, die über die gewohnten Früchte hinausgehen möchten. Dieses Produkt aus Gaziantep bietet mit seiner 400-Gramm-Größe einen praktischen Einstieg für alle, die ihrer Küche ein neues Süßungsmittel hinzufügen möchten. Schon eine kleine Menge verleiht einem Rezept spürbare Tiefe.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Einen Dessertlöffel in heiße Milch oder Mandelmilch einrühren.</li>\n<li>Über Haferbrei- und Granola-Bowls träufeln und mit Bananenscheiben servieren.</li>\n<li>Bei der Zubereitung hausgemachter Snack-Bällchen verwenden, um Walnüsse, Haferflocken und Kakao zu binden.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 400 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>대추야자 페크메즈로 즐기는 꿀처럼 부드러운 단맛</h2>\n<p>대추야자 페크메즈는 대추야자 엑기스로 만든, 짙은 호박색과 실크처럼 매끄러운 농도의 페크메즈입니다. 포도 페크메즈보다 맛이 부드러우며, 캐러멜과 대추야자 특유의 풍미가 어우러진 단맛을 선사합니다. 신맛이 거의 느껴지지 않아 디저트 레시피에도, 음료에도 손쉽게 활용할 수 있습니다.</p>\n<p>Tillo Kochari의 페크메즈 제품군에서 대추야자는 익숙한 과일에서 벗어나 보고 싶은 분들을 위한 별도의 선택지입니다. 가지안테프에서 식탁까지 이어지는 이 제품은 400 g 중량으로, 주방에 새로운 감미료를 더하고 싶은 분께 실용적인 시작이 되어 줍니다. 적은 양으로도 요리에 뚜렷한 깊이를 더합니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>따뜻한 우유나 아몬드 밀크에 디저트 스푼 하나를 넣어 저어 주세요.</li>\n<li>오트밀과 그래놀라 볼 위에 뿌리고 바나나 슬라이스와 함께 내 보세요.</li>\n<li>홈메이드 에너지 볼을 만들 때 호두, 귀리, 코코아를 한데 뭉치는 데 사용해 보세요.</li>\n</ul>\n<p><strong>중량:</strong> 400 g</p>"
   },
-  "update": "2026-10-28T07:04:29.681Z",
+  "update": "2026-10-28T09:07:54.907Z",
   "date": "2026-05-20T09:54:45.564Z",
   "img": "index.webp"
 }

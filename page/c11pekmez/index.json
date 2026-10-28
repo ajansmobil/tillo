@@ -1,22 +1,30 @@
 {
   "name": {
-    "tr": "Pekmez ve Şuruplar"
+    "tr": "Meyve Özü Grubu",
+    "en": "Fruit Extracts",
+    "ar": "مستخلصات الفاكهة",
+    "de": "Fruchtextrakte",
+    "ko": "과일 추출물"
   },
   "status": "play",
   "category": "",
   "id": "c11pekmez",
   "externalUrl": "",
-  "path": "pekmez-ve-suruplar",
+  "path": "meyve-ozu-grubu",
   "keyword": {
-    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Pekmez ve Şuruplar, pekmez, üzüm pekmezi, keçiboynuzu pekmezi, meyve şurubu",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari, Meyve Özü Grubu",
+    "en": "Tillo Kochari, Fruit Extracts",
+    "ar": "Tillo Kochari, مستخلصات الفاكهة",
+    "de": "Tillo Kochari, Fruchtextrakte",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 과일 추출물"
   },
   "description": {
-    "tr": "Tillo Kochari Pekmez ve Şuruplar. Pekmez ve şuruplar: üzüm, dut, hurma, keçiboynuzu. Doğal pekmez ve meyve şurupları; kahvaltı ve sağlıklı tatlandırıcı. Gazi…"
+    "tr": "Tillo Kochari Meyve Özü Grubu ürün grubu.",
+    "en": "Tillo Kochari Fruit Extracts product group.",
+    "ar": "مجموعة منتجات مستخلصات الفاكهة من تيلو كوشاري.",
+    "de": "Tillo Kochari Produktgruppe Fruchtextrakte.",
+    "ko": "틸로 코차리 과일 추출물 제품군."
   },
   "index": 10,
   "icon": "category",
@@ -27,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Pekmez ve Şuruplar Ürünleri | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Meyve Özü Grubu | Tillo Kochari",
+    "en": "Fruit Extracts | Tillo Kochari",
+    "ar": "مستخلصات الفاكهة | Tillo Kochari",
+    "de": "Fruchtextrakte | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "과일 추출물 | Tillo Kochari"
   },
   "text": {
     "tr": "",
@@ -42,7 +50,7 @@
     "ja": "",
     "ko": ""
   },
-  "update": "2026-05-21T08:39:29.734Z",
+  "update": "2026-10-28T08:07:44.369Z",
   "date": "2026-05-20T09:54:46.230Z",
   "categorypage": "products"
 }

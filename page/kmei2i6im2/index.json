@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "IQF Ahududu"
+    "tr": "IQF Ahududu",
+    "en": "IQF Raspberries",
+    "ar": "توت العليق IQF",
+    "de": "IQF Himbeeren",
+    "ko": "IQF 라즈베리"
   },
   "status": "play",
-  "category": "c17iqfmey",
+  "category": "c14siviya",
   "id": "kmei2i6im2",
   "externalUrl": "",
   "path": "iqf-ahududu",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, IQF Ahududu, IQF Meyveler, IQF meyve, dondurulmuş çilek, nar tanesi, orman meyvesi IQF",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, IQF Raspberries, IQF Fruits, IQF fruit, frozen strawberries, pomegranate arils, IQF forest fruits",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, توت العليق IQF, فواكه IQF, فاكهة IQF, فراولة مجمدة, حبات الرمان, ثمار الغابة IQF",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, IQF Himbeeren, IQF-Früchte, IQF Obst, tiefgefrorene Erdbeeren, Granatapfelkerne, IQF Waldfrüchte",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, IQF 라즈베리, IQF 과일류, IQF 과일, 냉동 딸기, 석류 알갱이, IQF 포레스트 베리"
   },
   "description": {
-    "tr": "Tillo Kochari IQF Ahududu: Böğürtlen familyası. IQF Meyveler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari IQF Ahududu: Böğürtlen familyası. IQF Meyveler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari IQF Raspberries: a berry from the blackberry family in the IQF Fruits range, offered in a 10 kg pack — a natural food from Gaziantep.",
+    "ar": "Tillo Kochari – توت العليق IQF: فاكهة من عائلة العليق الأسود ضمن مجموعة الفواكه IQF، متوفرة بعبوة 10 kg، غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari IQF Himbeeren: eine Beere aus der Familie der Brombeere in der Gruppe IQF-Früchte, erhältlich in der Packung zu 10 kg – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari IQF 라즈베리는 IQF 과일류 그룹의 블랙베리 계열 베리로, 10 kg 포장으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 147,
+  "index": 223,
   "icon": "ac_unit",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "IQF Ahududu | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "IQF Raspberries | Tillo Kochari",
+    "ar": "توت العليق IQF | Tillo Kochari",
+    "de": "IQF Himbeeren | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "IQF 라즈베리 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>IQF Ahududu: Narin Meyveye Pratik Erişim</h2>\n<p>Ahududu, ince yapısı nedeniyle taze hâlde taşınması ve saklanması zor bir meyvedir. Böğürtlenle aynı aileden gelen bu kırmızı meyve, mayhoş ve aromatik tadıyla pastacılığın sevilen malzemelerindendir. Tillo Kochari IQF Ahududu, taneleri ayrı ayrı dondurulmuş hâlde ve 10 kg'lık ambalajda sunularak bu narin meyveyi mutfakta kullanışlı kılar.</p>\n<p>Ahududunun asidik, parfümlü tadı çikolata, vanilya ve süt ürünleriyle güzel bir denge kurar. Çözüldüğünde kolayca dağıldığı için sos, püre ve mus tariflerinde rahat kullanılır; süsleme için ise donuk hâlde tabağa yerleştirmek biçimini korur. Gaziantep merkezli Tillo Kochari'nin meyve serisinde pastanelerin işini kolaylaştıran bir üründür.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Şekerle pişirip süzgeçten geçirerek tatlılar için pürüzsüz bir ahududu sosu hazırlayın.</li>\n<li>Beyaz çikolatalı mus ya da panna cotta üzerine donuk hâlde dizin.</li>\n<li>Limonata ve buzlu çaylara ezerek renk ve aroma katın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 10 kg</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>IQF Raspberries: Practical Access to a Delicate Fruit</h2>\n<p>Because of its delicate structure, the raspberry is a difficult fruit to transport and store fresh. Coming from the same family as the blackberry, this red fruit is one of the favorite ingredients in pastry making thanks to its tangy, aromatic flavor. Tillo Kochari IQF Raspberries makes this delicate fruit convenient in the kitchen by offering it individually frozen in a 10 kg pack.</p>\n<p>The acidic, perfumed taste of raspberries strikes a lovely balance with chocolate, vanilla and dairy products. Since they break down easily when thawed, they are easy to use in sauces, purées and mousses; for decoration, placing them on the plate while still frozen helps them keep their shape. In the fruit range of Gaziantep-based Tillo Kochari, it is a product that makes life easier for patisseries.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Cook with sugar and pass through a sieve to prepare a smooth raspberry sauce for desserts.</li>\n<li>Arrange still frozen on top of white chocolate mousse or panna cotta.</li>\n<li>Crush into lemonade and iced tea to add color and aroma.</li>\n</ul>\n<p><strong>Weight:</strong> 10 kg</p>",
+    "ar": "<h2>توت العليق IQF: وصول عملي إلى فاكهة رقيقة</h2>\n<p>توت العليق فاكهة يصعب نقلها وتخزينها طازجة بسبب بنيتها الرقيقة. وتُعدّ هذه الفاكهة الحمراء، المنتمية إلى عائلة العليق الأسود نفسها، من المكوّنات المحبوبة في صناعة الحلويات بفضل مذاقها المائل إلى الحموضة ورائحتها العطرية. ويجعل توت العليق IQF من Tillo Kochari هذه الفاكهة الرقيقة سهلة الاستخدام في المطبخ، إذ يُقدَّم بحبات مجمّدة كلٌّ على حدة وفي عبوة 10 kg.</p>\n<p>يحقق مذاق توت العليق الحمضي والعطِر توازناً جميلاً مع الشوكولاتة والفانيليا ومنتجات الألبان. ولأنه يتفتت بسهولة عند إذابته، يُستخدم براحة في وصفات الصلصات والهريس والموس؛ أما للتزيين فإن وضعه على الطبق وهو مجمّد يحافظ على شكله. وهو منتج يسهّل عمل محلات الحلويات ضمن تشكيلة الفواكه لدى Tillo Kochari ومقرها غازي عنتاب.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اطهه مع السكر ومرّره عبر المصفاة لتحضير صلصة توت عليق ناعمة للحلويات.</li>\n<li>رتّبه مجمّداً فوق موس الشوكولاتة البيضاء أو البانا كوتا.</li>\n<li>اهرسه في الليموناضة والشاي المثلج لإضفاء اللون والرائحة.</li>\n</ul>\n<p><strong>الوزن:</strong> 10 kg</p>",
+    "de": "<h2>IQF Himbeeren: praktischer Zugang zu einer empfindlichen Frucht</h2>\n<p>Wegen ihrer zarten Struktur ist die Himbeere frisch nur schwer zu transportieren und zu lagern. Die rote Frucht, die zur selben Familie wie die Brombeere gehört, zählt dank ihres säuerlichen, aromatischen Geschmacks zu den beliebten Zutaten der Konditorei. Tillo Kochari IQF Himbeeren macht diese empfindliche Frucht in der Küche handhabbar, indem sie einzeln tiefgefroren in der Packung zu 10 kg angeboten wird.</p>\n<p>Der säuerliche, parfümierte Geschmack der Himbeere harmoniert wunderbar mit Schokolade, Vanille und Milchprodukten. Da sie beim Auftauen leicht zerfällt, lässt sie sich problemlos für Soßen, Pürees und Mousses verwenden; zur Dekoration behält sie ihre Form, wenn man sie gefroren auf den Teller setzt. Im Obstsortiment von Tillo Kochari mit Sitz in Gaziantep ist sie ein Produkt, das Konditoreien die Arbeit erleichtert.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Mit Zucker kochen und durch ein Sieb streichen – für eine glatte Himbeersoße zu Desserts.</li>\n<li>Gefroren auf weißer Schokoladenmousse oder Panna cotta anrichten.</li>\n<li>Zerdrückt in Limonade und Eistee geben, um Farbe und Aroma zu verleihen.</li>\n</ul>\n<p><strong>Gewicht:</strong> 10 kg</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>IQF 라즈베리: 섬세한 과일을 간편하게</h2>\n<p>라즈베리는 여린 조직 때문에 신선한 상태로 운송하고 보관하기 어려운 과일입니다. 블랙베리와 같은 계열에 속하는 이 붉은 과일은 새콤하고 향긋한 맛 덕분에 제과에서 사랑받는 재료입니다. Tillo Kochari IQF 라즈베리는 알알이 개별 냉동하여 10 kg 포장으로 제공함으로써 이 섬세한 과일을 주방에서 편리하게 쓸 수 있게 합니다.</p>\n<p>라즈베리의 산뜻하고 향기로운 맛은 초콜릿, 바닐라, 유제품과 훌륭한 균형을 이룹니다. 해동하면 쉽게 으깨지므로 소스, 퓌레, 무스 레시피에 편하게 사용할 수 있으며, 장식용으로는 언 상태로 접시에 올리면 모양이 유지됩니다. 가지안테프에 본사를 둔 Tillo Kochari의 과일 시리즈에서 제과점의 일손을 덜어 주는 제품입니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>설탕과 함께 끓인 뒤 체에 걸러 디저트용 매끄러운 라즈베리 소스를 만드세요.</li>\n<li>화이트 초콜릿 무스나 판나코타 위에 언 상태로 올리세요.</li>\n<li>레모네이드와 아이스티에 으깨 넣어 색감과 향을 더하세요.</li>\n</ul>\n<p><strong>중량:</strong> 10 kg</p>"
   },
-  "update": "2026-10-28T07:04:33.048Z",
+  "update": "2026-10-28T09:07:48.824Z",
   "date": "2026-05-20T09:54:46.055Z",
   "img": "index.webp"
 }

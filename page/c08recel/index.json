@@ -1,22 +1,30 @@
 {
   "name": {
-    "tr": "Reçel ve Marmelatlar"
+    "tr": "Kuruyemiş Grubu ve Ürünleri",
+    "en": "Nuts and Nut Products",
+    "ar": "المكسرات ومنتجاتها",
+    "de": "Nüsse und Nussprodukte",
+    "ko": "견과류 및 제품"
   },
   "status": "play",
   "category": "",
   "id": "c08recel",
   "externalUrl": "",
-  "path": "recel-ve-marmelatlar",
+  "path": "kuruyemis-grubu-ve-urunleri",
   "keyword": {
-    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Reçel ve Marmelatlar, reçel, marmelat, kayısı reçeli, ev yapımı reçel",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari, Kuruyemiş Grubu ve Ürünleri",
+    "en": "Tillo Kochari, Nuts and Nut Products",
+    "ar": "Tillo Kochari, المكسرات ومنتجاتها",
+    "de": "Tillo Kochari, Nüsse und Nussprodukte",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 견과류 및 제품"
   },
   "description": {
-    "tr": "Tillo Kochari Reçel ve Marmelatlar. Reçel ve marmelat: vişne, kayısı, çilek, portakal ve özel karışımlar. Geleneksel reçel ve marmelat çeşitleri; kahvaltı ve…"
+    "tr": "Tillo Kochari Kuruyemiş Grubu ve Ürünleri ürün grubu.",
+    "en": "Tillo Kochari Nuts and Nut Products product group.",
+    "ar": "مجموعة منتجات المكسرات ومنتجاتها من تيلو كوشاري.",
+    "de": "Tillo Kochari Produktgruppe Nüsse und Nussprodukte.",
+    "ko": "틸로 코차리 견과류 및 제품 제품군."
   },
   "index": 7,
   "icon": "category",
@@ -27,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Reçel ve Marmelatlar Ürünleri | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Kuruyemiş Grubu ve Ürünleri | Tillo Kochari",
+    "en": "Nuts and Nut Products | Tillo Kochari",
+    "ar": "المكسرات ومنتجاتها | Tillo Kochari",
+    "de": "Nüsse und Nussprodukte | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "견과류 및 제품 | Tillo Kochari"
   },
   "text": {
     "tr": "",
@@ -42,7 +50,7 @@
     "ja": "",
     "ko": ""
   },
-  "update": "2026-05-21T08:39:29.715Z",
+  "update": "2026-10-28T08:07:44.340Z",
   "date": "2026-05-20T09:54:46.206Z",
   "categorypage": "products"
 }

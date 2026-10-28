@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "Kavun Suyu"
+    "tr": "Kavun Suyu",
+    "en": "Melon Juice",
+    "ar": "عصير الشمام",
+    "de": "Melonensaft",
+    "ko": "멜론 주스"
   },
   "status": "play",
   "category": "c10meyves",
@@ -9,16 +13,20 @@
   "path": "kavun-suyu",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kavun Suyu, Meyve Suları, meyve suyu, nar suyu, doğal meyve suyu, katkısız içecek",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Melon Juice, Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, عصير الشمام, العصائر, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Melonensaft, Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연식품, 멜론 주스, 과일 주스류, 과일 주스, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
-    "tr": "Tillo Kochari Kavun Suyu: Kavun nektarı. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Kavun Suyu: Kavun nektarı. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Melon Juice is a melon nectar from our Fruit Juices range, offered in 1 L, a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari عصير الشمام: رحيق شمام من مجموعة العصائر، يُقدَّم بسعة 1 L، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Melonensaft ist ein Melonennektar aus der Gruppe Fruchtsäfte, erhältlich in 1 L – ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 멜론 주스는 과일 주스류에 속하는 멜론 넥타로, 1 L 용량으로 제공되는 가지안테프 출신의 자연식품입니다."
   },
-  "index": 80,
+  "index": 156,
   "icon": "local_bar",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Kavun Suyu | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Melon Juice | Tillo Kochari",
+    "ar": "عصير الشمام | Tillo Kochari",
+    "de": "Melonensaft | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "멜론 주스 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kavun Suyu: Kokulu Kavunun Nektar Hâli</h2>\n<p>Kavun Suyu, kavunun kendine özgü kokusunu ve yumuşak tatlılığını nektar kıvamında sunar. Hafif yoğun dokusuyla karpuz suyuna göre daha kadifemsi bir içimi vardır. Aroması ilk yudumda hissedilir; soğuk içildiğinde ferahlığı ve tatlılığı daha dengeli bir hâl alır, uzun bir günün ardından hafif bir mola sunar.</p>\n<p>Yaz akşamlarında kavunun kesildiği anın kokusunu bilenler bu içeceği hemen tanıyacaktır. Tillo Kochari, Gaziantep kökenli ürünleri arasında kavunu da şişeye taşıyor. 1 litrelik boy, kalabalık sofralar ve aile kullanımı için yeterli miktarı tek seferde sunar; misafir geldiğinde soğuk bir ikram olarak hazırda bekler.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Biraz taze zencefil rendesi ve limonla karıştırıp hafif keskin bir yaz içeceği yapın.</li>\n<li>Şeftali veya muzla blenderdan geçirerek kıvamlı bir kahvaltı içeceği elde edin.</li>\n<li>Meyve salatasının üzerine birkaç kaşık gezdirerek salataya sulu bir doku kazandırın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 1 L</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Melon Juice: Fragrant Melon in Nectar Form</h2>\n<p>Melon Juice offers the distinctive aroma and gentle sweetness of melon in a nectar consistency. With its lightly thick texture, it has a more velvety mouthfeel than watermelon juice. The aroma comes through on the first sip; served cold, its freshness and sweetness become more balanced, offering a light break after a long day.</p>\n<p>Anyone who knows the scent of a melon being cut on a summer evening will recognize this drink right away. Among its Gaziantep-rooted products, Tillo Kochari now brings melon to the bottle as well. The 1-liter size provides enough for crowded tables and family use in one go; when guests arrive, it is ready to serve as a cold treat.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Mix with a little freshly grated ginger and lemon for a lightly sharp summer drink.</li>\n<li>Blend with peach or banana for a thick breakfast drink.</li>\n<li>Drizzle a few spoonfuls over fruit salad to give it a juicy texture.</li>\n</ul>\n<p><strong>Size:</strong> 1 L</p>",
+    "ar": "<h2>عصير الشمام: رحيق الشمام العطِر</h2>\n<p>يقدّم عصير الشمام رائحة الشمام المميزة وحلاوته الناعمة بقوام الرحيق. وبفضل قوامه الكثيف قليلًا، يمنح عند شربه إحساسًا مخمليًا أكثر من عصير البطيخ. تظهر نكهته من الرشفة الأولى، وعند تقديمه باردًا تصبح انتعاشته وحلاوته أكثر توازنًا، ليمنحك استراحة خفيفة بعد يوم طويل.</p>\n<p>من يعرف رائحة الشمام لحظة تقطيعه في أمسيات الصيف سيتعرّف على هذا المشروب فورًا. وتنقل Tillo Kochari الشمام أيضًا إلى الزجاجة ضمن منتجاتها التي تعود أصولها إلى غازي عنتاب. توفّر عبوة 1 L كمية كافية للموائد العامرة وللاستخدام العائلي دفعة واحدة، وتبقى جاهزة ضيافةً باردة عند قدوم الضيوف.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>امزجه مع قليل من الزنجبيل الطازج المبشور والليمون لتحضير مشروب صيفي بلمسة لاذعة خفيفة.</li>\n<li>اخلطه في الخلاط مع الخوخ أو الموز للحصول على مشروب فطور كثيف القوام.</li>\n<li>رُشّ بضع ملاعق منه فوق سلطة الفواكه لتمنحها قوامًا عصيريًا.</li>\n</ul>\n<p><strong>الحجم:</strong> 1 L</p>",
+    "de": "<h2>Melonensaft: duftende Melone als Nektar</h2>\n<p>Melonensaft bringt das unverwechselbare Aroma und die sanfte Süße der Melone in Nektarkonsistenz ins Glas. Dank seiner leicht dickflüssigen Textur trinkt er sich samtiger als Wassermelonensaft. Das Aroma ist schon beim ersten Schluck spürbar; gekühlt getrunken wirken Frische und Süße ausgewogener – eine leichte Pause nach einem langen Tag.</p>\n<p>Wer den Duft einer frisch aufgeschnittenen Melone an einem Sommerabend kennt, wird dieses Getränk sofort wiedererkennen. Tillo Kochari bringt unter seinen Produkten aus Gaziantep nun auch die Melone in die Flasche. Die 1-Liter-Flasche bietet auf einen Schlag genug für eine große Tischrunde und den Familiengebrauch; kommen Gäste, steht sie als kühle Erfrischung bereit.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Mit etwas frisch geriebenem Ingwer und Zitrone mischen – für ein leicht pikantes Sommergetränk.</li>\n<li>Mit Pfirsich oder Banane im Mixer pürieren und so ein sämiges Frühstücksgetränk zubereiten.</li>\n<li>Ein paar Löffel über Obstsalat träufeln, um ihm eine saftige Note zu verleihen.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 1 L</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>멜론 주스: 향긋한 멜론을 넥타로</h2>\n<p>멜론 주스는 멜론 특유의 향과 부드러운 단맛을 넥타 농도로 담았습니다. 살짝 걸쭉한 질감 덕분에 수박 주스보다 한층 벨벳처럼 부드럽게 넘어갑니다. 첫 모금부터 향이 느껴지며, 차갑게 마시면 청량감과 단맛이 더욱 균형을 이루어 긴 하루 끝에 가벼운 휴식이 되어 줍니다.</p>\n<p>여름 저녁 멜론을 자르는 순간의 향을 아는 분이라면 이 음료를 곧바로 알아볼 것입니다. Tillo Kochari는 가지안테프에 뿌리를 둔 제품군에 멜론도 병에 담아 선보입니다. 1리터 용량은 여럿이 모이는 식탁과 가족용으로 한 번에 충분한 양을 제공하며, 손님이 오셨을 때 시원한 대접용으로 준비해 두기 좋습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>신선한 생강 간 것과 레몬을 조금 섞어 살짝 톡 쏘는 여름 음료를 만들어 보세요.</li>\n<li>복숭아나 바나나와 함께 블렌더에 갈아 걸쭉한 아침 음료로 즐기세요.</li>\n<li>과일 샐러드 위에 몇 스푼 뿌려 촉촉한 식감을 더해 보세요.</li>\n</ul>\n<p><strong>용량:</strong> 1 L</p>"
   },
-  "update": "2026-10-28T07:04:29.346Z",
+  "update": "2026-10-28T09:07:21.771Z",
   "date": "2026-05-20T09:54:45.510Z",
   "img": "index.webp"
 }

@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Elma Sirkesi"
+    "tr": "Elma Sirkesi",
+    "en": "Apple Cider Vinegar",
+    "ar": "خل التفاح",
+    "de": "Apfelessig",
+    "ko": "사과 식초"
   },
   "status": "play",
-  "category": "c13konserve",
+  "category": "obbkh64oa1",
   "id": "q2iuie6eue",
   "externalUrl": "",
   "path": "elma-sirkesi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Elma Sirkesi, Salça, Turşu, Meze ve Soslar, salça, turşu, mezze, domates salçası",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Apple Cider Vinegar, Pastes, Pickles, Meze and Sauces, paste, pickles, mezze, tomato paste",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, خل التفاح, معاجين, مخللات, مقبلات وصلصات, معجون, مخلل, مازة, معجون الطماطم",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Apfelessig, Pasten, Eingelegtes, Meze und Soßen, Paste, Sauergemüse, Mezze, Tomatenmark",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연식품, 사과 식초, 페이스트, 피클, 메제 및 소스, 페이스트류, 절임 식품, 메제, 토마토 페이스트"
   },
   "description": {
-    "tr": "Tillo Kochari Elma Sirkesi: Doğal elma sirkesi. Salça, Turşu, Meze ve Soslar grubunda. Sunulan gramaj: 500 ml. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Elma Sirkesi: Doğal elma sirkesi. Salça, Turşu, Meze ve Soslar grubunda. Sunulan gramaj: 500 ml. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Apple Cider Vinegar is a natural apple vinegar from the Pastes, Pickles, Meze and Sauces range, offered in 500 ml as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari خل التفاح خلٌّ طبيعي من التفاح ضمن مجموعة المعاجين والمخللات والمقبلات والصلصات، يُقدَّم بحجم 500 ml غذاءً طبيعيًا أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Apfelessig ist ein natürlicher Apfelessig aus der Gruppe Pasten, Eingelegtes, Meze und Soßen, erhältlich in 500 ml als natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 사과 식초는 페이스트, 피클, 메제 및 소스 카테고리의 천연 사과 식초로, 500 ml 용량으로 제공되는 가지안테프 태생의 자연식품입니다."
   },
-  "index": 117,
+  "index": 193,
   "icon": "lunch_dining",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Elma Sirkesi | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Apple Cider Vinegar | Tillo Kochari",
+    "ar": "خل التفاح | Tillo Kochari",
+    "de": "Apfelessig | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "사과 식초 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Elma Sirkesi: Mutfakta Her Gün Uzanılan Ekşilik</h2>\n<p>Tillo Kochari Elma Sirkesi, elmanın meyvemsi kokusunu taşıyan doğal bir elma sirkesidir. Üzüm sirkesine göre daha yumuşak ve hafif tatlımsı bir ekşiliği vardır; bu yüzden salatalarda baskın çıkmadan tadı canlandırır. Altın sarısı rengi, sos kâselerinde ve turşu kavanozlarında da hoş bir görüntü bırakır.</p>\n<p>Gaziantep mutfağında ekşi, tatlı ve acının dengesi önemlidir; sirke de bu dengenin sessiz oyuncularından biridir. Tillo Kochari elma sirkesini 500 ml'lik bir hacimle sunuyor. Salata sosundan marinasyona, ev yapımı turşudan soğuk mezelere kadar mutfağın pek çok köşesinde rahatlıkla kullanabileceğiniz bir yardımcıdır.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Zeytinyağı, hardal ve bir tutam tuzla çırparak yeşil salatalar için hafif bir sos hazırlayın.</li>\n<li>Lahana ya da salatalık turşusu kurarken suyun bir kısmını elma sirkesiyle tamamlayın.</li>\n<li>Tavuk göğsünü sarımsak ve kekikle birlikte kısa süre elma sirkesinde bekletip ızgaraya hazırlayın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 500 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Apple Cider Vinegar: The Everyday Sourness You Reach For</h2>\n<p>Tillo Kochari Apple Cider Vinegar is a natural apple vinegar that carries the fruity aroma of apples. Compared with grape vinegar, its acidity is softer and slightly sweet, so it brightens salads without overpowering them. Its golden colour also looks appealing in sauce bowls and pickle jars.</p>\n<p>In Gaziantep cuisine, the balance of sour, sweet and spicy matters, and vinegar is one of the quiet players in that balance. Tillo Kochari offers its apple cider vinegar in a 500 ml volume. From salad dressings to marinades, from homemade pickles to cold meze, it is a helper you can use with ease in many corners of the kitchen.</p>\n<h3>Usage Suggestions</h3>\n<ul>\n<li>Whisk with olive oil, mustard and a pinch of salt to make a light dressing for green salads.</li>\n<li>When making cabbage or cucumber pickles, replace part of the water with apple cider vinegar.</li>\n<li>Briefly marinate chicken breast in apple cider vinegar with garlic and thyme to prepare it for the grill.</li>\n</ul>\n<p><strong>Size:</strong> 500 ml</p>",
+    "ar": "<h2>خل التفاح: الحموضة التي تمتد إليها اليد كل يوم في المطبخ</h2>\n<p>خل التفاح من Tillo Kochari خلٌّ طبيعي من التفاح يحمل رائحة التفاح الفاكهية. وحموضته أنعم من خل العنب وفيها حلاوة خفيفة؛ لذا يُنعش طعم السلطات دون أن يطغى عليها. كما يضفي لونه الذهبي مظهرًا جميلًا في أوعية الصلصات ومرطبانات المخللات.</p>\n<p>في مطبخ غازي عنتاب يحظى التوازن بين الحامض والحلو والحار بأهمية كبيرة، والخل أحد اللاعبين الصامتين في هذا التوازن. وتقدّم Tillo Kochari خل التفاح بحجم 500 ml. إنه مساعد يمكنك استخدامه بسهولة في زوايا كثيرة من المطبخ، من صلصة السلطة إلى التتبيل، ومن المخللات المنزلية إلى المقبلات الباردة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اخفقه مع زيت الزيتون والخردل ورشة ملح لتحضير صلصة خفيفة للسلطات الخضراء.</li>\n<li>عند تخليل الملفوف أو الخيار، استبدل جزءًا من الماء بخل التفاح.</li>\n<li>انقع صدر الدجاج لفترة قصيرة في خل التفاح مع الثوم والزعتر لتجهيزه للشواء.</li>\n</ul>\n<p><strong>الحجم:</strong> 500 ml</p>",
+    "de": "<h2>Apfelessig: Die Säure, nach der man in der Küche täglich greift</h2>\n<p>Der Tillo Kochari Apfelessig ist ein natürlicher Apfelessig mit dem fruchtigen Duft von Äpfeln. Im Vergleich zu Traubenessig hat er eine mildere, leicht süßliche Säure; deshalb belebt er Salate, ohne sie zu überdecken. Seine goldgelbe Farbe macht sich auch in Soßenschälchen und Einmachgläsern gut.</p>\n<p>In der Gaziantep-Küche ist die Balance von sauer, süß und scharf wichtig, und Essig ist einer der stillen Mitspieler in diesem Gleichgewicht. Tillo Kochari bietet seinen Apfelessig in einer Füllmenge von 500 ml an. Vom Salatdressing bis zur Marinade, von selbst eingelegtem Gemüse bis zu kalten Meze ist er ein Helfer, den Sie in vielen Ecken der Küche bequem einsetzen können.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Mit Olivenöl, Senf und einer Prise Salz zu einem leichten Dressing für grüne Salate aufschlagen.</li>\n<li>Beim Einlegen von Kohl oder Gurken einen Teil des Wassers durch Apfelessig ersetzen.</li>\n<li>Hähnchenbrust mit Knoblauch und Thymian kurz in Apfelessig marinieren und für den Grill vorbereiten.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 500 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>사과 식초: 매일 손이 가는 주방의 새콤함</h2>\n<p>Tillo Kochari 사과 식초는 사과의 과일 향을 담은 천연 사과 식초입니다. 포도 식초보다 산미가 부드럽고 은은한 단맛이 있어 샐러드의 맛을 압도하지 않으면서 생기를 더합니다. 황금빛 색감은 소스 그릇과 피클 병 안에서도 보기 좋은 인상을 남깁니다.</p>\n<p>가지안테프 요리에서는 신맛, 단맛, 매운맛의 균형이 중요하며, 식초는 이 균형을 조용히 받쳐 주는 재료 중 하나입니다. Tillo Kochari는 사과 식초를 500 ml 용량으로 선보입니다. 샐러드 드레싱부터 마리네이드, 홈메이드 피클부터 차가운 메제까지 주방 곳곳에서 손쉽게 활용할 수 있는 든든한 조력자입니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>올리브유, 머스터드, 소금 한 꼬집과 함께 휘저어 그린 샐러드용 가벼운 드레싱을 만드십시오.</li>\n<li>양배추나 오이 피클을 담글 때 물의 일부를 사과 식초로 대신하십시오.</li>\n<li>닭가슴살을 마늘, 타임과 함께 사과 식초에 잠시 재워 그릴에 구울 준비를 하십시오.</li>\n</ul>\n<p><strong>용량:</strong> 500 ml</p>"
   },
-  "update": "2026-10-28T07:04:31.399Z",
+  "update": "2026-10-28T09:07:56.874Z",
   "date": "2026-05-20T09:54:45.832Z",
   "img": "index.webp"
 }

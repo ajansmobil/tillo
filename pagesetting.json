@@ -3,10 +3,10 @@
     {
       "name": {
         "tr": "Sayfalar",
-        "en": "",
-        "ar": "",
-        "de": "",
-        "ko": ""
+        "en": "Pages",
+        "ar": "الصفحات",
+        "de": "Seiten",
+        "ko": "페이지"
       },
       "path": "page",
       "desc": [],
@@ -32,29 +32,41 @@
     {
       "name": {
         "tr": "Ürünler",
-        "en": "",
-        "ar": "",
-        "de": "",
-        "ko": ""
+        "en": "Products",
+        "ar": "المنتجات",
+        "de": "Produkte",
+        "ko": "제품"
       },
       "path": "products",
       "desc": [
         {
           "path": "gramaj",
           "name": {
-            "tr": "Gramaj"
+            "tr": "Gramaj",
+            "en": "Weight",
+            "ar": "الوزن",
+            "de": "Gewicht",
+            "ko": "중량"
           }
         },
         {
           "path": "ambalaj",
           "name": {
-            "tr": "Ambalaj"
+            "tr": "Ambalaj",
+            "en": "Packaging",
+            "ar": "التغليف",
+            "de": "Verpackung",
+            "ko": "포장"
           }
         },
         {
           "path": "mensei",
           "name": {
-            "tr": "Menşei"
+            "tr": "Menşei",
+            "en": "Origin",
+            "ar": "بلد المنشأ",
+            "de": "Herkunft",
+            "ko": "원산지"
           }
         }
       ],
@@ -81,10 +93,10 @@
     {
       "name": {
         "tr": "Kurumsal",
-        "en": "",
-        "ar": "",
-        "de": "",
-        "ko": ""
+        "en": "Corporate",
+        "ar": "المؤسسة",
+        "de": "Unternehmen",
+        "ko": "회사 소개"
       },
       "path": "kurumsal",
       "desc": [],
@@ -112,10 +124,10 @@
     {
       "name": {
         "tr": "Kategoriler",
-        "en": "",
-        "ar": "",
-        "de": "",
-        "ko": ""
+        "en": "Categories",
+        "ar": "الفئات",
+        "de": "Kategorien",
+        "ko": "카테고리"
       },
       "path": "category",
       "icon": "article",

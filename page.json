@@ -5,7 +5,11 @@
   "data": [
     {
       "name": {
-        "tr": "Kurumsal"
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "ar": "المؤسسة",
+        "de": "Unternehmen",
+        "ko": "회사 소개"
       },
       "id": "yvi9dlb59o",
       "index": 0,
@@ -24,18 +28,21 @@
       },
       "pathnext": "hakkimizda",
       "description": {
-        "tr": "Tillo Kochari kurumsal bilgiler. Hakkımızda, misyon, vizyon ve kalite politikamız. Gaziantep doğal gıda üretimi."
-      },
-      "text": "<h2>Hakkımızda</h2>\n<p>Tillo Kochari; Antep fıstığı, kuru meyve, kuru sebze, hoşaf, pekmez ve doğal aromatik yağların üretiminde Gaziantep kökenli bir doğal gıda markasıdır. Fıstıklı pastalar, fıstık ezmesi, reçeller, bal ve peynir grubu başta olmak üzere 17 ürün kategorisinde 150'den fazla doğal ürün üretiyor; toptan ve özel üretim projeleriyle Türkiye geneline ulaşıyoruz.</p>\n<h2>Misyonumuz</h2>\n<p>Doğal ve sağlıklı hammaddelerden kimyasaldan uzak ürünler üretmek; çevre bilincine sahip, sürdürülebilir ve güvenilir üretim gerçekleştirmek.</p>\n<h2>Vizyonumuz</h2>\n<p>Türkiye genelinde ve uluslararası pazarda doğal gıda denince akla gelen ilk markalardan biri olmak.</p>\n<h2>Kalite Politikamız</h2>\n<p>Tüm üretim süreçlerinde gıda güvenliğini temel alıyoruz. Hammaddeden son pakete kadar izlenebilirlik sağlıyor; ürün kalitesini, müşteri memnuniyetini ve sürekli iyileştirmeyi esas alan çalışma düzenimizi her süreçte uyguluyoruz.</p>\n<h2>Gizlilik ve Kişisel Veriler</h2>\n<p>Sitemizde toplanan kişisel veriler yalnızca sipariş, iletişim ve hizmet amaçlarıyla işlenir; üçüncü kişilerle hukuki yükümlülüğümüz dışında paylaşılmaz. Ürün ve sipariş süreçlerinde tarafınızdan iletilen bilgiler KVKK kapsamında güvence altına alınır.</p>"
+        "tr": "Tillo Kochari kurumsal bilgiler. Hakkımızda, misyon, vizyon ve kalite politikamız. Gaziantep doğal gıda üretimi.",
+        "en": "Tillo Kochari corporate information: about us, mission, vision and quality policy. Natural food production in Gaziantep.",
+        "ar": "معلومات مؤسسة Tillo Kochari: من نحن، رسالتنا، رؤيتنا وسياسة الجودة. إنتاج الأغذية الطبيعية في غازي عنتاب.",
+        "de": "Unternehmensinformationen von Tillo Kochari: Über uns, Mission, Vision und Qualitätspolitik. Natürliche Lebensmittelproduktion in Gaziantep.",
+        "ko": "Tillo Kochari 회사 정보: 회사 소개, 사명, 비전, 품질 정책. 가지안테프의 천연 식품 생산."
+      }
     },
     {
       "name": {
         "tr": "Ürünler",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "en": "Products",
+        "ar": "المنتجات",
+        "de": "Produkte",
         "ja": "",
-        "ko": ""
+        "ko": "제품"
       },
       "id": "hs54qzyeyo",
       "index": 1,
@@ -53,17 +60,21 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Tillo Kochari ürün kataloğu. 17 kategoride 150+ doğal gıda: ezme, kuru meyve, reçel, pekmez, süt, IQF ve daha fazlası. Detaylı ürün listesi ve gramaj bilgile…",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "tr": "Tillo Kochari ürün kataloğu. 22 ürün grubunda 220'den fazla doğal gıda: tahıl, bakliyat, kuruyemiş, reçel, pekmez, süt ürünleri, kurutulmuş ve dondurulmuş meyve-sebze ve daha fazlası.",
+        "en": "Tillo Kochari product catalog. More than 220 natural foods in 22 product groups: grains, pulses, nuts, jams, pekmez, dairy, dried and frozen fruits and vegetables and more.",
+        "ar": "كتالوج منتجات Tillo Kochari. أكثر من 220 غذاءً طبيعياً في 22 مجموعة منتجات: الحبوب والبقوليات والمكسرات والمربيات والدبس ومنتجات الألبان والفواكه والخضروات المجففة والمجمدة وغيرها.",
+        "de": "Produktkatalog von Tillo Kochari. Über 220 natürliche Lebensmittel in 22 Produktgruppen: Getreide, Hülsenfrüchte, Nüsse, Konfitüren, Pekmez, Milchprodukte, getrocknetes und tiefgefrorenes Obst und Gemüse und mehr.",
         "ja": "",
-        "ko": ""
+        "ko": "Tillo Kochari 제품 카탈로그. 22개 제품군, 220가지 이상의 천연 식품: 곡물, 콩류, 견과류, 잼, 페크메즈, 유제품, 건조·냉동 과일과 채소 등."
       }
     },
     {
       "name": {
-        "tr": "İletişim"
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ko": "문의"
       },
       "id": "xnzu5au0ag",
       "index": 2,
@@ -82,7 +93,11 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Tillo Kochari iletişim. Toptan sipariş, bayilik ve ürün bilgisi için bize ulaşın. Gaziantep ve Türkiye geneli tedarik."
+        "tr": "Tillo Kochari iletişim. Toptan sipariş, bayilik ve ürün bilgisi için bize ulaşın. Gaziantep ve Türkiye geneli tedarik.",
+        "en": "Contact Tillo Kochari for wholesale orders, dealership and product information. Supply from Gaziantep across Turkey.",
+        "ar": "تواصل مع Tillo Kochari لطلبات الجملة والوكالات ومعلومات المنتجات. التوريد من غازي عنتاب إلى جميع أنحاء تركيا.",
+        "de": "Kontaktieren Sie Tillo Kochari für Großbestellungen, Händlerschaft und Produktinformationen. Belieferung aus Gaziantep in der ganzen Türkei.",
+        "ko": "Tillo Kochari에 도매 주문, 대리점 및 제품 정보를 문의하세요. 가지안테프에서 터키 전역으로 공급합니다."
       }
     }
   ],

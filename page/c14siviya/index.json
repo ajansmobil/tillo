@@ -1,22 +1,30 @@
 {
   "name": {
-    "tr": "Sıvı Yağlar"
+    "tr": "Dondurulmuş Meyve Grubu",
+    "en": "Frozen Fruits",
+    "ar": "الفواكه المجمدة",
+    "de": "Tiefkühl-Obst",
+    "ko": "냉동 과일"
   },
   "status": "play",
   "category": "",
   "id": "c14siviya",
   "externalUrl": "",
-  "path": "sivi-yaglar",
+  "path": "dondurulmus-meyve-grubu",
   "keyword": {
-    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Sıvı Yağlar, zeytinyağı, sızma zeytinyağı, fındık yağı, soğuk sıkım",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari, Dondurulmuş Meyve Grubu",
+    "en": "Tillo Kochari, Frozen Fruits",
+    "ar": "Tillo Kochari, الفواكه المجمدة",
+    "de": "Tillo Kochari, Tiefkühl-Obst",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 냉동 과일"
   },
   "description": {
-    "tr": "Tillo Kochari Sıvı Yağlar. Sıvı yağlar: natürel sızma zeytinyağı, fındık ve kabak çekirdeği yağı. Soğuk sıkım zeytinyağı ve bitkisel sıvı yağlar. Gaziantep m…"
+    "tr": "Tillo Kochari Dondurulmuş Meyve Grubu ürün grubu.",
+    "en": "Tillo Kochari Frozen Fruits product group.",
+    "ar": "مجموعة منتجات الفواكه المجمدة من تيلو كوشاري.",
+    "de": "Tillo Kochari Produktgruppe Tiefkühl-Obst.",
+    "ko": "틸로 코차리 냉동 과일 제품군."
   },
   "index": 13,
   "icon": "category",
@@ -27,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Sıvı Yağlar Ürünleri | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Dondurulmuş Meyve Grubu | Tillo Kochari",
+    "en": "Frozen Fruits | Tillo Kochari",
+    "ar": "الفواكه المجمدة | Tillo Kochari",
+    "de": "Tiefkühl-Obst | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "냉동 과일 | Tillo Kochari"
   },
   "text": {
     "tr": "",
@@ -42,7 +50,7 @@
     "ja": "",
     "ko": ""
   },
-  "update": "2026-05-21T08:39:29.753Z",
+  "update": "2026-10-28T08:07:44.397Z",
   "date": "2026-05-20T09:54:46.251Z",
   "categorypage": "products"
 }

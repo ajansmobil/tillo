@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Armut Cipsi"
+    "tr": "Armut Cipsi",
+    "en": "Pear Chips",
+    "ar": "رقائق الكمثرى",
+    "de": "Birnenchips",
+    "ko": "배칩"
   },
   "status": "play",
-  "category": "c06meycip",
+  "category": "c13konserve",
   "id": "xaeimuieym",
   "externalUrl": "",
   "path": "armut-cipsi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Armut Cipsi, Meyve Cipsleri, meyve cipsi, elma cipsi, kuru meyve cips, sağlıklı atıştırmalık",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Pear Chips, Fruit Chips, fruit chips, apple chips, dried fruit chips, healthy snack",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, رقائق الكمثرى, رقائق الفواكه, رقائق فواكه, رقائق التفاح, رقائق فواكه مجففة, وجبة خفيفة صحية",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Birnenchips, Fruchtchips, Obstchips, Apfelchips, getrocknete Fruchtchips, gesunder Snack",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 배칩, 과일칩, 과일 칩, 사과칩, 건과일 칩, 건강 간식"
   },
   "description": {
-    "tr": "Tillo Kochari Armut Cipsi: Doğal armut cipsi. Meyve Cipsleri grubunda. Sunulan gramaj: 80 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Armut Cipsi: Doğal armut cipsi. Meyve Cipsleri grubunda. Sunulan gramaj: 80 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Pear Chips: natural pear chips from the Fruit Chips range, offered in an 80 g pack — natural food from Gaziantep.",
+    "ar": "Tillo Kochari رقائق الكمثرى: رقائق كمثرى طبيعية ضمن فئة رقائق الفواكه، تُقدَّم بوزن 80 g، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Birnenchips: natürliche Birnenchips aus der Kategorie Fruchtchips, angeboten in 80 g – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 배칩은 자연 그대로의 배로 만든 과일칩 제품으로, 80 g 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 34,
+  "index": 110,
   "icon": "breakfast_dining",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Armut Cipsi | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Pear Chips | Tillo Kochari",
+    "ar": "رقائق الكمثرى | Tillo Kochari",
+    "de": "Birnenchips | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "배칩 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Armut Cipsi: Armudun Narin Tatlılığı Çıtır Dilimlerde</h2><p>Armut, taze hâliyle sulu ve yumuşak bir meyvedir; cips olarak hazırlandığında ise bambaşka bir karaktere bürünür. İnce dilimler çıtır bir yapı kazanırken armudun hafif çiçeksi, yumuşak tatlılığı daha belirgin hâle gelir. Dilimler tabakta da güzel bir görüntü bırakır. Elma cipsine alternatif arayanlar için iyi bir tercih.</p><p>Tillo Kochari'nin doğal armut cipsi, Gaziantep kökenli markanın meyve cipsleri grubunda yer alır. Bitki çaylarının yanında sade bir ikram, peynir tabaklarında tatlı bir eşlikçi ya da salatalarda çıtır bir katman olarak kullanılabilir. Kâseye döküp masaya bıraktığınızda gün içinde atıştırmak isteyenlere pratik bir seçenek sunar.</p><h3>Kullanım Önerileri</h3><ul><li>Rokfor ya da tulum peyniriyle birlikte küçük bir peynir tabağında sunun.</li><li>Roka, ceviz ve nar ekşili salatanın üzerine son anda ekleyerek çıtırlık katın.</li><li>Ihlamur veya adaçayı demlediğinizde yanına birkaç dilim koyarak sade bir ikram hazırlayın.</li></ul><p><strong>Gramaj:</strong> 80 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Pear Chips: The Delicate Sweetness of Pear in Crisp Slices</h2><p>Fresh pear is a juicy, soft fruit; prepared as chips, however, it takes on an entirely different character. The thin slices turn crisp, while the pear's lightly floral, mellow sweetness becomes more pronounced. The slices also look lovely on a plate. A good choice for anyone looking for an alternative to apple chips.</p><p>Tillo Kochari's natural pear chips belong to the fruit chips range of the Gaziantep-born brand. They can be served as a simple treat with herbal teas, a sweet companion on cheese boards or a crunchy layer in salads. Poured into a bowl and left on the table, they offer a practical option for anyone who wants to snack during the day.</p><h3>Serving Suggestions</h3><ul><li>Serve them on a small cheese board with Roquefort or tulum cheese.</li><li>Add them at the last moment to a salad of rocket, walnuts and pomegranate molasses for extra crunch.</li><li>When you brew linden or sage tea, set a few slices alongside for a simple treat.</li></ul><p><strong>Weight:</strong> 80 g</p>",
+    "ar": "<h2>رقائق الكمثرى: حلاوة الكمثرى الرقيقة في شرائح مقرمشة</h2><p>الكمثرى فاكهة عصيرية وطرية في حالتها الطازجة، لكنها تكتسب طابعًا مختلفًا تمامًا عند تحضيرها على شكل رقائق. فالشرائح الرفيعة تصبح مقرمشة، بينما تزداد حلاوة الكمثرى الناعمة ذات اللمسة الزهرية الخفيفة وضوحًا. كما تترك الشرائح مظهرًا جميلًا في الطبق. إنها خيار جيد لمن يبحث عن بديل لرقائق التفاح.</p><p>تنتمي رقائق الكمثرى الطبيعية من Tillo Kochari إلى فئة رقائق الفواكه لدى العلامة المنحدرة من غازي عنتاب. ويمكن تقديمها ضيافةً بسيطة مع شاي الأعشاب، أو رفيقًا حلوًا في أطباق الأجبان، أو طبقةً مقرمشة في السلطات. وعند سكبها في وعاء وتركها على المائدة، تقدّم خيارًا عمليًا لمن يرغب في تناول وجبة خفيفة خلال اليوم.</p><h3>اقتراحات للاستخدام</h3><ul><li>قدّمها في طبق أجبان صغير مع جبن الروكفور أو جبن التولوم.</li><li>أضفها في اللحظة الأخيرة فوق سلطة الجرجير والجوز ودبس الرمان لإضافة القرمشة.</li><li>عند تحضير شاي الزيزفون أو المريمية، ضع بجانبه بضع شرائح لتقديم ضيافة بسيطة.</li></ul><p><strong>الوزن:</strong> 80 g</p>",
+    "de": "<h2>Birnenchips: Die zarte Süße der Birne in knusprigen Scheiben</h2><p>Frisch ist die Birne eine saftige, weiche Frucht; als Chips zubereitet, nimmt sie jedoch einen ganz anderen Charakter an. Die dünnen Scheiben werden knusprig, während die leicht blumige, sanfte Süße der Birne deutlicher hervortritt. Auch auf dem Teller machen die Scheiben einen schönen Eindruck. Eine gute Wahl für alle, die eine Alternative zu Apfelchips suchen.</p><p>Die natürlichen Birnenchips von Tillo Kochari gehören zum Fruchtchips-Sortiment der aus Gaziantep stammenden Marke. Sie eignen sich als schlichte Beigabe zu Kräutertees, als süße Begleitung auf Käseplatten oder als knusprige Schicht in Salaten. In eine Schale gefüllt und auf den Tisch gestellt, bieten sie eine praktische Option für alle, die tagsüber naschen möchten.</p><h3>Verwendungsvorschläge</h3><ul><li>Auf einer kleinen Käseplatte mit Roquefort oder Tulum-Käse servieren.</li><li>Erst im letzten Moment über einen Salat mit Rucola, Walnüssen und Granatapfelsirup geben, um ihm Knusprigkeit zu verleihen.</li><li>Beim Aufbrühen von Linden- oder Salbeitee einige Scheiben dazulegen – für eine schlichte Beigabe.</li></ul><p><strong>Gewicht:</strong> 80 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>배칩: 바삭한 슬라이스에 담긴 배의 은은한 단맛</h2><p>배는 신선할 때 즙이 많고 부드러운 과일이지만, 칩으로 만들면 전혀 다른 개성을 띱니다. 얇은 슬라이스는 바삭해지고, 배 특유의 은은한 꽃향과 부드러운 단맛은 더욱 뚜렷해집니다. 접시에 담았을 때 보기에도 좋습니다. 사과칩의 대안을 찾는 분께 좋은 선택입니다.</p><p>Tillo Kochari의 천연 배칩은 가지안테프에 뿌리를 둔 브랜드의 과일칩 라인에 속합니다. 허브티에 곁들이는 소박한 다과로, 치즈 플래터의 달콤한 곁들임으로, 또는 샐러드의 바삭한 토핑으로 활용할 수 있습니다. 그릇에 담아 식탁에 올려 두면 하루 중 간식을 원하는 분들께 간편한 선택지가 됩니다.</p><h3>활용 제안</h3><ul><li>로크포르 치즈나 툴룸 치즈와 함께 작은 치즈 플래터로 내어 보세요.</li><li>루콜라, 호두, 석류 당밀로 만든 샐러드 위에 마지막에 올려 바삭함을 더하세요.</li><li>린덴차나 세이지차를 우릴 때 몇 조각 곁들여 소박한 다과를 준비해 보세요.</li></ul><p><strong>중량:</strong> 80 g</p>"
   },
-  "update": "2026-10-28T07:04:26.834Z",
+  "update": "2026-10-28T09:08:08.881Z",
   "date": "2026-05-20T09:54:45.129Z",
   "img": "index.webp"
 }

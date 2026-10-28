@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Badem Ezmesi (Kabuklu Öğütülmüş)"
+    "tr": "Badem Ezmesi (Kabuklu Öğütülmüş)",
+    "en": "Almond Butter (Ground with Skin)",
+    "ar": "زبدة اللوز (مطحونة بقشرها)",
+    "de": "Mandelmus (mit Haut gemahlen)",
+    "ko": "아몬드 버터 (껍질째 분쇄)"
   },
   "status": "play",
-  "category": "c03badem",
+  "category": "c06meycip",
   "id": "06aqiauque",
   "externalUrl": "",
   "path": "badem-ezmesi-kabuklu-ogutulmus",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Badem Ezmesi (Kabuklu Öğütülmüş), Badem Ezme ve Krema, badem ezmesi, badem kreması, badem ezme, doğal badem",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Almond Butter (Ground with Skin), Almond Butters & Creams, almond butter, almond cream, almond spread, natural almonds",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, زبدة اللوز (مطحونة بقشرها), زبدة وكريمة اللوز, زبدة اللوز, كريمة اللوز, معجون اللوز, لوز طبيعي",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Mandelmus (mit Haut gemahlen), Mandelmus & -creme, Mandelmus, Mandelcreme, Mandelaufstrich, naturbelassene Mandeln",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 아몬드 버터 (껍질째 분쇄), 아몬드 버터·크림, 아몬드 버터, 아몬드 크림, 아몬드 스프레드, 천연 아몬드"
   },
   "description": {
-    "tr": "Tillo Kochari Badem Ezmesi (Kabuklu Öğütülmüş): Geleneksel taş değirmen. Badem Ezme ve Krema grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Badem Ezmesi (Kabuklu Öğütülmüş): Geleneksel taş değirmen. Badem Ezme ve Krema grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Almond Butter (Ground with Skin) is made in a traditional stone mill, belongs to the Almond Butters & Creams range and is offered in 400 g as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari زبدة اللوز (مطحونة بقشرها) تُطحن في رحى حجرية تقليدية، وهي من مجموعة زبدة وكريمة اللوز، تتوفر بوزن 400 g، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Mandelmus (mit Haut gemahlen) entsteht in der traditionellen Steinmühle, gehört zur Gruppe Mandelmus & -creme und ist mit 400 g erhältlich – ein Naturprodukt aus Gaziantep.",
+    "ko": "Tillo Kochari 아몬드 버터 (껍질째 분쇄) 제품은 전통 맷돌로 갈아 만든 아몬드 버터·크림 라인 제품으로, 400 g 용량으로 제공되는 가지안테프의 천연 식품입니다."
   },
-  "index": 15,
+  "index": 91,
   "icon": "nutrition",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Badem Ezmesi (Kabuklu Öğütülmüş) | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Almond Butter (Ground with Skin) | Tillo Kochari",
+    "ar": "زبدة اللوز (مطحونة بقشرها) | Tillo Kochari",
+    "de": "Mandelmus (mit Haut gemahlen) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "아몬드 버터 (껍질째 분쇄) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Taş Değirmende Öğütülmüş Badem Ezmesi (Kabuklu Öğütülmüş)</h2><p>Bu badem ezmesinde badem kabuklu hâliyle, geleneksel taş değirmende öğütülür. Ortaya çıkan ezme, pürüzsüz kremalardan farklı olarak daha rustik bir görünüm ve karakter taşır. Tillo Kochari, Gaziantep kökenli ürünleri arasında bu kavanozla eski usul öğütmenin dokusunu bugünün sofrasına getiriyor.</p><p>Taş değirmenin bıraktığı doku, ağızda tamamen pürüzsüz olmaktan çok hafifçe hissedilen bir dolgunluktur. Bu karakter, ezmeyi köy ekmeği, tahin-pekmez tarzı kahvaltılar ve fırın tatlıları için ilgi çekici bir alternatif yapar. 400 gramlık kavanoz, geleneksel lezzetleri sofrasında tutmayı sevenlere hitap eder.</p><h3>Kullanım Önerileri</h3><ul><li>Pekmezle karıştırıp köy ekmeğine sürerek tahin-pekmeze bademli bir alternatif hazırlayın.</li><li>Kurabiye hamuruna katarak daha rustik dokulu bademli kurabiyeler pişirin.</li><li>Közlenmiş patlıcan ve yoğurtla karıştırarak bademli bir meze hazırlayın.</li></ul><p><strong>Gramaj:</strong> 400 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Stone-Ground Almond Butter (Ground with Skin)</h2><p>For this almond butter, the almonds are ground with their skins on in a traditional stone mill. Unlike smooth creams, the resulting butter has a more rustic look and character. With this jar from its Gaziantep-rooted range, Tillo Kochari brings the texture of old-style grinding to today's table.</p><p>The texture left by the stone mill is not entirely smooth in the mouth but rather a gently perceptible fullness. This character makes the butter an interesting alternative for country bread, tahini-and-pekmez (fruit molasses) style breakfasts and baked desserts. The 400 g jar appeals to those who like to keep traditional flavors on their table.</p><h3>Serving Suggestions</h3><ul><li>Mix it with pekmez and spread it on country bread for an almond alternative to tahini and pekmez.</li><li>Fold it into cookie dough to bake almond cookies with a more rustic texture.</li><li>Mix it with fire-roasted eggplant and yogurt to prepare an almond meze.</li></ul><p><strong>Weight:</strong> 400 g</p>",
+    "ar": "<h2>زبدة اللوز المطحونة بالرحى الحجرية (مطحونة بقشرها)</h2><p>في زبدة اللوز هذه، يُطحن اللوز بقشره في رحى حجرية تقليدية. وتحمل الزبدة الناتجة، خلافًا للكريمات الناعمة، مظهرًا وطابعًا ريفيًا أكثر. وبهذا البرطمان تنقل Tillo Kochari، من بين منتجاتها ذات الجذور في غازي عنتاب، قوام الطحن على الطريقة القديمة إلى مائدة اليوم.</p><p>القوام الذي تتركه الرحى الحجرية ليس نعومة تامة في الفم، بل امتلاء خفيف يمكن الإحساس به. وهذا الطابع يجعل الزبدة بديلًا لافتًا لخبز القرية ووجبات الإفطار على طريقة الطحينة بالدبس وحلويات الفرن. ويخاطب البرطمان بوزن 400 g من يحبون إبقاء النكهات التقليدية على موائدهم.</p><h3>اقتراحات الاستخدام</h3><ul><li>اخلطها مع الدبس وادهنها على خبز القرية لتحضير بديل باللوز للطحينة بالدبس.</li><li>أضفها إلى عجينة البسكويت لخبز بسكويت باللوز بقوام ريفي أكثر.</li><li>اخلطها مع الباذنجان المشوي واللبن الزبادي لتحضير مقبلات باللوز.</li></ul><p><strong>الوزن:</strong> 400 g</p>",
+    "de": "<h2>Steingemahlenes Mandelmus (mit Haut gemahlen)</h2><p>Für dieses Mandelmus werden die Mandeln mitsamt ihrer Haut in einer traditionellen Steinmühle gemahlen. Das so entstandene Mus wirkt im Unterschied zu glatten Cremes in Aussehen und Charakter rustikaler. Mit diesem Glas aus seinem in Gaziantep verwurzelten Sortiment bringt Tillo Kochari die Textur des Mahlens nach alter Art auf den heutigen Tisch.</p><p>Die Textur aus der Steinmühle ist im Mund nicht völlig glatt, sondern von einer leicht spürbaren Fülle. Dieser Charakter macht das Mus zu einer interessanten Alternative für Bauernbrot, Frühstücksvarianten im Stil von Tahin mit Pekmez (Fruchtsirup) und Ofendesserts. Das Glas mit 400 g spricht alle an, die traditionelle Geschmäcker gern auf ihrem Tisch haben.</p><h3>Verwendungsvorschläge</h3><ul><li>Verrühren Sie es mit Pekmez und streichen Sie es auf Bauernbrot – eine Mandelalternative zu Tahin mit Pekmez.</li><li>Arbeiten Sie es in Plätzchenteig ein und backen Sie Mandelplätzchen mit rustikalerer Textur.</li><li>Vermischen Sie es mit über der Flamme gerösteter Aubergine und Joghurt zu einer Vorspeise mit Mandeln.</li></ul><p><strong>Gewicht:</strong> 400 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>맷돌에 간 아몬드 버터 (껍질째 분쇄)</h2><p>이 아몬드 버터는 아몬드를 껍질째 전통 맷돌에 갈아 만듭니다. 그 결과 매끈한 크림과 달리 한층 투박한 모습과 개성을 지닌 버터가 완성됩니다. Tillo Kochari는 가지안테프에 뿌리를 둔 제품군 중 이 제품을 통해 옛 방식으로 간 질감을 오늘의 식탁으로 가져옵니다.</p><p>맷돌이 남긴 질감은 입안에서 완전히 매끄럽기보다는 은은하게 느껴지는 묵직함입니다. 이러한 개성 덕분에 시골빵, 타히니와 페크메즈(과일 당밀)를 곁들이는 스타일의 아침 식사, 오븐 디저트에 흥미로운 대안이 됩니다. 400 g 용량은 전통의 맛을 식탁에 두고 싶은 분들께 잘 맞습니다.</p><h3>활용 방법</h3><ul><li>페크메즈와 섞어 시골빵에 발라 타히니·페크메즈를 대신할 아몬드 스프레드를 만들어 보세요.</li><li>쿠키 반죽에 넣어 한층 투박한 질감의 아몬드 쿠키를 구워 보세요.</li><li>불에 구운 가지, 요거트와 섞어 아몬드 전채 요리를 만들어 보세요.</li></ul><p><strong>중량:</strong> 400 g</p>"
   },
-  "update": "2026-10-28T07:04:25.873Z",
+  "update": "2026-10-28T09:07:16.504Z",
   "date": "2026-05-20T09:54:44.971Z",
   "img": "index.webp"
 }

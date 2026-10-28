@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "IQF Çilek"
+    "tr": "IQF Çilek",
+    "en": "IQF Strawberries",
+    "ar": "فراولة IQF",
+    "de": "IQF Erdbeeren",
+    "ko": "IQF 딸기"
   },
   "status": "play",
-  "category": "c17iqfmey",
+  "category": "c14siviya",
   "id": "cu262a7mym",
   "externalUrl": "",
   "path": "iqf-cilek",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, IQF Çilek, IQF Meyveler, IQF meyve, dondurulmuş çilek, nar tanesi, orman meyvesi IQF",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, IQF Strawberries, IQF Fruits, IQF fruit, frozen strawberries, pomegranate arils, IQF forest fruits",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, فراولة IQF, فواكه IQF, فاكهة IQF, فراولة مجمدة, حبات الرمان, ثمار الغابة IQF",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, IQF Erdbeeren, IQF-Früchte, IQF Obst, tiefgefrorene Erdbeeren, Granatapfelkerne, IQF Waldfrüchte",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, IQF 딸기, IQF 과일류, IQF 과일, 냉동 딸기, 석류 알갱이, IQF 포레스트 베리"
   },
   "description": {
-    "tr": "Tillo Kochari IQF Çilek: Bütün ve dilim çilek. IQF Meyveler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari IQF Çilek: Bütün ve dilim çilek. IQF Meyveler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari IQF Strawberries: whole and sliced strawberries from the IQF Fruits range, offered in a 10 kg pack — a natural food from Gaziantep.",
+    "ar": "Tillo Kochari – فراولة IQF: فراولة كاملة ومقطّعة شرائح ضمن مجموعة الفواكه IQF، متوفرة بعبوة 10 kg، غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari IQF Erdbeeren: ganze und geschnittene Erdbeeren aus der Gruppe IQF-Früchte, erhältlich in der Packung zu 10 kg – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari IQF 딸기는 IQF 과일류 그룹의 통딸기 및 슬라이스 딸기로, 10 kg 포장으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 143,
+  "index": 219,
   "icon": "ac_unit",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "IQF Çilek | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "IQF Strawberries | Tillo Kochari",
+    "ar": "فراولة IQF | Tillo Kochari",
+    "de": "IQF Erdbeeren | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "IQF 딸기 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>IQF Çilek: Bütün ve Dilim Seçenekleriyle</h2>\n<p>Çilek, mevsimi kısa olduğu için yıl boyunca taze bulunması zor meyvelerden biridir. Tillo Kochari IQF Çilek, bütün ve dilim çileği tane tane dondurulmuş olarak sunarak bu meyveyle çalışmayı sezondan bağımsız hâle getirir. 10 kg'lık ambalajıyla pastane, kafe ve gıda üretimi yapan işletmeler için uygundur.</p>\n<p>Dondurulmuş çilek çözüldüğünde yumuşar ve suyunu bırakır; bu nedenle smoothie, sos ve pişen tatlılarda en iyi sonucu verir. Bütün çilekler blender ve kaynatılan tarifler için, dilimler ise kek ve tart dolgularında daha kullanışlıdır. Gaziantep kökenli Tillo Kochari, çileğin parlak kırmızısını her mevsim tezgâhınıza getirir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Muz ve yoğurtla blenderdan geçirerek kıvamlı bir çilekli smoothie hazırlayın.</li>\n<li>Şekerle kısık ateşte pişirip cheesecake ve waffle için çilek sosu yapın.</li>\n<li>Dilimleri kek hamuruna ya da muffin kalıplarına katarak fırınlayın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 10 kg</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>IQF Strawberries: Whole and Sliced Options</h2>\n<p>Because its season is short, the strawberry is one of the fruits that are hard to find fresh all year round. Tillo Kochari IQF Strawberries offers whole and sliced strawberries frozen piece by piece, making it possible to work with this fruit independently of the season. With its 10 kg pack, it is suitable for patisseries, cafés and food manufacturing businesses.</p>\n<p>Frozen strawberries soften and release their juice when thawed; for this reason, they give the best results in smoothies, sauces and cooked desserts. Whole strawberries are more practical for blended and simmered recipes, while slices work better as fillings for cakes and tarts. Tillo Kochari, rooted in Gaziantep, brings the bright red of strawberries to your counter in every season.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Blend with banana and yogurt for a thick strawberry smoothie.</li>\n<li>Simmer over low heat with sugar to make a strawberry sauce for cheesecake and waffles.</li>\n<li>Fold the slices into cake batter or add them to muffin tins and bake.</li>\n</ul>\n<p><strong>Weight:</strong> 10 kg</p>",
+    "ar": "<h2>فراولة IQF: خيارات كاملة ومقطّعة شرائح</h2>\n<p>الفراولة من الفواكه التي يصعب إيجادها طازجة طوال العام لقِصَر موسمها. تقدّم فراولة IQF من Tillo Kochari حبات فراولة كاملة ومقطّعة شرائح مجمّدة حبةً حبة، مما يجعل العمل بهذه الفاكهة ممكناً بمعزل عن الموسم. وبعبوتها البالغة 10 kg تناسب محلات الحلويات والمقاهي والمنشآت العاملة في التصنيع الغذائي.</p>\n<p>تلين الفراولة المجمّدة وتُطلق عصارتها عند إذابتها؛ لذا تعطي أفضل النتائج في السموذي والصلصات والحلويات المطبوخة. فالحبات الكاملة أنسب للوصفات التي تُخفق في الخلاط أو تُغلى، أما الشرائح فأكثر عملية في حشوات الكيك والتارت. وتحمل Tillo Kochari، ذات الجذور في غازي عنتاب، الأحمر الزاهي للفراولة إلى منضدتك في كل موسم.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اخفقها في الخلاط مع الموز واللبن الزبادي لتحضير سموذي فراولة كثيف القوام.</li>\n<li>اطهها مع السكر على نار هادئة لتحضير صلصة فراولة للتشيز كيك والوافل.</li>\n<li>أضف الشرائح إلى خليط الكيك أو قوالب المافن واخبزها.</li>\n</ul>\n<p><strong>الوزن:</strong> 10 kg</p>",
+    "de": "<h2>IQF Erdbeeren: ganz und in Scheiben</h2>\n<p>Da ihre Saison kurz ist, gehört die Erdbeere zu den Früchten, die frisch nur schwer das ganze Jahr über erhältlich sind. Tillo Kochari IQF Erdbeeren bietet ganze und geschnittene Erdbeeren einzeln tiefgefroren an und macht die Arbeit mit dieser Frucht so saisonunabhängig. Mit der Packung zu 10 kg eignet sich das Produkt für Konditoreien, Cafés und lebensmittelverarbeitende Betriebe.</p>\n<p>Tiefgefrorene Erdbeeren werden beim Auftauen weich und geben Saft ab; daher erzielen sie in Smoothies, Soßen und gegarten Desserts die besten Ergebnisse. Ganze Erdbeeren eignen sich besser für gemixte und gekochte Rezepte, Scheiben hingegen für Kuchen- und Tartefüllungen. Tillo Kochari mit Wurzeln in Gaziantep bringt das leuchtende Rot der Erdbeere zu jeder Jahreszeit auf Ihre Arbeitsfläche.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Mit Banane und Joghurt zu einem cremigen Erdbeer-Smoothie mixen.</li>\n<li>Mit Zucker bei schwacher Hitze zu einer Erdbeersoße für Cheesecake und Waffeln einkochen.</li>\n<li>Die Scheiben unter Kuchenteig heben oder in Muffinförmchen geben und backen.</li>\n</ul>\n<p><strong>Gewicht:</strong> 10 kg</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>IQF 딸기: 통딸기와 슬라이스, 두 가지 선택</h2>\n<p>딸기는 제철이 짧아 일 년 내내 신선한 상태로 구하기 어려운 과일 중 하나입니다. Tillo Kochari IQF 딸기는 통딸기와 슬라이스 딸기를 한 알 한 알 개별 냉동하여 제공함으로써 계절에 관계없이 이 과일을 다룰 수 있게 합니다. 10 kg 포장으로 제과점, 카페, 식품 제조 업체에 적합합니다.</p>\n<p>냉동 딸기는 해동하면 부드러워지고 즙이 나오므로 스무디, 소스, 익혀 만드는 디저트에서 가장 좋은 결과를 냅니다. 통딸기는 블렌더에 갈거나 끓이는 레시피에, 슬라이스는 케이크와 타르트 필링에 더 편리합니다. 가지안테프에 뿌리를 둔 Tillo Kochari가 딸기의 선명한 붉은빛을 사계절 내내 여러분의 조리대로 전합니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>바나나, 요거트와 함께 블렌더에 갈아 걸쭉한 딸기 스무디를 만드세요.</li>\n<li>설탕과 함께 약불에서 졸여 치즈케이크와 와플용 딸기 소스를 만드세요.</li>\n<li>슬라이스를 케이크 반죽이나 머핀 틀에 넣어 구우세요.</li>\n</ul>\n<p><strong>중량:</strong> 10 kg</p>"
   },
-  "update": "2026-10-28T07:04:32.821Z",
+  "update": "2026-10-28T09:07:37.738Z",
   "date": "2026-05-20T09:54:46.025Z",
   "img": "index.webp"
 }

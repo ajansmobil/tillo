@@ -1,0 +1,29 @@
+Tillo Kochari — Gaziantep (Şehitkamil) merkezli doğal gıda markası. Site: tillo.webyapar.com
+E-posta: info@tillo.webyapar.com | Fiyat, stok ve toptan sipariş için İletişim sayfası (path=iletisim).
+Satış: market, süpermarket ve toptan kanal; Türkiye geneli tedarik. Müşteri talebine göre özel üretim projeleri yapılır.
+Dil: Türkçe, İngilizce, Arapça, Almanca, Korece. Kurumsal sayfalar: Hakkımızda, Misyon, Vizyon, Kalite Politikamız.
+Toplam: 228 ürün, 22 ürün grubu. Katalogdaki ürünler 'path' değeriyle bağlanır.
+Kurallar: Fiyat, stok, sağlık iddiası, sertifika ya da kuruluş yılı uydurma. Bilmediğinde İletişim sayfasına yönlendir.
+Ürün grupları (path | ürün sayısı):
+- Tahıl Grubu ve Unları | path=tahil-grubu-ve-unlari | 13 ürün
+- Bakliyat Grubu ve Ürünleri | path=bakliyat-grubu-ve-urunleri | 7 ürün
+- Yağlı Tohumlar ve Ürünleri | path=yagli-tohumlar-ve-urunleri | 3 ürün
+- Makarna Grubu | path=makarna-grubu | 9 ürün
+- Salça ve Soslar | path=salca-ve-soslar | 7 ürün
+- Kahvaltılık Ürünler | path=kahvaltilik-urunler | 22 ürün
+- Süt ve Süt Ürünleri | path=sut-ve-sut-urunleri | 20 ürün
+- Kuruyemiş Grubu ve Ürünleri | path=kuruyemis-grubu-ve-urunleri | 5 ürün
+- Reçel ve Marmelatlar | path=recel-ve-marmelatlar | 11 ürün
+- Meyve Suyu Çeşitleri | path=meyve-suyu-cesitleri | 15 ürün
+- Meyve Özü Grubu | path=meyve-ozu-grubu | 8 ürün
+- Pekmez Çeşitleri, Tahin ve Helva | path=pekmez-cesitleri-tahin-ve-helva | 12 ürün
+- Kurutulmuş Meyve Grubu | path=kurutulmus-meyve-grubu | 32 ürün
+- Dondurulmuş Meyve Grubu | path=dondurulmus-meyve-grubu | 9 ürün
+- Kurutulmuş Sebze Grubu | path=kurutulmus-sebze-grubu | 9 ürün
+- Dondurulmuş Sebze Grubu | path=dondurulmus-sebze-grubu | 9 ürün
+- Unlu Mamulleri | path=unlu-mamulleri | 0 ürün (şu an ürün yok)
+- Kadayıf Çeşitleri | path=kadayif-cesitleri | 7 ürün
+- Lavaş ve Yufka Çeşitleri | path=lavas-ve-yufka-cesitleri | 2 ürün
+- Zeytin Yağı ve Avakado Yağı | path=zeytin-yagi-ve-avakado-yagi | 4 ürün
+- Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler | path=eksi-aci-ve-tatli-ozel-soslar-sirke-ve-icecekler | 15 ürün
+- Tıbbi Aromatik Bitkiler ve Yağları | path=tibbi-aromatik-bitkiler-ve-yaglari | 9 ürün

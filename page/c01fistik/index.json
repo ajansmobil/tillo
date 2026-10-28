@@ -1,32 +1,32 @@
 {
   "name": {
-    "tr": "Antep Fıstığı Ezme ve Krema",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tahıl Grubu ve Unları",
+    "en": "Cereals and Flours",
+    "ar": "الحبوب والدقيق",
+    "de": "Getreide und Mehle",
     "ja": "",
-    "ko": ""
+    "ko": "곡물 및 밀가루"
   },
   "status": "play",
   "category": "",
   "id": "c01fistik",
   "externalUrl": "",
-  "path": "antep-fistigi-ezme-ve-krema",
+  "path": "tahil-grubu-ve-unlari",
   "keyword": {
-    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Antep Fıstığı Ezme ve Krema, antep fıstığı ezmesi, fıstık kreması, gaziantep fıstık, fıstık ezmesi",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari, Tahıl Grubu ve Unları",
+    "en": "Tillo Kochari, Cereals and Flours",
+    "ar": "Tillo Kochari, الحبوب والدقيق",
+    "de": "Tillo Kochari, Getreide und Mehle",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 곡물 및 밀가루"
   },
   "description": {
-    "tr": "Tillo Kochari Antep Fıstığı Ezme ve Krema. Antep fıstığı ezme ve krema: kavrulmuş, doğal ve kremamsı çeşitler. Gaziantep menşeli Antep fıstığından üretilen e…",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari Tahıl Grubu ve Unları ürün grubu.",
+    "en": "Tillo Kochari Cereals and Flours product group.",
+    "ar": "مجموعة منتجات الحبوب والدقيق من تيلو كوشاري.",
+    "de": "Tillo Kochari Produktgruppe Getreide und Mehle.",
     "ja": "",
-    "ko": ""
+    "ko": "틸로 코차리 곡물 및 밀가루 제품군."
   },
   "index": 0,
   "icon": "category",
@@ -37,12 +37,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Antep Fıstığı Ezme ve Krema Ürünleri | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tahıl Grubu ve Unları | Tillo Kochari",
+    "en": "Cereals and Flours | Tillo Kochari",
+    "ar": "الحبوب والدقيق | Tillo Kochari",
+    "de": "Getreide und Mehle | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "곡물 및 밀가루 | Tillo Kochari"
   },
   "text": {
     "tr": "",
@@ -52,7 +52,7 @@
     "ja": "",
     "ko": ""
   },
-  "update": "2026-05-21T08:39:29.673Z",
+  "update": "2026-10-28T08:07:44.267Z",
   "date": "2026-05-20T09:54:46.151Z",
   "categorypage": "products",
   "slider": [],

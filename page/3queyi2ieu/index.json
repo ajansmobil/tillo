@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Çökelek"
+    "tr": "Çökelek",
+    "en": "Çökelek (Dry Curd Cheese)",
+    "ar": "تشوكلك (جبن قريش جاف)",
+    "de": "Çökelek (trockener Quarkkäse)",
+    "ko": "최켈렉(건조 커드 치즈)"
   },
   "status": "play",
-  "category": "c12sut",
+  "category": "c07kuruseb",
   "id": "3queyi2ieu",
   "externalUrl": "",
   "path": "cokelek",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Çökelek, Süt ve Süt Ürünleri, süt ürünleri, kaşar peynir, beyaz peynir, tereyağı",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Çökelek, Milk and Dairy Products, dairy products, kashar cheese, white cheese, butter",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, تشوكلك, الحليب ومشتقاته, منتجات الألبان, جبن قشقوان, جبن أبيض, زبدة",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Çökelek, Milch und Milchprodukte, Milchprodukte, Kaschar-Käse, Weißkäse, Butter",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 최켈렉, 우유 및 유제품, 유제품, 카샤르 치즈, 화이트 치즈, 버터"
   },
   "description": {
-    "tr": "Tillo Kochari Çökelek: Geleneksel çökelek. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Çökelek: Geleneksel çökelek. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Çökelek is a traditional dry curd cheese from the Milk and Dairy Products range, offered in 400 g – a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari تشوكلك: جبن قريش جاف تقليدي من فئة الحليب ومشتقاته، متوفر بوزن 400 g، وهو غذاء طبيعي ذو أصول من غازي عنتاب.",
+    "de": "Tillo Kochari Çökelek ist ein traditioneller trockener Quarkkäse aus der Kategorie Milch und Milchprodukte, erhältlich in 400 g – ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 최켈렉은 우유 및 유제품 카테고리의 전통 건조 커드 치즈로, 400 g 용량으로 제공되는 가지안테프 기반의 자연 식품입니다."
   },
-  "index": 108,
+  "index": 184,
   "icon": "egg",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Çökelek | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Çökelek (Dry Curd Cheese) | Tillo Kochari",
+    "ar": "تشوكلك (جبن قريش جاف) | Tillo Kochari",
+    "de": "Çökelek (trockener Quarkkäse) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "최켈렉(건조 커드 치즈) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Köy Sofralarından Tanıdık Bir Tat: Tillo Kochari Çökelek</h2><p>Çökelek, kuru ve taneli dokusuyla Anadolu mutfağının geleneksel peynirlerinden biridir. Elde ufalandığında kolayca dağılır, tadı hafif ekşimsi ve sadedir. Tillo Kochari'nin 400 gramlık çökeleği, Gaziantep çevresinde kuşaktan kuşağa sürdürülen sade sofra kültürünü hatırlatan bir ürün olarak raflarda yerini alıyor.</p><p>Çökeleğin asıl yeri sıcak hamur işleridir. Biber salçası, maydanoz ve soğanla yoğrularak dürüm, gözleme veya pide içine konur; tereyağında hafifçe kavrulduğunda ise kahvaltıya pratik bir sıcak tabak çıkar. Kuru kıvamı nedeniyle diğer peynirlerden farklı olarak ekmeğe sürülmekten çok ufalanarak kullanılır.</p><h3>Kullanım Önerileri</h3><ul><li>Biber salçası, soğan ve maydanozla yoğurup sıcak lavaş içinde dürüm yapın.</li><li>Tereyağında yumurtayla birlikte kavurarak sıcak bir kahvaltılık hazırlayın.</li><li>Gözleme veya bazlama hamurunun içine serpip sacda pişirin.</li></ul><p><strong>Gramaj:</strong> 400 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>A Familiar Taste from Village Tables: Tillo Kochari Çökelek</h2><p>Çökelek is one of the traditional cheeses of Anatolian cuisine, known for its dry, granular texture. It crumbles easily by hand and has a mildly tangy, simple taste. Tillo Kochari's 400 g çökelek takes its place on the shelves as a product that recalls the simple table culture passed down from generation to generation around Gaziantep.</p><p>Çökelek truly belongs in warm pastries. Kneaded with pepper paste, parsley and onion, it goes into wraps, stuffed griddle flatbreads or oven-baked flatbreads; lightly sautéed in butter, it makes a quick warm breakfast dish. Because of its dry consistency, unlike other cheeses, it is used crumbled rather than spread on bread.</p><h3>Serving Suggestions</h3><ul><li>Knead with pepper paste, onion and parsley and roll in warm lavash for a wrap.</li><li>Sauté with eggs in butter for a warm breakfast dish.</li><li>Sprinkle into stuffed or thick flatbread dough and cook on a griddle.</li></ul><p><strong>Weight:</strong> 400 g</p>",
+    "ar": "<h2>طعم مألوف من موائد القرى: تشوكلك Tillo Kochari</h2><p>التشوكلك من الأجبان التقليدية في المطبخ الأناضولي، ويتميّز بقوامه الجاف المحبّب. يتفتّت بسهولة باليد، ومذاقه بسيط مائل قليلًا إلى الحموضة. ويأخذ تشوكلك Tillo Kochari بوزن 400 g مكانه على الرفوف منتجًا يستحضر ثقافة المائدة البسيطة المتوارثة جيلًا بعد جيل في محيط غازي عنتاب.</p><p>المكان الحقيقي للتشوكلك هو المعجنات الساخنة. يُعجن مع معجون الفلفل والبقدونس والبصل ويوضع حشوةً في لفائف الخبز أو الفطائر المحشوة على الصاج أو الخبز المسطّح المخبوز في الفرن، وعند تحميصه قليلًا في الزبدة يصبح طبقًا ساخنًا عمليًا للفطور. وبسبب قوامه الجاف، يُستخدم مفتّتًا لا مدهونًا على الخبز، خلافًا للأجبان الأخرى.</p><h3>اقتراحات الاستخدام</h3><ul><li>اعجنه مع معجون الفلفل والبصل والبقدونس ولفّه في خبز اللافاش الساخن.</li><li>حمّصه مع البيض في الزبدة لتحضير طبق فطور ساخن.</li><li>انثره داخل عجين الفطائر المحشوة أو الخبز السميك واخبزه على الصاج.</li></ul><p><strong>الوزن:</strong> 400 g</p>",
+    "de": "<h2>Ein vertrauter Geschmack von ländlichen Tafeln: Tillo Kochari Çökelek</h2><p>Çökelek ist mit seiner trockenen, körnigen Textur einer der traditionellen Käse der anatolischen Küche. Er zerbröselt leicht zwischen den Fingern und schmeckt mild säuerlich und schlicht. Der 400-g-Çökelek von Tillo Kochari findet seinen Platz im Regal als Produkt, das an die schlichte, über Generationen weitergegebene Tischkultur rund um Gaziantep erinnert.</p><p>Sein eigentlicher Platz sind warme Teiggerichte. Mit Paprikamark, Petersilie und Zwiebeln verknetet, kommt er als Füllung in Wraps, gefüllte Pfannenfladen oder Ofenfladenbrote; leicht in Butter angebraten, wird er zum schnellen warmen Frühstücksgericht. Wegen seiner trockenen Konsistenz wird er – anders als andere Käsesorten – eher zerbröselt verwendet als aufs Brot gestrichen.</p><h3>Serviervorschläge</h3><ul><li>Mit Paprikamark, Zwiebeln und Petersilie verkneten und in warmes Lavash-Brot wickeln.</li><li>Mit Eiern in Butter anbraten – für ein warmes Frühstücksgericht.</li><li>In den Teig gefüllter oder dicker Fladenbrote streuen und auf der Eisenplatte backen.</li></ul><p><strong>Gewicht:</strong> 400 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>시골 식탁의 익숙한 맛, Tillo Kochari 최켈렉</h2><p>최켈렉은 건조하고 알갱이진 질감을 지닌 아나톨리아 요리의 전통 치즈 중 하나입니다. 손으로 부수면 쉽게 흩어지며, 은은한 산미가 있는 담백한 맛입니다. Tillo Kochari의 400 g 최켈렉은 가지안테프 일대에서 대대로 이어져 온 소박한 식탁 문화를 떠올리게 하는 제품입니다.</p><p>최켈렉이 가장 빛나는 곳은 따뜻한 반죽 요리입니다. 고추 페이스트, 파슬리, 양파와 함께 버무려 랩, 속을 채운 철판 플랫브레드, 오븐에 구운 플랫브레드의 속으로 쓰며, 버터에 살짝 볶으면 간편한 따뜻한 아침 요리가 됩니다. 건조한 질감 때문에 다른 치즈와 달리 빵에 바르기보다는 부숴서 사용합니다.</p><h3>활용 제안</h3><ul><li>고추 페이스트, 양파, 파슬리와 함께 버무려 따뜻한 라바시에 말아 랩을 만듭니다.</li><li>버터에 달걀과 함께 볶아 따뜻한 아침 요리를 만듭니다.</li><li>속을 채우는 플랫브레드나 두툼한 빵 반죽 안에 뿌려 넣고 철판에 굽습니다.</li></ul><p><strong>중량:</strong> 400 g</p>"
   },
-  "update": "2026-10-28T07:04:30.874Z",
+  "update": "2026-10-28T09:07:22.323Z",
   "date": "2026-05-20T09:54:45.745Z",
   "img": "index.webp"
 }

@@ -2,10 +2,18 @@
   "order": false,
   "user": false,
   "description": {
-    "tr": "Tillo Kochari — Gaziantep merkezli doğal gıda üreticisi. Antep fıstığı ezme, kurutulmuş meyve-sebze, reçel, pekmez, süt ürünleri, IQF ve aromatik yağlar. Top…"
+    "tr": "Tillo Kochari — Gaziantep merkezli doğal gıda üreticisi. 22 ürün grubunda tahıl, bakliyat, kuruyemiş, reçel, pekmez, süt ürünleri, kurutulmuş ve dondurulmuş meyve-sebze, zeytin yağı ve aromatik bitkiler.",
+    "en": "Tillo Kochari — a Gaziantep-based natural food producer offering grains, pulses, nuts, jams, pekmez (fruit molasses), dairy products, dried and frozen fruits and vegetables, olive oil and aromatic herbs across 22 product groups.",
+    "ar": "Tillo Kochari — منتج للأغذية الطبيعية مقره غازي عنتاب، يقدم ضمن 22 مجموعة منتجات الحبوب والبقوليات والمكسرات والمربيات والدبس ومنتجات الألبان والفواكه والخضروات المجففة والمجمدة وزيت الزيتون والأعشاب العطرية.",
+    "de": "Tillo Kochari — ein in Gaziantep ansässiger Hersteller natürlicher Lebensmittel mit Getreide, Hülsenfrüchten, Nüssen, Konfitüren, Pekmez (Fruchtsirup), Milchprodukten, getrocknetem und tiefgefrorenem Obst und Gemüse, Olivenöl und aromatischen Kräutern in 22 Produktgruppen.",
+    "ko": "Tillo Kochari — 가지안테프에 본사를 둔 천연 식품 제조업체로, 22개 제품군에 걸쳐 곡물, 콩류, 견과류, 잼, 페크메즈(과일 당밀), 유제품, 건조 및 냉동 과일·채소, 올리브 오일, 아로마 허브를 생산합니다."
   },
   "keyword": {
-    "tr": "Tillo Kochari, Gaziantep, doğal gıda, tillo kochari gıda, gaziantep gıda üreticisi, kurutulmuş meyve toptan, antep fıstığı ezmesi, doğal reçel pekmez, IQF meyve sebze, süt ürünleri, zeytinyağı"
+    "tr": "Tillo Kochari, Gaziantep, doğal gıda, tillo kochari gıda, gaziantep gıda üreticisi, kurutulmuş meyve toptan, antep fıstığı ezmesi, doğal reçel pekmez, IQF meyve sebze, süt ürünleri, zeytinyağı",
+    "en": "Tillo Kochari, Gaziantep, natural food, Tillo Kochari food, Gaziantep food producer, wholesale dried fruit, Antep pistachio paste, natural jam and pekmez, IQF fruits and vegetables, dairy products, olive oil",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, أغذية Tillo Kochari, منتج أغذية في غازي عنتاب, فواكه مجففة بالجملة, معجون الفستق العنتابي, مربى ودبس طبيعي, فواكه وخضروات مجمدة سريعًا, منتجات الألبان, زيت الزيتون",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Tillo Kochari Lebensmittel, Lebensmittelhersteller Gaziantep, Trockenfrüchte Großhandel, Antep-Pistazienmus, natürliche Konfitüre und Pekmez, IQF-Obst und -Gemüse, Milchprodukte, Olivenöl",
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, Tillo Kochari 식품, 가지안테프 식품 제조업체, 건과일 도매, 안테프 피스타치오 페이스트, 천연 잼 페크메즈, IQF 과일 채소, 유제품, 올리브 오일"
   },
   "category": "Kurumsal",
   "name": "Tillo Kochari",

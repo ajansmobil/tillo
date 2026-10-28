@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Keten Tohumu Yağı"
+    "tr": "Keten Tohumu Yağı",
+    "en": "Flaxseed Oil",
+    "ar": "زيت بذور الكتان",
+    "de": "Leinöl",
+    "ko": "아마씨 오일"
   },
   "status": "play",
-  "category": "c15aromya",
+  "category": "zsyqc5i9oe",
   "id": "26me2626i2",
   "externalUrl": "",
   "path": "keten-tohumu-yagi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Keten Tohumu Yağı, Tıbbi Aromatik Yağlar, bıttım yağı, çörek otu yağı, aromatik yağ, tıbbi yağ",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Flaxseed Oil, Medicinal Aromatic Oils, terebinth oil, black seed oil, aromatic oil, medicinal oil",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, زيت بذور الكتان, الزيوت العطرية الطبية, زيت البطم, زيت الحبة السوداء, زيت عطري, زيت طبي",
+    "de": "Tillo Kochari, Gaziantep, Naturlebensmittel, Leinöl, Medizinisch-aromatische Öle, Terpentinpistazienöl, Schwarzkümmelöl, Aromaöl, Heilöl",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 아마씨 오일, 약용 아로마 오일, 테레빈스 열매 오일, 블랙시드 오일, 아로마 오일, 약용 오일"
   },
   "description": {
-    "tr": "Tillo Kochari Keten Tohumu Yağı: Omega-3 kaynağı. Tıbbi Aromatik Yağlar grubunda. Sunulan gramaj: 250 ml. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Keten Tohumu Yağı: Omega-3 kaynağı. Tıbbi Aromatik Yağlar grubunda. Sunulan gramaj: 250 ml. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Flaxseed Oil is a source of omega-3 from the Medicinal Aromatic Oils range, offered in 250 ml as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari زيت بذور الكتان: مصدر لأوميغا 3 ضمن مجموعة الزيوت العطرية الطبية، يُقدَّم بعبوة 250 ml، وهو غذاء طبيعي من أصل غازي عنتاب.",
+    "de": "Tillo Kochari Leinöl ist eine Omega-3-Quelle aus der Gruppe der medizinisch-aromatischen Öle, erhältlich in 250 ml – ein Naturlebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 아마씨 오일은 약용 아로마 오일 군에 속하는 오메가-3 공급원으로, 250 ml 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 133,
+  "index": 209,
   "icon": "science",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Keten Tohumu Yağı | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Flaxseed Oil | Tillo Kochari",
+    "ar": "زيت بذور الكتان | Tillo Kochari",
+    "de": "Leinöl | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "아마씨 오일 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Keten Tohumu Yağı: Küçük Tohumdan Altın Rengi Bir Yağ</h2>\n<p>Keten tohumu yağı, keten bitkisinin minik kahverengi tohumlarından elde edilen, altın sarısı renkte bir yağdır. Hafif fındıksı, kendine has otsu bir tadı vardır. Tillo Kochari bu ürünü tıbbi aromatik yağlar grubunda, 250 ml'lik pratik bir hacimle sunuyor; omega-3 kaynağı olarak bilinen tohumun yağını mutfağınıza taşıyor.</p>\n<p>Bu yağ genellikle ısıtılmadan, soğuk tabaklarda tercih edilir. Salataların, yoğurtlu mezelerin ya da kahvaltı kâselerinin üzerine birkaç damla gezdirmek tadını hissettirmeye yeter. Gaziantep merkezli Tillo Kochari'nin doğal ürün yelpazesinde yer alan keten tohumu yağını açtıktan sonra serin ve ışık almayan bir yerde saklamak, tadını korumanıza yardımcı olur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Çoban salatası ya da roka salatasının sosuna bir tatlı kaşığı ekleyin.</li>\n<li>Süzme yoğurt, bal ve cevizle hazırladığınız kahvaltı kâsesine birkaç damla gezdirin.</li>\n<li>Humus veya fava gibi mezelerin üzerine ince bir çizgi hâlinde dökün.</li>\n</ul>\n<p><strong>Gramaj:</strong> 250 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Flaxseed Oil: A Golden Oil from a Tiny Seed</h2>\n<p>Flaxseed oil is a golden-yellow oil obtained from the tiny brown seeds of the flax plant. It has a slightly nutty, distinctive herbaceous taste. Tillo Kochari offers this product in the medicinal aromatic oils range in a practical 250 ml volume, bringing to your kitchen the oil of a seed known as a source of omega-3.</p>\n<p>This oil is usually preferred unheated, in cold dishes. Drizzling a few drops over salads, yoghurt-based mezze or breakfast bowls is enough to let its taste come through. Storing the flaxseed oil from the natural product range of Gaziantep-based Tillo Kochari in a cool, dark place after opening helps you preserve its taste.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Add a dessert spoon to the dressing of a shepherd's salad or rocket salad.</li>\n<li>Drizzle a few drops over a breakfast bowl made with strained yoghurt, honey and walnuts.</li>\n<li>Pour a thin line over mezze such as hummus or fava bean purée.</li>\n</ul>\n<p><strong>Pack Size:</strong> 250 ml</p>",
+    "ar": "<h2>زيت بذور الكتان: زيت ذهبي من بذرة صغيرة</h2>\n<p>زيت بذور الكتان زيتٌ ذهبي مصفرّ يُستخلص من البذور البنية الصغيرة لنبات الكتان. وله مذاق عشبي مميّز يميل قليلًا إلى طعم المكسرات. وتقدّم Tillo Kochari هذا المنتج ضمن مجموعة الزيوت العطرية الطبية بعبوة عملية سعتها 250 ml، فتنقل إلى مطبخك زيت بذرة معروفة بأنها مصدر لأوميغا 3.</p>\n<p>يُفضَّل هذا الزيت عادةً دون تسخين في الأطباق الباردة. ويكفي رشّ بضع قطرات فوق السلطات أو المقبلات بالزبادي أو أوعية الفطور لتذوّق نكهته. ويساعدك حفظ زيت بذور الكتان، الذي يندرج ضمن تشكيلة المنتجات الطبيعية من Tillo Kochari ومقرّها غازي عنتاب، في مكان بارد بعيد عن الضوء بعد فتحه على الحفاظ على مذاقه.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>أضف ملعقة حلوى إلى صلصة سلطة الراعي أو سلطة الجرجير.</li>\n<li>رُشَّ بضع قطرات فوق وعاء الفطور المحضّر من الزبادي المصفّى والعسل والجوز.</li>\n<li>اسكبه في خط رفيع فوق مقبلات مثل الحمص أو هريس الفول.</li>\n</ul>\n<p><strong>العبوة:</strong> 250 ml</p>",
+    "de": "<h2>Leinöl: Ein goldenes Öl aus einem winzigen Samen</h2>\n<p>Leinöl ist ein goldgelbes Öl, das aus den winzigen braunen Samen der Leinpflanze gewonnen wird. Es hat einen leicht nussigen, eigenständig krautigen Geschmack. Tillo Kochari bietet dieses Produkt in der Gruppe der medizinisch-aromatischen Öle in einem praktischen Volumen von 250 ml an und bringt so das Öl eines als Omega-3-Quelle bekannten Samens in Ihre Küche.</p>\n<p>Dieses Öl wird meist unerhitzt in kalten Gerichten verwendet. Ein paar Tropfen über Salate, Mezze mit Joghurt oder Frühstücksbowls genügen, um seinen Geschmack zur Geltung zu bringen. Bewahren Sie das Leinöl aus dem Naturproduktsortiment des in Gaziantep ansässigen Unternehmens Tillo Kochari nach dem Öffnen kühl und lichtgeschützt auf, so bleibt sein Geschmack besser erhalten.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Einen Dessertlöffel zum Dressing eines Hirtensalats oder Rucolasalats geben.</li>\n<li>Ein paar Tropfen über eine Frühstücksbowl aus Abtropfjoghurt, Honig und Walnüssen träufeln.</li>\n<li>In einer dünnen Linie über Mezze wie Hummus oder Ackerbohnenpüree gießen.</li>\n</ul>\n<p><strong>Packungsgröße:</strong> 250 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>아마씨 오일: 작은 씨앗에서 얻은 황금빛 오일</h2>\n<p>아마씨 오일은 아마의 작은 갈색 씨앗에서 얻은 황금빛 노란색 오일입니다. 은은한 견과류 풍미와 독특한 허브 향의 맛을 지니고 있습니다. Tillo Kochari는 이 제품을 약용 아로마 오일 군에서 250 ml의 실용적인 용량으로 선보이며, 오메가-3 공급원으로 알려진 씨앗의 오일을 여러분의 주방으로 전합니다.</p>\n<p>이 오일은 보통 가열하지 않고 차가운 요리에 사용합니다. 샐러드, 요거트를 곁들인 메제, 아침 식사 볼 위에 몇 방울만 둘러도 그 맛을 충분히 느낄 수 있습니다. 가지안테프에 본사를 둔 Tillo Kochari의 천연 제품 라인업에 속한 아마씨 오일은 개봉 후 서늘하고 빛이 들지 않는 곳에 보관하면 맛을 유지하는 데 도움이 됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>목동 샐러드나 루콜라 샐러드의 드레싱에 디저트 스푼 하나 분량을 더합니다.</li>\n<li>그릭 요거트, 꿀, 호두로 만든 아침 식사 볼 위에 몇 방울 둘러 줍니다.</li>\n<li>후무스나 잠두콩 퓌레 같은 메제 위에 가는 선을 그리듯 붓습니다.</li>\n</ul>\n<p><strong>규격:</strong> 250 ml</p>"
   },
-  "update": "2026-10-28T07:04:32.297Z",
+  "update": "2026-10-28T09:07:19.921Z",
   "date": "2026-05-20T09:54:45.948Z",
   "img": "index.webp"
 }

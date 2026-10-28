@@ -1,0 +1,57 @@
+{
+  "id": "7fxt00my4a",
+  "name": {
+    "tr": "Karacadağ Pirinci",
+    "en": "Karacadağ Rice",
+    "ar": "أرز كاراجاداغ",
+    "de": "Karacadağ-Reis",
+    "ko": "카라자다 쌀"
+  },
+  "description": {
+    "tr": "Tillo Kochari Karacadağ Pirinci, Tahıl Grubu ve Unları grubunda. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Karacadağ Rice, from the Grains and Flours range: a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari – أرز كاراجاداغ من مجموعة الحبوب ودقيقها، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Karacadağ-Reis aus der Gruppe Getreide und Mehle – ein natürliches Lebensmittel mit Ursprung in Gaziantep.",
+    "ko": "Tillo Kochari 카라자다 쌀은 곡물 및 곡물가루 제품군에 속하는, 가지안테프에 뿌리를 둔 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Karacadağ Pirinci, Tahıl Grubu ve Unları",
+    "en": "Tillo Kochari, Gaziantep, natural food, Karacadağ Rice, Grains and Flours",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, أرز كاراجاداغ, الحبوب ودقيقها",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Karacadağ-Reis, Getreide und Mehle",
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 카라자다 쌀, 곡물 및 곡물가루"
+  },
+  "path": "karacadag-pirinci",
+  "icon": "breakfast_dining",
+  "category": "c01fistik",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 69,
+  "url": "",
+  "text": {
+    "tr": "<h2>Karacadağ Pirinci ile Sofraya Yerel Bir Tane</h2>\n<p>Karacadağ Pirinci, yüzyıllardır aynı tohumla üretilen yerel bir pirinçtir. Pişirildiğinde taneleri dolgun ve yumuşak olur, kendine has hafif bir aroması sofraya yayılır. Nişastasını yavaşça bırakan taneler birbirine hafifçe tutunur; bu da onu hem sulu yemeklerin yanında hem de kendi başına keyifle yenen bir pilavlık yapar.</p>\n<p>Tillo Kochari raflarında bu pirinci, yöresel lezzetleri mutfağında yaşatmak isteyenler için bulunduruyoruz. Pişirmeden önce birkaç kez yıkayıp bir süre ılık suda bekletmek, tanelerin eşit pişmesine yardımcı olur. Tereyağında çevrilip sıcak suyla demlendiğinde en sade pilav bile sofranın baş köşesine yerleşir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Tereyağında kavurup tavuk suyuyla demlediğiniz sade bir pilav hazırlayın.</li>\n<li>Etli biber dolması ve yaprak sarmanın iç harcında kullanın.</li>\n<li>Ağır ateşte sütle pişirerek kıvamlı bir sütlaç ya da fırın sütlacı yapın.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>A Local Grain for the Table with Karacadağ Rice</h2>\n<p>Karacadağ Rice is a local rice that has been grown from the same seed for centuries. When cooked, its grains become plump and soft, and its distinctive, delicate aroma spreads across the table. The grains release their starch slowly and cling together slightly, making it a pilaf rice that goes well alongside saucy dishes and is also a pleasure on its own.</p>\n<p>We keep this rice on the Tillo Kochari shelves for those who want to keep regional flavors alive in their kitchen. Rinsing it several times before cooking and letting it rest in lukewarm water for a while helps the grains cook evenly. Stirred in butter and steamed with hot water, even the simplest pilaf takes pride of place on the table.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Prepare a plain pilaf by toasting it in butter and steaming it with chicken stock.</li>\n<li>Use it in the filling of meat-stuffed peppers and stuffed vine leaves.</li>\n<li>Cook it slowly with milk over low heat to make a creamy rice pudding or baked rice pudding.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various weights, on request.</p>",
+    "ar": "<h2>حبة محلية على المائدة مع أرز كاراجاداغ</h2>\n<p>أرز كاراجاداغ أرز محلي يُزرع من البذرة نفسها منذ قرون. تصبح حباته عند الطهي ممتلئة وطرية، وتنتشر رائحته الخفيفة المميزة على المائدة. تُطلق الحبات نشاها ببطء فتتماسك قليلًا فيما بينها، مما يجعله أرزًا مناسبًا للطهي يُقدَّم بجانب الأطباق ذات المرق ويُستمتع به وحده أيضًا.</p>\n<p>نوفر هذا الأرز على رفوف Tillo Kochari لمن يرغبون في إحياء النكهات المحلية في مطابخهم. غسله عدة مرات قبل الطهي ونقعه لبعض الوقت في ماء فاتر يساعدان الحبات على النضج بالتساوي. وحين يُقلَّب بالزبدة ويُترك ليتشرب الماء الساخن، يحتل حتى أبسط طبق أرز صدارة المائدة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>حضّر أرزًا سادة بتحميصه بالزبدة وتركه يتشرب مرق الدجاج.</li>\n<li>استخدمه في حشوة الفلفل المحشو باللحم وورق العنب الملفوف.</li>\n<li>اطهه ببطء مع الحليب على نار هادئة لتحضير أرز بالحليب كثيف القوام أو أرز بالحليب في الفرن.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Ein regionales Korn für den Tisch: Karacadağ-Reis</h2>\n<p>Karacadağ-Reis ist ein regionaler Reis, der seit Jahrhunderten aus demselben Saatgut angebaut wird. Gegart werden seine Körner voll und weich, und sein eigenes, feines Aroma breitet sich am Tisch aus. Die Körner geben ihre Stärke langsam ab und haften leicht aneinander; das macht ihn zu einem Pilaw-Reis, der sowohl als Beilage zu Gerichten mit Sauce als auch pur ein Genuss ist.</p>\n<p>Wir führen diesen Reis bei Tillo Kochari für alle, die regionale Aromen in ihrer Küche lebendig halten möchten. Mehrmaliges Waschen vor dem Kochen und kurzes Einweichen in lauwarmem Wasser helfen den Körnern, gleichmäßig zu garen. In Butter geschwenkt und mit heißem Wasser gedämpft, wird selbst der einfachste Pilaw zum Mittelpunkt der Tafel.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Bereiten Sie einen schlichten Pilaw zu, indem Sie den Reis in Butter anrösten und mit Hühnerbrühe garen.</li>\n<li>Verwenden Sie ihn für die Füllung von mit Fleisch gefüllten Paprika und gefüllten Weinblättern.</li>\n<li>Garen Sie ihn langsam bei schwacher Hitze in Milch für einen cremigen Milchreis oder einen überbackenen Milchreis.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Gewichtsgrößen, auf Anfrage erhältlich.</p>",
+    "ko": "<h2>카라자다 쌀로 식탁에 올리는 지역의 곡물</h2>\n<p>카라자다 쌀은 수백 년 동안 같은 종자로 재배되어 온 토종 쌀입니다. 밥을 지으면 알갱이가 통통하고 부드러워지며, 고유의 은은한 향이 식탁에 퍼집니다. 전분을 천천히 내보내는 알갱이가 서로 살짝 붙어, 국물 있는 요리에 곁들이기에도, 그 자체로 즐기기에도 좋은 필라프용 쌀입니다.</p>\n<p>Tillo Kochari는 지역의 맛을 주방에서 이어 가고 싶은 분들을 위해 이 쌀을 갖추고 있습니다. 조리 전에 여러 번 씻은 뒤 미지근한 물에 잠시 담가 두면 알갱이가 고르게 익는 데 도움이 됩니다. 버터에 볶은 뒤 뜨거운 물을 부어 뜸을 들이면 가장 소박한 필라프도 식탁의 주인공이 됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>버터에 볶은 뒤 닭 육수로 뜸을 들여 담백한 필라프를 만들어 보세요.</li>\n<li>고기를 채운 피망 돌마와 포도잎 사르마의 속 재료로 사용해 보세요.</li>\n<li>약한 불에서 우유와 함께 천천히 끓여 걸쭉한 쌀 푸딩이나 오븐 쌀 푸딩을 만들어 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+  },
+  "title": {
+    "tr": "Karacadağ Pirinci | Tillo Kochari",
+    "en": "Karacadağ Rice | Tillo Kochari",
+    "ar": "أرز كاراجاداغ | Tillo Kochari",
+    "de": "Karacadağ-Reis | Tillo Kochari",
+    "ko": "카라자다 쌀 | Tillo Kochari"
+  },
+  "date": "2026-10-28T08:16:20.469Z",
+  "update": "2026-10-28T09:07:29.999Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,32 +1,32 @@
 {
   "name": {
-    "tr": "Kurutulmuş Meyveler",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Salça ve Soslar",
+    "en": "Pastes and Sauces",
+    "ar": "المعجونات والصلصات",
+    "de": "Pasten und Saucen",
     "ja": "",
-    "ko": ""
+    "ko": "페이스트 및 소스"
   },
   "status": "play",
   "category": "",
   "id": "c05kurumey",
   "externalUrl": "",
-  "path": "kurutulmus-meyveler",
+  "path": "salca-ve-soslar",
   "keyword": {
-    "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kurutulmuş Meyveler, kurutulmuş meyve, kuru kayısı, kuru incir, gün kurusu, kuru üzüm",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari, Salça ve Soslar",
+    "en": "Tillo Kochari, Pastes and Sauces",
+    "ar": "Tillo Kochari, المعجونات والصلصات",
+    "de": "Tillo Kochari, Pasten und Saucen",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 페이스트 및 소스"
   },
   "description": {
-    "tr": "Tillo Kochari Kurutulmuş Meyveler. Kurutulmuş meyveler: kayısı, incir, hurma, orman meyveleri karışımı. Güneş ve fırın kurutma ile korunan doğal kurutulmuş m…",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari Salça ve Soslar ürün grubu.",
+    "en": "Tillo Kochari Pastes and Sauces product group.",
+    "ar": "مجموعة منتجات المعجونات والصلصات من تيلو كوشاري.",
+    "de": "Tillo Kochari Produktgruppe Pasten und Saucen.",
     "ja": "",
-    "ko": ""
+    "ko": "틸로 코차리 페이스트 및 소스 제품군."
   },
   "index": 4,
   "icon": "category",
@@ -37,12 +37,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Kurutulmuş Meyveler Ürünleri | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Salça ve Soslar | Tillo Kochari",
+    "en": "Pastes and Sauces | Tillo Kochari",
+    "ar": "المعجونات والصلصات | Tillo Kochari",
+    "de": "Pasten und Saucen | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "페이스트 및 소스 | Tillo Kochari"
   },
   "text": {
     "tr": "",
@@ -52,7 +52,7 @@
     "ja": "",
     "ko": ""
   },
-  "update": "2026-05-21T08:39:29.697Z",
+  "update": "2026-10-28T08:07:44.306Z",
   "date": "2026-05-20T09:54:46.182Z",
   "categorypage": "products",
   "slider": []

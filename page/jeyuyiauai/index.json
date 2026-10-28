@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Keçiboynuzu Pekmezi"
+    "tr": "Keçiboynuzu Pekmezi",
+    "en": "Carob Pekmez (Carob Molasses)",
+    "ar": "دبس الخروب",
+    "de": "Johannisbrot-Pekmez (Johannisbrotsirup)",
+    "ko": "캐럽 페크메즈(캐럽 당밀)"
   },
   "status": "play",
-  "category": "c11pekmez",
+  "category": "c12sut",
   "id": "jeyuyiauai",
   "externalUrl": "",
   "path": "keciboynuzu-pekmezi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Keçiboynuzu Pekmezi, Pekmez ve Şuruplar, pekmez, üzüm pekmezi, meyve şurubu",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Carob Pekmez, Pekmez & Syrups, pekmez, grape pekmez, fruit syrup",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, دبس الخروب, الدبس والشراب, دبس, دبس العنب, شراب فواكه",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Johannisbrot-Pekmez, Pekmez & Sirupe, Pekmez, Trauben-Pekmez, Fruchtsirup",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연식품, 캐럽 페크메즈, 페크메즈 및 시럽, 페크메즈, 포도 페크메즈, 과일 시럽"
   },
   "description": {
-    "tr": "Tillo Kochari Keçiboynuzu Pekmezi: Geven pekmezi. Pekmez ve Şuruplar grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Keçiboynuzu Pekmezi: Geven pekmezi. Pekmez ve Şuruplar grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Carob Pekmez is a carob molasses from our Pekmez & Syrups range, offered in 400 g, a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari دبس الخروب: دبس خروب ضمن مجموعة الدبس والشراب، يُقدَّم بوزن 400 g، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Johannisbrot-Pekmez ist ein Johannisbrotsirup aus der Gruppe Pekmez & Sirupe, erhältlich in 400 g – ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 캐럽 페크메즈는 페크메즈 및 시럽류에 속하는 캐럽 당밀로, 400 g 중량으로 제공되는 가지안테프 출신의 자연식품입니다."
   },
-  "index": 88,
+  "index": 164,
   "icon": "water_drop",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Keçiboynuzu Pekmezi | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Carob Pekmez (Carob Molasses) | Tillo Kochari",
+    "ar": "دبس الخروب | Tillo Kochari",
+    "de": "Johannisbrot-Pekmez (Johannisbrotsirup) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "캐럽 페크메즈(캐럽 당밀) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Keçiboynuzu Pekmezi ile Kakaoyu Anımsatan Koyu Bir Tat</h2>\n<p>Keçiboynuzu Pekmezi, keçiboynuzu meyvesinden hazırlanan, siyaha yakın renkli ve koyu kıvamlı bir pekmezdir. Tadı tatlı olmakla birlikte hafif buruk ve kakaoyu andıran notalar taşır; bu yönüyle üzüm ve dut pekmezinden belirgin şekilde ayrılır. Yoğun aromalı tatları sevenlerin özellikle dikkatini çeker.</p>\n<p>Tillo Kochari, Gaziantep kökenli pekmez çeşitleri arasında keçiboynuzuna ayrı bir yer veriyor. 400 gramlık kavanoz, bu karakterli tadı hem tanımak hem de düzenli kullanmak isteyenler için uygundur. Çikolatamsı derinliği sayesinde mutfakta beklenmedik tariflerde de kullanılabilen, denemeye açık bir üründür.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Fındık ezmesiyle karıştırıp kahvaltıda kakaolu kremlere alternatif bir sürülebilir hazırlayın.</li>\n<li>Brownie veya kakaolu kek hamuruna ekleyerek çikolata tadını derinleştirin.</li>\n<li>Sıcak süte bir kaşık karıştırarak kakaoyu anımsatan bir kış içeceği yapın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 400 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>A Dark, Cocoa-Like Taste with Carob Pekmez</h2>\n<p>Carob Pekmez is a thick, near-black pekmez made from carob pods. While sweet, it carries slightly astringent, cocoa-like notes; in this respect it clearly differs from grape and mulberry pekmez. It especially appeals to those who love intensely aromatic flavors.</p>\n<p>Among its Gaziantep-rooted pekmez varieties, Tillo Kochari gives carob a special place. The 400-gram jar suits both those who want to get to know this characterful taste and those who want to use it regularly. Thanks to its chocolate-like depth, it is a product open to experimentation that can also be used in unexpected recipes in the kitchen.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Mix with hazelnut butter to make a breakfast spread that is an alternative to cocoa creams.</li>\n<li>Add to brownie or cocoa cake batter to deepen the chocolate flavor.</li>\n<li>Stir a spoonful into hot milk for a cocoa-like winter drink.</li>\n</ul>\n<p><strong>Size:</strong> 400 g</p>",
+    "ar": "<h2>دبس الخروب: طعم داكن يذكّر بالكاكاو</h2>\n<p>دبس الخروب دبس كثيف القوام بلون يقارب الأسود، يُحضَّر من ثمار الخروب. ومع أن طعمه حلو، فإنه يحمل نغمات قابضة خفيفة تشبه الكاكاو، وبذلك يختلف بوضوح عن دبس العنب ودبس التوت. ويجذب بشكل خاص انتباه محبي النكهات المركّزة.</p>\n<p>تخصّص Tillo Kochari للخروب مكانة خاصة بين أنواع الدبس التي تعود أصولها إلى غازي عنتاب. ويناسب مرطبان 400 g من يريدون التعرّف على هذا الطعم المميز ومن يرغبون في استخدامه بانتظام. وبفضل عمقه الشبيه بالشوكولاتة، فهو منتج منفتح على التجريب يمكن استخدامه في وصفات غير متوقعة في المطبخ.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>امزجه مع زبدة البندق لتحضير دهن للفطور بديل عن كريمات الكاكاو.</li>\n<li>أضفه إلى خليط البراونيز أو كيك الكاكاو لتعميق نكهة الشوكولاتة.</li>\n<li>قلّب ملعقة منه في الحليب الساخن لتحضير مشروب شتوي يذكّر بالكاكاو.</li>\n</ul>\n<p><strong>الوزن:</strong> 400 g</p>",
+    "de": "<h2>Johannisbrot-Pekmez: ein dunkler Geschmack, der an Kakao erinnert</h2>\n<p>Johannisbrot-Pekmez ist ein fast schwarzer, dickflüssiger Pekmez aus Johannisbrotschoten. Er ist süß, trägt aber leicht herbe, an Kakao erinnernde Noten in sich und unterscheidet sich damit deutlich von Trauben- und Maulbeer-Pekmez. Besonders Liebhaber intensiver Aromen kommen hier auf ihre Kosten.</p>\n<p>Unter seinen Pekmez-Sorten mit Wurzeln in Gaziantep räumt Tillo Kochari dem Johannisbrot einen besonderen Platz ein. Das 400-Gramm-Glas eignet sich sowohl zum Kennenlernen dieses charaktervollen Geschmacks als auch für die regelmäßige Verwendung. Dank seiner schokoladigen Tiefe ist er ein Produkt zum Experimentieren, das sich auch in unerwarteten Rezepten einsetzen lässt.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Mit Haselnussmus verrühren und so einen Frühstücksaufstrich als Alternative zu Kakaocremes zubereiten.</li>\n<li>Dem Teig für Brownies oder Schokoladenkuchen beigeben, um den Schokoladengeschmack zu vertiefen.</li>\n<li>Einen Löffel in heiße Milch rühren – für ein Wintergetränk, das an Kakao erinnert.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 400 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>캐럽 페크메즈로 즐기는 코코아를 닮은 진한 맛</h2>\n<p>캐럽 페크메즈는 캐럽 열매로 만든, 검은색에 가까운 빛깔과 진한 농도의 페크메즈입니다. 단맛이 있으면서도 살짝 떫고 코코아를 연상시키는 풍미를 지녀 포도 페크메즈나 오디 페크메즈와 뚜렷이 구별됩니다. 향이 진한 맛을 좋아하는 분들의 관심을 특히 끕니다.</p>\n<p>Tillo Kochari는 가지안테프에 뿌리를 둔 페크메즈 종류 가운데 캐럽에 특별한 자리를 내어 줍니다. 400 g 병은 이 개성 있는 맛을 처음 알아보려는 분과 꾸준히 사용하려는 분 모두에게 알맞습니다. 초콜릿 같은 깊은 맛 덕분에 주방에서 뜻밖의 레시피에도 활용할 수 있는, 다양한 시도에 열려 있는 제품입니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>헤이즐넛 버터와 섞어 코코아 크림 대신 쓸 수 있는 아침용 스프레드를 만들어 보세요.</li>\n<li>브라우니나 코코아 케이크 반죽에 넣어 초콜릿 맛을 한층 깊게 해 보세요.</li>\n<li>따뜻한 우유에 한 숟가락 저어 코코아를 닮은 겨울 음료를 만들어 보세요.</li>\n</ul>\n<p><strong>중량:</strong> 400 g</p>"
   },
-  "update": "2026-10-28T07:04:29.776Z",
+  "update": "2026-10-28T09:07:47.599Z",
   "date": "2026-05-20T09:54:45.579Z",
   "img": "index.webp"
 }

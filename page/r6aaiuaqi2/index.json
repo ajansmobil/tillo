@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Portakal Cipsi"
+    "tr": "Portakal Cipsi",
+    "en": "Orange Chips",
+    "ar": "رقائق البرتقال",
+    "de": "Orangenchips",
+    "ko": "오렌지칩"
   },
   "status": "play",
-  "category": "c06meycip",
+  "category": "c13konserve",
   "id": "r6aaiuaqi2",
   "externalUrl": "",
   "path": "portakal-cipsi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Portakal Cipsi, Meyve Cipsleri, meyve cipsi, elma cipsi, kuru meyve cips, sağlıklı atıştırmalık",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Orange Chips, Fruit Chips, fruit chips, apple chips, dried fruit chips, healthy snack",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, رقائق البرتقال, رقائق الفواكه, رقائق فواكه, رقائق التفاح, رقائق فواكه مجففة, وجبة خفيفة صحية",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Orangenchips, Fruchtchips, Obstchips, Apfelchips, getrocknete Fruchtchips, gesunder Snack",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 오렌지칩, 과일칩, 과일 칩, 사과칩, 건과일 칩, 건강 간식"
   },
   "description": {
-    "tr": "Tillo Kochari Portakal Cipsi: Kabuklu portakal dilim. Meyve Cipsleri grubunda. Sunulan gramaj: 70 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Portakal Cipsi: Kabuklu portakal dilim. Meyve Cipsleri grubunda. Sunulan gramaj: 70 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Orange Chips: orange slices with the peel on from the Fruit Chips range, offered in a 70 g pack — natural food from Gaziantep.",
+    "ar": "Tillo Kochari رقائق البرتقال: شرائح برتقال بقشرها ضمن فئة رقائق الفواكه، تُقدَّم بوزن 70 g، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Orangenchips: Orangenscheiben mit Schale aus der Kategorie Fruchtchips, angeboten in 70 g – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 오렌지칩은 껍질째 썬 오렌지 슬라이스로 만든 과일칩 제품으로, 70 g 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 36,
+  "index": 112,
   "icon": "breakfast_dining",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Portakal Cipsi | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Orange Chips | Tillo Kochari",
+    "ar": "رقائق البرتقال | Tillo Kochari",
+    "de": "Orangenchips | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "오렌지칩 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Portakal Cipsi: Kabuğuyla Birlikte Narenciye Dilimleri</h2><p>Portakal cipsi, meyvenin kabuğuyla birlikte dilimlenmiş hâlidir; bu yüzden her dilimde hem iç kısmın ekşi-tatlı tadı hem de kabuğun hafif acımsı, aromatik notası bulunur. Yuvarlak ve yarı saydam görünümüyle göze de hitap eder. Doğrudan atıştırılabildiği gibi içeceklere ve tatlılara narenciye kokusu katmak için de kullanılır.</p><p>Tillo Kochari'nin portakal cipsi, Gaziantep'ten mutfağınıza hem lezzet hem de dekor malzemesi olarak geliyor. Kış aylarında sıcak içeceklerde, bayram ve özel gün sofralarında tatlı süslemelerinde, hatta çam dalı ve tarçın çubuklarıyla hazırlanan masa düzenlemelerinde kendine yer bulur. Kuru ve serin bir ortamda saklanması önerilir.</p><h3>Kullanım Önerileri</h3><ul><li>Isıttığınız tarçınlı elma suyuna ya da siyah çaya bir dilim bırakarak narenciye aroması katın.</li><li>Bitter çikolatayı eritip dilimlerin yarısını batırarak şık bir ikramlık hazırlayın.</li><li>Kek ve pastaların üzerine bütün dilimler hâlinde dizerek doğal bir süsleme yapın.</li></ul><p><strong>Gramaj:</strong> 70 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Orange Chips: Citrus Slices with the Peel On</h2><p>Orange chips are the fruit sliced together with its peel, so every slice carries both the sweet-and-sour taste of the flesh and the slightly bitter, aromatic note of the peel. Their round, translucent look also appeals to the eye. They can be eaten straight as a snack and are also used to add a citrus fragrance to drinks and desserts.</p><p>Tillo Kochari's orange chips come from Gaziantep to your kitchen as both a flavour and a decorative ingredient. They find their place in hot drinks during the winter months, in dessert decorations for holiday and special-occasion tables, and even in table arrangements made with pine branches and cinnamon sticks. Storage in a dry, cool place is recommended.</p><h3>Serving Suggestions</h3><ul><li>Drop a slice into warmed cinnamon apple juice or black tea to add a citrus aroma.</li><li>Melt dark chocolate and dip half of each slice for an elegant treat.</li><li>Arrange whole slices on cakes and gateaux for a natural decoration.</li></ul><p><strong>Weight:</strong> 70 g</p>",
+    "ar": "<h2>رقائق البرتقال: شرائح حمضيات مع قشرها</h2><p>رقائق البرتقال هي الفاكهة مقطّعة إلى شرائح مع قشرها؛ ولذلك تجمع كل شريحة بين الطعم الحامض الحلو للُّب واللمسة العطرية المائلة إلى المرارة الخفيفة للقشر. كما تلفت النظر بمظهرها الدائري شبه الشفاف. ويمكن تناولها مباشرة كوجبة خفيفة، كما تُستخدم لإضفاء رائحة الحمضيات على المشروبات والحلويات.</p><p>تصل رقائق البرتقال من Tillo Kochari من غازي عنتاب إلى مطبخك نكهةً ومادةً للتزيين في آن واحد. وتجد مكانها في المشروبات الساخنة خلال أشهر الشتاء، وفي تزيين الحلويات على موائد الأعياد والمناسبات الخاصة، بل وحتى في تنسيقات المائدة المُعدّة بأغصان الصنوبر وأعواد القرفة. ويُنصح بحفظها في مكان جاف وبارد.</p><h3>اقتراحات للاستخدام</h3><ul><li>ضع شريحة في عصير التفاح الدافئ بالقرفة أو في الشاي الأسود لإضافة نكهة الحمضيات.</li><li>أذِب الشوكولاتة الداكنة واغمس نصف كل شريحة فيها لتحضير ضيافة أنيقة.</li><li>رتّب الشرائح كاملة فوق الكعك والتورتات لتزيين طبيعي.</li></ul><p><strong>الوزن:</strong> 70 g</p>",
+    "de": "<h2>Orangenchips: Zitrusscheiben mit Schale</h2><p>Orangenchips sind mitsamt der Schale in Scheiben geschnittene Orangen; daher vereint jede Scheibe den süßsauren Geschmack des Fruchtfleischs mit der leicht bitteren, aromatischen Note der Schale. Mit ihrem runden, halbtransparenten Aussehen sind sie auch ein Blickfang. Sie können direkt geknabbert werden und dienen außerdem dazu, Getränken und Desserts einen Zitrusduft zu verleihen.</p><p>Die Orangenchips von Tillo Kochari kommen aus Gaziantep als Geschmacks- und Dekorationszutat zugleich in Ihre Küche. Sie finden ihren Platz in heißen Getränken während der Wintermonate, bei der Dessertdekoration für Fest- und Feiertagstafeln und sogar in Tischarrangements mit Kiefernzweigen und Zimtstangen. Eine trockene, kühle Lagerung wird empfohlen.</p><h3>Verwendungsvorschläge</h3><ul><li>Eine Scheibe in erwärmten Apfelsaft mit Zimt oder in Schwarztee geben und so ein Zitrusaroma hinzufügen.</li><li>Zartbitterschokolade schmelzen und die Scheiben zur Hälfte eintauchen – eine elegante Nascherei.</li><li>Ganze Scheiben auf Kuchen und Torten legen und so natürlich dekorieren.</li></ul><p><strong>Gewicht:</strong> 70 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>오렌지칩: 껍질째 즐기는 시트러스 슬라이스</h2><p>오렌지칩은 오렌지를 껍질째 썰어 만든 것으로, 슬라이스마다 과육의 새콤달콤한 맛과 껍질의 은은하게 쌉싸름하고 향긋한 풍미가 함께 담겨 있습니다. 둥글고 반투명한 모습으로 눈길도 사로잡습니다. 그대로 간식으로 즐길 수 있으며, 음료와 디저트에 시트러스 향을 더하는 데에도 사용됩니다.</p><p>Tillo Kochari의 오렌지칩은 맛과 장식 재료를 겸하여 가지안테프에서 여러분의 주방으로 찾아갑니다. 겨울철 따뜻한 음료에, 명절과 특별한 날 식탁의 디저트 장식에, 나아가 소나무 가지와 시나몬 스틱으로 꾸민 테이블 장식에도 잘 어울립니다. 건조하고 서늘한 곳에 보관하는 것을 권장합니다.</p><h3>활용 제안</h3><ul><li>데운 시나몬 사과주스나 홍차에 한 조각 넣어 시트러스 향을 더해 보세요.</li><li>다크 초콜릿을 녹여 슬라이스의 절반을 담가 세련된 다과를 만들어 보세요.</li><li>케이크와 파이 위에 통 슬라이스를 올려 자연스럽게 장식하세요.</li></ul><p><strong>중량:</strong> 70 g</p>"
   },
-  "update": "2026-10-28T07:04:26.968Z",
+  "update": "2026-10-28T09:07:59.068Z",
   "date": "2026-05-20T09:54:45.144Z",
   "img": "index.webp"
 }

@@ -1,11 +1,10 @@
 {
   "name": {
     "tr": "Kalite Politikamız",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Our Quality Policy",
+    "ar": "سياسة الجودة لدينا",
+    "de": "Unsere Qualitätspolitik",
+    "ko": "품질 방침"
   },
   "status": "play",
   "id": "kalitepolitikamiz",
@@ -13,11 +12,11 @@
   "category": "",
   "text": {
     "tr": "<h2 style=\"font-size: 24px;\">Kalite Politikamız</h2>\n    <p style=\" font-size: 16px;\">\n        Hammaddenin seçiminden son paketlemeye ve dağıtıma kadar tüm süreçlerde gıda güvenliği en önceliğimizdir. Ürün kalitesini, müşteri memnuniyetini ve sürekli iyileştirmeyi çalışma düzenimizin temel ilkeleri olarak benimsiyor; izlenebilirliği her adımda garanti eden, standartlardan ödün vermeyen bir üretim düzeni uyguluyoruz.\n    </p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2 style=\"font-size: 24px;\">Our Quality Policy</h2>\n    <p style=\" font-size: 16px;\">\n        Food safety is our top priority in every process, from the selection of raw materials to final packaging and distribution. We embrace product quality, customer satisfaction and continuous improvement as the core principles of our way of working, and we apply an uncompromising production system that guarantees traceability at every step.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">سياسة الجودة لدينا</h2>\n    <p style=\" font-size: 16px;\">\n        سلامة الغذاء هي أولويتنا القصوى في جميع العمليات، بدءًا من اختيار المواد الخام وصولًا إلى التعبئة النهائية والتوزيع. ونتبنى جودة المنتج ورضا العملاء والتحسين المستمر مبادئ أساسية لأسلوب عملنا، ونطبق نظام إنتاج لا يتهاون في المعايير ويضمن إمكانية التتبع في كل خطوة.\n    </p>",
+    "de": "<h2 style=\"font-size: 24px;\">Unsere Qualitätspolitik</h2>\n    <p style=\" font-size: 16px;\">\n        Lebensmittelsicherheit hat in allen Prozessen – von der Auswahl der Rohstoffe bis zur Endverpackung und zum Vertrieb – für uns höchste Priorität. Produktqualität, Kundenzufriedenheit und kontinuierliche Verbesserung sind die Grundprinzipien unserer Arbeitsweise; wir setzen auf eine Produktion ohne Kompromisse bei den Standards, die die Rückverfolgbarkeit in jedem Schritt gewährleistet.\n    </p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2 style=\"font-size: 24px;\">당사의 품질 방침</h2>\n    <p style=\" font-size: 16px;\">\n        원료 선정부터 최종 포장과 유통에 이르는 모든 공정에서 식품 안전은 당사의 최우선 과제입니다. 제품 품질, 고객 만족, 지속적인 개선을 업무 방식의 핵심 원칙으로 삼고 있으며, 모든 단계에서 이력 추적을 보장하고 기준에 타협하지 않는 생산 체계를 운영합니다.\n    </p>"
   },
   "desing": {
     "header": [],
@@ -29,28 +28,27 @@
   "icon": "home",
   "title": {
     "tr": "Kalite Politikamız | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Our Quality Policy | Tillo Kochari",
+    "ar": "سياسة الجودة لدينا | Tillo Kochari",
+    "de": "Unsere Qualitätspolitik | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "품질 방침 | Tillo Kochari"
   },
   "description": {
     "tr": "Tillo Kochari kalite politikası. Gıda güvenliği, izlenebilirlik ve sürekli iyileştirme taahhüdümüz.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Tillo Kochari quality policy: our commitment to food safety, traceability and continuous improvement.",
+    "ar": "Tillo Kochari – سياسة الجودة: التزامنا بسلامة الغذاء وإمكانية التتبع والتحسين المستمر.",
+    "de": "Tillo Kochari – Qualitätspolitik: unser Bekenntnis zu Lebensmittelsicherheit, Rückverfolgbarkeit und kontinuierlicher Verbesserung.",
+    "ko": "Tillo Kochari 품질 방침은 식품 안전, 이력 추적, 지속적인 개선에 대한 당사의 약속입니다."
   },
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, kalite politikası, gıda güvenliği, HACCP, ISO gıda",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, quality policy, food safety, HACCP, ISO food standards",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, سياسة الجودة, سلامة الغذاء, الهاسب, معايير الأيزو للأغذية",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Qualitätspolitik, Lebensmittelsicherheit, HACCP, ISO-Lebensmittelnormen",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 품질 방침, 식품 안전, HACCP, ISO 식품 표준"
   },
-  "update": "2026-05-21T08:39:29.643Z",
+  "update": "2026-10-28T09:07:48.311Z",
   "date": "2026-05-19"
 }

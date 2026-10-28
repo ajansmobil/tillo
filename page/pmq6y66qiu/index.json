@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Cennet Hurması (Kuru)"
+    "tr": "Cennet Hurması (Kuru)",
+    "en": "Persimmon (Dried)",
+    "ar": "الكاكي (مجفف)",
+    "de": "Kaki (getrocknet)",
+    "ko": "곶감 (말린 감)"
   },
   "status": "play",
-  "category": "c05kurumey",
+  "category": "c13konserve",
   "id": "pmq6y66qiu",
   "externalUrl": "",
   "path": "cennet-hurmasi-kuru",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Cennet Hurması (Kuru), Kurutulmuş Meyveler, kurutulmuş meyve, kuru kayısı, kuru incir, gün kurusu",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Persimmon (Dried), Dried Fruits, dried fruit, dried apricots, dried figs, sun-dried",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, الكاكي (مجفف), الفواكه المجففة, فاكهة مجففة, مشمش مجفف, تين مجفف, مجفف بالشمس",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Kaki (getrocknet), Trockenfrüchte, Trockenobst, getrocknete Aprikosen, getrocknete Feigen, sonnengetrocknet",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 곶감 (말린 감), 건과일, 말린 과일, 말린 살구, 말린 무화과, 햇볕 건조"
   },
   "description": {
-    "tr": "Tillo Kochari Cennet Hurması (Kuru): Özel seçim hurma. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 300 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Cennet Hurması (Kuru): Özel seçim hurma. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 300 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Persimmon (Dried): specially selected persimmons from the Dried Fruits range, offered in 300 g – a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari – الكاكي (مجفف) من ثمار منتقاة بعناية ضمن مجموعة الفواكه المجففة، متوفر بوزن 300 g، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Kaki (getrocknet): speziell ausgewählte Kakis aus der Gruppe Trockenfrüchte, erhältlich in 300 g – ein natürliches Lebensmittel mit Ursprung in Gaziantep.",
+    "ko": "Tillo Kochari 곶감 (말린 감)은 특별히 엄선한 감으로 건과일군에 속하며, 300 g으로 제공되는 가지안테프에 뿌리를 둔 천연 식품입니다."
   },
-  "index": 30,
+  "index": 106,
   "icon": "spa",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Cennet Hurması (Kuru) | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Persimmon (Dried) | Tillo Kochari",
+    "ar": "الكاكي (مجفف) | Tillo Kochari",
+    "de": "Kaki (getrocknet) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "곶감 (말린 감) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Cennet Hurması (Kuru): Turuncu Rengiyle Yumuşak Bir Tatlılık</h2><p>Cennet hurması, sonbaharın turuncu meyvesi olarak bilinir; kurutulduğunda tadı daha da yoğunlaşır. Bu ürün, özel olarak seçilmiş meyvelerden oluşuyor. Dokusu hafif sıkı ve çiğnemelik, tadı ise bal ile kayısı arasında gezinen yumuşak bir tatlılıkta. Taze meyvenin mevsimi kısa olduğundan kurutulmuş hâli bu lezzete yıl boyunca ulaşmayı sağlar.</p><p>Gaziantep'ten Tillo Kochari imzasıyla gelen kuru cennet hurması, alışılmış kuru meyvelerin dışına çıkmak isteyenler için ilginç bir seçenek. Peynir tabaklarında, çay saatlerinde ya da doğranıp tatlılara katıldığında kendine özgü rengiyle sofrada hemen fark edilir. Misafir ikramlarında da sohbet başlatan bir tabak olabilir.</p><h3>Kullanım Önerileri</h3><ul><li>İnce şeritler hâlinde doğrayıp roka ve ceviz salatasına ekleyin.</li><li>Olgun kaşar ve ceviz içiyle birlikte bir peynir tabağında sunun.</li><li>Doğrayıp sütlaç ya da muhallebinin üzerine serperek renkli bir süsleme yapın.</li></ul><p><strong>Gramaj:</strong> 300 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Persimmon (Dried): A Soft Sweetness in Orange</h2><p>Persimmon is known as the orange fruit of autumn; when dried, its flavour becomes even more concentrated. This product consists of specially selected fruits. Its texture is slightly firm and chewy, and its taste is a soft sweetness that wanders between honey and apricot. Since the season of the fresh fruit is short, its dried form makes this flavour accessible all year round.</p><p>Bearing the Tillo Kochari signature from Gaziantep, dried persimmon is an interesting option for those who want to go beyond the usual dried fruits. On cheese plates, at teatime or chopped and added to desserts, it is instantly noticed on the table thanks to its distinctive colour. It can also make a conversation-starting plate when serving guests.</p><h3>Serving Suggestions</h3><ul><li>Cut into thin strips and add to a rocket and walnut salad.</li><li>Serve on a cheese plate with aged kashar cheese and walnut kernels.</li><li>Chop and sprinkle over rice pudding or milk pudding for a colourful garnish.</li></ul><p><strong>Weight:</strong> 300 g</p>",
+    "ar": "<h2>الكاكي (مجفف): حلاوة ناعمة بلونه البرتقالي</h2><p>يُعرف الكاكي بأنه الفاكهة البرتقالية للخريف، وعند تجفيفه يزداد مذاقه تركيزًا. ويتكوّن هذا المنتج من ثمار منتقاة بعناية خاصة. قوامه متماسك قليلًا وقابل للمضغ، ومذاقه حلاوة ناعمة تتنقل بين العسل والمشمش. ولأن موسم الفاكهة الطازجة قصير، فإن شكلها المجفف يتيح الوصول إلى هذا المذاق طوال العام.</p><p>الكاكي المجفف القادم من غازي عنتاب بتوقيع Tillo Kochari خيار مثير للاهتمام لمن يرغب في الخروج عن الفواكه المجففة المعتادة. وسواء في أطباق الجبن أو في أوقات الشاي أو مقطعًا ومضافًا إلى الحلويات، فإنه يلفت الانتباه فورًا على المائدة بلونه المميز. كما يمكن أن يكون طبقًا يفتح باب الحديث عند ضيافة الزوار.</p><h3>اقتراحات الاستخدام</h3><ul><li>قطّعه إلى شرائح رفيعة وأضفه إلى سلطة الجرجير والجوز.</li><li>قدّمه في طبق جبن مع جبنة القشقوان المعتّقة ولب الجوز.</li><li>قطّعه ورشّه فوق الأرز بالحليب أو المهلبية لتزيين ملوّن.</li></ul><p><strong>الوزن:</strong> 300 g</p>",
+    "de": "<h2>Kaki (getrocknet): Sanfte Süße in Orange</h2><p>Die Kaki ist als orangefarbene Frucht des Herbstes bekannt; getrocknet wird ihr Geschmack noch intensiver. Dieses Produkt besteht aus speziell ausgewählten Früchten. Die Konsistenz ist leicht fest und zäh, der Geschmack eine sanfte Süße, die zwischen Honig und Aprikose changiert. Da die Saison der frischen Frucht kurz ist, macht die getrocknete Form diesen Geschmack das ganze Jahr über zugänglich.</p><p>Die getrocknete Kaki mit der Handschrift von Tillo Kochari aus Gaziantep ist eine interessante Wahl für alle, die über die üblichen Trockenfrüchte hinausgehen möchten. Ob auf Käseplatten, zur Teezeit oder klein geschnitten in Desserts – mit ihrer besonderen Farbe fällt sie auf dem Tisch sofort auf. Bei der Bewirtung von Gästen kann sie zudem einen Teller abgeben, der Gespräche anregt.</p><h3>Verwendungsvorschläge</h3><ul><li>In dünne Streifen schneiden und zu einem Rucola-Walnuss-Salat geben.</li><li>Mit gereiftem Kashar-Käse und Walnusskernen auf einer Käseplatte servieren.</li><li>Klein schneiden und als farbenfrohe Garnitur über Milchreis oder Pudding streuen.</li></ul><p><strong>Gewicht:</strong> 300 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>곶감 (말린 감): 주황빛과 함께하는 부드러운 단맛</h2><p>감은 가을의 주황빛 과일로 알려져 있으며, 말리면 맛이 더욱 진해집니다. 이 제품은 특별히 엄선한 과일로 구성되어 있습니다. 식감은 살짝 단단하고 쫀득하며, 맛은 꿀과 살구 사이를 오가는 부드러운 단맛입니다. 생과일의 제철이 짧기 때문에 말린 형태로 이 맛을 일 년 내내 즐길 수 있습니다.</p><p>가지안테프에서 Tillo Kochari의 이름으로 선보이는 곶감은 흔한 건과일에서 벗어나고 싶은 분께 흥미로운 선택입니다. 치즈 플레이트에서도, 티타임에도, 잘게 썰어 디저트에 넣었을 때도 특유의 색감으로 식탁에서 단번에 눈에 띕니다. 손님 접대 시 대화를 이끌어 내는 한 접시가 되기도 합니다.</p><h3>활용 제안</h3><ul><li>가늘게 채 썰어 루콜라 호두 샐러드에 넣어 보세요.</li><li>숙성 카샤르 치즈, 호두와 함께 치즈 플레이트에 담아 내 보세요.</li><li>잘게 썰어 라이스 푸딩이나 우유 푸딩 위에 뿌려 다채롭게 장식해 보세요.</li></ul><p><strong>중량:</strong> 300 g</p>"
   },
-  "update": "2026-10-28T07:04:26.628Z",
+  "update": "2026-10-28T09:07:55.648Z",
   "date": "2026-05-20T09:54:45.101Z",
   "img": "index.webp"
 }

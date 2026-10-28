@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Kabak Çekirdeği Yağı"
+    "tr": "Kabak Çekirdeği Yağı",
+    "en": "Pumpkin Seed Oil",
+    "ar": "زيت بذور اليقطين",
+    "de": "Kürbiskernöl",
+    "ko": "호박씨 오일"
   },
   "status": "play",
-  "category": "c14siviya",
+  "category": "c03badem",
   "id": "tam6mayeam",
   "externalUrl": "",
   "path": "kabak-cekirdegi-yagi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kabak Çekirdeği Yağı, Sıvı Yağlar, zeytinyağı, sızma zeytinyağı, fındık yağı, soğuk sıkım",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Pumpkin Seed Oil, Liquid Oils, olive oil, extra virgin olive oil, hazelnut oil, cold-pressed",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, زيت بذور اليقطين, الزيوت السائلة, زيت الزيتون, زيت الزيتون البكر الممتاز, زيت البندق, معصور على البارد",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Kürbiskernöl, Speiseöle, Olivenöl, natives Olivenöl extra, Haselnussöl, kaltgepresst",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연식품, 호박씨 오일, 식용유, 올리브유, 엑스트라 버진 올리브유, 헤이즐넛 오일, 냉압착"
   },
   "description": {
-    "tr": "Tillo Kochari Kabak Çekirdeği Yağı: Soğuk sıkım kabak. Sıvı Yağlar grubunda. Sunulan gramaj: 250 ml. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Kabak Çekirdeği Yağı: Soğuk sıkım kabak. Sıvı Yağlar grubunda. Sunulan gramaj: 250 ml. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Pumpkin Seed Oil is a cold-pressed pumpkin seed oil from the Liquid Oils range, offered in 250 ml as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari زيت بذور اليقطين زيت بذور يقطين معصور على البارد ضمن مجموعة الزيوت السائلة، يُقدَّم بحجم 250 ml غذاءً طبيعيًا أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Kürbiskernöl ist ein kaltgepresstes Kürbiskernöl aus der Gruppe Speiseöle, erhältlich in 250 ml als natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 호박씨 오일은 식용유 카테고리의 냉압착 호박씨 오일로, 250 ml 용량으로 제공되는 가지안테프 태생의 자연식품입니다."
   },
-  "index": 126,
+  "index": 202,
   "icon": "opacity",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Kabak Çekirdeği Yağı | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Pumpkin Seed Oil | Tillo Kochari",
+    "ar": "زيت بذور اليقطين | Tillo Kochari",
+    "de": "Kürbiskernöl | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "호박씨 오일 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kabak Çekirdeği Yağı: Koyu Yeşil Renkli Soğuk Sıkım</h2>\n<p>Tillo Kochari Kabak Çekirdeği Yağı, kabak çekirdeğinden soğuk sıkımla elde edilen yoğun aromalı bir yağdır. Neredeyse siyaha çalan koyu yeşil rengi ve çekirdeğin kendisini hatırlatan fındıksı tadıyla, birkaç damlada bile tabağın görüntüsünü ve lezzetini belirgin biçimde değiştirir. Salatalarda farklı bir renk arayanların ilgisini çeker.</p>\n<p>Gaziantep'te çekirdek, uzun sohbetlerin değişmez eşlikçisidir; bu yağ ise aynı tanıdık tadı mutfağa taşır. Tillo Kochari kabak çekirdeği yağını 250 ml'lik bir boyla sofranıza getiriyor. Isıyla aroması kolayca kaybolduğundan pişirmede değil, çoğunlukla çiğ ve servis anında kullanılması tercih edilir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Patates salatasına ya da yeşil salataya elma sirkesiyle birlikte gezdirin.</li>\n<li>Balkabağı çorbasının üzerine servis anında birkaç damla dökerek renk ve aroma katın.</li>\n<li>Vanilyalı dondurmanın üzerine bir çay kaşığı ekleyip kavrulmuş kabak çekirdeğiyle tamamlayın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 250 ml</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Pumpkin Seed Oil: A Dark Green Cold-Pressed Oil</h2>\n<p>Tillo Kochari Pumpkin Seed Oil is an intensely aromatic oil obtained from pumpkin seeds by cold pressing. With its dark green colour that verges on black and a nutty taste reminiscent of the seeds themselves, even a few drops noticeably change the look and flavour of a dish. It appeals to those looking for a different colour in their salads.</p>\n<p>In Gaziantep, seeds are the constant companion of long conversations; this oil brings that same familiar taste into the kitchen. Tillo Kochari brings pumpkin seed oil to your table in a 250 ml size. Since its aroma is easily lost with heat, it is preferably used not for cooking but mostly raw and at the moment of serving.</p>\n<h3>Usage Suggestions</h3>\n<ul>\n<li>Drizzle over potato salad or green salad together with apple cider vinegar.</li>\n<li>Pour a few drops over pumpkin soup just before serving to add colour and aroma.</li>\n<li>Add a teaspoon over vanilla ice cream and finish with toasted pumpkin seeds.</li>\n</ul>\n<p><strong>Size:</strong> 250 ml</p>",
+    "ar": "<h2>زيت بذور اليقطين: زيت معصور على البارد بلون أخضر داكن</h2>\n<p>زيت بذور اليقطين من Tillo Kochari زيتٌ غني بالرائحة يُستخلص من بذور اليقطين بالعصر على البارد. وبلونه الأخضر الداكن الذي يكاد يميل إلى السواد وطعمه الشبيه بالمكسرات الذي يذكّر بالبذور نفسها، تغيّر بضع قطرات منه مظهر الطبق ومذاقه تغييرًا واضحًا. ويجذب اهتمام من يبحثون عن لون مختلف في سلطاتهم.</p>\n<p>في غازي عنتاب، البذور رفيقة دائمة للأحاديث الطويلة، وهذا الزيت ينقل الطعم المألوف نفسه إلى المطبخ. وتقدّم Tillo Kochari زيت بذور اليقطين إلى مائدتك بحجم 250 ml. ولأن رائحته تضيع بسهولة بالحرارة، يُفضَّل استخدامه في الغالب نيئًا وعند التقديم لا في الطهي.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اسكبه على سلطة البطاطس أو السلطة الخضراء مع خل التفاح.</li>\n<li>اسكب بضع قطرات على حساء اليقطين عند التقديم لإضافة اللون والرائحة.</li>\n<li>أضف ملعقة صغيرة منه على آيس كريم الفانيليا وأكمله ببذور اليقطين المحمّصة.</li>\n</ul>\n<p><strong>الحجم:</strong> 250 ml</p>",
+    "de": "<h2>Kürbiskernöl: Kaltgepresst in tiefem Dunkelgrün</h2>\n<p>Das Tillo Kochari Kürbiskernöl ist ein intensiv aromatisches Öl, das durch Kaltpressung aus Kürbiskernen gewonnen wird. Mit seiner fast ins Schwarze gehenden dunkelgrünen Farbe und seinem nussigen Geschmack, der an die Kerne selbst erinnert, verändern schon wenige Tropfen Aussehen und Geschmack eines Tellers deutlich. Es spricht alle an, die eine andere Farbe in ihren Salaten suchen.</p>\n<p>In Gaziantep sind Kerne die ständigen Begleiter langer Gespräche; dieses Öl bringt denselben vertrauten Geschmack in die Küche. Tillo Kochari bringt Kürbiskernöl in der Größe 250 ml auf Ihren Tisch. Da sein Aroma bei Hitze leicht verloren geht, wird es vorzugsweise nicht zum Kochen, sondern meist roh und beim Servieren verwendet.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Zusammen mit Apfelessig über Kartoffelsalat oder grünen Salat träufeln.</li>\n<li>Beim Servieren einige Tropfen über Kürbissuppe geben, um Farbe und Aroma hinzuzufügen.</li>\n<li>Einen Teelöffel über Vanilleeis geben und mit gerösteten Kürbiskernen vollenden.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 250 ml</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>호박씨 오일: 짙은 초록빛의 냉압착 오일</h2>\n<p>Tillo Kochari 호박씨 오일은 호박씨를 냉압착하여 얻은 진한 향의 오일입니다. 검은빛에 가까운 짙은 초록색과 씨앗 자체를 떠올리게 하는 고소한 견과류 풍미로, 몇 방울만으로도 요리의 모습과 맛을 확연히 바꿉니다. 샐러드에 색다른 색감을 원하는 분들의 관심을 끕니다.</p>\n<p>가지안테프에서 씨앗 간식은 긴 담소에 빠지지 않는 동반자이며, 이 오일은 그 친숙한 맛을 주방으로 옮겨 옵니다. Tillo Kochari는 호박씨 오일을 250 ml 용량으로 여러분의 식탁에 전해 드립니다. 열을 가하면 향이 쉽게 날아가므로 조리용보다는 주로 가열하지 않고 내기 직전에 사용하는 것이 좋습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>감자 샐러드나 그린 샐러드에 사과 식초와 함께 두르십시오.</li>\n<li>단호박 수프 위에 내기 직전 몇 방울 떨어뜨려 색과 향을 더하십시오.</li>\n<li>바닐라 아이스크림 위에 한 티스푼 올리고 볶은 호박씨로 마무리하십시오.</li>\n</ul>\n<p><strong>용량:</strong> 250 ml</p>"
   },
-  "update": "2026-10-28T07:04:31.894Z",
+  "update": "2026-10-28T09:08:03.252Z",
   "date": "2026-05-20T09:54:45.898Z",
   "img": "index.webp"
 }

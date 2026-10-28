@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Kuru Tatlı Biber"
+    "tr": "Kuru Tatlı Biber",
+    "en": "Dried Sweet Pepper",
+    "ar": "فلفل حلو مجفف",
+    "de": "Getrocknete süße Paprika",
+    "ko": "말린 단고추"
   },
   "status": "play",
-  "category": "c07kuruseb",
+  "category": "c15aromya",
   "id": "7iaq2myimy",
   "externalUrl": "",
   "path": "kuru-tatli-biber",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kuru Tatlı Biber, Kurutulmuş Sebzeler, kurutulmuş sebze, kuru biber, güneş kurusu domates, dolmalık biber",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Dried Sweet Pepper, Dried Vegetables, dried vegetable, dried pepper, sun-dried tomato, stuffing pepper",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, فلفل حلو مجفف, الخضروات المجففة, خضار مجففة, فلفل مجفف, طماطم مجففة بالشمس, فلفل للحشو",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Getrocknete süße Paprika, Getrocknetes Gemüse, Trockengemüse, getrocknete Paprika, sonnengetrocknete Tomaten, Füllpaprika",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 말린 단고추, 건조 채소, 말린 채소, 말린 고추, 선드라이 토마토, 속 채움용 고추"
   },
   "description": {
-    "tr": "Tillo Kochari Kuru Tatlı Biber: Dolmalık biber kurusu. Kurutulmuş Sebzeler grubunda. Sunulan gramaj: 100 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Kuru Tatlı Biber: Dolmalık biber kurusu. Kurutulmuş Sebzeler grubunda. Sunulan gramaj: 100 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Dried Sweet Pepper is a dried pepper for stuffing from the Dried Vegetables range, offered in 100 g as a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari فلفل حلو مجفف: فلفل مجفف مخصص للحشو ضمن مجموعة الخضروات المجففة، يُقدَّم بوزن 100 g، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Getrocknete süße Paprika ist getrocknete Füllpaprika aus der Gruppe Getrocknetes Gemüse, angeboten in 100 g – ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 말린 단고추는 속 채움용 고추를 말린 건조 채소 그룹의 제품으로, 100 g 용량으로 제공되는 가지안테프 출신의 천연 식품입니다."
   },
-  "index": 44,
+  "index": 120,
   "icon": "grass",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Kuru Tatlı Biber | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Dried Sweet Pepper | Tillo Kochari",
+    "ar": "فلفل حلو مجفف | Tillo Kochari",
+    "de": "Getrocknete süße Paprika | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "말린 단고추 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kuru Tatlı Biber ile Kış Dolmasına Hazırlık</h2><p>Kuru Tatlı Biber, dolmalık biberlerin kurutulmuş hâlidir ve acısız, yumuşak bir tada sahiptir. Kurumuş biberler sıcak suda haşlanıp esnekleştikten sonra içleri rahatça doldurulur. Pişerken biberin kendi tatlılığı iç harcına geçer; kuru dolmanın bilinen o yoğun lezzeti de büyük ölçüde buradan gelir.</p><p>Gaziantep ve çevresinde kuru dolma, özellikle soğuk aylarda sevilen bir sofradır. Tillo Kochari, bu geleneği evde sürdürmek isteyenler için dolmalık biber kurusunu 100 gramlık paketlerde sunar. İç harcını pirinç, bulgur ya da kıymayla, kendi ailenizin tarifine göre hazırlayabilirsiniz.</p><h3>Kullanım Önerileri</h3><ul><li>Pirinç, bulgur ve salçalı iç harcıyla klasik kuru dolma yapın.</li><li>Kıymalı harçla doldurup domates sosunda ağır ateşte pişirin.</li><li>Yumuşatıp şeritler hâlinde keserek sebzeli bulgur pilavına katın.</li></ul><p><strong>Gramaj:</strong> 100 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Preparing Winter Dolma with Dried Sweet Pepper</h2><p>Dried Sweet Pepper is the dried form of stuffing peppers and has a mild, non-spicy flavour. Once the dried peppers have been blanched in hot water and become pliable, they are easy to fill. As they cook, the pepper's own sweetness passes into the filling; much of the well-known rich flavour of dried dolma comes from this.</p><p>In and around Gaziantep, dried dolma is a much-loved dish, especially in the colder months. Tillo Kochari offers dried stuffing peppers in 100 g packs for those who want to keep this tradition alive at home. You can prepare the filling with rice, bulgur or minced meat, following your own family recipe.</p><h3>Serving Suggestions</h3><ul><li>Make classic dried dolma with a filling of rice, bulgur and tomato paste.</li><li>Stuff with a minced meat filling and simmer slowly in tomato sauce.</li><li>Soften, cut into strips and add to a vegetable bulgur pilaf.</li></ul><p><strong>Weight:</strong> 100 g</p>",
+    "ar": "<h2>التحضير لمحشي الشتاء مع الفلفل الحلو المجفف</h2><p>الفلفل الحلو المجفف هو الشكل المجفف من فلفل المحشي، ويتميز بطعم لطيف غير حار. وبعد سلق الفلفل المجفف في ماء ساخن حتى يصبح طريًا ومرنًا، يسهل حشوه. وأثناء الطهي تنتقل حلاوة الفلفل الطبيعية إلى الحشوة، ومن هنا يأتي إلى حد كبير ذلك المذاق الغني المعروف للمحشي المجفف.</p><p>في غازي عنتاب وما حولها يُعدّ المحشي المجفف طبقًا محبوبًا، لا سيما في الأشهر الباردة. وتقدّم Tillo Kochari فلفل المحشي المجفف في عبوات بوزن 100 g لمن يرغبون في الحفاظ على هذا التقليد في منازلهم. ويمكنكم تحضير الحشوة بالأرز أو البرغل أو اللحم المفروم وفق وصفة عائلتكم.</p><h3>اقتراحات الاستخدام</h3><ul><li>حضّروا المحشي المجفف الكلاسيكي بحشوة من الأرز والبرغل ومعجون الطماطم.</li><li>احشوه بحشوة اللحم المفروم ثم اطهوه على نار هادئة في صلصة الطماطم.</li><li>بعد تطريته قطّعوه شرائح وأضيفوه إلى برغل بالخضار.</li></ul><p><strong>الوزن:</strong> 100 g</p>",
+    "de": "<h2>Winterliche Dolma mit getrockneter süßer Paprika</h2><p>Getrocknete süße Paprika ist die getrocknete Form von Füllpaprika und hat einen milden, nicht scharfen Geschmack. Nachdem die getrockneten Schoten in heißem Wasser blanchiert und geschmeidig geworden sind, lassen sie sich mühelos füllen. Beim Garen geht die eigene Süße der Paprika auf die Füllung über; daher stammt zu einem großen Teil auch der bekannte intensive Geschmack der Trocken-Dolma.</p><p>In Gaziantep und Umgebung ist Trocken-Dolma vor allem in den kalten Monaten ein beliebtes Gericht. Für alle, die diese Tradition zu Hause pflegen möchten, bietet Tillo Kochari getrocknete Füllpaprika in Packungen zu 100 g an. Die Füllung können Sie nach dem Rezept Ihrer eigenen Familie mit Reis, Bulgur oder Hackfleisch zubereiten.</p><h3>Verwendungsvorschläge</h3><ul><li>Bereiten Sie klassische Trocken-Dolma mit einer Füllung aus Reis, Bulgur und Tomatenmark zu.</li><li>Füllen Sie sie mit Hackfleisch und lassen Sie sie in Tomatensoße bei schwacher Hitze langsam garen.</li><li>Weichen Sie sie ein, schneiden Sie sie in Streifen und mischen Sie sie unter einen Bulgur-Pilaw mit Gemüse.</li></ul><p><strong>Gewicht:</strong> 100 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>말린 단고추로 준비하는 겨울 돌마</h2><p>말린 단고추는 속 채움용 고추를 말린 것으로, 맵지 않고 순한 맛이 특징입니다. 말린 고추를 뜨거운 물에 데쳐 부드럽게 만든 뒤에는 속을 쉽게 채울 수 있습니다. 조리하는 동안 고추 본연의 단맛이 속재료에 배어들며, 말린 채소 돌마 특유의 진한 풍미도 대부분 여기에서 나옵니다.</p><p>가지안테프와 그 주변 지역에서 말린 채소 돌마는 특히 추운 계절에 사랑받는 요리입니다. Tillo Kochari는 이 전통을 집에서 이어 가고 싶은 분들을 위해 속 채움용 말린 고추를 100 g 포장으로 선보입니다. 속재료는 가족 고유의 레시피에 따라 쌀, 불구르 또는 다진 고기로 준비할 수 있습니다.</p><h3>활용 제안</h3><ul><li>쌀, 불구르, 토마토 페이스트로 만든 속재료를 채워 클래식 말린 채소 돌마를 만들어 보세요.</li><li>다진 고기 속을 채운 뒤 토마토 소스에 넣고 약불에서 천천히 익혀 보세요.</li><li>부드럽게 불린 뒤 채 썰어 채소 불구르 필라프에 넣어 보세요.</li></ul><p><strong>중량:</strong> 100 g</p>"
   },
-  "update": "2026-10-28T07:04:27.398Z",
+  "update": "2026-10-28T09:07:30.262Z",
   "date": "2026-05-20T09:54:45.203Z",
   "img": "index.webp"
 }

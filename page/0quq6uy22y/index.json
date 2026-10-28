@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Cevizli Pestil Rulo"
+    "tr": "Cevizli Pestil Rulo",
+    "en": "Walnut Pestil Roll (Fruit Leather Roll)",
+    "ar": "رول بستيل بالجوز (لفافة جلد الفاكهة)",
+    "de": "Pestil-Rolle mit Walnüssen (Fruchtleder-Rolle)",
+    "ko": "호두 페스틸 롤 (말린 과일 시트 롤)"
   },
   "status": "play",
-  "category": "c09gelenek",
+  "category": "c13konserve",
   "id": "0quq6uy22y",
   "externalUrl": "",
   "path": "cevizli-pestil-rulo",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Cevizli Pestil Rulo, Lokum, Pestil ve Geleneksel Tatlılar, lokum, pestil, köme, tahin helva",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Walnut Pestil Roll, Turkish Delight, Pestil and Traditional Sweets, lokum, pestil, köme, tahini halva",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, رول بستيل بالجوز, راحة الحلقوم, البستيل والحلويات التقليدية, لوكوم, بستيل, كومة, حلاوة طحينية",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Pestil-Rolle mit Walnüssen, Lokum, Pestil und traditionelle Süßwaren, Lokum, Pestil, Köme, Tahin-Halva",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 호두 페스틸 롤, 로쿰, 페스틸 및 전통 디저트, 로쿰, 페스틸, 쾨메, 타히니 할바"
   },
   "description": {
-    "tr": "Tillo Kochari Cevizli Pestil Rulo: Rulo pestil. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 350 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Cevizli Pestil Rulo: Rulo pestil. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 350 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Walnut Pestil Roll is a rolled pestil from the Turkish Delight, Pestil and Traditional Sweets range, offered in 350 g as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari — رول بستيل بالجوز: بستيل ملفوف ضمن فئة راحة الحلقوم والبستيل والحلويات التقليدية، يُقدَّم بوزن 350 g، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Pestil-Rolle mit Walnüssen – gerolltes Pestil aus der Kategorie Lokum, Pestil und traditionelle Süßwaren, angeboten in 350 g, ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 호두 페스틸 롤은 로쿰, 페스틸 및 전통 디저트 카테고리의 돌돌 만 페스틸로, 350 g으로 제공되는 가지안테프 출신의 자연 식품입니다."
   },
-  "index": 71,
+  "index": 147,
   "icon": "cake",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Cevizli Pestil Rulo | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Walnut Pestil Roll (Fruit Leather Roll) | Tillo Kochari",
+    "ar": "رول بستيل بالجوز (لفافة جلد الفاكهة) | Tillo Kochari",
+    "de": "Pestil-Rolle mit Walnüssen (Fruchtleder-Rolle) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "호두 페스틸 롤 (말린 과일 시트 롤) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Cevizli Pestil Rulo: Sarmal Kesitte Meyve ve Ceviz</h2>\n<p>Cevizli Pestil Rulo, pestilin ceviz içiyle birlikte sarılarak rulo hâline getirildiği bir tatlıdır. Dilimlendiğinde sarmal bir kesit ortaya çıkar; esnek pestil katmanlarının arasında cevizin çıtırlığı hissedilir. Düz pestile göre daha doyurucu, sucuklara göre ise daha ince ve katmanlı bir yapı sunar.</p>\n<p>Gaziantep'in pestil ve köme geleneğini bir arada düşündüren bu ürün, Tillo Kochari'nin geleneksel tatlılar grubunda iki dokuyu birleştiren bir seçenektir. 350 gramlık rulo, misafir geldiğinde birkaç dakikada hazırlanan şık bir ikram tabağına dönüşür. Keskin bir bıçakla kesmek, sarmal görüntünün bozulmadan kalmasını sağlar.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Bir parmak kalınlığında dilimleyip sarmal yüzü yukarı gelecek şekilde tabağa dizin.</li>\n<li>Kahvaltıda beyaz peynir ve zeytinle birlikte tatlı-tuzlu bir köşe oluşturun.</li>\n<li>Küçük dilimleri kürdanla tutturarak çay davetlerinde lokmalık ikram olarak sunun.</li>\n</ul>\n<p><strong>Gramaj:</strong> 350 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Walnut Pestil Roll: Fruit and Walnut in a Spiral Cross-Section</h2>\n<p>Walnut Pestil Roll is a sweet made by rolling pestil up together with walnut kernels. When sliced, a spiral cross-section is revealed, and the crunch of walnut can be felt between the pliable layers of pestil. It is more filling than flat pestil and offers a thinner, more layered structure than sucuk.</p>\n<p>Evoking Gaziantep's pestil and köme traditions together, this product is an option in Tillo Kochari's traditional sweets range that combines two textures. When guests arrive, the 350 g roll turns into an elegant treat platter in just a few minutes. Cutting with a sharp knife keeps the spiral look intact.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Slice it about a finger's width thick and arrange on a plate with the spiral side facing up.</li>\n<li>At breakfast, create a sweet-and-savory corner with white cheese and olives.</li>\n<li>Secure small slices with toothpicks and serve as bite-sized treats at tea parties.</li>\n</ul>\n<p><strong>Weight:</strong> 350 g</p>",
+    "ar": "<h2>رول بستيل بالجوز: فاكهة وجوز في مقطع حلزوني</h2>\n<p>رول البستيل بالجوز حلوى يُلفّ فيها البستيل مع لب الجوز حتى يتخذ شكل لفافة. وعند تقطيعه يظهر مقطع حلزوني، وتُحَسّ قرمشة الجوز بين طبقات البستيل المرنة. وهو أكثر إشباعًا من البستيل المسطح، ويقدّم بنية أرق وأكثر تعددًا في الطبقات مقارنةً بالسجق الحلو.</p>\n<p>يستحضر هذا المنتج تقليدَي البستيل والكومة في غازي عنتاب معًا، وهو خيار يجمع بين قوامين ضمن فئة الحلويات التقليدية لدى Tillo Kochari. وعند قدوم الضيوف، تتحول اللفافة بوزن 350 g إلى طبق ضيافة أنيق يُحضَّر في دقائق. ويحافظ التقطيع بسكين حادة على الشكل الحلزوني دون أن يتشوه.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>قطّعه شرائح بسماكة إصبع تقريبًا ورتّبها في الطبق بحيث يكون الوجه الحلزوني إلى الأعلى.</li>\n<li>اصنع في الفطور ركنًا يجمع الحلو والمالح مع الجبن الأبيض والزيتون.</li>\n<li>ثبّت الشرائح الصغيرة بأعواد الأسنان وقدّمها لقيماتٍ في دعوات الشاي.</li>\n</ul>\n<p><strong>الوزن:</strong> 350 g</p>",
+    "de": "<h2>Pestil-Rolle mit Walnüssen: Frucht und Walnuss im Spiralanschnitt</h2>\n<p>Die Pestil-Rolle mit Walnüssen ist eine Süßigkeit, bei der Pestil zusammen mit Walnusskernen zu einer Rolle gewickelt wird. Beim Aufschneiden zeigt sich ein spiralförmiger Anschnitt; zwischen den elastischen Pestilschichten ist der knackige Biss der Walnuss zu spüren. Sie ist sättigender als flaches Pestil und bietet eine feinere, vielschichtigere Struktur als Sucuk.</p>\n<p>Dieses Produkt, das an die Pestil- und Köme-Tradition von Gaziantep zugleich erinnert, ist in der Reihe traditioneller Süßwaren von Tillo Kochari eine Option, die zwei Texturen vereint. Wenn Gäste kommen, wird die 350-g-Rolle in wenigen Minuten zu einem eleganten Gästeteller. Das Schneiden mit einem scharfen Messer sorgt dafür, dass das Spiralmuster erhalten bleibt.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Etwa fingerdick aufschneiden und mit der Spiralseite nach oben auf einem Teller anrichten.</li>\n<li>Zum Frühstück mit Weißkäse und Oliven eine süß-salzige Ecke gestalten.</li>\n<li>Kleine Scheiben mit Zahnstochern fixieren und bei Teeeinladungen als Häppchen servieren.</li>\n</ul>\n<p><strong>Gewicht:</strong> 350 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>호두 페스틸 롤: 나선형 단면 속 과일과 호두</h2>\n<p>호두 페스틸 롤은 페스틸에 호두 속살을 함께 말아 롤 형태로 만든 디저트입니다. 썰면 나선형 단면이 드러나고, 쫀득한 페스틸 층 사이로 호두의 바삭함이 느껴집니다. 납작한 페스틸보다 든든하고, 수죽보다는 얇고 겹겹이 쌓인 구조를 지닙니다.</p>\n<p>가지안테프의 페스틸과 쾨메 전통을 함께 떠올리게 하는 이 제품은 Tillo Kochari 전통 디저트 라인에서 두 가지 식감을 하나로 결합한 선택지입니다. 손님이 오면 350 g 롤은 몇 분 만에 세련된 다과 접시로 변신합니다. 날카로운 칼로 자르면 나선 모양이 흐트러지지 않고 유지됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>손가락 두께로 썰어 나선 면이 위로 오도록 접시에 가지런히 놓기 좋습니다.</li>\n<li>아침 식사에 흰 치즈, 올리브와 함께 달콤짭짤한 코너를 구성할 수 있습니다.</li>\n<li>작은 조각을 이쑤시개로 고정해 티 파티에서 한입 다과로 내기 좋습니다.</li>\n</ul>\n<p><strong>중량:</strong> 350 g</p>"
   },
-  "update": "2026-10-28T07:04:28.873Z",
+  "update": "2026-10-28T09:07:17.272Z",
   "date": "2026-05-20T09:54:45.436Z",
   "img": "index.webp"
 }

@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "Elma Suyu"
+    "tr": "Elma Suyu",
+    "en": "Apple Juice",
+    "ar": "عصير التفاح",
+    "de": "Apfelsaft",
+    "ko": "사과 주스"
   },
   "status": "play",
   "category": "c10meyves",
@@ -9,16 +13,20 @@
   "path": "elma-suyu",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Elma Suyu, Meyve Suları, meyve suyu, nar suyu, doğal meyve suyu, katkısız içecek",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Apple Juice, Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, عصير التفاح, عصائر الفواكه, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Apfelsaft, Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 사과 주스, 과일 주스, 과일즙, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
-    "tr": "Tillo Kochari Elma Suyu: Doğal elma suyu. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Elma Suyu: Doğal elma suyu. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Apple Juice is a natural apple juice from the Fruit Juices range, offered in 1 L as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari — عصير التفاح: عصير تفاح طبيعي ضمن فئة عصائر الفواكه، يُقدَّم بسعة 1 L، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Apfelsaft – natürlicher Apfelsaft aus der Kategorie Fruchtsäfte, angeboten in 1 L, ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 사과 주스는 과일 주스 카테고리의 천연 사과 주스로, 1 L 용량으로 제공되는 가지안테프 출신의 자연 식품입니다."
   },
-  "index": 73,
+  "index": 149,
   "icon": "local_bar",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Elma Suyu | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Apple Juice | Tillo Kochari",
+    "ar": "عصير التفاح | Tillo Kochari",
+    "de": "Apfelsaft | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "사과 주스 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Elma Suyu: Sabah Sofrasına Yumuşak Bir İçim</h2>\n<p>Elma Suyu, elmanın tanıdık ve yumuşak tatlılığını bardağa taşıyan doğal bir meyve suyudur. Sade içimiyle ekşi ya da baskın tatlardan hoşlanmayanlar için rahat bir seçenektir. Hafif meyvemsi kokusu soğuk servis edildiğinde daha belirgin hâle gelir; kahvaltıdan ikindi molasına kadar günün farklı saatlerine kolayca uyum sağlar.</p>\n<p>Tillo Kochari, Gaziantep merkezli doğal gıda seçkisinde meyve sularını sofraların gündelik bir parçası olarak görüyor. Elma suyu tek başına içilebildiği gibi, tarçınla ısıtılarak kış içeceğine ya da başka meyve sularıyla karıştırılarak yeni tatlara dönüştürülebilir. 1 litrelik şişe, ailece paylaşılan bir kahvaltı için uygun bir boydur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Bir çubuk tarçın ve birkaç karanfille ısıtıp kış akşamları sıcak elma içeceği hazırlayın.</li>\n<li>Yulaf lapasını suyun bir kısmı yerine elma suyuyla pişirerek meyveli bir kahvaltı yapın.</li>\n<li>Nar suyuyla yarı yarıya karıştırıp buzla birlikte servis edin.</li>\n</ul>\n<p><strong>Gramaj:</strong> 1 L</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Apple Juice: A Smooth Sip for the Breakfast Table</h2>\n<p>Apple Juice is a natural fruit juice that carries the familiar, gentle sweetness of apples into the glass. With its mild taste, it is an easy choice for those who do not enjoy sour or overpowering flavors. Its light fruity scent becomes more pronounced when served cold, and it fits easily into different times of the day, from breakfast to an afternoon break.</p>\n<p>In its Gaziantep-based natural food selection, Tillo Kochari sees fruit juices as an everyday part of the table. Apple juice can be enjoyed on its own, warmed with cinnamon into a winter drink, or blended with other fruit juices to create new flavors. The 1 L bottle is a suitable size for a breakfast shared with the family.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Warm it with a cinnamon stick and a few cloves to make a hot apple drink on winter evenings.</li>\n<li>Cook oatmeal with apple juice in place of part of the water for a fruity breakfast.</li>\n<li>Mix half and half with pomegranate juice and serve over ice.</li>\n</ul>\n<p><strong>Volume:</strong> 1 L</p>",
+    "ar": "<h2>عصير التفاح: رشفة ناعمة لمائدة الصباح</h2>\n<p>عصير التفاح عصير فواكه طبيعي ينقل حلاوة التفاح المألوفة والناعمة إلى الكأس. وبمذاقه اللطيف يُعدّ خيارًا مريحًا لمن لا يحبون النكهات الحامضة أو الطاغية. وتصبح رائحته الفاكهية الخفيفة أوضح عند تقديمه باردًا، كما يتلاءم بسهولة مع أوقات مختلفة من اليوم، من الفطور حتى استراحة العصر.</p>\n<p>ترى Tillo Kochari في تشكيلتها من الأغذية الطبيعية التي يقع مركزها في غازي عنتاب أن العصائر جزء يومي من المائدة. ويمكن شرب عصير التفاح وحده، أو تسخينه مع القرفة ليصبح مشروبًا شتويًا، أو مزجه بعصائر أخرى للحصول على نكهات جديدة. وتُعدّ الزجاجة سعة 1 L حجمًا مناسبًا لفطور تتشاركه العائلة.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>سخّنه مع عود قرفة وبضع حبات من القرنفل لتحضير مشروب تفاح ساخن في أمسيات الشتاء.</li>\n<li>اطهُ الشوفان بعصير التفاح بدلًا من جزء من الماء لتحصل على فطور بنكهة الفاكهة.</li>\n<li>امزجه مناصفةً مع عصير الرمان وقدّمه مع الثلج.</li>\n</ul>\n<p><strong>الحجم:</strong> 1 L</p>",
+    "de": "<h2>Apfelsaft: Ein milder Genuss für den Frühstückstisch</h2>\n<p>Apfelsaft ist ein natürlicher Fruchtsaft, der die vertraute, sanfte Süße des Apfels ins Glas bringt. Mit seinem milden Geschmack ist er eine angenehme Wahl für alle, die saure oder dominante Aromen nicht mögen. Sein leichter, fruchtiger Duft tritt gekühlt serviert deutlicher hervor, und er passt mühelos zu verschiedenen Tageszeiten – vom Frühstück bis zur Nachmittagspause.</p>\n<p>In seiner Naturkostauswahl mit Sitz in Gaziantep betrachtet Tillo Kochari Fruchtsäfte als alltäglichen Bestandteil des Tisches. Apfelsaft kann pur getrunken, mit Zimt erwärmt zu einem Wintergetränk werden oder mit anderen Fruchtsäften zu neuen Geschmacksrichtungen gemischt werden. Die 1-L-Flasche hat die passende Größe für ein gemeinsames Familienfrühstück.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Mit einer Zimtstange und einigen Gewürznelken erwärmen und an Winterabenden als heißes Apfelgetränk genießen.</li>\n<li>Haferbrei mit Apfelsaft statt mit einem Teil des Wassers kochen – für ein fruchtiges Frühstück.</li>\n<li>Halb und halb mit Granatapfelsaft mischen und mit Eis servieren.</li>\n</ul>\n<p><strong>Inhalt:</strong> 1 L</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>사과 주스: 아침 식탁을 위한 부드러운 한 모금</h2>\n<p>사과 주스는 사과 특유의 친숙하고 부드러운 단맛을 잔에 담은 천연 과일 주스입니다. 순한 맛 덕분에 신맛이나 강한 맛을 즐기지 않는 분들도 편하게 고를 수 있습니다. 차갑게 내면 은은한 과일 향이 더욱 또렷해지며, 아침 식사부터 오후의 휴식 시간까지 하루의 여러 때에 자연스럽게 어울립니다.</p>\n<p>Tillo Kochari는 가지안테프에 기반을 둔 자연 식품 셀렉션에서 과일 주스를 식탁의 일상적인 일부로 여깁니다. 사과 주스는 그대로 마셔도 좋고, 시나몬과 함께 데워 겨울 음료로 만들거나 다른 과일 주스와 섞어 새로운 맛으로 즐길 수도 있습니다. 1 L 병은 가족이 함께하는 아침 식사에 알맞은 크기입니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>시나몬 스틱 하나와 정향 몇 알을 넣고 데워 겨울 저녁의 따뜻한 사과 음료로 즐길 수 있습니다.</li>\n<li>오트밀을 끓일 때 물의 일부를 사과 주스로 대신하면 과일 향 가득한 아침 식사가 됩니다.</li>\n<li>석류 주스와 반반 섞어 얼음과 함께 내기 좋습니다.</li>\n</ul>\n<p><strong>용량:</strong> 1 L</p>"
   },
-  "update": "2026-10-28T07:04:28.977Z",
+  "update": "2026-10-28T09:08:03.986Z",
   "date": "2026-05-20T09:54:45.454Z",
   "img": "index.webp"
 }

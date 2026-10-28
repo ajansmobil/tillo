@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Susam Tahin"
+    "tr": "Susam Tahin",
+    "en": "Sesame Tahini",
+    "ar": "طحينة السمسم",
+    "de": "Sesam-Tahin",
+    "ko": "참깨 타히니"
   },
   "status": "play",
-  "category": "c09gelenek",
+  "category": "c12sut",
   "id": "lmeea2muiu",
   "externalUrl": "",
   "path": "susam-tahin",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Susam Tahin, Lokum, Pestil ve Geleneksel Tatlılar, lokum, pestil, köme, tahin helva",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Sesame Tahini, Lokum, Pestil and Traditional Sweets, lokum, pestil, köme, tahini halva",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, طحينة السمسم, الحلقوم, البستيل والحلويات التقليدية, راحة الحلقوم, بستيل, كومه, حلاوة طحينية",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Sesam-Tahin, Lokum, Pestil und traditionelle Süßwaren, Lokum, Pestil, Köme, Tahin-Halva",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 참깨 타히니, 로쿰, 페스틸 및 전통 과자, 로쿰, 페스틸, 쾨메, 타히니 할바"
   },
   "description": {
-    "tr": "Tillo Kochari Susam Tahin: Sade tahin. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 500 g / 900 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Susam Tahin: Sade tahin. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 500 g / 900 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Sesame Tahini, a plain tahini, is part of the Lokum, Pestil and Traditional Sweets range, offered in 500 g / 900 g as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari: طحينة السمسم السادة، ضمن فئة الحلقوم والبستيل والحلويات التقليدية، بوزن 500 g / 900 g، غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Sesam-Tahin, ein reines Tahin, gehört zur Kategorie Lokum, Pestil und traditionelle Süßwaren und ist als natürliches Lebensmittel aus Gaziantep in 500 g / 900 g erhältlich.",
+    "ko": "Tillo Kochari 참깨 타히니는 플레인 타히니로 구성된 로쿰·페스틸·전통 과자 제품으로, 500 g / 900 g 용량으로 제공되는 가지안테프의 천연 식품입니다."
   },
-  "index": 66,
+  "index": 142,
   "icon": "cake",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Susam Tahin | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Sesame Tahini | Tillo Kochari",
+    "ar": "طحينة السمسم | Tillo Kochari",
+    "de": "Sesam-Tahin | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "참깨 타히니 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Susam Tahin: Mutfağın Çok Yönlü Sade Tahini</h2>\n<p>Susam Tahin, susamdan elde edilen, akışkan ve koyu kıvamlı sade bir tahindir. Kavanozda dinlendikçe yağının üstte toplanması tahinin bilinen bir özelliğidir; kullanmadan önce iyice karıştırmak yeterlidir. Tadı hafif acımsı ve derin bir susam aromasına sahiptir; tek başına yoğun gelebilir, pekmez ya da limonla buluştuğunda ise karakterini gösterir.</p>\n<p>Tahin-pekmez ikilisi Gaziantep kahvaltılarının bilinen klasiklerindendir; Tillo Kochari'nin sade tahini bu buluşma için en temel malzemeyi sunar. Yalnız tatlı tariflerde değil, humus, salata sosu ve fırın yemeklerinde de kullanılır. İki gramaj seçeneği (500 g ve 900 g), ara sıra kullananlara da her gün tahin tüketen evlere de uygun bir tercih sunar.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Pekmezle karıştırıp sıcak ekmeğe banarak kahvaltıda tüketin.</li>\n<li>Haşlanmış nohutla birlikte ezerek ev yapımı humus hazırlayın.</li>\n<li>Limon suyu ve sarımsakla inceltip ızgara sebzeler için sos yapın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 500 g / 900 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Sesame Tahini: The Versatile Plain Tahini of the Kitchen</h2>\n<p>Sesame Tahini is a plain tahini made from sesame, with a flowing yet thick consistency. As it rests in the jar, its oil collects on top, which is a well-known characteristic of tahini; simply stir well before use. Its taste is slightly bitter with a deep sesame aroma; on its own it may seem intense, but it shows its character when combined with pekmez (fruit molasses) or lemon.</p>\n<p>The tahini-and-pekmez duo is one of the well-known classics of Gaziantep breakfasts; Tillo Kochari's plain tahini provides the most essential ingredient for this pairing. It is used not only in sweet recipes but also in hummus, salad dressings and oven dishes. Two size options (500 g and 900 g) offer a suitable choice both for occasional users and for households that eat tahini every day.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Mix with pekmez and enjoy at breakfast by dipping warm bread into it.</li>\n<li>Mash with boiled chickpeas to make homemade hummus.</li>\n<li>Thin with lemon juice and garlic to make a sauce for grilled vegetables.</li>\n</ul>\n<p><strong>Net Weight:</strong> 500 g / 900 g</p>",
+    "ar": "<h2>طحينة السمسم: الطحينة السادة متعددة الاستخدامات في المطبخ</h2>\n<p>طحينة السمسم طحينة سادة مستخلصة من السمسم، ذات قوام سائل وكثيف في آن واحد. ومن الخصائص المعروفة للطحينة أن يتجمع زيتها في الأعلى كلما استقرت في البرطمان؛ ويكفي تقليبها جيدًا قبل الاستخدام. مذاقها مائل إلى المرارة قليلًا مع رائحة سمسم عميقة؛ قد تبدو قوية وحدها، لكنها تُظهر طابعها حين تلتقي بالدبس أو الليمون.</p>\n<p>ثنائي الطحينة والدبس من الكلاسيكيات المعروفة في فطور غازي عنتاب، وتقدّم طحينة Tillo Kochari السادة المكوّن الأساسي لهذا اللقاء. ولا تُستخدم في وصفات الحلويات فحسب، بل أيضًا في الحمص بالطحينة وصلصات السلطة وأطباق الفرن. ويوفّر خيارا الوزن (500 g و 900 g) خيارًا مناسبًا لمن يستخدمونها أحيانًا وللبيوت التي تتناول الطحينة كل يوم.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اخلطها مع الدبس وتناولها على الفطور بغمس الخبز الساخن فيها.</li>\n<li>اهرسها مع الحمص المسلوق لتحضير حمص بالطحينة منزلي.</li>\n<li>خفّفها بعصير الليمون والثوم لتحضير صلصة للخضار المشوية.</li>\n</ul>\n<p><strong>الوزن:</strong> 500 g / 900 g</p>",
+    "de": "<h2>Sesam-Tahin: Das vielseitige reine Tahin für die Küche</h2>\n<p>Sesam-Tahin ist ein reines Tahin aus Sesam mit fließender und zugleich dicker Konsistenz. Dass sich beim Stehen im Glas das Öl oben absetzt, ist eine bekannte Eigenschaft von Tahin; vor der Verwendung einfach gut umrühren. Der Geschmack ist leicht bitter mit einem tiefen Sesamaroma; pur kann es intensiv wirken, in Verbindung mit Pekmez (Fruchtdicksaft) oder Zitrone zeigt es jedoch seinen Charakter.</p>\n<p>Das Duo aus Tahin und Pekmez gehört zu den bekannten Klassikern des Frühstücks in Gaziantep; das reine Tahin von Tillo Kochari liefert dafür die wichtigste Grundzutat. Es wird nicht nur in süßen Rezepten verwendet, sondern auch für Hummus, Salatdressings und Ofengerichte. Die zwei Größen (500 g und 900 g) bieten sowohl Gelegenheitsnutzern als auch Haushalten, die täglich Tahin essen, die passende Wahl.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Mit Pekmez verrühren und zum Frühstück warmes Brot hineintunken.</li>\n<li>Mit gekochten Kichererbsen zerdrücken und so hausgemachten Hummus zubereiten.</li>\n<li>Mit Zitronensaft und Knoblauch verdünnen und als Soße für gegrilltes Gemüse verwenden.</li>\n</ul>\n<p><strong>Gewicht:</strong> 500 g / 900 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>참깨 타히니: 주방에서 두루 쓰이는 플레인 타히니</h2>\n<p>참깨 타히니는 참깨로 만든, 흐르는 듯하면서도 진한 농도의 플레인 타히니입니다. 병 속에서 시간이 지나면 기름이 위로 떠오르는 것은 타히니의 잘 알려진 특성이며, 사용 전에 잘 저어 주기만 하면 됩니다. 맛은 살짝 쌉싸름하고 깊은 참깨 향을 지니고 있어, 단독으로는 진하게 느껴질 수 있지만 페크메즈(과일 시럽)나 레몬과 만나면 제 개성을 드러냅니다.</p>\n<p>타히니와 페크메즈의 조합은 가지안테프 아침 식사의 잘 알려진 클래식이며, Tillo Kochari의 플레인 타히니는 이 조합을 위한 가장 기본적인 재료를 제공합니다. 디저트 레시피뿐 아니라 후무스, 샐러드 드레싱, 오븐 요리에도 사용됩니다. 두 가지 용량(500 g 및 900 g)으로 가끔 사용하는 분부터 매일 타히니를 즐기는 가정까지 알맞게 선택할 수 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>페크메즈와 섞어 따뜻한 빵을 찍어 아침 식사로 즐겨 보세요.</li>\n<li>삶은 병아리콩과 함께 으깨어 홈메이드 후무스를 만들어 보세요.</li>\n<li>레몬즙과 마늘을 넣어 묽게 만든 뒤 구운 채소용 소스로 활용해 보세요.</li>\n</ul>\n<p><strong>중량:</strong> 500 g / 900 g</p>"
   },
-  "update": "2026-10-28T07:04:28.578Z",
+  "update": "2026-10-28T09:07:50.052Z",
   "date": "2026-05-20T09:54:45.396Z",
   "img": "index.webp"
 }

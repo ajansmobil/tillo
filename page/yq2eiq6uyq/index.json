@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Tahin Helvası"
+    "tr": "Tahin Helvası",
+    "en": "Tahini Halva",
+    "ar": "حلاوة طحينية",
+    "de": "Tahin-Halva",
+    "ko": "타히니 할바"
   },
   "status": "play",
-  "category": "c09gelenek",
+  "category": "c12sut",
   "id": "yq2eiq6uyq",
   "externalUrl": "",
   "path": "tahin-helvasi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Tahin Helvası, Lokum, Pestil ve Geleneksel Tatlılar, lokum, pestil, köme, tahin helva",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Tahini Halva, Lokum, Pestil and Traditional Sweets, lokum, pestil, köme, tahini halva",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, حلاوة طحينية, الحلقوم, البستيل والحلويات التقليدية, راحة الحلقوم, بستيل, كومه, حلاوة بالطحينة",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Tahin-Halva, Lokum, Pestil und traditionelle Süßwaren, Lokum, Pestil, Köme, Tahin-Halva",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 타히니 할바, 로쿰, 페스틸 및 전통 과자, 로쿰, 페스틸, 쾨메, 타히니 할바"
   },
   "description": {
-    "tr": "Tillo Kochari Tahin Helvası: Susam helvası. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Tahin Helvası: Susam helvası. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Tahini Halva, a sesame halva, is part of the Lokum, Pestil and Traditional Sweets range, offered in 400 g as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari: حلاوة طحينية بالسمسم، ضمن فئة الحلقوم والبستيل والحلويات التقليدية، بوزن 400 g، غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Tahin-Halva, eine Sesam-Halva, gehört zur Kategorie Lokum, Pestil und traditionelle Süßwaren und ist als natürliches Lebensmittel aus Gaziantep in 400 g erhältlich.",
+    "ko": "Tillo Kochari 타히니 할바는 참깨로 만든 로쿰·페스틸·전통 과자 제품으로, 400 g 용량으로 제공되는 가지안테프의 천연 식품입니다."
   },
-  "index": 65,
+  "index": 141,
   "icon": "cake",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Tahin Helvası | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tahini Halva | Tillo Kochari",
+    "ar": "حلاوة طحينية | Tillo Kochari",
+    "de": "Tahin-Halva | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "타히니 할바 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Tahin Helvası: Susamın Lifli ve Ufalanan Hâli</h2>\n<p>Tahin Helvası, susamdan elde edilen tahinin tatlıyla buluştuğu, ufalanan lifli dokusuyla tanınan klasik bir lezzettir. Bıçakla kesildiğinde katman katman ayrılır, ağızda ise kumlu bir yumuşaklıkla dağılır. Susamın derin ve hafif fındıksı notası tatlılığı yumuşatarak helvaya dengeli, tok bir tat verir.</p>\n<p>Gaziantep'te helva, sabah kahvaltısından akşam çayına kadar pek çok öğüne yakışan esnek bir tatlıdır. Tillo Kochari'nin tahin helvası, 400 gramlık paketiyle aile sofrasında birkaç kez paylaşılacak kadar cömert bir miktar sunar. Dilimlenip ekmek arasına konduğunda okul ve iş çantaları için pratik bir öğle atıştırmalığına da dönüşür.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Kahvaltıda taze ekmek arasına ince dilimler hâlinde yerleştirin.</li>\n<li>Ufalayıp dondurma veya sütlü tatlıların üzerine serpin.</li>\n<li>Fırında kısa süre ısıtıp üzerine biraz tarçın serperek sıcak servis edin.</li>\n</ul>\n<p><strong>Gramaj:</strong> 400 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Tahini Halva: The Fibrous, Crumbly Form of Sesame</h2>\n<p>Tahini Halva is a classic treat in which tahini made from sesame meets sweetness, known for its crumbly, fibrous texture. When cut with a knife it separates layer by layer, and in the mouth it dissolves with a sandy softness. The deep, slightly nutty note of sesame mellows the sweetness, giving the halva a balanced, satisfying taste.</p>\n<p>In Gaziantep, halva is a versatile sweet that suits many meals, from morning breakfast to evening tea. With its 400 g pack, Tillo Kochari's tahini halva offers a generous amount to be shared several times at the family table. Sliced and placed in bread, it also becomes a practical lunchtime snack for school and work bags.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>At breakfast, tuck thin slices into fresh bread.</li>\n<li>Crumble and sprinkle over ice cream or milk desserts.</li>\n<li>Warm briefly in the oven, sprinkle with a little cinnamon and serve hot.</li>\n</ul>\n<p><strong>Net Weight:</strong> 400 g</p>",
+    "ar": "<h2>حلاوة طحينية: السمسم في صورته الليفية المتفتتة</h2>\n<p>الحلاوة الطحينية مذاق كلاسيكي تلتقي فيه الطحينة المستخلصة من السمسم بالحلاوة، وتُعرف بقوامها الليفي المتفتت. عند تقطيعها بالسكين تنفصل طبقةً تلو أخرى، وفي الفم تذوب بنعومة رملية. وتلطّف نفحة السمسم العميقة ذات الطابع البندقي الخفيف حلاوتَها، فتمنحها مذاقًا متوازنًا مُشبِعًا.</p>\n<p>في غازي عنتاب، الحلاوة حلوى مرنة تناسب وجبات كثيرة، من فطور الصباح إلى شاي المساء. وتقدّم الحلاوة الطحينية من Tillo Kochari بعبوتها سعة 400 g كمية سخية تكفي للمشاركة عدة مرات على المائدة العائلية. وعند تقطيعها شرائح ووضعها بين الخبز، تتحول أيضًا إلى وجبة غداء خفيفة عملية لحقائب المدرسة والعمل.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>ضع شرائح رفيعة منها بين الخبز الطازج على الفطور.</li>\n<li>فتّتها وانثرها فوق المثلجات أو الحلويات المحضّرة بالحليب.</li>\n<li>سخّنها قليلًا في الفرن، وانثر فوقها قليلًا من القرفة وقدّمها ساخنة.</li>\n</ul>\n<p><strong>الوزن:</strong> 400 g</p>",
+    "de": "<h2>Tahin-Halva: Sesam in faseriger, bröseliger Form</h2>\n<p>Die Tahin-Halva ist eine klassische Süßigkeit, bei der aus Sesam gewonnenes Tahin auf Süße trifft, bekannt für ihre bröselige, faserige Textur. Mit dem Messer geschnitten, löst sie sich Schicht für Schicht, im Mund zergeht sie mit sandiger Zartheit. Die tiefe, leicht nussige Note des Sesams mildert die Süße und verleiht der Halva einen ausgewogenen, sättigenden Geschmack.</p>\n<p>In Gaziantep ist Halva eine vielseitige Süßspeise, die zu vielen Mahlzeiten passt – vom Frühstück bis zum Abendtee. Mit ihrer Packung von 400 g bietet die Tahin-Halva von Tillo Kochari eine großzügige Menge, die am Familientisch mehrmals geteilt werden kann. In Scheiben geschnitten und aufs Brot gelegt, wird sie zudem zu einem praktischen Pausensnack für Schul- und Arbeitstaschen.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Zum Frühstück dünne Scheiben in frisches Brot legen.</li>\n<li>Zerbröseln und über Eis oder Milchdesserts streuen.</li>\n<li>Kurz im Ofen erwärmen, mit etwas Zimt bestreuen und warm servieren.</li>\n</ul>\n<p><strong>Gewicht:</strong> 400 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>타히니 할바: 결이 살아 있는 바스러지는 참깨의 맛</h2>\n<p>타히니 할바는 참깨로 만든 타히니에 단맛을 더한, 잘 바스러지는 결 있는 식감으로 알려진 클래식 과자입니다. 칼로 자르면 겹겹이 결대로 나뉘고, 입안에서는 모래처럼 부드럽게 흩어집니다. 참깨의 깊고 은은하게 고소한 풍미가 단맛을 부드럽게 감싸 균형 잡히고 든든한 맛을 냅니다.</p>\n<p>가지안테프에서 할바는 아침 식사부터 저녁 차 시간까지 여러 끼니에 두루 어울리는 디저트입니다. 400 g 포장의 Tillo Kochari 타히니 할바는 가족 식탁에서 여러 번 나누어 먹을 수 있을 만큼 넉넉한 양을 제공합니다. 얇게 썰어 빵 사이에 넣으면 학교나 직장에 챙겨 가기 좋은 실용적인 점심 간식이 됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>아침 식사 때 갓 구운 빵 사이에 얇게 썰어 넣어 보세요.</li>\n<li>잘게 부수어 아이스크림이나 우유 디저트 위에 뿌려 보세요.</li>\n<li>오븐에서 잠시 데운 뒤 시나몬을 약간 뿌려 따뜻하게 내 보세요.</li>\n</ul>\n<p><strong>중량:</strong> 400 g</p>"
   },
-  "update": "2026-10-28T07:04:28.531Z",
+  "update": "2026-10-28T09:08:11.347Z",
   "date": "2026-05-20T09:54:45.389Z",
   "img": "index.webp"
 }

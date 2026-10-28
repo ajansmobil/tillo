@@ -1,0 +1,45 @@
+{
+  "id": "v8t42mspj8",
+  "name": {
+    "tr": "Lavaş ve Yufka Çeşitleri",
+    "en": "Lavash and Yufka Varieties",
+    "ar": "أنواع اللافاش واليوفكا",
+    "de": "Lavaş und Yufka",
+    "ko": "라바시 및 유프카 종류"
+  },
+  "description": {
+    "tr": "Tillo Kochari Lavaş ve Yufka Çeşitleri ürün grubu.",
+    "en": "Tillo Kochari Lavash and Yufka Varieties product group.",
+    "ar": "مجموعة منتجات أنواع اللافاش واليوفكا من تيلو كوشاري.",
+    "de": "Tillo Kochari Produktgruppe Lavaş und Yufka.",
+    "ko": "틸로 코차리 라바시 및 유프카 종류 제품군."
+  },
+  "keyword": {
+    "tr": "Tillo Kochari, Lavaş ve Yufka Çeşitleri",
+    "en": "Tillo Kochari, Lavash and Yufka Varieties",
+    "ar": "Tillo Kochari, أنواع اللافاش واليوفكا",
+    "de": "Tillo Kochari, Lavaş und Yufka",
+    "ko": "Tillo Kochari, 라바시 및 유프카 종류"
+  },
+  "path": "lavas-ve-yufka-cesitleri",
+  "icon": "category",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 18,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Lavaş ve Yufka Çeşitleri | Tillo Kochari",
+    "en": "Lavash and Yufka Varieties | Tillo Kochari",
+    "ar": "أنواع اللافاش واليوفكا | Tillo Kochari",
+    "de": "Lavaş und Yufka | Tillo Kochari",
+    "ko": "라바시 및 유프카 종류 | Tillo Kochari"
+  },
+  "date": "2026-10-28T08:07:44.219Z",
+  "update": "2026-10-28T08:07:44.446Z"
+}

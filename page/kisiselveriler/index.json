@@ -1,11 +1,10 @@
 {
   "name": {
     "tr": "Kişisel Veriler",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Personal Data",
+    "ar": "البيانات الشخصية",
+    "de": "Personenbezogene Daten",
+    "ko": "개인정보"
   },
   "status": "play",
   "id": "kisiselveriler",
@@ -13,11 +12,11 @@
   "category": "",
   "text": {
     "tr": "<h2 style=\"font-size: 24px;\">Kişisel Veriler</h2>\n    <p style=\"font-size: 16px;\">\n        Kişisel verileriniz, yalnızca yasal gereklilikleri karşılamak, taleplerinizi yerine getirmek ve size daha iyi hizmet sunmak amacıyla toplanmaktadır. Kişisel verilerinizin güvenliği bizim için önceliklidir ve bu verilerin korunması için 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) başta olmak üzere, ilgili tüm mevzuat çerçevesinde gerekli teknik ve idari tedbirleri almaktayız.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Toplanan kişisel veriler, yalnızca yetkili kişiler tarafından erişilebilir olup, izniniz dışında üçüncü taraflarla paylaşılmamaktadır. Kişisel verilerinizin hangi amaçlarla işlendiğini, nasıl saklandığını, kimlerle paylaşıldığını öğrenme hakkına sahipsiniz. Ayrıca, verilerinize erişim talep edebilir, düzeltilmesini, silinmesini veya anonim hale getirilmesini isteyebilirsiniz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kişisel verilerinizle ilgili herhangi bir sorunuz veya talebiniz olduğunda, Gizlilik Politikamızda belirtilen iletişim kanallarımız üzerinden bizimle iletişime geçebilirsiniz. Verilerinizin güvenliği ve mahremiyeti bizim için büyük önem taşımaktadır.\n    </p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2 style=\"font-size: 24px;\">Personal Data</h2>\n    <p style=\"font-size: 16px;\">\n        Your personal data are collected solely to meet legal requirements, fulfil your requests and provide you with better service. The security of your personal data is a priority for us, and we take the necessary technical and administrative measures to protect these data within the framework of all relevant legislation, in particular the Personal Data Protection Law No. 6698 (KVKK).\n    </p>\n    <p style=\"font-size: 16px;\">\n        Collected personal data are accessible only to authorised persons and are not shared with third parties without your consent. You have the right to learn for what purposes your personal data are processed, how they are stored and with whom they are shared. You may also request access to your data and ask for them to be corrected, deleted or anonymised.\n    </p>\n    <p style=\"font-size: 16px;\">\n        If you have any questions or requests regarding your personal data, you can contact us through the communication channels specified in our Privacy Policy. The security and confidentiality of your data are of great importance to us.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">البيانات الشخصية</h2>\n    <p style=\"font-size: 16px;\">\n        تُجمع بياناتكم الشخصية فقط للوفاء بالمتطلبات القانونية وتلبية طلباتكم وتقديم خدمة أفضل لكم. إن أمن بياناتكم الشخصية يمثل أولوية لدينا، ونتخذ التدابير الفنية والإدارية اللازمة لحماية هذه البيانات في إطار جميع التشريعات ذات الصلة، وفي مقدمتها قانون حماية البيانات الشخصية رقم 6698.\n    </p>\n    <p style=\"font-size: 16px;\">\n        لا يطّلع على البيانات الشخصية المجمعة إلا الأشخاص المخوَّلون، ولا تتم مشاركتها مع أطراف ثالثة دون إذنكم. ويحق لكم معرفة الأغراض التي تُعالج بياناتكم الشخصية من أجلها، وكيفية تخزينها، والجهات التي تتم مشاركتها معها. كما يمكنكم طلب الوصول إلى بياناتكم، وطلب تصحيحها أو حذفها أو إخفاء هويتها.\n    </p>\n    <p style=\"font-size: 16px;\">\n        إذا كانت لديكم أي أسئلة أو طلبات تتعلق ببياناتكم الشخصية، يمكنكم التواصل معنا عبر قنوات الاتصال المحددة في سياسة الخصوصية لدينا. إن أمن بياناتكم وسريتها يحظيان بأهمية كبيرة لدينا.\n    </p>",
+    "de": "<h2 style=\"font-size: 24px;\">Personenbezogene Daten</h2>\n    <p style=\"font-size: 16px;\">\n        Ihre personenbezogenen Daten werden ausschließlich erhoben, um gesetzliche Anforderungen zu erfüllen, Ihre Anliegen zu bearbeiten und Ihnen einen besseren Service zu bieten. Die Sicherheit Ihrer personenbezogenen Daten hat für uns Priorität; zu ihrem Schutz treffen wir im Rahmen aller einschlägigen Vorschriften, insbesondere des Gesetzes Nr. 6698 zum Schutz personenbezogener Daten (KVKK), die erforderlichen technischen und organisatorischen Maßnahmen.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Die erhobenen personenbezogenen Daten sind nur befugten Personen zugänglich und werden ohne Ihre Zustimmung nicht an Dritte weitergegeben. Sie haben das Recht zu erfahren, zu welchen Zwecken Ihre personenbezogenen Daten verarbeitet, wie sie gespeichert und an wen sie weitergegeben werden. Außerdem können Sie Auskunft über Ihre Daten verlangen sowie deren Berichtigung, Löschung oder Anonymisierung beantragen.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Bei Fragen oder Anliegen zu Ihren personenbezogenen Daten können Sie uns über die in unserer Datenschutzerklärung genannten Kommunikationskanäle kontaktieren. Die Sicherheit und Vertraulichkeit Ihrer Daten sind uns sehr wichtig.\n    </p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2 style=\"font-size: 24px;\">개인정보</h2>\n    <p style=\"font-size: 16px;\">\n        귀하의 개인정보는 법적 요건 충족, 요청 사항 처리, 더 나은 서비스 제공의 목적으로만 수집됩니다. 개인정보 보안은 당사의 우선 과제이며, 제6698호 개인정보보호법(KVKK)을 비롯한 모든 관련 법령에 따라 개인정보 보호에 필요한 기술적·관리적 조치를 취하고 있습니다.\n    </p>\n    <p style=\"font-size: 16px;\">\n        수집된 개인정보는 권한이 있는 담당자만 접근할 수 있으며, 귀하의 동의 없이 제3자와 공유되지 않습니다. 귀하는 개인정보가 어떤 목적으로 처리되고, 어떻게 보관되며, 누구와 공유되는지 알 권리가 있습니다. 또한 개인정보 열람을 요청하거나 정정, 삭제 또는 익명화를 요구할 수 있습니다.\n    </p>\n    <p style=\"font-size: 16px;\">\n        개인정보와 관련하여 문의나 요청 사항이 있으시면 개인정보 처리방침에 명시된 연락 채널을 통해 문의해 주시기 바랍니다. 귀하의 데이터 보안과 프라이버시는 당사에 매우 중요합니다.\n    </p>"
   },
   "desing": {
     "header": [],
@@ -29,28 +28,27 @@
   "icon": "home",
   "title": {
     "tr": "Kişisel Veriler | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Personal Data | Tillo Kochari",
+    "ar": "البيانات الشخصية | Tillo Kochari",
+    "de": "Personenbezogene Daten | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "개인정보 | Tillo Kochari"
   },
   "description": {
     "tr": "Tillo Kochari kişisel veriler aydınlatma metni. 6698 sayılı KVKK kapsamında veri sorumlusu bilgileri.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Tillo Kochari personal data information notice: data controller details under the Personal Data Protection Law No. 6698 (KVKK).",
+    "ar": "Tillo Kochari – نص الإفصاح عن البيانات الشخصية: معلومات المسؤول عن البيانات بموجب قانون حماية البيانات الشخصية رقم 6698.",
+    "de": "Tillo Kochari – Informationstext zu personenbezogenen Daten: Angaben zum Verantwortlichen gemäß dem Gesetz Nr. 6698 zum Schutz personenbezogener Daten (KVKK).",
+    "ko": "Tillo Kochari 개인정보 고지문으로, 제6698호 개인정보보호법(KVKK)에 따른 개인정보 처리자 정보를 안내합니다."
   },
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, kişisel veriler, KVKK aydınlatma, veri işleme",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, personal data, KVKK information notice, data processing",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, البيانات الشخصية, إشعار حماية البيانات, معالجة البيانات",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, personenbezogene Daten, KVKK-Informationspflicht, Datenverarbeitung",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 개인정보, KVKK 고지, 데이터 처리"
   },
-  "update": "2026-05-21T08:39:29.654Z",
+  "update": "2026-10-28T09:07:48.571Z",
   "date": "2026-05-19"
 }

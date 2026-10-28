@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Badem Kreması"
+    "tr": "Badem Kreması",
+    "en": "Almond Cream",
+    "ar": "كريمة اللوز",
+    "de": "Mandelcreme",
+    "ko": "아몬드 크림"
   },
   "status": "play",
-  "category": "c03badem",
+  "category": "c06meycip",
   "id": "zmumeqyq2m",
   "externalUrl": "",
   "path": "badem-kremasi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Badem Kreması, Badem Ezme ve Krema, badem ezmesi, badem ezme, doğal badem",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Almond Cream, Almond Butters & Creams, almond butter, almond spread, natural almonds",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, كريمة اللوز, زبدة وكريمة اللوز, زبدة اللوز, معجون اللوز, لوز طبيعي",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Mandelcreme, Mandelmus & -creme, Mandelmus, Mandelaufstrich, naturbelassene Mandeln",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 아몬드 크림, 아몬드 버터·크림, 아몬드 버터, 아몬드 스프레드, 천연 아몬드"
   },
   "description": {
-    "tr": "Tillo Kochari Badem Kreması: Kremamsı badem kreması. Badem Ezme ve Krema grubunda. Sunulan gramaj: 350 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Badem Kreması: Kremamsı badem kreması. Badem Ezme ve Krema grubunda. Sunulan gramaj: 350 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Almond Cream is a creamy almond cream from the Almond Butters & Creams range, offered in 350 g as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari كريمة اللوز هي كريمة لوز ناعمة القوام من مجموعة زبدة وكريمة اللوز، تتوفر بوزن 350 g، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Mandelcreme ist eine cremige Mandelcreme aus der Gruppe Mandelmus & -creme, erhältlich mit 350 g – ein Naturprodukt aus Gaziantep.",
+    "ko": "Tillo Kochari 아몬드 크림 제품은 아몬드 버터·크림 라인의 크리미한 아몬드 크림으로, 350 g 용량으로 제공되는 가지안테프의 천연 식품입니다."
   },
-  "index": 12,
+  "index": 88,
   "icon": "nutrition",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Badem Kreması | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Almond Cream | Tillo Kochari",
+    "ar": "كريمة اللوز | Tillo Kochari",
+    "de": "Mandelcreme | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "아몬드 크림 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Badem Kreması: Yumuşak ve Kolay Yayılan Badem Lezzeti</h2><p>Badem Kreması, bademi ezme kıvamından daha akışkan ve ipeksi bir forma taşır. Kaşıkla alındığında hafifçe akar, tabağa döküldüğünde düzgün bir yüzey oluşturur. Tillo Kochari'nin Gaziantep kökenli kahvaltılık serisinde, sade tadı ve kremamsı yapısıyla günün her saatine uyan bir kavanoz olarak yer alır.</p><p>Bademin ince aroması kremada yumuşak bir arka plan gibi durur; ne tatlıyı bastırır ne de tuzlu tabakta sırıtır. Bu yüzden hem kahvaltı tabağında hem de fırın tatlılarında gönül rahatlığıyla kullanılabilir. 350 gramlık kavanoz, birkaç haftalık kahvaltı ve tatlı denemesi için ölçülü bir miktar sunar.</p><h3>Kullanım Önerileri</h3><ul><li>Sıcak yulaf ya da irmik lapasının üzerine bir kaşık gezdirin.</li><li>Kruvasan veya poğaçayı ikiye kesip ortasına sürerek bademli bir kahvaltılık hazırlayın.</li><li>Çilek ve şeftali dilimlerini kremaya batırarak hafif bir meyve tabağı sunun.</li></ul><p><strong>Gramaj:</strong> 350 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Almond Cream: Smooth, Easy-Spreading Almond Flavor</h2><p>Almond Cream takes almonds beyond the consistency of a butter into a more fluid, silky form. It flows gently when scooped with a spoon and forms an even surface when poured onto a plate. In Tillo Kochari's Gaziantep-rooted breakfast range, it is a jar that suits any time of day, thanks to its plain taste and creamy texture.</p><p>The delicate aroma of almonds sits in the cream like a soft background; it neither overpowers desserts nor feels out of place on a savory plate. That is why it can be used with confidence both on the breakfast plate and in baked desserts. The 350 g jar offers a measured amount for a few weeks of breakfasts and dessert experiments.</p><h3>Serving Suggestions</h3><ul><li>Drizzle a spoonful over warm oatmeal or semolina porridge.</li><li>Slice a croissant or savory bun in half and spread it inside for an almond breakfast treat.</li><li>Dip strawberry and peach slices into the cream for a light fruit plate.</li></ul><p><strong>Weight:</strong> 350 g</p>",
+    "ar": "<h2>كريمة اللوز: نكهة لوز ناعمة وسهلة الدهن</h2><p>تنقل كريمة اللوز اللوزَ من قوام الزبدة إلى شكل أكثر سيولة ونعومة حريرية. تنساب قليلًا عند أخذها بالملعقة، وتشكّل سطحًا مستويًا عند سكبها في الطبق. وتحتل مكانها في سلسلة منتجات الإفطار من Tillo Kochari ذات الجذور في غازي عنتاب كبرطمان يناسب كل أوقات اليوم بفضل مذاقها البسيط وقوامها الكريمي.</p><p>يبقى عبير اللوز الرقيق في الكريمة كخلفية ناعمة؛ فلا يطغى على الحلويات ولا يبدو نشازًا في الطبق المالح. لذلك يمكن استخدامها باطمئنان في طبق الإفطار وفي حلويات الفرن على حد سواء. ويوفر البرطمان بوزن 350 g كمية معتدلة تكفي لبضعة أسابيع من وجبات الإفطار وتجارب الحلويات.</p><h3>اقتراحات الاستخدام</h3><ul><li>رشّ ملعقة منها فوق عصيدة الشوفان أو السميد الساخنة.</li><li>اقسم الكرواسون أو الفطيرة المالحة إلى نصفين وادهن وسطها لتحضير وجبة إفطار باللوز.</li><li>اغمس شرائح الفراولة والخوخ في الكريمة لتقديم طبق فاكهة خفيف.</li></ul><p><strong>الوزن:</strong> 350 g</p>",
+    "de": "<h2>Mandelcreme: Zarter, leicht streichbarer Mandelgeschmack</h2><p>Mandelcreme bringt Mandeln von der Konsistenz eines Muses in eine flüssigere, seidige Form. Vom Löffel fließt sie sanft ab, auf einem Teller bildet sie eine glatte Oberfläche. In der aus Gaziantep stammenden Frühstücksserie von Tillo Kochari ist sie dank ihres puren Geschmacks und ihrer cremigen Textur ein Glas, das zu jeder Tageszeit passt.</p><p>Das feine Mandelaroma liegt in der Creme wie ein sanfter Hintergrund; es überdeckt weder Süßes, noch wirkt es auf einem herzhaften Teller fehl am Platz. Deshalb lässt sie sich sowohl auf dem Frühstücksteller als auch in Ofendesserts bedenkenlos verwenden. Das Glas mit 350 g bietet eine maßvolle Menge für einige Wochen Frühstück und Dessertexperimente.</p><h3>Verwendungsvorschläge</h3><ul><li>Träufeln Sie einen Löffel über warmen Haferbrei oder Grießbrei.</li><li>Schneiden Sie ein Croissant oder ein herzhaftes Gebäckstück auf und bestreichen Sie es innen – für ein Frühstück mit Mandelnote.</li><li>Tauchen Sie Erdbeer- und Pfirsichscheiben in die Creme und servieren Sie einen leichten Obstteller.</li></ul><p><strong>Gewicht:</strong> 350 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>아몬드 크림: 부드럽고 쉽게 펴 발리는 아몬드의 맛</h2><p>아몬드 크림은 아몬드를 버터보다 묽고 실키한 형태로 담아낸 제품입니다. 숟가락으로 뜨면 부드럽게 흘러내리고, 접시에 부으면 매끈한 표면을 이룹니다. 가지안테프에 뿌리를 둔 Tillo Kochari의 아침 식사용 제품군 중에서, 담백한 맛과 크리미한 질감으로 하루 중 언제든 잘 어울리는 제품입니다.</p><p>아몬드의 섬세한 향이 크림 속에서 은은한 배경처럼 자리하여, 디저트의 맛을 덮지도 않고 짭짤한 요리에서도 튀지 않습니다. 그래서 아침 식사 접시에도, 오븐 디저트에도 안심하고 사용할 수 있습니다. 350 g 용량은 몇 주간의 아침 식사와 디저트 만들기에 적당한 양입니다.</p><h3>활용 방법</h3><ul><li>따뜻한 오트밀이나 세몰리나 죽 위에 한 숟가락 둘러 보세요.</li><li>크루아상이나 짭짤한 빵을 반으로 갈라 가운데에 발라 아몬드 풍미의 아침 메뉴를 준비해 보세요.</li><li>딸기와 복숭아 슬라이스를 크림에 찍어 가벼운 과일 플레이트로 즐겨 보세요.</li></ul><p><strong>중량:</strong> 350 g</p>"
   },
-  "update": "2026-10-28T07:04:25.713Z",
+  "update": "2026-10-28T09:08:12.071Z",
   "date": "2026-05-20T09:54:44.947Z",
   "img": "index.webp"
 }

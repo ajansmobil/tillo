@@ -1,11 +1,10 @@
 {
   "name": {
     "tr": "Kullanıcı Hakları",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "User Rights",
+    "ar": "حقوق المستخدم",
+    "de": "Nutzerrechte",
+    "ko": "이용자 권리"
   },
   "status": "play",
   "id": "kullanicahaklari",
@@ -13,11 +12,11 @@
   "category": "",
   "text": {
     "tr": "<h2 style=\"font-size: 24px;\">Kullanıcı Hakları</h2>\n    <p style=\"font-size: 16px;\">\n        Herkes, kişisel verilerinin korunmasını isteme hakkına sahiptir. Kişisel verilerinizin korunması bizim için çok önemlidir ve bu doğrultuda 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve ilgili mevzuat çerçevesinde hareket etmekteyiz. Kullanıcılar, verilerinin hangi amaçlarla toplandığı, nasıl saklandığı ve kimlerle paylaşıldığı konusunda bilgilendirilme hakkına sahiptir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kişisel verilerinizi güncelleme, düzeltme, silme ve anonimleştirme taleplerinde bulunabilirsiniz. Aynı zamanda, toplanan verilerin hangi amaçla kullanıldığı ve işleme süreciyle ilgili ayrıntılı bilgi talep edebilir, bu süreçlerde yer alan üçüncü taraflar hakkında bilgi alabilirsiniz. Haklarınızı kullanmak için bizimle her zaman iletişime geçebilirsiniz.</p>\n    <p style=\"font-size: 16px;\">\n        Kişisel verilerinizin korunması ve haklarınızla ilgili detaylı bilgi almak için sitemizde yer alan Gizlilik Politikası’nı inceleyebilirsiniz. Kullanıcı olarak, verilerinizin güvenliği bizim önceliğimizdir ve gerekli teknik ve idari önlemleri almış bulunmaktayız.</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2 style=\"font-size: 24px;\">User Rights</h2>\n    <p style=\"font-size: 16px;\">\n        Everyone has the right to request the protection of their personal data. Protecting your personal data is very important to us, and accordingly we act within the framework of the Personal Data Protection Law No. 6698 (KVKK) and related legislation. Users have the right to be informed about the purposes for which their data are collected, how they are stored and with whom they are shared.\n    </p>\n    <p style=\"font-size: 16px;\">\n        You may request that your personal data be updated, corrected, deleted or anonymised. You may also request detailed information on the purposes for which the collected data are used and on the processing procedure, and obtain information about third parties involved in these processes. You can contact us at any time to exercise your rights.</p>\n    <p style=\"font-size: 16px;\">\n        For detailed information on the protection of your personal data and your rights, please review the Privacy Policy on our website. For our users, the security of your data is our priority, and we have taken the necessary technical and administrative measures.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">حقوق المستخدم</h2>\n    <p style=\"font-size: 16px;\">\n        لكل شخص الحق في المطالبة بحماية بياناته الشخصية. إن حماية بياناتكم الشخصية أمر بالغ الأهمية بالنسبة لنا، ولذلك نعمل في إطار قانون حماية البيانات الشخصية رقم 6698 والتشريعات ذات الصلة. ويحق للمستخدمين الاطلاع على الأغراض التي تُجمع بياناتهم من أجلها، وكيفية تخزينها، والجهات التي تتم مشاركتها معها.\n    </p>\n    <p style=\"font-size: 16px;\">\n        يمكنكم تقديم طلبات لتحديث بياناتكم الشخصية أو تصحيحها أو حذفها أو إخفاء هويتها. كما يمكنكم طلب معلومات مفصلة حول الغرض من استخدام البيانات المجمعة وعملية معالجتها، والحصول على معلومات عن الأطراف الثالثة المشاركة في هذه العمليات. ويمكنكم التواصل معنا في أي وقت لممارسة حقوقكم.</p>\n    <p style=\"font-size: 16px;\">\n        للاطلاع على معلومات مفصلة حول حماية بياناتكم الشخصية وحقوقكم، يمكنكم مراجعة سياسة الخصوصية المنشورة على موقعنا. إن أمن بياناتكم بصفتكم مستخدمين يمثل أولوية لدينا، وقد اتخذنا التدابير الفنية والإدارية اللازمة.</p>",
+    "de": "<h2 style=\"font-size: 24px;\">Nutzerrechte</h2>\n    <p style=\"font-size: 16px;\">\n        Jeder hat das Recht, den Schutz seiner personenbezogenen Daten zu verlangen. Der Schutz Ihrer personenbezogenen Daten ist uns sehr wichtig; daher handeln wir im Rahmen des Gesetzes Nr. 6698 zum Schutz personenbezogener Daten (KVKK) und der einschlägigen Vorschriften. Nutzer haben das Recht, darüber informiert zu werden, zu welchen Zwecken ihre Daten erhoben, wie sie gespeichert und an wen sie weitergegeben werden.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sie können die Aktualisierung, Berichtigung, Löschung und Anonymisierung Ihrer personenbezogenen Daten beantragen. Zudem können Sie detaillierte Informationen darüber anfordern, zu welchem Zweck die erhobenen Daten verwendet werden und wie die Verarbeitung erfolgt, sowie Auskunft über an diesen Prozessen beteiligte Dritte erhalten. Zur Wahrnehmung Ihrer Rechte können Sie sich jederzeit an uns wenden.</p>\n    <p style=\"font-size: 16px;\">\n        Ausführliche Informationen zum Schutz Ihrer personenbezogenen Daten und zu Ihren Rechten finden Sie in der Datenschutzerklärung auf unserer Website. Die Sicherheit der Daten unserer Nutzer hat für uns Priorität, und wir haben die erforderlichen technischen und organisatorischen Maßnahmen getroffen.</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2 style=\"font-size: 24px;\">이용자 권리</h2>\n    <p style=\"font-size: 16px;\">\n        모든 사람은 자신의 개인정보 보호를 요구할 권리가 있습니다. 당사는 고객의 개인정보 보호를 매우 중요하게 여기며, 이에 따라 제6698호 개인정보보호법(KVKK) 및 관련 법령에 따라 운영하고 있습니다. 이용자는 자신의 데이터가 어떤 목적으로 수집되고, 어떻게 보관되며, 누구와 공유되는지에 대해 안내받을 권리가 있습니다.\n    </p>\n    <p style=\"font-size: 16px;\">\n        귀하는 개인정보의 갱신, 정정, 삭제 및 익명화를 요청할 수 있습니다. 또한 수집된 데이터의 이용 목적과 처리 과정에 관한 상세 정보를 요청할 수 있으며, 이 과정에 관여하는 제3자에 대한 정보도 받을 수 있습니다. 권리 행사를 위해 언제든지 당사에 문의하실 수 있습니다.</p>\n    <p style=\"font-size: 16px;\">\n        개인정보 보호 및 귀하의 권리에 관한 자세한 내용은 당사 웹사이트의 개인정보 처리방침을 참고하시기 바랍니다. 이용자 여러분의 데이터 보안은 당사의 우선 과제이며, 이를 위해 필요한 기술적·관리적 조치를 취하고 있습니다.</p>"
   },
   "desing": {
     "header": [],
@@ -29,28 +28,27 @@
   "icon": "home",
   "title": {
     "tr": "Kullanıcı Hakları | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "User Rights | Tillo Kochari",
+    "ar": "حقوق المستخدم | Tillo Kochari",
+    "de": "Nutzerrechte | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "이용자 권리 | Tillo Kochari"
   },
   "description": {
     "tr": "Tillo Kochari kullanıcı hakları. Tüketici hakları, sipariş ve iade süreçleri hakkında bilgi.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Tillo Kochari user rights: information on consumer rights and on order and return procedures.",
+    "ar": "Tillo Kochari – حقوق المستخدم: معلومات حول حقوق المستهلك وإجراءات الطلب والإرجاع.",
+    "de": "Tillo Kochari – Nutzerrechte: Informationen zu Verbraucherrechten sowie zu Bestell- und Rückgabeverfahren.",
+    "ko": "Tillo Kochari 이용자 권리 안내로, 소비자 권리와 주문 및 반품 절차에 관한 정보를 제공합니다."
   },
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, kullanıcı hakları, mesafeli satış, iade koşulları",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, user rights, distance selling, return conditions",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, حقوق المستخدم, البيع عن بعد, شروط الإرجاع",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Nutzerrechte, Fernabsatz, Rückgabebedingungen",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 이용자 권리, 통신 판매, 반품 조건"
   },
-  "update": "2026-05-21T08:39:29.660Z",
+  "update": "2026-10-28T09:07:49.072Z",
   "date": "2026-05-19"
 }

@@ -1,11 +1,10 @@
 {
   "name": {
     "tr": "Yasal Uyarı",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Legal Notice",
+    "ar": "إشعار قانوني",
+    "de": "Rechtlicher Hinweis",
+    "ko": "법적 고지"
   },
   "status": "play",
   "id": "yasaluyari",
@@ -13,11 +12,11 @@
   "category": "",
   "text": {
     "tr": "<h2 style=\"font-size: 24px;\">Yasal Uyarı</h2>\n    <p style=\" font-size: 16px;\">\n        Sitemizde yer alan tüm içerik, 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun'un hükümleri uyarınca korunmaktadır. Sitemizde yer alan hiçbir içeriğin kopyalanması, çoğaltılması, yayılması, satılması, dağıtılması, sergilenmesi, yayımlanması, herhangi bir şekilde ticari amaçla kullanılması veya başka platformlarda izinsiz olarak paylaşılması yasaktır. Bu kurallara aykırı hareket edenler, ilgili kanunlar kapsamında hukuki ve cezai yaptırımlarla karşılaşabilirler. </p>\n    <p style=\" font-size: 16px;\">\n        Sitemizde yer alan içeriğin hukuka aykırı bir şekilde kullanılması veya dağıtılması durumunda, sitemiz yetkili mercilere başvurma ve yasal haklarını koruma hakkını saklı tutar. İnternet ortamında yer alan içeriklerin izinsiz paylaşımı, hukuki olarak ağır yaptırımlar doğurabileceği gibi, eser sahiplerinin haklarını ihlal eder. Eser sahibi olarak haklarınızı korumanız gerektiği durumda, hukuki süreç başlatma hakkınız mevcuttur.</p>\n    <p style=\" font-size: 16px;\">\n        Sitemizde yer alan içeriklerin izinsiz kullanımını veya paylaşımını fark ederseniz, lütfen bizimle iletişime geçin. Sitemizi kullanmaya devam ederek, bu yasal uyarıyı kabul etmiş sayılırsınız.</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2 style=\"font-size: 24px;\">Legal Notice</h2>\n    <p style=\" font-size: 16px;\">\n        All content on our website is protected under the provisions of Law No. 5846 on Intellectual and Artistic Works and Law No. 5651 on the Regulation of Publications on the Internet and Combating Crimes Committed by Means of Such Publications. Copying, reproducing, disseminating, selling, distributing, exhibiting or publishing any content on our website, using it for commercial purposes in any way, or sharing it on other platforms without permission is prohibited. Those who act in violation of these rules may face civil and criminal sanctions under the relevant laws. </p>\n    <p style=\" font-size: 16px;\">\n        In the event that content on our website is used or distributed unlawfully, our website reserves the right to apply to the competent authorities and to protect its legal rights. Unauthorised sharing of content on the internet may lead to severe legal sanctions and infringes the rights of the authors. Where you need to protect your rights as an author, you have the right to initiate legal proceedings.</p>\n    <p style=\" font-size: 16px;\">\n        If you notice any unauthorised use or sharing of content on our website, please contact us. By continuing to use our website, you are deemed to have accepted this legal notice.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">إشعار قانوني</h2>\n    <p style=\" font-size: 16px;\">\n        جميع المحتويات الواردة على موقعنا محمية بموجب أحكام القانون رقم 5846 بشأن المصنفات الفكرية والفنية، والقانون رقم 5651 بشأن تنظيم المنشورات على الإنترنت ومكافحة الجرائم المرتكبة بواسطة هذه المنشورات. ويُحظر نسخ أي محتوى على موقعنا أو استنساخه أو نشره أو بيعه أو توزيعه أو عرضه أو إصداره أو استخدامه لأغراض تجارية بأي شكل من الأشكال أو مشاركته على منصات أخرى دون إذن. وقد يتعرض المخالفون لهذه القواعد لعقوبات مدنية وجزائية بموجب القوانين ذات الصلة. </p>\n    <p style=\" font-size: 16px;\">\n        في حال استخدام المحتوى الوارد على موقعنا أو توزيعه بشكل مخالف للقانون، يحتفظ موقعنا بحقه في اللجوء إلى السلطات المختصة وحماية حقوقه القانونية. إن المشاركة غير المصرح بها للمحتوى على الإنترنت قد تترتب عليها عقوبات قانونية صارمة، فضلًا عن انتهاكها لحقوق أصحاب المصنفات. وفي حال احتجتم إلى حماية حقوقكم بصفتكم أصحاب مصنفات، يحق لكم اتخاذ الإجراءات القانونية.</p>\n    <p style=\" font-size: 16px;\">\n        إذا لاحظتم أي استخدام أو مشاركة غير مصرح بهما للمحتوى الوارد على موقعنا، يُرجى التواصل معنا. وباستمراركم في استخدام موقعنا، تُعدّون موافقين على هذا الإشعار القانوني.</p>",
+    "de": "<h2 style=\"font-size: 24px;\">Rechtlicher Hinweis</h2>\n    <p style=\" font-size: 16px;\">\n        Sämtliche Inhalte unserer Website sind gemäß den Bestimmungen des Gesetzes Nr. 5846 über geistige und künstlerische Werke sowie des Gesetzes Nr. 5651 über die Regulierung von Veröffentlichungen im Internet und die Bekämpfung von durch solche Veröffentlichungen begangenen Straftaten geschützt. Das Kopieren, Vervielfältigen, Verbreiten, Verkaufen, Vertreiben, Ausstellen oder Veröffentlichen von Inhalten unserer Website, ihre Nutzung zu kommerziellen Zwecken in jeglicher Form sowie ihre unerlaubte Weitergabe auf anderen Plattformen sind untersagt. Wer gegen diese Regeln verstößt, kann nach den einschlägigen Gesetzen zivil- und strafrechtlich belangt werden. </p>\n    <p style=\" font-size: 16px;\">\n        Werden Inhalte unserer Website rechtswidrig genutzt oder verbreitet, behält sich unsere Website das Recht vor, die zuständigen Behörden einzuschalten und ihre gesetzlichen Rechte zu wahren. Die unerlaubte Weitergabe von Inhalten im Internet kann schwerwiegende rechtliche Sanktionen nach sich ziehen und verletzt die Rechte der Urheber. Sofern Sie Ihre Rechte als Urheber schützen müssen, steht Ihnen das Recht zu, rechtliche Schritte einzuleiten.</p>\n    <p style=\" font-size: 16px;\">\n        Sollten Sie eine unerlaubte Nutzung oder Weitergabe von Inhalten unserer Website bemerken, wenden Sie sich bitte an uns. Durch die weitere Nutzung unserer Website erklären Sie sich mit diesem rechtlichen Hinweis einverstanden.</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2 style=\"font-size: 24px;\">법적 고지</h2>\n    <p style=\" font-size: 16px;\">\n        당사 웹사이트의 모든 콘텐츠는 제5846호 지적 및 예술 저작물에 관한 법률과 제5651호 인터넷 게시물 규제 및 해당 게시물을 통한 범죄 방지에 관한 법률의 규정에 따라 보호됩니다. 당사 웹사이트의 어떠한 콘텐츠도 복사, 복제, 유포, 판매, 배포, 전시, 게재하거나, 어떠한 방식으로든 상업적 목적으로 이용하거나, 허가 없이 다른 플랫폼에 공유하는 것은 금지됩니다. 이러한 규정을 위반하는 경우 관련 법률에 따라 민사 및 형사상 제재를 받을 수 있습니다. </p>\n    <p style=\" font-size: 16px;\">\n        당사 웹사이트의 콘텐츠가 불법적으로 이용되거나 배포되는 경우, 당사 웹사이트는 관할 기관에 신고하고 법적 권리를 보호할 권리를 보유합니다. 인터넷상 콘텐츠의 무단 공유는 중대한 법적 제재로 이어질 수 있으며 저작권자의 권리를 침해합니다. 저작권자로서 권리를 보호해야 하는 경우, 귀하는 법적 절차를 개시할 권리가 있습니다.</p>\n    <p style=\" font-size: 16px;\">\n        당사 웹사이트 콘텐츠의 무단 이용 또는 공유를 발견하시면 당사에 연락해 주시기 바랍니다. 웹사이트를 계속 이용하시면 본 법적 고지에 동의한 것으로 간주됩니다.</p>"
   },
   "desing": {
     "header": [],
@@ -29,28 +28,27 @@
   "icon": "home",
   "title": {
     "tr": "Yasal Uyarı | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Legal Notice | Tillo Kochari",
+    "ar": "إشعار قانوني | Tillo Kochari",
+    "de": "Rechtlicher Hinweis | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "법적 고지 | Tillo Kochari"
   },
   "description": {
     "tr": "Tillo Kochari yasal uyarı. Web sitesi kullanım şartları ve yasal sorumluluk sınırları.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Tillo Kochari legal notice: website terms of use and limits of legal liability.",
+    "ar": "Tillo Kochari – إشعار قانوني: شروط استخدام الموقع الإلكتروني وحدود المسؤولية القانونية.",
+    "de": "Tillo Kochari – rechtlicher Hinweis: Nutzungsbedingungen der Website und Grenzen der rechtlichen Haftung.",
+    "ko": "Tillo Kochari 법적 고지로, 웹사이트 이용 약관과 법적 책임의 한계를 안내합니다."
   },
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, yasal uyarı, sorumluluk reddi, site kullanım şartları",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, legal notice, disclaimer, website terms of use",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, إشعار قانوني, إخلاء المسؤولية, شروط استخدام الموقع",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, rechtlicher Hinweis, Haftungsausschluss, Nutzungsbedingungen der Website",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 법적 고지, 면책 조항, 사이트 이용 약관"
   },
-  "update": "2026-05-21T08:39:29.667Z",
+  "update": "2026-10-28T09:08:10.351Z",
   "date": "2026-05-19"
 }

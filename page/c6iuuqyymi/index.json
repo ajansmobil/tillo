@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Acılı Ezme"
+    "tr": "Acılı Ezme",
+    "en": "Acılı Ezme (Spicy Pepper Meze)",
+    "ar": "إزمه حارّة (مازة الفلفل الحار)",
+    "de": "Acılı Ezme (scharfe Paprika-Meze)",
+    "ko": "아즐르 에즈메(매운 메제)"
   },
   "status": "play",
-  "category": "c13konserve",
+  "category": "c05kurumey",
   "id": "c6iuuqyymi",
   "externalUrl": "",
   "path": "acili-ezme",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Acılı Ezme, Salça, Turşu, Meze ve Soslar, salça, turşu, mezze, domates salçası",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Acılı Ezme, Pastes, Pickles, Meze and Sauces, paste, pickles, meze, tomato paste",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, إزمه حارّة, معاجين, مخللات, مازة وصلصات, معجون, مخلل, مازة, معجون الطماطم",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Acılı Ezme, Würzpasten, Eingelegtes, Meze und Soßen, Würzpaste, Sauergemüse, Meze, Tomatenmark",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 아즐르 에즈메, 페이스트, 피클, 메제 및 소스, 페이스트, 피클, 메제, 토마토 페이스트"
   },
   "description": {
-    "tr": "Tillo Kochari Acılı Ezme: Hatay usulü ezme. Salça, Turşu, Meze ve Soslar grubunda. Sunulan gramaj: 300 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Acılı Ezme: Hatay usulü ezme. Salça, Turşu, Meze ve Soslar grubunda. Sunulan gramaj: 300 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Acılı Ezme is a Hatay-style ezme from the Pastes, Pickles, Meze and Sauces range, offered in 300 g – a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari إزمه حارّة: إزمه على طريقة هاتاي من فئة المعاجين والمخللات والمازة والصلصات، متوفرة بوزن 300 g، وهي غذاء طبيعي ذو أصول من غازي عنتاب.",
+    "de": "Tillo Kochari Acılı Ezme ist eine Ezme nach Hatay-Art aus der Kategorie Würzpasten, Eingelegtes, Meze und Soßen, erhältlich in 300 g – ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 아즐르 에즈메는 페이스트, 피클, 메제 및 소스 카테고리의 하타이식 에즈메로, 300 g 용량으로 제공되는 가지안테프 기반의 자연 식품입니다."
   },
-  "index": 115,
+  "index": 191,
   "icon": "lunch_dining",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Acılı Ezme | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Acılı Ezme (Spicy Pepper Meze) | Tillo Kochari",
+    "ar": "إزمه حارّة (مازة الفلفل الحار) | Tillo Kochari",
+    "de": "Acılı Ezme (scharfe Paprika-Meze) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "아즐르 에즈메(매운 메제) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Hatay Usulü Acılı Ezme: Sofraya Canlı Bir Acı</h2>\n<p>Tillo Kochari Acılı Ezme, Hatay usulüyle hazırlanan ve acısını saklamayan bir mezedir. İnce kıyılmış dokusu kaşıkta kolayca toplanır; ilk lokmada biberin canlılığı, ardından ferah bir ekşilik hissedilir. Kebap tabağının yanında olduğu kadar bir dilim taze ekmeğin üstünde de iştah açan bir eşlikçi olur.</p>\n<p>Gaziantep ile Hatay arasındaki mutfak akrabalığı, iki şehrin sofralarında ezmeyi vazgeçilmez kılar. Bu yakınlıktan yola çıkan Tillo Kochari, acılı ezmeyi 300 gramlık bir boyla mutfağınıza getiriyor. Izgara akşamlarında, aceleyle hazırlanan öğle yemeklerinde ya da kalabalık meze sofralarında hazır bir lezzet olarak elinizin altında durur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Adana ya da Urfa kebabının yanına bolca koyup ince lavaşla birlikte servis edin.</li>\n<li>Haşlanmış nohut ve doğranmış yeşilliklerle karıştırarak acılı bir nohut salatası hazırlayın.</li>\n<li>Sahanda yumurtanın kenarına bir kaşık ekleyerek kahvaltıya hareket katın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 300 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Hatay-Style Acılı Ezme: Lively Heat for the Table</h2>\n<p>Tillo Kochari Acılı Ezme is a meze prepared in the Hatay style that makes no secret of its heat. Its finely chopped texture gathers easily on a spoon; the first bite brings the liveliness of the peppers, followed by a refreshing tang. It is an appetising companion on a slice of fresh bread just as much as beside a kebab platter.</p>\n<p>The culinary kinship between Gaziantep and Hatay makes ezme indispensable on the tables of both cities. Drawing on this closeness, Tillo Kochari brings spicy ezme to your kitchen in a 300 g size. It stays within reach as a ready-made flavour for barbecue evenings, hurried lunches or crowded meze tables.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve generously alongside Adana or Urfa kebab with thin lavash.</li>\n<li>Mix with boiled chickpeas and chopped greens for a spicy chickpea salad.</li>\n<li>Add a spoonful beside pan-fried eggs to liven up breakfast.</li>\n</ul>\n<p><strong>Weight:</strong> 300 g</p>",
+    "ar": "<h2>إزمه حارّة على طريقة هاتاي: حرارة نابضة على المائدة</h2>\n<p>إزمه Tillo Kochari الحارّة مازة تُحضَّر على طريقة هاتاي ولا تُخفي حرارتها. يُجمع قوامها المفروم ناعمًا بسهولة بالملعقة؛ ومع اللقمة الأولى تشعر بحيوية الفلفل، تليها حموضة منعشة. وهي رفيق فاتح للشهية فوق شريحة من الخبز الطازج بقدر ما هي بجانب طبق الكباب.</p>\n<p>القرابة المطبخية بين غازي عنتاب وهاتاي تجعل الإزمه طبقًا لا غنى عنه على موائد المدينتين. وانطلاقًا من هذا القرب، تقدّم Tillo Kochari الإزمه الحارّة إلى مطبخك بحجم 300 g. وتبقى في متناول يدك نكهةً جاهزة لأمسيات الشواء، أو لوجبات الغداء المُعدّة على عجل، أو لموائد المازة العامرة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>قدّمها بسخاء بجانب كباب أضنة أو كباب أورفة مع خبز اللافاش الرقيق.</li>\n<li>اخلطها مع الحمص المسلوق والخضار الورقية المفرومة لتحضير سلطة حمص حارّة.</li>\n<li>أضف ملعقة منها بجانب البيض المطهو في المقلاة لإضفاء حيوية على الفطور.</li>\n</ul>\n<p><strong>الوزن:</strong> 300 g</p>",
+    "de": "<h2>Acılı Ezme nach Hatay-Art: Lebendige Schärfe für den Tisch</h2>\n<p>Tillo Kochari Acılı Ezme ist eine nach Hatay-Art zubereitete Meze, die ihre Schärfe nicht versteckt. Ihre fein gehackte Textur lässt sich leicht mit dem Löffel aufnehmen; beim ersten Bissen spürt man die Lebendigkeit der Paprika, gefolgt von einer erfrischenden Säure. Sie ist ein appetitanregender Begleiter auf einer Scheibe frischem Brot ebenso wie neben einer Kebabplatte.</p>\n<p>Die kulinarische Verwandtschaft zwischen Gaziantep und Hatay macht Ezme auf den Tafeln beider Städte unverzichtbar. Ausgehend von dieser Nähe bringt Tillo Kochari die scharfe Ezme in einer 300-g-Größe in Ihre Küche. Sie steht als fertiger Genuss für Grillabende, schnelle Mittagessen oder große Meze-Runden griffbereit.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Großzügig zu Adana- oder Urfa-Kebab mit dünnem Lavash-Brot servieren.</li>\n<li>Mit gekochten Kichererbsen und gehacktem Grün zu einem scharfen Kichererbsensalat vermengen.</li>\n<li>Einen Löffel neben Eier aus der Pfanne geben, um das Frühstück zu beleben.</li>\n</ul>\n<p><strong>Gewicht:</strong> 300 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>하타이식 아즐르 에즈메, 식탁 위의 생생한 매운맛</h2>\n<p>Tillo Kochari 아즐르 에즈메는 하타이 방식으로 만든, 매운맛을 감추지 않는 메제입니다. 곱게 다진 질감이라 숟가락으로 쉽게 뜰 수 있으며, 첫입에는 고추의 생동감이, 이어서 산뜻한 새콤함이 느껴집니다. 케밥 플래터 옆은 물론 신선한 빵 한 조각 위에서도 입맛을 돋우는 곁들임이 됩니다.</p>\n<p>가지안테프와 하타이의 가까운 음식 문화 덕분에 에즈메는 두 도시의 식탁에서 빠질 수 없는 메뉴입니다. 이러한 가까움에서 출발한 Tillo Kochari는 아즐르 에즈메를 300 g 용량으로 여러분의 주방에 전합니다. 바비큐를 즐기는 저녁, 서둘러 준비하는 점심, 여럿이 모이는 메제 식탁에서 언제든 꺼내 쓸 수 있는 준비된 맛입니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>아다나 케밥이나 우르파 케밥 옆에 넉넉히 담아 얇은 라바시와 함께 냅니다.</li>\n<li>삶은 병아리콩, 다진 채소와 섞어 매콤한 병아리콩 샐러드를 만듭니다.</li>\n<li>팬에 익힌 달걀 옆에 한 숟가락 곁들여 아침 식사에 활력을 더합니다.</li>\n</ul>\n<p><strong>중량:</strong> 300 g</p>"
   },
-  "update": "2026-10-28T07:04:31.283Z",
+  "update": "2026-10-28T09:07:36.103Z",
   "date": "2026-05-20T09:54:45.816Z",
   "img": "index.webp"
 }

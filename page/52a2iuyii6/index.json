@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "İncir Cipsi"
+    "tr": "İncir Cipsi",
+    "en": "Fig Chips",
+    "ar": "رقائق التين",
+    "de": "Feigenchips",
+    "ko": "무화과칩"
   },
   "status": "play",
-  "category": "c06meycip",
+  "category": "c13konserve",
   "id": "52a2iuyii6",
   "externalUrl": "",
   "path": "i-ncir-cipsi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, İncir Cipsi, Meyve Cipsleri, meyve cipsi, elma cipsi, kuru meyve cips, sağlıklı atıştırmalık",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Fig Chips, Fruit Chips, fruit chips, apple chips, dried fruit chips, healthy snack",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, رقائق التين, رقائق الفواكه, رقائق فواكه, رقائق التفاح, رقائق فواكه مجففة, وجبة خفيفة صحية",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Feigenchips, Fruchtchips, Obstchips, Apfelchips, getrocknete Fruchtchips, gesunder Snack",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 무화과칩, 과일칩, 과일 칩, 사과칩, 건과일 칩, 건강 간식"
   },
   "description": {
-    "tr": "Tillo Kochari İncir Cipsi: İnce dilim incir. Meyve Cipsleri grubunda. Sunulan gramaj: 80 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari İncir Cipsi: İnce dilim incir. Meyve Cipsleri grubunda. Sunulan gramaj: 80 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Fig Chips: thinly sliced figs from the Fruit Chips range, offered in an 80 g pack — natural food from Gaziantep.",
+    "ar": "Tillo Kochari رقائق التين: شرائح تين رفيعة ضمن فئة رقائق الفواكه، تُقدَّم بوزن 80 g، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Feigenchips: dünn geschnittene Feigen aus der Kategorie Fruchtchips, angeboten in 80 g – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 무화과칩은 무화과를 얇게 썰어 만든 과일칩 제품으로, 80 g 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 38,
+  "index": 114,
   "icon": "breakfast_dining",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "İncir Cipsi | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Fig Chips | Tillo Kochari",
+    "ar": "رقائق التين | Tillo Kochari",
+    "de": "Feigenchips | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "무화과칩 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>İncir Cipsi: İnce Dilimlerde Yoğun Bir Meyve Tadı</h2><p>İncir Cipsi, incirin ince dilimler hâlinde kurutulmasıyla hazırlanan hafif bir atıştırmalıktır. Dilimlerin kenarı çıtır kalırken ortadaki küçük çekirdekler ağızda tanıdık bir tıkırtı bırakır. Taze incirin bala yakın tatlılığını, çantada ya da masa çekmecesinde taşınabilecek kadar pratik bir biçime sokar.</p><p>Gaziantep merkezli Tillo Kochari'nin meyve cipsleri arasında İncir Cipsi, en sade tadı arayanlara hitap eder. Çay saatinde bir avuç yeterli olur, peynir tabağında ise tuzlu tatlara dengeli bir eşlik sunar. Paketi açtıktan sonra ağzını sıkıca kapatmak, dilimlerin çıtırlığını korumaya yardım eder.</p><h3>Kullanım Önerileri</h3><ul><li>Keçi peyniri ve cevizle hazırlanan bir peynir tabağına ekleyin.</li><li>Sade yoğurdun ya da granolanın üzerine kırarak serpin.</li><li>Bitter çikolatayla birlikte kahvenin yanında ikram edin.</li></ul><p><strong>Gramaj:</strong> 80 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Fig Chips: Intense Fruit Flavour in Thin Slices</h2><p>Fig Chips are a light snack made by drying figs in thin slices. While the edges of the slices stay crisp, the small seeds in the centre leave a familiar crunch in the mouth. They turn the honey-like sweetness of fresh figs into a form practical enough to carry in a bag or a desk drawer.</p><p>Among the fruit chips of Gaziantep-based Tillo Kochari, Fig Chips appeal to those seeking the simplest flavour. A handful is enough at teatime, while on a cheese board they offer a balanced companion to salty flavours. Sealing the pack tightly after opening helps the slices keep their crunch.</p><h3>Serving Suggestions</h3><ul><li>Add them to a cheese board prepared with goat's cheese and walnuts.</li><li>Crumble and sprinkle them over plain yoghurt or granola.</li><li>Serve them with dark chocolate alongside coffee.</li></ul><p><strong>Weight:</strong> 80 g</p>",
+    "ar": "<h2>رقائق التين: نكهة فاكهة مركّزة في شرائح رفيعة</h2><p>رقائق التين وجبة خفيفة تُحضَّر بتجفيف التين على شكل شرائح رفيعة. وبينما تبقى حواف الشرائح مقرمشة، تترك البذور الصغيرة في الوسط طقطقة مألوفة في الفم. وهي تحوّل حلاوة التين الطازج القريبة من العسل إلى شكل عملي يمكن حمله في الحقيبة أو في درج المكتب.</p><p>من بين رقائق الفواكه لدى Tillo Kochari التي تتخذ من غازي عنتاب مقرًا لها، تخاطب رقائق التين من يبحث عن أبسط النكهات. فحفنة منها تكفي في وقت الشاي، بينما تقدّم في طبق الأجبان رفقة متوازنة للنكهات المالحة. ويساعد إغلاق العبوة بإحكام بعد فتحها على احتفاظ الشرائح بقرمشتها.</p><h3>اقتراحات للاستخدام</h3><ul><li>أضفها إلى طبق أجبان مُحضَّر بجبن الماعز والجوز.</li><li>فتّتها وانثرها فوق الزبادي الطبيعي أو الغرانولا.</li><li>قدّمها مع الشوكولاتة الداكنة إلى جانب القهوة.</li></ul><p><strong>الوزن:</strong> 80 g</p>",
+    "de": "<h2>Feigenchips: Intensiver Fruchtgeschmack in dünnen Scheiben</h2><p>Feigenchips sind ein leichter Snack, der durch das Trocknen von Feigen in dünnen Scheiben entsteht. Während die Ränder der Scheiben knusprig bleiben, sorgen die kleinen Kerne in der Mitte für ein vertrautes Knacken im Mund. So wird die honigartige Süße frischer Feigen zu einer Form, die sich praktisch in der Tasche oder in der Schreibtischschublade mitnehmen lässt.</p><p>Unter den Fruchtchips von Tillo Kochari mit Sitz in Gaziantep sprechen die Feigenchips alle an, die den schlichtesten Geschmack suchen. Zur Teezeit genügt eine Handvoll, auf der Käseplatte bieten sie eine ausgewogene Begleitung zu salzigen Aromen. Wird die Packung nach dem Öffnen fest verschlossen, bleiben die Scheiben länger knusprig.</p><h3>Verwendungsvorschläge</h3><ul><li>Eine Käseplatte mit Ziegenkäse und Walnüssen damit ergänzen.</li><li>Zerbröselt über Naturjoghurt oder Granola streuen.</li><li>Zusammen mit Zartbitterschokolade zum Kaffee reichen.</li></ul><p><strong>Gewicht:</strong> 80 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>무화과칩: 얇은 슬라이스에 담긴 진한 과일 맛</h2><p>무화과칩은 무화과를 얇게 썰어 말려 만든 가벼운 간식입니다. 슬라이스 가장자리는 바삭하게 유지되고, 가운데의 작은 씨앗은 입안에서 익숙하게 톡톡 씹힙니다. 생무화과의 꿀 같은 단맛을 가방이나 책상 서랍에 넣고 다닐 만큼 간편한 형태로 담았습니다.</p><p>가지안테프에 본사를 둔 Tillo Kochari의 과일칩 가운데 무화과칩은 가장 담백한 맛을 찾는 분들께 어울립니다. 티타임에는 한 줌이면 충분하고, 치즈 플래터에서는 짭짤한 맛과 균형 잡힌 조화를 이룹니다. 개봉 후 입구를 단단히 밀봉하면 슬라이스의 바삭함을 유지하는 데 도움이 됩니다.</p><h3>활용 제안</h3><ul><li>염소 치즈와 호두로 차린 치즈 플래터에 곁들여 보세요.</li><li>플레인 요거트나 그래놀라 위에 부숴 뿌려 보세요.</li><li>다크 초콜릿과 함께 커피에 곁들여 내어 보세요.</li></ul><p><strong>중량:</strong> 80 g</p>"
   },
-  "update": "2026-10-28T07:04:27.085Z",
+  "update": "2026-10-28T09:07:24.978Z",
   "date": "2026-05-20T09:54:45.158Z",
   "img": "index.webp"
 }

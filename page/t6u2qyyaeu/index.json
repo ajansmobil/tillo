@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Pişmaniye"
+    "tr": "Pişmaniye",
+    "en": "Pişmaniye (Turkish Floss Halva)",
+    "ar": "بشمانية (غزل البنات التركي)",
+    "de": "Pişmaniye (türkisches Fadenhalva)",
+    "ko": "피슈마니예 (튀르키예식 실타래 할바)"
   },
   "status": "play",
-  "category": "c09gelenek",
+  "category": "c12sut",
   "id": "t6u2qyyaeu",
   "externalUrl": "",
   "path": "pismaniye",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Pişmaniye, Lokum, Pestil ve Geleneksel Tatlılar, lokum, pestil, köme, tahin helva",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Pişmaniye, Turkish Delight, Pestil and Traditional Sweets, lokum, pestil, köme, tahini halva",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, بشمانية, راحة الحلقوم, البستيل والحلويات التقليدية, لوكوم, بستيل, كومة, حلاوة طحينية",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Pişmaniye, Lokum, Pestil und traditionelle Süßwaren, Lokum, Pestil, Köme, Tahin-Halva",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 피슈마니예, 로쿰, 페스틸 및 전통 디저트, 로쿰, 페스틸, 쾨메, 타히니 할바"
   },
   "description": {
-    "tr": "Tillo Kochari Pişmaniye: İnce çekilmiş pişmaniye. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 200 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Pişmaniye: İnce çekilmiş pişmaniye. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 200 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Pişmaniye is finely pulled pişmaniye from the Turkish Delight, Pestil and Traditional Sweets range, offered in 200 g as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari — بشمانية: بشمانية مسحوبة بخيوط رقيقة ضمن فئة راحة الحلقوم والبستيل والحلويات التقليدية، تُقدَّم بوزن 200 g، وهي غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Pişmaniye – fein gezogene Pişmaniye aus der Kategorie Lokum, Pestil und traditionelle Süßwaren, angeboten in 200 g, ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 피슈마니예는 로쿰, 페스틸 및 전통 디저트 카테고리의 가늘게 뽑아낸 피슈마니예로, 200 g으로 제공되는 가지안테프 출신의 자연 식품입니다."
   },
-  "index": 70,
+  "index": 146,
   "icon": "cake",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Pişmaniye | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Pişmaniye (Turkish Floss Halva) | Tillo Kochari",
+    "ar": "بشمانية (غزل البنات التركي) | Tillo Kochari",
+    "de": "Pişmaniye (türkisches Fadenhalva) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "피슈마니예 (튀르키예식 실타래 할바) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>İnce Çekilmiş Pişmaniye</h2>\n<p>Pişmaniye, ince çekilmiş tel tel yapısıyla ağızda pamuk gibi eriyen hafif bir tatlıdır. Parmaklar arasında tutulduğunda kolayca dağılır; ilk lokmada yoğun bir şekerlilik yerine yumuşak ve hafif bir tatlılık bırakır. Ağır şerbetli tatlılardan sonra daha hafif bir şey arayanlar için uygun, sade bir ikramlıktır.</p>\n<p>Tillo Kochari'nin Gaziantep'ten uzanan tatlı seçkisinde pişmaniye, en narin dokulu ürünlerden biri olarak yer alıyor. 200 gramlık paket küçük görünse de pişmaniyenin hacimli yapısı sayesinde birkaç kişilik bir çay sohbetine rahatça yeter. Nemden uzak tutulduğunda tellerin hafifliği daha iyi korunur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Bir top dondurmanın üzerine bir tutam pişmaniye koyarak servis edin.</li>\n<li>Sütlü tatlıların üstünü süslemek için ince bir katman hâlinde kullanın.</li>\n<li>Demli çayın yanında küçük kâselerde, parmakla yenecek bir ikram olarak sunun.</li>\n</ul>\n<p><strong>Gramaj:</strong> 200 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Finely Pulled Pişmaniye</h2>\n<p>Pişmaniye is a light sweet with a finely pulled, threadlike texture that melts in the mouth like cotton. It falls apart easily when held between the fingers, and the first bite leaves a soft, light sweetness rather than an intense sugariness. It is a simple treat suited to those looking for something lighter after heavy syrup-soaked desserts.</p>\n<p>In Tillo Kochari's selection of sweets reaching out from Gaziantep, pişmaniye stands as one of the most delicately textured products. Although the 200 g pack may look small, the airy volume of pişmaniye means it easily stretches to a tea gathering for several people. Kept away from moisture, the lightness of its threads is better preserved.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve with a pinch of pişmaniye on top of a scoop of ice cream.</li>\n<li>Use it as a thin layer to decorate the top of milk-based desserts.</li>\n<li>Offer it in small bowls alongside strongly brewed tea as a finger-food treat.</li>\n</ul>\n<p><strong>Weight:</strong> 200 g</p>",
+    "ar": "<h2>بشمانية مسحوبة بخيوط رقيقة</h2>\n<p>البشمانية حلوى خفيفة تذوب في الفم كالقطن بفضل بنيتها المسحوبة خيوطًا رقيقة. تتفكك بسهولة حين تُمسك بين الأصابع، وتترك اللقمة الأولى حلاوة ناعمة وخفيفة بدلًا من سُكّرية كثيفة. إنها ضيافة بسيطة تناسب من يبحث عن شيء أخف بعد الحلويات الثقيلة المشبعة بالقطر.</p>\n<p>تحتل البشمانية في تشكيلة حلويات Tillo Kochari الممتدة من غازي عنتاب مكانةً بين أرقّ المنتجات قوامًا. ورغم أن العبوة بوزن 200 g قد تبدو صغيرة، فإن حجم البشمانية المنفوش يجعلها تكفي بسهولة جلسة شاي لعدة أشخاص. وعند حفظها بعيدًا عن الرطوبة تبقى خفة خيوطها محفوظة على نحو أفضل.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>قدّمها بوضع رشة من البشمانية فوق كرة من المثلجات.</li>\n<li>استخدمها طبقة رقيقة لتزيين سطح الحلويات بالحليب.</li>\n<li>قدّمها في أوعية صغيرة إلى جانب الشاي الثقيل ضيافةً تؤكل بالأصابع.</li>\n</ul>\n<p><strong>الوزن:</strong> 200 g</p>",
+    "de": "<h2>Fein gezogene Pişmaniye</h2>\n<p>Pişmaniye ist eine leichte Süßigkeit, die mit ihrer fein gezogenen, fadenartigen Struktur wie Watte im Mund zergeht. Zwischen den Fingern zerfällt sie leicht; der erste Bissen hinterlässt statt intensiver Zuckersüße eine sanfte, leichte Süße. Sie ist eine schlichte Nascherei für alle, die nach schweren, in Sirup getränkten Desserts etwas Leichteres suchen.</p>\n<p>In der von Gaziantep ausgehenden Süßwarenauswahl von Tillo Kochari zählt Pişmaniye zu den Produkten mit der zartesten Textur. Auch wenn die 200-g-Packung klein wirken mag, reicht sie dank des luftigen Volumens der Pişmaniye bequem für eine Teerunde mit mehreren Personen. Vor Feuchtigkeit geschützt, bleibt die Leichtigkeit der Fäden besser erhalten.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Eine Prise Pişmaniye auf einer Kugel Eis servieren.</li>\n<li>Als dünne Schicht zum Verzieren von Milchdesserts verwenden.</li>\n<li>Zu kräftig aufgebrühtem Tee in kleinen Schälchen als Fingerfood anbieten.</li>\n</ul>\n<p><strong>Gewicht:</strong> 200 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>가늘게 뽑아낸 피슈마니예</h2>\n<p>피슈마니예는 가늘게 뽑아낸 실타래 같은 결 덕분에 입안에서 솜처럼 녹아내리는 가벼운 디저트입니다. 손가락으로 집으면 쉽게 흩어지며, 첫 입에 진한 설탕 맛 대신 부드럽고 은은한 단맛을 남깁니다. 시럽이 듬뿍 밴 무거운 디저트 뒤에 가벼운 것을 찾는 분들께 어울리는 담백한 간식입니다.</p>\n<p>가지안테프에서 이어지는 Tillo Kochari의 디저트 셀렉션에서 피슈마니예는 가장 섬세한 식감을 지닌 제품 중 하나입니다. 200 g 포장은 작아 보일 수 있지만, 부피감 있는 피슈마니예의 특성 덕분에 여러 명이 함께하는 차 모임에도 넉넉합니다. 습기를 피해 보관하면 실의 가벼움이 더 잘 유지됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>아이스크림 한 스쿱 위에 피슈마니예를 한 줌 올려 내기 좋습니다.</li>\n<li>우유 디저트 위를 장식하는 얇은 토핑으로 활용할 수 있습니다.</li>\n<li>진하게 우린 차와 함께 작은 그릇에 담아 손으로 집어 먹는 다과로 내기 좋습니다.</li>\n</ul>\n<p><strong>중량:</strong> 200 g</p>"
   },
-  "update": "2026-10-28T07:04:28.814Z",
+  "update": "2026-10-28T09:08:03.012Z",
   "date": "2026-05-20T09:54:45.426Z",
   "img": "index.webp"
 }

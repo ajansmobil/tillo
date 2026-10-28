@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Kuru Üzüm (Sultani)"
+    "tr": "Kuru Üzüm (Sultani)",
+    "en": "Raisins (Sultana)",
+    "ar": "زبيب (سلطانة)",
+    "de": "Rosinen (Sultaninen)",
+    "ko": "건포도 (술타나)"
   },
   "status": "play",
-  "category": "c05kurumey",
+  "category": "c13konserve",
   "id": "nmi6ammqaa",
   "externalUrl": "",
   "path": "kuru-uzum-sultani",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kuru Üzüm (Sultani), Kurutulmuş Meyveler, kurutulmuş meyve, kuru kayısı, kuru incir, gün kurusu",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Raisins (Sultana), Dried Fruits, dried fruit, dried apricots, dried figs, sun-dried",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, زبيب (سلطانة), الفواكه المجففة, فاكهة مجففة, مشمش مجفف, تين مجفف, مجفف بالشمس",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Rosinen (Sultaninen), Trockenfrüchte, Trockenobst, getrocknete Aprikosen, getrocknete Feigen, sonnengetrocknet",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 건포도 (술타나), 건과일, 말린 과일, 말린 살구, 말린 무화과, 햇볕 건조"
   },
   "description": {
-    "tr": "Tillo Kochari Kuru Üzüm (Sultani): Çekirdeksiz kuru üzüm. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 250 g / 500 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Kuru Üzüm (Sultani): Çekirdeksiz kuru üzüm. Kurutulmuş Meyveler grubunda. Sunulan gramaj: 250 g / 500 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Raisins (Sultana): seedless raisins from the Dried Fruits range, offered in 250 g / 500 g – a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari – زبيب (سلطانة) بدون بذور من مجموعة الفواكه المجففة، متوفر بأوزان 250 g / 500 g، غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Rosinen (Sultaninen): kernlose Rosinen aus der Gruppe Trockenfrüchte, erhältlich in 250 g / 500 g – ein natürliches Lebensmittel mit Ursprung in Gaziantep.",
+    "ko": "Tillo Kochari 건포도 (술타나)는 씨 없는 건포도로 건과일군에 속하며, 250 g / 500 g으로 제공되는 가지안테프에 뿌리를 둔 천연 식품입니다."
   },
-  "index": 24,
+  "index": 100,
   "icon": "spa",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Kuru Üzüm (Sultani) | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Raisins (Sultana) | Tillo Kochari",
+    "ar": "زبيب (سلطانة) | Tillo Kochari",
+    "de": "Rosinen (Sultaninen) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "건포도 (술타나) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kuru Üzüm (Sultani): Çekirdeksiz ve Pratik</h2><p>Sultani, çekirdeksiz yapısıyla mutfakta en rahat kullanılan kuru üzüm çeşitlerinden biridir. Altın sarısıyla kahverengi arasında değişen taneleri yumuşak, hafif yapışkan ve belirgin biçimde tatlıdır. Çekirdek ayıklamaya gerek kalmadığı için hamur işlerine, pilavlara ve kahvaltı kaselerine doğrudan eklenebilir; avuç avuç atıştırmalık olarak da sevilir.</p><p>Tillo Kochari'de bu üzüm 250 g ve 500 g seçenekleriyle sunuluyor. Küçük olanı ara öğünler için elverişliyken büyük olanı kek, kurabiye ve iç pilav gibi tarifleri sık yapan evlere daha uygun. Gaziantep kökenli markanın sultani üzümü, ceviz ve fındık gibi kuru yemişlerle karıştırıldığında da dengeli bir tatlılık sağlar.</p><h3>Kullanım Önerileri</h3><ul><li>İç pilavda çam fıstığı ve tarçınla birlikte kullanarak geleneksel bir tat elde edin.</li><li>Kek hamuruna eklemeden önce biraz una bulayarak üzümlerin dibe çökmesini önleyin.</li><li>Ceviz, fındık ve leblebiyle karıştırıp kendi kuru yemiş karışımınızı hazırlayın.</li></ul><p><strong>Gramaj:</strong> 250 g / 500 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Raisins (Sultana): Seedless and Practical</h2><p>Sultana is one of the easiest raisin varieties to use in the kitchen thanks to its seedless nature. Its berries, ranging from golden yellow to brown, are soft, slightly sticky and distinctly sweet. Since there are no seeds to remove, they can be added directly to baked goods, pilafs and breakfast bowls; they are also loved as a snack by the handful.</p><p>At Tillo Kochari, these raisins are offered in 250 g and 500 g options. The smaller one is handy for snacks, while the larger one suits households that often make recipes such as cakes, cookies and spiced rice pilaf. The sultana raisins of the Gaziantep-rooted brand also provide a balanced sweetness when mixed with nuts such as walnuts and hazelnuts.</p><h3>Serving Suggestions</h3><ul><li>Use them in spiced rice pilaf together with pine nuts and cinnamon for a traditional taste.</li><li>Before adding them to cake batter, toss them in a little flour to keep the raisins from sinking to the bottom.</li><li>Mix with walnuts, hazelnuts and roasted chickpeas to prepare your own nut mix.</li></ul><p><strong>Weight:</strong> 250 g / 500 g</p>",
+    "ar": "<h2>زبيب (سلطانة): بدون بذور وعملي</h2><p>السلطانة من أسهل أصناف الزبيب استخدامًا في المطبخ بفضل خلوّها من البذور. وحباتها التي يتراوح لونها بين الأصفر الذهبي والبني طرية ولزجة قليلًا وحلوة بشكل واضح. ولأنه لا حاجة إلى نزع البذور، يمكن إضافتها مباشرة إلى المعجنات وأطباق الأرز وأوعية الإفطار، كما أنها محبوبة كوجبة خفيفة تؤكل بالحفنة.</p><p>يُقدَّم هذا الزبيب لدى Tillo Kochari بخياري 250 g و 500 g. فالعبوة الصغيرة مناسبة للوجبات الخفيفة، بينما تلائم الكبيرة البيوت التي تُكثر من تحضير وصفات مثل الكعك والبسكويت والأرز المتبّل. كما يمنح زبيب السلطانة من هذه العلامة التي تعود أصولها إلى غازي عنتاب حلاوة متوازنة عند خلطه مع المكسرات مثل الجوز والبندق.</p><h3>اقتراحات الاستخدام</h3><ul><li>استخدمه في الأرز المتبّل مع الصنوبر والقرفة للحصول على مذاق تقليدي.</li><li>قبل إضافته إلى عجينة الكعك، غلّفه بقليل من الدقيق لمنع حبات الزبيب من الترسّب في القاع.</li><li>اخلطه مع الجوز والبندق والحمص المحمّص لتحضير خليط المكسرات الخاص بك.</li></ul><p><strong>الوزن:</strong> 250 g / 500 g</p>",
+    "de": "<h2>Rosinen (Sultaninen): Kernlos und praktisch</h2><p>Sultaninen gehören dank ihrer Kernlosigkeit zu den Rosinensorten, die sich in der Küche am bequemsten verwenden lassen. Ihre Beeren, deren Farbe von Goldgelb bis Braun reicht, sind weich, leicht klebrig und ausgeprägt süß. Da keine Kerne entfernt werden müssen, können sie direkt in Gebäck, Pilaws und Frühstücksschalen gegeben werden; auch als Snack aus der Hand sind sie beliebt.</p><p>Bei Tillo Kochari gibt es diese Rosinen in den Größen 250 g und 500 g. Die kleinere Packung eignet sich für Zwischenmahlzeiten, die größere eher für Haushalte, die oft Rezepte wie Kuchen, Kekse und gewürzten Reispilaw zubereiten. Die Sultaninen der aus Gaziantep stammenden Marke sorgen auch gemischt mit Nüssen wie Walnüssen und Haselnüssen für eine ausgewogene Süße.</p><h3>Verwendungsvorschläge</h3><ul><li>Für einen traditionellen Geschmack zusammen mit Pinienkernen und Zimt in gewürztem Reispilaw verwenden.</li><li>Vor dem Unterheben in den Kuchenteig leicht in Mehl wenden, damit die Rosinen nicht auf den Boden sinken.</li><li>Mit Walnüssen, Haselnüssen und gerösteten Kichererbsen zu Ihrer eigenen Nussmischung vermengen.</li></ul><p><strong>Gewicht:</strong> 250 g / 500 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>건포도 (술타나): 씨 없이 간편하게</h2><p>술타나는 씨가 없어 주방에서 가장 편리하게 쓰이는 건포도 품종 중 하나입니다. 황금빛 노란색에서 갈색까지 다양한 색을 띠는 알갱이는 부드럽고 살짝 끈적하며 뚜렷하게 달콤합니다. 씨를 골라낼 필요가 없어 베이커리, 필라프, 아침 식사 볼에 바로 넣을 수 있으며, 한 줌씩 집어 먹는 간식으로도 사랑받습니다.</p><p>Tillo Kochari에서는 이 건포도를 250 g과 500 g으로 선보입니다. 작은 포장은 간식용으로 알맞고, 큰 포장은 케이크, 쿠키, 향신료를 넣은 쌀 필라프 같은 요리를 자주 만드는 가정에 더 잘 맞습니다. 가지안테프에 뿌리를 둔 브랜드의 술타나 건포도는 호두, 헤이즐넛 같은 견과류와 섞었을 때도 균형 잡힌 단맛을 냅니다.</p><h3>활용 제안</h3><ul><li>잣, 계피와 함께 향신료 쌀 필라프에 넣어 전통적인 맛을 내 보세요.</li><li>케이크 반죽에 넣기 전에 밀가루를 살짝 묻혀 건포도가 바닥에 가라앉지 않게 해 보세요.</li><li>호두, 헤이즐넛, 볶은 병아리콩과 섞어 나만의 견과류 믹스를 만들어 보세요.</li></ul><p><strong>중량:</strong> 250 g / 500 g</p>"
   },
-  "update": "2026-10-28T07:04:26.335Z",
+  "update": "2026-10-28T09:07:53.216Z",
   "date": "2026-05-20T09:54:45.044Z",
   "img": "index.webp"
 }

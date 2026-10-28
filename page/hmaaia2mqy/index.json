@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Domates Salçası (Tatlı)"
+    "tr": "Domates Salçası (Tatlı)",
+    "en": "Tomato Paste (Mild)",
+    "ar": "معجون الطماطم (غير حار)",
+    "de": "Tomatenmark (mild)",
+    "ko": "토마토 페이스트(순한맛)"
   },
   "status": "play",
-  "category": "c13konserve",
+  "category": "c05kurumey",
   "id": "hmaaia2mqy",
   "externalUrl": "",
   "path": "domates-salcasi-tatli",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Domates Salçası (Tatlı), Salça, Turşu, Meze ve Soslar, salça, turşu, mezze, domates salçası",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Tomato Paste (Mild), Pastes, Pickles, Meze and Sauces, paste, pickles, meze, tomato paste",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, معجون الطماطم (غير حار), معاجين, مخللات, مازة وصلصات, معجون, مخلل, مازة, معجون الطماطم",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Tomatenmark (mild), Würzpasten, Eingelegtes, Meze und Soßen, Würzpaste, Sauergemüse, Meze, Tomatenmark",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 토마토 페이스트(순한맛), 페이스트, 피클, 메제 및 소스, 페이스트, 피클, 메제, 토마토 페이스트"
   },
   "description": {
-    "tr": "Tillo Kochari Domates Salçası (Tatlı): Tatlı salça. Salça, Turşu, Meze ve Soslar grubunda. Sunulan gramaj: 830 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Domates Salçası (Tatlı): Tatlı salça. Salça, Turşu, Meze ve Soslar grubunda. Sunulan gramaj: 830 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Tomato Paste (Mild) is a non-spicy paste from the Pastes, Pickles, Meze and Sauces range, offered in 830 g – a natural food with roots in Gaziantep.",
+    "ar": "Tillo Kochari معجون الطماطم (غير حار): معجون غير حار من فئة المعاجين والمخللات والمازة والصلصات، متوفر بوزن 830 g، وهو غذاء طبيعي ذو أصول من غازي عنتاب.",
+    "de": "Tillo Kochari Tomatenmark (mild) ist ein mildes Mark ohne Schärfe aus der Kategorie Würzpasten, Eingelegtes, Meze und Soßen, erhältlich in 830 g – ein natürliches Lebensmittel mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 토마토 페이스트(순한맛)는 페이스트, 피클, 메제 및 소스 카테고리의 맵지 않은 페이스트로, 830 g 용량으로 제공되는 가지안테프 기반의 자연 식품입니다."
   },
-  "index": 110,
+  "index": 186,
   "icon": "lunch_dining",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Domates Salçası (Tatlı) | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tomato Paste (Mild) | Tillo Kochari",
+    "ar": "معجون الطماطم (غير حار) | Tillo Kochari",
+    "de": "Tomatenmark (mild) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "토마토 페이스트(순한맛) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Tillo Kochari Tatlı Domates Salçası ile Dengeli Bir Başlangıç</h2><p>Tatlı domates salçası, acısız yapısıyla her yaştan damağa uygun, tencerenin temel lezzet tabanıdır. Parlak kırmızı rengi yemeğe iştah açıcı bir görünüm kazandırır, yoğun domates aroması ise sosların ve sulu yemeklerin gövdesini oluşturur. Tillo Kochari, Gaziantep'ten gelen bu temel ürünü 830 gramlık geniş bir kavanozda sunuyor.</p><p>Acı istemeyen ya da acıyı ayrıca ayarlamak isteyenler için tatlı salça esnek bir başlangıç noktasıdır. Kuru fasulye, türlü, makarna sosu veya pilav gibi gündelik yemeklerde gönül rahatlığıyla kullanılabilir. Kaşığı her seferinde temiz ve kuru tutmak, açılan salçanın daha uzun süre güzel kalmasına katkı sağlar.</p><h3>Kullanım Önerileri</h3><ul><li>Tereyağında kavurup domates soslu makarnanın temelini oluşturun.</li><li>Kuru fasulye ve nohut yemeklerine pişirmenin başında ekleyin.</li><li>Bulgur pilavına bir kaşık katarak kırmızı renkli, aromalı bir pilav hazırlayın.</li></ul><p><strong>Gramaj:</strong> 830 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>A Balanced Start with Tillo Kochari Mild Tomato Paste</h2><p>Mild tomato paste, with no heat, suits palates of all ages and forms the basic flavour foundation of the pot. Its bright red colour gives dishes an appetising look, while its intense tomato aroma builds the body of sauces and stews. Tillo Kochari offers this staple from Gaziantep in a generous 830 g jar.</p><p>For those who don't want heat, or who prefer to adjust it separately, mild paste is a flexible starting point. It can be used with confidence in everyday dishes such as white bean stew, mixed vegetable stew, pasta sauce or pilaf. Keeping the spoon clean and dry every time helps opened paste stay good for longer.</p><h3>Serving Suggestions</h3><ul><li>Fry in butter to form the base of a tomato pasta sauce.</li><li>Add to white bean and chickpea dishes at the start of cooking.</li><li>Stir a spoonful into bulgur pilaf for a red, aromatic pilaf.</li></ul><p><strong>Weight:</strong> 830 g</p>",
+    "ar": "<h2>بداية متوازنة مع معجون الطماطم غير الحار من Tillo Kochari</h2><p>معجون الطماطم غير الحار، بتركيبته الخالية من الحرارة، يناسب الأذواق من جميع الأعمار، ويشكّل القاعدة الأساسية لنكهة القِدر. يمنح لونه الأحمر الزاهي الطعامَ مظهرًا فاتحًا للشهية، بينما تشكّل رائحة الطماطم المركّزة قوامَ الصلصات والأطباق ذات المرق. وتقدّم Tillo Kochari هذا المنتج الأساسي القادم من غازي عنتاب في برطمان كبير بوزن 830 g.</p><p>لمن لا يرغب في الحرارة أو يفضّل ضبطها على حدة، يُعدّ المعجون غير الحار نقطة انطلاق مرنة. ويمكن استخدامه بكل اطمئنان في الأطباق اليومية مثل الفاصولياء البيضاء المطبوخة وطبق الخضار المشكّلة وصلصة المعكرونة والأرز. والحفاظ على الملعقة نظيفة وجافة في كل مرة يساعد المعجون المفتوح على البقاء بحالة جيدة لفترة أطول.</p><h3>اقتراحات الاستخدام</h3><ul><li>حمّصه في الزبدة ليكون أساس صلصة المعكرونة بالطماطم.</li><li>أضفه إلى أطباق الفاصولياء البيضاء والحمص في بداية الطهي.</li><li>أضف ملعقة منه إلى البرغل المطبوخ لتحضير طبق برغل أحمر اللون وغني بالنكهة.</li></ul><p><strong>الوزن:</strong> 830 g</p>",
+    "de": "<h2>Ein ausgewogener Start mit dem milden Tomatenmark von Tillo Kochari</h2><p>Mildes Tomatenmark kommt ohne Schärfe aus, eignet sich daher für Gaumen jeden Alters und bildet die grundlegende Geschmacksbasis im Topf. Seine leuchtend rote Farbe verleiht Gerichten ein appetitliches Aussehen, während das intensive Tomatenaroma Soßen und Schmorgerichten Körper gibt. Tillo Kochari bietet dieses Grundprodukt aus Gaziantep in einem großzügigen 830-g-Glas an.</p><p>Wer keine Schärfe möchte oder sie lieber separat dosiert, hat mit mildem Mark einen flexiblen Ausgangspunkt. Es eignet sich bedenkenlos für Alltagsgerichte wie weiße Bohnen, Gemüseeintopf, Nudelsoße oder Pilaw. Wer den Löffel jedes Mal sauber und trocken hält, trägt dazu bei, dass angebrochenes Mark länger gut bleibt.</p><h3>Serviervorschläge</h3><ul><li>In Butter anrösten und als Basis für eine Tomaten-Nudelsoße verwenden.</li><li>Gerichten mit weißen Bohnen und Kichererbsen zu Beginn des Kochens beigeben.</li><li>Einen Löffel unter Bulgur-Pilaw rühren – für einen rot gefärbten, aromatischen Pilaw.</li></ul><p><strong>Gewicht:</strong> 830 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>Tillo Kochari 순한맛 토마토 페이스트로 균형 잡힌 시작</h2><p>순한맛 토마토 페이스트는 맵지 않아 남녀노소 누구의 입맛에도 잘 맞으며, 냄비 요리의 기본 맛 바탕이 됩니다. 선명한 붉은색은 요리를 먹음직스럽게 보이게 하고, 진한 토마토 향은 소스와 국물 요리의 중심을 잡아 줍니다. Tillo Kochari는 가지안테프에서 온 이 기본 식재료를 830 g 대용량 병에 담아 선보입니다.</p><p>매운맛을 원하지 않거나 매운 정도를 따로 조절하고 싶은 분들께 순한맛 페이스트는 유연한 출발점입니다. 흰강낭콩 스튜, 모둠 채소 스튜, 파스타 소스, 필라프 등 일상 요리에 안심하고 사용할 수 있습니다. 매번 깨끗하고 마른 숟가락을 사용하면 개봉한 페이스트를 더 오래 좋은 상태로 유지하는 데 도움이 됩니다.</p><h3>활용 제안</h3><ul><li>버터에 볶아 토마토 파스타 소스의 베이스로 사용합니다.</li><li>흰강낭콩과 병아리콩 요리에 조리 초반에 넣습니다.</li><li>불구르 필라프에 한 숟가락 넣어 붉은빛의 향긋한 필라프를 만듭니다.</li></ul><p><strong>중량:</strong> 830 g</p>"
   },
-  "update": "2026-10-28T07:04:30.996Z",
+  "update": "2026-10-28T09:07:44.188Z",
   "date": "2026-05-20T09:54:45.767Z",
   "img": "index.webp"
 }

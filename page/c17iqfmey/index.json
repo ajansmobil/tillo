@@ -1,22 +1,30 @@
 {
   "name": {
-    "tr": "IQF Meyveler"
+    "tr": "Unlu Mamulleri",
+    "en": "Bakery Products",
+    "ar": "منتجات المخبوزات",
+    "de": "Backwaren",
+    "ko": "베이커리 제품"
   },
   "status": "play",
   "category": "",
   "id": "c17iqfmey",
   "externalUrl": "",
-  "path": "iqf-meyveler",
+  "path": "unlu-mamulleri",
   "keyword": {
-    "tr": "Tillo Kochari, Gaziantep, doğal gıda, IQF Meyveler, IQF meyve, dondurulmuş çilek, nar tanesi, orman meyvesi IQF",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Tillo Kochari, Unlu Mamulleri",
+    "en": "Tillo Kochari, Bakery Products",
+    "ar": "Tillo Kochari, منتجات المخبوزات",
+    "de": "Tillo Kochari, Backwaren",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 베이커리 제품"
   },
   "description": {
-    "tr": "Tillo Kochari IQF Meyveler. IQF meyveler: çilek, kiraz, nar, ahududu ve karışım. Hızlı dondurulmuş bütün ve dilim meyveler; smoothie ve pastacılık. Gaziantep…"
+    "tr": "Tillo Kochari Unlu Mamulleri ürün grubu.",
+    "en": "Tillo Kochari Bakery Products product group.",
+    "ar": "مجموعة منتجات منتجات المخبوزات من تيلو كوشاري.",
+    "de": "Tillo Kochari Produktgruppe Backwaren.",
+    "ko": "틸로 코차리 베이커리 제품 제품군."
   },
   "index": 16,
   "icon": "category",
@@ -27,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "IQF Meyveler Ürünleri | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Unlu Mamulleri | Tillo Kochari",
+    "en": "Bakery Products | Tillo Kochari",
+    "ar": "منتجات المخبوزات | Tillo Kochari",
+    "de": "Backwaren | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "베이커리 제품 | Tillo Kochari"
   },
   "text": {
     "tr": "",
@@ -42,7 +50,7 @@
     "ja": "",
     "ko": ""
   },
-  "update": "2026-05-21T08:39:29.772Z",
+  "update": "2026-10-28T08:07:44.428Z",
   "date": "2026-05-20T09:54:46.273Z",
   "categorypage": "products"
 }

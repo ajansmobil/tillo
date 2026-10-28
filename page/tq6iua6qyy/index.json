@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Kuru Kapia Biber"
+    "tr": "Kuru Kapia Biber",
+    "en": "Dried Kapia Pepper",
+    "ar": "فلفل كابيا مجفف",
+    "de": "Getrocknete Kapia-Paprika",
+    "ko": "말린 카피아 파프리카"
   },
   "status": "play",
-  "category": "c07kuruseb",
+  "category": "c15aromya",
   "id": "tq6iua6qyy",
   "externalUrl": "",
   "path": "kuru-kapia-biber",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Kuru Kapia Biber, Kurutulmuş Sebzeler, kurutulmuş sebze, kuru biber, güneş kurusu domates, dolmalık biber",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Dried Kapia Pepper, Dried Vegetables, dried vegetables, dried pepper, sun-dried tomatoes, peppers for stuffing",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, فلفل كابيا مجفف, الخضروات المجففة, خضروات مجففة, فلفل مجفف, طماطم مجففة بالشمس, فلفل للحشو",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Getrocknete Kapia-Paprika, Getrocknetes Gemüse, Trockengemüse, getrocknete Paprika, sonnengetrocknete Tomaten, Paprika zum Füllen",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 말린 카피아 파프리카, 건조 채소, 말린 채소, 말린 고추, 햇볕에 말린 토마토, 속을 채우는 고추"
   },
   "description": {
-    "tr": "Tillo Kochari Kuru Kapia Biber: Tatlı kapya biber. Kurutulmuş Sebzeler grubunda. Sunulan gramaj: 100 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Kuru Kapia Biber: Tatlı kapya biber. Kurutulmuş Sebzeler grubunda. Sunulan gramaj: 100 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Dried Kapia Pepper: sweet kapia pepper from the Dried Vegetables range, offered in a 100 g pack — natural food from Gaziantep.",
+    "ar": "Tillo Kochari فلفل كابيا مجفف: فلفل كابيا حلو ضمن فئة الخضروات المجففة، يُقدَّم بوزن 100 g، وهو غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Getrocknete Kapia-Paprika: süße Kapia-Paprika aus der Kategorie Getrocknetes Gemüse, angeboten in 100 g – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 말린 카피아 파프리카는 달콤한 카피아 파프리카를 말린 건조 채소 제품으로, 100 g 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 42,
+  "index": 118,
   "icon": "grass",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Kuru Kapia Biber | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Dried Kapia Pepper | Tillo Kochari",
+    "ar": "فلفل كابيا مجفف | Tillo Kochari",
+    "de": "Getrocknete Kapia-Paprika | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "말린 카피아 파프리카 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Kuru Kapia Biber: Tatlı Kapya Biberin Kurutulmuş Hâli</h2><p>Kuru Kapia Biber, etli ve tatlı yapısıyla bilinen kapya biberin kurutulmuş biçimidir. Koyu kırmızı rengi pişirirken sosa ve yağa geçer; tadı acı değil, hafif tatlı ve yoğundur. Ilık suda bir süre bekletildiğinde yumuşar ve doğranarak pek çok yemekte taze biberin yerini tutabilir.</p><p>Gaziantep mutfağında kurutulmuş biber, kış aylarında yazın tadını sofraya taşımanın tanıdık yollarından biridir. Tillo Kochari bu alışkanlığı 100 gramlık pratik bir paketle mutfağınıza getirir. Acı istemeyen ama yemeğine renk ve derinlik katmak isteyenler için Kuru Kapia Biber dengeli bir tercihtir.</p><h3>Kullanım Önerileri</h3><ul><li>Suda yumuşatıp ince doğrayarak cevizli biber ezmelerine katın.</li><li>Zeytinyağında hafifçe kavurup makarna sosuna ekleyin.</li><li>Mercimek ya da ezogelin çorbasına renk vermek için birkaç parça ilave edin.</li></ul><p><strong>Gramaj:</strong> 100 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Dried Kapia Pepper: The Dried Form of Sweet Kapia Pepper</h2><p>Dried Kapia Pepper is the dried form of kapia pepper, known for its fleshy, sweet character. Its deep red colour seeps into sauces and oil during cooking; its taste is not hot but mildly sweet and rich. Soaked for a while in lukewarm water, it softens and, once chopped, can stand in for fresh pepper in many dishes.</p><p>In Gaziantep cuisine, dried pepper is one of the familiar ways of bringing the taste of summer to the table in the winter months. Tillo Kochari brings this tradition to your kitchen in a practical 100 g pack. For those who do not want heat but wish to add colour and depth to their dishes, Dried Kapia Pepper is a balanced choice.</p><h3>Serving Suggestions</h3><ul><li>Soften in water, chop finely and add to walnut and pepper spreads.</li><li>Sauté lightly in olive oil and add to pasta sauce.</li><li>Add a few pieces to lentil soup or red lentil and bulgur soup for colour.</li></ul><p><strong>Weight:</strong> 100 g</p>",
+    "ar": "<h2>فلفل كابيا مجفف: الشكل المجفف لفلفل الكابيا الحلو</h2><p>فلفل كابيا المجفف هو الشكل المجفف لفلفل الكابيا المعروف بقوامه اللحمي وطعمه الحلو. ويتسرّب لونه الأحمر الداكن إلى الصلصة والزيت أثناء الطهي؛ وطعمه ليس حارًا، بل حلو خفيف ومركّز. وعند نقعه في الماء الفاتر لبعض الوقت يلين، ويمكن بعد تقطيعه أن يحلّ محل الفلفل الطازج في كثير من الأطباق.</p><p>في مطبخ غازي عنتاب، يُعدّ الفلفل المجفف من الطرق المألوفة لنقل طعم الصيف إلى المائدة في أشهر الشتاء. وتقدّم Tillo Kochari هذه العادة إلى مطبخك في عبوة عملية بوزن 100 g. ولمن لا يرغب في الحدّة لكنه يريد إضافة اللون والعمق إلى طعامه، يُعدّ فلفل كابيا المجفف خيارًا متوازنًا.</p><h3>اقتراحات للاستخدام</h3><ul><li>انقعه في الماء حتى يلين، ثم افرمه ناعمًا وأضفه إلى معاجين الفلفل بالجوز.</li><li>شوِّحه قليلًا في زيت الزيتون وأضفه إلى صلصة المعكرونة.</li><li>أضف بضع قطع إلى شوربة العدس أو شوربة العدس الأحمر بالبرغل لإضفاء اللون.</li></ul><p><strong>الوزن:</strong> 100 g</p>",
+    "de": "<h2>Getrocknete Kapia-Paprika: Die getrocknete Form der süßen Kapia-Paprika</h2><p>Getrocknete Kapia-Paprika ist die getrocknete Form der Kapia-Paprika, die für ihr fleischiges, süßes Fruchtfleisch bekannt ist. Ihre tiefrote Farbe geht beim Kochen in Soße und Öl über; ihr Geschmack ist nicht scharf, sondern mild süß und intensiv. Einige Zeit in lauwarmem Wasser eingeweicht, wird sie weich und kann klein geschnitten in vielen Gerichten frische Paprika ersetzen.</p><p>In der Küche von Gaziantep ist getrocknete Paprika eine der vertrauten Arten, im Winter den Geschmack des Sommers auf den Tisch zu bringen. Tillo Kochari bringt diese Tradition in einer praktischen Packung mit 100 g in Ihre Küche. Für alle, die keine Schärfe möchten, ihren Gerichten aber Farbe und Tiefe verleihen wollen, ist Getrocknete Kapia-Paprika eine ausgewogene Wahl.</p><h3>Verwendungsvorschläge</h3><ul><li>In Wasser einweichen, fein hacken und unter Paprikapasten mit Walnüssen mischen.</li><li>In Olivenöl leicht anbraten und zur Pastasoße geben.</li><li>Für Farbe einige Stücke in Linsensuppe oder Rote-Linsen-Bulgur-Suppe geben.</li></ul><p><strong>Gewicht:</strong> 100 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>말린 카피아 파프리카: 달콤한 카피아 파프리카를 말린 것</h2><p>말린 카피아 파프리카는 도톰한 과육과 달콤한 맛으로 잘 알려진 카피아 파프리카를 건조한 것입니다. 진한 붉은색은 조리하는 동안 소스와 기름에 배어들며, 맛은 맵지 않고 은은하게 달콤하며 깊습니다. 미지근한 물에 잠시 불리면 부드러워져, 잘게 썰어 여러 요리에서 생 파프리카 대신 사용할 수 있습니다.</p><p>가지안테프 요리에서 말린 고추는 겨울철 식탁에 여름의 맛을 전하는 익숙한 방법 중 하나입니다. Tillo Kochari는 이 전통을 100 g 실속 포장에 담아 여러분의 주방으로 전합니다. 매운맛은 원하지 않지만 요리에 색감과 깊이를 더하고 싶은 분께 말린 카피아 파프리카는 균형 잡힌 선택입니다.</p><h3>활용 제안</h3><ul><li>물에 불려 잘게 다진 뒤 호두를 넣은 고추 페이스트에 더해 보세요.</li><li>올리브유에 살짝 볶아 파스타 소스에 넣어 보세요.</li><li>렌틸콩 수프나 붉은 렌틸콩·불구르 수프에 몇 조각 넣어 색을 더해 보세요.</li></ul><p><strong>중량:</strong> 100 g</p>"
   },
-  "update": "2026-10-28T07:04:27.291Z",
+  "update": "2026-10-28T09:08:03.495Z",
   "date": "2026-05-20T09:54:45.187Z",
   "img": "index.webp"
 }

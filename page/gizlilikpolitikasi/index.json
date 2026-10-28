@@ -1,11 +1,10 @@
 {
   "name": {
     "tr": "Gizlilik Politikası",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Privacy Policy",
+    "ar": "سياسة الخصوصية",
+    "de": "Datenschutzerklärung",
+    "ko": "개인정보 처리방침"
   },
   "status": "play",
   "id": "gizlilikpolitikasi",
@@ -13,11 +12,11 @@
   "category": "",
   "text": {
     "tr": "<h2 style=\"font-size: 24px;\">Gizlilik Politikamız</h2>\n    <p style=\"font-size: 16px;\">\n        Web sitemizi ziyaret ettiğinizde, sitemizi kullanımınızı ve sitemizde sunulan hizmetleri geliştirmek amacıyla çerezler (cookies) aracılığıyla bazı bilgiler toplanmaktadır. Bu bilgiler, kimlik bilgileriniz hariç olmak üzere, sitemizde yer alan hizmetlerin daha iyi sunulması ve kullanıcı deneyiminin iyileştirilmesi amacıyla kullanılmaktadır. Çerezler, kullanıcı tercihlerinizi hatırlamak, sitemizin işleyişini optimize etmek ve size daha iyi bir deneyim sunmak için kullanılmaktadır.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Toplanan bilgiler, üçüncü taraflarla paylaşılmamakta olup, yalnızca sitemizin performansını artırmak ve hizmetlerimizi geliştirmek amacıyla kullanılmaktadır. Kullanıcılar, tarayıcı ayarlarını değiştirerek çerezlerin kullanımını engelleyebilirler. Ancak, bu durumda sitemizin bazı bölümlerinin düzgün çalışmayabileceğini unutmamanız gerekir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Gizliliğiniz bizim için son derece önemlidir. Kişisel bilgilerinizin güvenliğini sağlamak için gerekli teknik ve idari önlemleri alıyoruz. Gizlilik Politikamız ile ilgili sorularınız ya da endişeleriniz varsa, bizimle iletişime geçebilirsiniz.\n    </p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2 style=\"font-size: 24px;\">Our Privacy Policy</h2>\n    <p style=\"font-size: 16px;\">\n        When you visit our website, certain information is collected via cookies in order to improve your use of our site and the services offered on it. This information, excluding your identity details, is used to deliver the services on our site more effectively and to improve the user experience. Cookies are used to remember your user preferences, optimise the functioning of our site and offer you a better experience.\n    </p>\n    <p style=\"font-size: 16px;\">\n        The information collected is not shared with third parties and is used solely to improve the performance of our site and develop our services. Users can block the use of cookies by changing their browser settings. Please note, however, that in this case some parts of our site may not function properly.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Your privacy is extremely important to us. We take the necessary technical and administrative measures to ensure the security of your personal information. If you have any questions or concerns about our Privacy Policy, please contact us.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">سياسة الخصوصية لدينا</h2>\n    <p style=\"font-size: 16px;\">\n        عند زيارتكم لموقعنا الإلكتروني، يتم جمع بعض المعلومات عبر ملفات تعريف الارتباط (الكوكيز) بهدف تحسين استخدامكم للموقع والخدمات المقدمة عليه. وتُستخدم هذه المعلومات، باستثناء بيانات هويتكم، لتقديم الخدمات المتاحة على موقعنا بشكل أفضل وتحسين تجربة المستخدم. كما تُستخدم ملفات تعريف الارتباط لتذكر تفضيلاتكم، وتحسين أداء موقعنا، وتقديم تجربة أفضل لكم.\n    </p>\n    <p style=\"font-size: 16px;\">\n        لا تتم مشاركة المعلومات المجمعة مع أطراف ثالثة، وتُستخدم فقط لتحسين أداء موقعنا وتطوير خدماتنا. ويمكن للمستخدمين منع استخدام ملفات تعريف الارتباط عن طريق تغيير إعدادات المتصفح. ومع ذلك، يُرجى العلم بأن بعض أقسام موقعنا قد لا تعمل بشكل صحيح في هذه الحالة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        خصوصيتكم بالغة الأهمية بالنسبة لنا. ونتخذ التدابير الفنية والإدارية اللازمة لضمان أمن معلوماتكم الشخصية. وإذا كانت لديكم أي أسئلة أو مخاوف بشأن سياسة الخصوصية لدينا، يمكنكم التواصل معنا.\n    </p>",
+    "de": "<h2 style=\"font-size: 24px;\">Unsere Datenschutzerklärung</h2>\n    <p style=\"font-size: 16px;\">\n        Wenn Sie unsere Website besuchen, werden über Cookies bestimmte Informationen erhoben, um Ihre Nutzung unserer Website und die dort angebotenen Dienste zu verbessern. Diese Informationen werden – mit Ausnahme Ihrer Identitätsdaten – dazu verwendet, die Dienste auf unserer Website besser bereitzustellen und das Nutzererlebnis zu verbessern. Cookies dienen dazu, Ihre Nutzerpräferenzen zu speichern, die Funktionsweise unserer Website zu optimieren und Ihnen ein besseres Erlebnis zu bieten.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Die erhobenen Informationen werden nicht an Dritte weitergegeben und ausschließlich dazu verwendet, die Leistung unserer Website zu steigern und unsere Dienste weiterzuentwickeln. Nutzer können die Verwendung von Cookies durch Änderung ihrer Browsereinstellungen unterbinden. Bitte beachten Sie jedoch, dass in diesem Fall einige Bereiche unserer Website möglicherweise nicht ordnungsgemäß funktionieren.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Ihre Privatsphäre ist uns äußerst wichtig. Wir treffen die erforderlichen technischen und organisatorischen Maßnahmen, um die Sicherheit Ihrer persönlichen Informationen zu gewährleisten. Bei Fragen oder Bedenken zu unserer Datenschutzerklärung können Sie sich gerne an uns wenden.\n    </p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2 style=\"font-size: 24px;\">당사의 개인정보 처리방침</h2>\n    <p style=\"font-size: 16px;\">\n        당사 웹사이트를 방문하시면 사이트 이용 및 제공 서비스 개선을 위해 쿠키를 통해 일부 정보가 수집됩니다. 이 정보는 귀하의 신원 정보를 제외하고, 사이트 내 서비스를 보다 원활하게 제공하고 이용자 경험을 향상시키는 데 사용됩니다. 쿠키는 이용자의 설정을 기억하고, 사이트 운영을 최적화하며, 더 나은 경험을 제공하기 위해 사용됩니다.\n    </p>\n    <p style=\"font-size: 16px;\">\n        수집된 정보는 제3자와 공유되지 않으며, 사이트 성능 향상과 서비스 개선 목적으로만 사용됩니다. 이용자는 브라우저 설정을 변경하여 쿠키 사용을 차단할 수 있습니다. 다만 이 경우 사이트의 일부 기능이 정상적으로 작동하지 않을 수 있음을 유의하시기 바랍니다.\n    </p>\n    <p style=\"font-size: 16px;\">\n        귀하의 개인정보 보호는 당사에 매우 중요합니다. 당사는 귀하의 개인정보 보안을 위해 필요한 기술적·관리적 조치를 취하고 있습니다. 개인정보 처리방침과 관련하여 문의 사항이나 우려가 있으시면 언제든지 연락해 주시기 바랍니다.\n    </p>"
   },
   "desing": {
     "header": [],
@@ -29,28 +28,27 @@
   "icon": "home",
   "title": {
     "tr": "Gizlilik Politikası | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Privacy Policy | Tillo Kochari",
+    "ar": "سياسة الخصوصية | Tillo Kochari",
+    "de": "Datenschutzerklärung | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "개인정보 처리방침 | Tillo Kochari"
   },
   "description": {
     "tr": "Tillo Kochari gizlilik politikası. Kişisel verilerin korunması ve çerez kullanımı hakkında bilgilendirme.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Tillo Kochari privacy policy: information on the protection of personal data and the use of cookies.",
+    "ar": "Tillo Kochari – سياسة الخصوصية: معلومات حول حماية البيانات الشخصية واستخدام ملفات تعريف الارتباط.",
+    "de": "Tillo Kochari – Datenschutzerklärung: Informationen zum Schutz personenbezogener Daten und zur Verwendung von Cookies.",
+    "ko": "Tillo Kochari 개인정보 처리방침으로, 개인정보 보호 및 쿠키 사용에 관한 내용을 안내합니다."
   },
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, gizlilik politikası, KVKK, kişisel veri",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, privacy policy, KVKK, personal data",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, سياسة الخصوصية, قانون حماية البيانات الشخصية, البيانات الشخصية",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Datenschutzerklärung, KVKK, personenbezogene Daten",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 개인정보 처리방침, KVKK, 개인정보"
   },
-  "update": "2026-05-21T08:39:29.649Z",
+  "update": "2026-10-28T09:07:42.477Z",
   "date": "2026-05-19"
 }

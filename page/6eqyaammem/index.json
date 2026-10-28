@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Fıstıklı Sucuk"
+    "tr": "Fıstıklı Sucuk",
+    "en": "Pistachio Sucuk (Mulberry Confection)",
+    "ar": "سجق حلو بالفستق (حلوى التوت)",
+    "de": "Pistazien-Sucuk (Maulbeersüßigkeit)",
+    "ko": "피스타치오 수죽 (오디 과자)"
   },
   "status": "play",
-  "category": "c09gelenek",
+  "category": "c13konserve",
   "id": "6eqyaammem",
   "externalUrl": "",
   "path": "fistikli-sucuk",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Fıstıklı Sucuk, Lokum, Pestil ve Geleneksel Tatlılar, lokum, pestil, köme, tahin helva",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Pistachio Sucuk, Turkish Delight, Pestil and Traditional Sweets, lokum, pestil, köme, tahini halva",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, سجق حلو بالفستق, راحة الحلقوم, البستيل والحلويات التقليدية, لوكوم, بستيل, كومة, حلاوة طحينية",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Pistazien-Sucuk, Lokum, Pestil und traditionelle Süßwaren, Lokum, Pestil, Köme, Tahin-Halva",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 피스타치오 수죽, 로쿰, 페스틸 및 전통 디저트, 로쿰, 페스틸, 쾨메, 타히니 할바"
   },
   "description": {
-    "tr": "Tillo Kochari Fıstıklı Sucuk: Fıstıklı dut sucuğu. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 300 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Fıstıklı Sucuk: Fıstıklı dut sucuğu. Lokum, Pestil ve Geleneksel Tatlılar grubunda. Sunulan gramaj: 300 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Pistachio Sucuk is a mulberry sucuk with pistachios from the Turkish Delight, Pestil and Traditional Sweets range, offered in 300 g as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari — سجق حلو بالفستق: سجق التوت بالفستق ضمن فئة راحة الحلقوم والبستيل والحلويات التقليدية، يُقدَّم بوزن 300 g، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Pistazien-Sucuk – eine Maulbeer-Sucuk mit Pistazien aus der Kategorie Lokum, Pestil und traditionelle Süßwaren, angeboten in 300 g, ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 피스타치오 수죽은 로쿰, 페스틸 및 전통 디저트 카테고리의 피스타치오를 넣은 오디 수죽으로, 300 g으로 제공되는 가지안테프 출신의 자연 식품입니다."
   },
-  "index": 69,
+  "index": 145,
   "icon": "cake",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Fıstıklı Sucuk | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Pistachio Sucuk (Mulberry Confection) | Tillo Kochari",
+    "ar": "سجق حلو بالفستق (حلوى التوت) | Tillo Kochari",
+    "de": "Pistazien-Sucuk (Maulbeersüßigkeit) | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "피스타치오 수죽 (오디 과자) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Fıstıklı Sucuk: Dut Kaplamasında Yeşil Fıstık</h2>\n<p>Fıstıklı Sucuk, dut sucuğunun içine fıstık yerleştirilmiş hâlidir; kesildiğinde koyu dut tabakasının ortasında yeşil fıstıklar belirir. Bu renk zıtlığı, ürünü ikram tabağında hemen fark edilir kılar. Dutun yumuşak tatlılığı ile fıstığın yağlı aroması birbirini tamamlar ve her dilimde dengeli, doyurucu bir tat bırakır.</p>\n<p>Fıstık, Gaziantep'te neredeyse her tatlının yakın dostudur ve dut sucuğuyla buluşması da bu bağın doğal bir sonucudur. Tillo Kochari'nin fıstıklı sucuğu, 300 gramlık paketiyle hem kendi sofranız hem de memleket hediyesi arayanlar için uygun bir seçimdir. İnce dilimler, renkli görünümleri sayesinde sunumda ayrıca süs gerektirmez.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>İnce dilimler hâlinde kesip bayram ikram tabağının ortasına yerleştirin.</li>\n<li>Dilimleri sade dondurmanın yanında servis ederek renkli bir tatlı tabağı oluşturun.</li>\n<li>Peynir tabağına tatlı ve yağlı bir eşlikçi olarak birkaç dilim ekleyin.</li>\n</ul>\n<p><strong>Gramaj:</strong> 300 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Pistachio Sucuk: Green Pistachios in a Mulberry Coating</h2>\n<p>Pistachio Sucuk is mulberry sucuk with pistachios placed inside; when cut, green pistachios appear in the middle of the dark mulberry layer. This color contrast makes the product stand out instantly on a serving plate. The gentle sweetness of mulberry and the rich aroma of pistachio complement each other, leaving a balanced, satisfying taste in every slice.</p>\n<p>In Gaziantep, pistachio is a close companion to almost every dessert, and its pairing with mulberry sucuk is a natural result of this bond. With its 300 g pack, Tillo Kochari's Pistachio Sucuk is a fitting choice both for your own table and for those looking for a gift from home. Thanks to their colorful appearance, the thin slices need no extra garnish when served.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Cut into thin slices and arrange in the center of a holiday treat platter.</li>\n<li>Serve the slices alongside plain ice cream to create a colorful dessert plate.</li>\n<li>Add a few slices to a cheese board as a sweet and rich companion.</li>\n</ul>\n<p><strong>Weight:</strong> 300 g</p>",
+    "ar": "<h2>سجق حلو بالفستق: فستق أخضر في غلاف من التوت</h2>\n<p>سجق الفستق الحلو هو سجق التوت الذي وُضع الفستق في داخله؛ وعند تقطيعه يظهر الفستق الأخضر في وسط طبقة التوت الداكنة. ويجعل هذا التباين اللوني المنتج لافتًا للنظر فورًا في طبق الضيافة. وتتكامل حلاوة التوت الناعمة مع نكهة الفستق الغنية، تاركةً في كل شريحة مذاقًا متوازنًا ومُشبعًا.</p>\n<p>الفستق في غازي عنتاب رفيق قريب لكل الحلويات تقريبًا، ولقاؤه بسجق التوت نتيجة طبيعية لهذه الصلة. ويُعدّ سجق الفستق من Tillo Kochari بعبوته البالغة 300 g خيارًا مناسبًا لمائدتكم ولمن يبحثون عن هدية من بلدهم. وبفضل مظهرها الملوّن، لا تحتاج الشرائح الرقيقة إلى أي زينة إضافية عند التقديم.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>قطّعه شرائح رقيقة وضعها في وسط طبق ضيافة العيد.</li>\n<li>قدّم الشرائح بجانب المثلجات السادة لتحصل على طبق حلوى ملوّن.</li>\n<li>أضف بضع شرائح إلى طبق الأجبان رفيقًا حلوًا وغنيًا.</li>\n</ul>\n<p><strong>الوزن:</strong> 300 g</p>",
+    "de": "<h2>Pistazien-Sucuk: Grüne Pistazien in Maulbeerhülle</h2>\n<p>Pistazien-Sucuk ist eine Maulbeer-Sucuk, in deren Inneres Pistazien eingebettet sind; beim Anschneiden erscheinen grüne Pistazien inmitten der dunklen Maulbeerschicht. Dieser Farbkontrast macht das Produkt auf dem Servierteller sofort zum Blickfang. Die sanfte Süße der Maulbeere und das reichhaltige Aroma der Pistazie ergänzen sich und hinterlassen in jeder Scheibe einen ausgewogenen, sättigenden Geschmack.</p>\n<p>In Gaziantep ist die Pistazie ein enger Begleiter fast jeder Süßspeise, und ihre Verbindung mit Maulbeer-Sucuk ist eine natürliche Folge dieser Nähe. Mit ihrer 300-g-Packung ist die Pistazien-Sucuk von Tillo Kochari eine passende Wahl für den eigenen Tisch wie auch für alle, die ein Geschenk aus der Heimat suchen. Dank ihres farbenfrohen Aussehens brauchen die dünnen Scheiben beim Servieren keine zusätzliche Dekoration.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>In dünne Scheiben schneiden und in der Mitte eines festlichen Gästetellers anrichten.</li>\n<li>Die Scheiben neben schlichtem Eis servieren und so einen farbenfrohen Dessertteller gestalten.</li>\n<li>Einer Käseplatte einige Scheiben als süße, gehaltvolle Begleitung hinzufügen.</li>\n</ul>\n<p><strong>Gewicht:</strong> 300 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>피스타치오 수죽: 오디 코팅 속 초록 피스타치오</h2>\n<p>피스타치오 수죽은 오디 수죽 안에 피스타치오를 넣은 것으로, 자르면 짙은 오디 층 한가운데에 초록빛 피스타치오가 드러납니다. 이 색의 대비 덕분에 접대용 접시 위에서 단번에 눈에 띕니다. 오디의 부드러운 단맛과 피스타치오의 진하고 고소한 향이 서로를 보완하여 한 조각마다 균형 잡히고 든든한 맛을 남깁니다.</p>\n<p>가지안테프에서 피스타치오는 거의 모든 디저트의 가까운 짝이며, 오디 수죽과의 만남 역시 이러한 인연의 자연스러운 결과입니다. Tillo Kochari의 피스타치오 수죽은 300 g 포장으로 가정의 식탁용으로도, 고향의 선물을 찾는 분들께도 알맞은 선택입니다. 얇게 썬 조각은 색감이 화려해 따로 장식하지 않아도 충분합니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>얇게 썰어 명절 다과 접시 한가운데에 올리기 좋습니다.</li>\n<li>플레인 아이스크림 곁에 조각을 곁들이면 화사한 디저트 접시가 완성됩니다.</li>\n<li>치즈 플래터에 몇 조각을 더해 달콤하고 고소한 곁들임으로 즐길 수 있습니다.</li>\n</ul>\n<p><strong>중량:</strong> 300 g</p>"
   },
-  "update": "2026-10-28T07:04:28.758Z",
+  "update": "2026-10-28T09:07:28.258Z",
   "date": "2026-05-20T09:54:45.417Z",
   "img": "index.webp"
 }

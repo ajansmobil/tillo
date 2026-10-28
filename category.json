@@ -1,22 +1,17 @@
 {
-  "name": "Kategoriler",
-  "path": "category",
-  "icon": "article",
-  "active": true,
-  "desc": [],
   "data": [
     {
       "name": {
-        "tr": "Antep Fıstığı Ezme ve Krema",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "tr": "Tahıl Grubu ve Unları",
+        "en": "Cereals and Flours",
+        "ar": "الحبوب والدقيق",
+        "de": "Getreide und Mehle",
         "ja": "",
-        "ko": ""
+        "ko": "곡물 및 밀가루"
       },
       "id": "c01fistik",
       "index": 0,
-      "path": "antep-fistigi-ezme-ve-krema",
+      "path": "tahil-grubu-ve-unlari",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -27,21 +22,25 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Tillo Kochari Antep Fıstığı Ezme ve Krema. Antep fıstığı ezme ve krema: kavrulmuş, doğal ve kremamsı çeşitler. Gaziantep menşeli Antep fıstığından üretilen e…",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "tr": "Tillo Kochari Tahıl Grubu ve Unları ürün grubu.",
+        "en": "Tillo Kochari Cereals and Flours product group.",
+        "ar": "مجموعة منتجات الحبوب والدقيق من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Getreide und Mehle.",
         "ja": "",
-        "ko": ""
+        "ko": "틸로 코차리 곡물 및 밀가루 제품군."
       }
     },
     {
       "name": {
-        "tr": "Fındık Ezme ve Krema"
+        "tr": "Bakliyat Grubu ve Ürünleri",
+        "en": "Pulses and Pulse Products",
+        "ar": "البقوليات ومنتجاتها",
+        "de": "Hülsenfrüchte und Produkte",
+        "ko": "두류 및 두류 제품"
       },
       "id": "c02findik",
       "index": 1,
-      "path": "findik-ezme-ve-krema",
+      "path": "bakliyat-grubu-ve-urunleri",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -52,16 +51,24 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Tillo Kochari Fındık Ezme ve Krema. Seçme fındıktan ezme ve krema; kahvaltı ve pastacılık için. Giresun ve Ordu fındığından ezme ve krema ürünleri. Gaziantep…"
+        "tr": "Tillo Kochari Bakliyat Grubu ve Ürünleri ürün grubu.",
+        "en": "Tillo Kochari Pulses and Pulse Products product group.",
+        "ar": "مجموعة منتجات البقوليات ومنتجاتها من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Hülsenfrüchte und Produkte.",
+        "ko": "틸로 코차리 두류 및 두류 제품 제품군."
       }
     },
     {
       "name": {
-        "tr": "Badem Ezme ve Krema"
+        "tr": "Yağlı Tohumlar ve Ürünleri",
+        "en": "Oilseeds and Products",
+        "ar": "البذور الزيتية ومنتجاتها",
+        "de": "Ölsaaten und Produkte",
+        "ko": "유지종자 및 제품"
       },
       "id": "c03badem",
       "index": 2,
-      "path": "badem-ezme-ve-krema",
+      "path": "yagli-tohumlar-ve-urunleri",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -71,16 +78,24 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Badem Ezme ve Krema. Badem ezme ve krema: protein deposu, şekersiz seçenekler. Akdeniz ve İç Anadolu bademinden ezme ve krema çeşitleri. Gazian…"
+        "tr": "Tillo Kochari Yağlı Tohumlar ve Ürünleri ürün grubu.",
+        "en": "Tillo Kochari Oilseeds and Products product group.",
+        "ar": "مجموعة منتجات البذور الزيتية ومنتجاتها من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Ölsaaten und Produkte.",
+        "ko": "틸로 코차리 유지종자 및 제품 제품군."
       }
     },
     {
       "name": {
-        "tr": "Yer Fıstığı Ezme ve Krema"
+        "tr": "Makarna Grubu",
+        "en": "Pasta Group",
+        "ar": "مجموعة المعكرونة",
+        "de": "Nudeln und Teigwaren",
+        "ko": "파스타 그룹"
       },
       "id": "c04yerfist",
       "index": 3,
-      "path": "yer-fistigi-ezme-ve-krema",
+      "path": "makarna-grubu",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -90,21 +105,25 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Yer Fıstığı Ezme ve Krema. Yer fıstığı ezme ve krema; klasik ve kakao aromalı çeşitler. Yer fıstığından üretilen ezme ve krema ürünleri. Gazian…"
+        "tr": "Tillo Kochari Makarna Grubu ürün grubu.",
+        "en": "Tillo Kochari Pasta Group product group.",
+        "ar": "مجموعة منتجات مجموعة المعكرونة من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Nudeln und Teigwaren.",
+        "ko": "틸로 코차리 파스타 그룹 제품군."
       }
     },
     {
       "name": {
-        "tr": "Kurutulmuş Meyveler",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "tr": "Salça ve Soslar",
+        "en": "Pastes and Sauces",
+        "ar": "المعجونات والصلصات",
+        "de": "Pasten und Saucen",
         "ja": "",
-        "ko": ""
+        "ko": "페이스트 및 소스"
       },
       "id": "c05kurumey",
       "index": 4,
-      "path": "kurutulmus-meyveler",
+      "path": "salca-ve-soslar",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -114,26 +133,26 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Kurutulmuş Meyveler. Kurutulmuş meyveler: kayısı, incir, hurma, orman meyveleri karışımı. Güneş ve fırın kurutma ile korunan doğal kurutulmuş m…",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "tr": "Tillo Kochari Salça ve Soslar ürün grubu.",
+        "en": "Tillo Kochari Pastes and Sauces product group.",
+        "ar": "مجموعة منتجات المعجونات والصلصات من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Pasten und Saucen.",
         "ja": "",
-        "ko": ""
+        "ko": "틸로 코차리 페이스트 및 소스 제품군."
       }
     },
     {
       "name": {
-        "tr": "Meyve Cipsleri",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "tr": "Kahvaltılık Ürünler",
+        "en": "Breakfast Products",
+        "ar": "منتجات الإفطار",
+        "de": "Frühstücksprodukte",
         "ja": "",
-        "ko": ""
+        "ko": "아침식사 제품"
       },
       "id": "c06meycip",
       "index": 5,
-      "path": "meyve-cipsleri",
+      "path": "kahvaltilik-urunler",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -143,125 +162,25 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Meyve Cipsleri. Meyve cipsleri: elma, armut, kivi ve turunçgil dilimleri. Düşük sıcaklıkta kurutulmuş meyve cipsleri; atıştırmalık ve reçeteler…",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "tr": "Tillo Kochari Kahvaltılık Ürünler ürün grubu.",
+        "en": "Tillo Kochari Breakfast Products product group.",
+        "ar": "مجموعة منتجات منتجات الإفطار من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Frühstücksprodukte.",
         "ja": "",
-        "ko": ""
+        "ko": "틸로 코차리 아침식사 제품 제품군."
       }
     },
     {
       "name": {
-        "tr": "Kurutulmuş Sebzeler",
-        "en": "",
-        "ar": "",
-        "de": "",
+        "tr": "Süt ve Süt Ürünleri",
+        "en": "Milk and Dairy Products",
+        "ar": "الحليب ومنتجات الألبان",
+        "de": "Milch und Milchprodukte",
         "ja": "",
-        "ko": ""
+        "ko": "우유 및 유제품"
       },
       "id": "c07kuruseb",
       "index": 6,
-      "path": "kurutulmus-sebzeler",
-      "category": "",
-      "status": "play",
-      "icon": "category",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "description": {
-        "tr": "Tillo Kochari Kurutulmuş Sebzeler. Kurutulmuş sebzeler: biber, patlıcan, kabak; çorba ve yemeklik. Mevsim sebzelerinin kurutulmuş hali; çorba, yemek ve garni…",
-        "en": "",
-        "ar": "",
-        "de": "",
-        "ja": "",
-        "ko": ""
-      }
-    },
-    {
-      "name": {
-        "tr": "Reçel ve Marmelatlar"
-      },
-      "id": "c08recel",
-      "index": 7,
-      "path": "recel-ve-marmelatlar",
-      "category": "",
-      "status": "play",
-      "icon": "category",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "description": {
-        "tr": "Tillo Kochari Reçel ve Marmelatlar. Reçel ve marmelat: vişne, kayısı, çilek, portakal ve özel karışımlar. Geleneksel reçel ve marmelat çeşitleri; kahvaltı ve…"
-      }
-    },
-    {
-      "name": {
-        "tr": "Lokum, Pestil ve Geleneksel Tatlılar"
-      },
-      "id": "c09gelenek",
-      "index": 8,
-      "path": "lokum-pestil-ve-geleneksel-tatlilar",
-      "category": "",
-      "status": "play",
-      "icon": "category",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "description": {
-        "tr": "Tillo Kochari Lokum, Pestil ve Geleneksel Tatlılar. Lokum, pestil, köme, tahin helva ve geleneksel tatlılar. Anadolu mutfağının lokum, pestil, köme ve helva…"
-      }
-    },
-    {
-      "name": {
-        "tr": "Meyve Suları"
-      },
-      "id": "c10meyves",
-      "index": 9,
-      "path": "meyve-sulari",
-      "category": "",
-      "status": "play",
-      "icon": "category",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "description": {
-        "tr": "Tillo Kochari Meyve Suları. Doğal meyve suları: nar, elma, portakal, vişne ve mevsim nektarları. Soğuk sıkım ve pastörize meyve suları; katkısız seçenekler.…"
-      }
-    },
-    {
-      "name": {
-        "tr": "Pekmez ve Şuruplar"
-      },
-      "id": "c11pekmez",
-      "index": 10,
-      "path": "pekmez-ve-suruplar",
-      "category": "",
-      "status": "play",
-      "icon": "category",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "description": {
-        "tr": "Tillo Kochari Pekmez ve Şuruplar. Pekmez ve şuruplar: üzüm, dut, hurma, keçiboynuzu. Doğal pekmez ve meyve şurupları; kahvaltı ve sağlıklı tatlandırıcı. Gazi…"
-      }
-    },
-    {
-      "name": {
-        "tr": "Süt ve Süt Ürünleri"
-      },
-      "id": "c12sut",
-      "index": 11,
       "path": "sut-ve-sut-urunleri",
       "category": "",
       "status": "play",
@@ -272,16 +191,160 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Süt ve Süt Ürünleri. Süt ve süt ürünleri: peynir, tereyağı, kaymak, yoğurt, ayran. Tereyağı, peynir, yoğurt ve geleneksel süt ürünleri. Gaziant…"
+        "tr": "Tillo Kochari Süt ve Süt Ürünleri ürün grubu.",
+        "en": "Tillo Kochari Milk and Dairy Products product group.",
+        "ar": "مجموعة منتجات الحليب ومنتجات الألبان من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Milch und Milchprodukte.",
+        "ja": "",
+        "ko": "틸로 코차리 우유 및 유제품 제품군."
       }
     },
     {
       "name": {
-        "tr": "Salça, Turşu, Meze ve Soslar"
+        "tr": "Kuruyemiş Grubu ve Ürünleri",
+        "en": "Nuts and Nut Products",
+        "ar": "المكسرات ومنتجاتها",
+        "de": "Nüsse und Nussprodukte",
+        "ko": "견과류 및 제품"
+      },
+      "id": "c08recel",
+      "index": 7,
+      "path": "kuruyemis-grubu-ve-urunleri",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Kuruyemiş Grubu ve Ürünleri ürün grubu.",
+        "en": "Tillo Kochari Nuts and Nut Products product group.",
+        "ar": "مجموعة منتجات المكسرات ومنتجاتها من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Nüsse und Nussprodukte.",
+        "ko": "틸로 코차리 견과류 및 제품 제품군."
+      }
+    },
+    {
+      "name": {
+        "tr": "Reçel ve Marmelatlar",
+        "en": "Jams and Marmalades",
+        "ar": "المربيات ومربى الحمضيات",
+        "de": "Konfitüren und Marmeladen",
+        "ko": "잼 및 마멀레이드"
+      },
+      "id": "c09gelenek",
+      "index": 8,
+      "path": "recel-ve-marmelatlar",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Reçel ve Marmelatlar ürün grubu.",
+        "en": "Tillo Kochari Jams and Marmalades product group.",
+        "ar": "مجموعة منتجات المربيات ومربى الحمضيات من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Konfitüren und Marmeladen.",
+        "ko": "틸로 코차리 잼 및 마멀레이드 제품군."
+      }
+    },
+    {
+      "name": {
+        "tr": "Meyve Suyu Çeşitleri",
+        "en": "Fruit Juices",
+        "ar": "عصائر الفاكهة",
+        "de": "Fruchtsäfte",
+        "ko": "과일 주스"
+      },
+      "id": "c10meyves",
+      "index": 9,
+      "path": "meyve-suyu-cesitleri",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Meyve Suyu Çeşitleri ürün grubu.",
+        "en": "Tillo Kochari Fruit Juices product group.",
+        "ar": "مجموعة منتجات عصائر الفاكهة من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Fruchtsäfte.",
+        "ko": "틸로 코차리 과일 주스 제품군."
+      }
+    },
+    {
+      "name": {
+        "tr": "Meyve Özü Grubu",
+        "en": "Fruit Extracts",
+        "ar": "مستخلصات الفاكهة",
+        "de": "Fruchtextrakte",
+        "ko": "과일 추출물"
+      },
+      "id": "c11pekmez",
+      "index": 10,
+      "path": "meyve-ozu-grubu",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Meyve Özü Grubu ürün grubu.",
+        "en": "Tillo Kochari Fruit Extracts product group.",
+        "ar": "مجموعة منتجات مستخلصات الفاكهة من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Fruchtextrakte.",
+        "ko": "틸로 코차리 과일 추출물 제품군."
+      }
+    },
+    {
+      "name": {
+        "tr": "Pekmez Çeşitleri, Tahin ve Helva",
+        "en": "Molasses, Tahini and Halva",
+        "ar": "أنواع الدبس والطحينة والحلاوة",
+        "de": "Pekmez, Tahin und Halva",
+        "ko": "페크메즈, 타힌 및 할바"
+      },
+      "id": "c12sut",
+      "index": 11,
+      "path": "pekmez-cesitleri-tahin-ve-helva",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "description": {
+        "tr": "Tillo Kochari Pekmez Çeşitleri, Tahin ve Helva ürün grubu.",
+        "en": "Tillo Kochari Molasses, Tahini and Halva product group.",
+        "ar": "مجموعة منتجات أنواع الدبس والطحينة والحلاوة من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Pekmez, Tahin und Halva.",
+        "ko": "틸로 코차리 페크메즈, 타힌 및 할바 제품군."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kurutulmuş Meyve Grubu",
+        "en": "Dried Fruits",
+        "ar": "الفواكه المجففة",
+        "de": "Trockenfrüchte",
+        "ko": "건조 과일"
       },
       "id": "c13konserve",
       "index": 12,
-      "path": "salca-tursu-meze-ve-soslar",
+      "path": "kurutulmus-meyve-grubu",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -291,16 +354,24 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Salça, Turşu, Meze ve Soslar. Salça, turşu, meze, salamura ve doğal sirkeler. Salça, turşu, meze, salamura içecek, sirke ve sos çeşitleri. Gazi…"
+        "tr": "Tillo Kochari Kurutulmuş Meyve Grubu ürün grubu.",
+        "en": "Tillo Kochari Dried Fruits product group.",
+        "ar": "مجموعة منتجات الفواكه المجففة من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Trockenfrüchte.",
+        "ko": "틸로 코차리 건조 과일 제품군."
       }
     },
     {
       "name": {
-        "tr": "Sıvı Yağlar"
+        "tr": "Dondurulmuş Meyve Grubu",
+        "en": "Frozen Fruits",
+        "ar": "الفواكه المجمدة",
+        "de": "Tiefkühl-Obst",
+        "ko": "냉동 과일"
       },
       "id": "c14siviya",
       "index": 13,
-      "path": "sivi-yaglar",
+      "path": "dondurulmus-meyve-grubu",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -310,16 +381,24 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Sıvı Yağlar. Sıvı yağlar: natürel sızma zeytinyağı, fındık ve kabak çekirdeği yağı. Soğuk sıkım zeytinyağı ve bitkisel sıvı yağlar. Gaziantep m…"
+        "tr": "Tillo Kochari Dondurulmuş Meyve Grubu ürün grubu.",
+        "en": "Tillo Kochari Frozen Fruits product group.",
+        "ar": "مجموعة منتجات الفواكه المجمدة من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Tiefkühl-Obst.",
+        "ko": "틸로 코차리 냉동 과일 제품군."
       }
     },
     {
       "name": {
-        "tr": "Tıbbi Aromatik Yağlar"
+        "tr": "Kurutulmuş Sebze Grubu",
+        "en": "Dried Vegetables",
+        "ar": "الخضروات المجففة",
+        "de": "Getrocknetes Gemüse",
+        "ko": "건조 채소"
       },
       "id": "c15aromya",
       "index": 14,
-      "path": "tibbi-aromatik-yaglar",
+      "path": "kurutulmus-sebze-grubu",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -329,16 +408,24 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Tıbbi Aromatik Yağlar. Tıbbi aromatik yağlar: bıttım, çörek otu, üzüm çekirdeği. Geleneksel ve aromatik yağlar; kozmetik ve beslenme destek ürü…"
+        "tr": "Tillo Kochari Kurutulmuş Sebze Grubu ürün grubu.",
+        "en": "Tillo Kochari Dried Vegetables product group.",
+        "ar": "مجموعة منتجات الخضروات المجففة من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Getrocknetes Gemüse.",
+        "ko": "틸로 코차리 건조 채소 제품군."
       }
     },
     {
       "name": {
-        "tr": "IQF Dilimlenmiş Sebzeler"
+        "tr": "Dondurulmuş Sebze Grubu",
+        "en": "Frozen Vegetables",
+        "ar": "الخضروات المجمدة",
+        "de": "Tiefkühl-Gemüse",
+        "ko": "냉동 채소"
       },
       "id": "c16iqfseb",
       "index": 15,
-      "path": "iqf-dilimlenmis-sebzeler",
+      "path": "dondurulmus-sebze-grubu",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -348,16 +435,24 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari IQF Dilimlenmiş Sebzeler. IQF dilimlenmiş sebzeler: domates, biber, patlıcan, brokoli. Hızlı dondurulmuş (IQF) sebze dilimleri; endüstriyel ve…"
+        "tr": "Tillo Kochari Dondurulmuş Sebze Grubu ürün grubu.",
+        "en": "Tillo Kochari Frozen Vegetables product group.",
+        "ar": "مجموعة منتجات الخضروات المجمدة من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Tiefkühl-Gemüse.",
+        "ko": "틸로 코차리 냉동 채소 제품군."
       }
     },
     {
       "name": {
-        "tr": "IQF Meyveler"
+        "tr": "Unlu Mamulleri",
+        "en": "Bakery Products",
+        "ar": "منتجات المخبوزات",
+        "de": "Backwaren",
+        "ko": "베이커리 제품"
       },
       "id": "c17iqfmey",
       "index": 16,
-      "path": "iqf-meyveler",
+      "path": "unlu-mamulleri",
       "category": "",
       "status": "play",
       "icon": "category",
@@ -367,10 +462,150 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari IQF Meyveler. IQF meyveler: çilek, kiraz, nar, ahududu ve karışım. Hızlı dondurulmuş bütün ve dilim meyveler; smoothie ve pastacılık. Gaziantep…"
+        "tr": "Tillo Kochari Unlu Mamulleri ürün grubu.",
+        "en": "Tillo Kochari Bakery Products product group.",
+        "ar": "مجموعة منتجات منتجات المخبوزات من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Backwaren.",
+        "ko": "틸로 코차리 베이커리 제품 제품군."
       }
+    },
+    {
+      "id": "hntjm9xwyu",
+      "name": {
+        "tr": "Kadayıf Çeşitleri",
+        "en": "Kadayıf Varieties",
+        "ar": "أنواع القطايف",
+        "de": "Kadayıf-Sorten",
+        "ko": "카다이프 종류"
+      },
+      "description": {
+        "tr": "Tillo Kochari Kadayıf Çeşitleri ürün grubu.",
+        "en": "Tillo Kochari Kadayıf Varieties product group.",
+        "ar": "مجموعة منتجات أنواع القطايف من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Kadayıf-Sorten.",
+        "ko": "틸로 코차리 카다이프 종류 제품군."
+      },
+      "path": "kadayif-cesitleri",
+      "icon": "category",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 17
+    },
+    {
+      "id": "v8t42mspj8",
+      "name": {
+        "tr": "Lavaş ve Yufka Çeşitleri",
+        "en": "Lavash and Yufka Varieties",
+        "ar": "أنواع اللافاش واليوفكا",
+        "de": "Lavaş und Yufka",
+        "ko": "라바시 및 유프카 종류"
+      },
+      "description": {
+        "tr": "Tillo Kochari Lavaş ve Yufka Çeşitleri ürün grubu.",
+        "en": "Tillo Kochari Lavash and Yufka Varieties product group.",
+        "ar": "مجموعة منتجات أنواع اللافاش واليوفكا من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Lavaş und Yufka.",
+        "ko": "틸로 코차리 라바시 및 유프카 종류 제품군."
+      },
+      "path": "lavas-ve-yufka-cesitleri",
+      "icon": "category",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 18
+    },
+    {
+      "id": "te81hka2g5",
+      "name": {
+        "tr": "Zeytin Yağı ve Avakado Yağı",
+        "en": "Olive Oil and Avocado Oil",
+        "ar": "زيت الزيتون وزيت الأفوكادو",
+        "de": "Olivenöl und Avocadoöl",
+        "ko": "올리브 오일 및 아보카도 오일"
+      },
+      "description": {
+        "tr": "Tillo Kochari Zeytin Yağı ve Avakado Yağı ürün grubu.",
+        "en": "Tillo Kochari Olive Oil and Avocado Oil product group.",
+        "ar": "مجموعة منتجات زيت الزيتون وزيت الأفوكادو من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Olivenöl und Avocadoöl.",
+        "ko": "틸로 코차리 올리브 오일 및 아보카도 오일 제품군."
+      },
+      "path": "zeytin-yagi-ve-avakado-yagi",
+      "icon": "category",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 19
+    },
+    {
+      "id": "obbkh64oa1",
+      "name": {
+        "tr": "Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+        "en": "Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+        "ar": "الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+        "de": "Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+        "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료"
+      },
+      "description": {
+        "tr": "Tillo Kochari Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler ürün grubu.",
+        "en": "Tillo Kochari Sour, Hot and Sweet Special Sauces, Vinegars and Beverages product group.",
+        "ar": "مجموعة منتجات الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke.",
+        "ko": "틸로 코차리 새콤·매콤·달콤 특선 소스, 식초 및 음료 제품군."
+      },
+      "path": "eksi-aci-ve-tatli-ozel-soslar-sirke-ve-icecekler",
+      "icon": "category",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 20
+    },
+    {
+      "id": "zsyqc5i9oe",
+      "name": {
+        "tr": "Tıbbi Aromatik Bitkiler ve Yağları",
+        "en": "Medicinal and Aromatic Plants and Oils",
+        "ar": "النباتات الطبية والعطرية وزيوتها",
+        "de": "Heil- und Aromapflanzen und ihre Öle",
+        "ko": "약용·방향 식물 및 오일"
+      },
+      "description": {
+        "tr": "Tillo Kochari Tıbbi Aromatik Bitkiler ve Yağları ürün grubu.",
+        "en": "Tillo Kochari Medicinal and Aromatic Plants and Oils product group.",
+        "ar": "مجموعة منتجات النباتات الطبية والعطرية وزيوتها من تيلو كوشاري.",
+        "de": "Tillo Kochari Produktgruppe Heil- und Aromapflanzen und ihre Öle.",
+        "ko": "틸로 코차리 약용·방향 식물 및 오일 제품군."
+      },
+      "path": "tibbi-aromatik-bitkiler-ve-yaglari",
+      "icon": "category",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 21
     }
   ],
+  "desc": [],
   "desing": {
     "header": [],
     "body": [
@@ -381,6 +616,5 @@
   },
   "modulestatus": {
     "body": true
-  },
-  "index": 3
+  }
 }

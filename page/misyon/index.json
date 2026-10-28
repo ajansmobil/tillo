@@ -1,11 +1,10 @@
 {
   "name": {
     "tr": "Misyon",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Mission",
+    "ar": "الرسالة",
+    "de": "Mission",
+    "ko": "미션"
   },
   "status": "play",
   "id": "misyon",
@@ -13,11 +12,11 @@
   "category": "",
   "text": {
     "tr": "<h2 style=\"font-size: 24px;\">Misyonumuz</h2>\n    <p style=\" font-size: 16px;\">\n        Misyonumuz, doğal ve sağlıklı hammaddelerden kimyasaldan uzak gıdalar üretmektir. Çevre bilincine sahip, sürdürülebilir üretim anlayışını tüm süreçlerimize yansıtıyor; hammaddeden son pakete kadar gıda güvenliğini ve izlenebilirliği ön planda tutarak müşterilerimize güvenilir ürünler sunuyoruz.\n    </p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2 style=\"font-size: 24px;\">Our Mission</h2>\n    <p style=\" font-size: 16px;\">\n        Our mission is to produce food free from chemicals, made from natural and healthy raw materials. We bring an environmentally conscious, sustainable approach to production to all our processes; by prioritising food safety and traceability from raw material to final package, we offer our customers products they can trust.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">رسالتنا</h2>\n    <p style=\" font-size: 16px;\">\n        تتمثل رسالتنا في إنتاج أغذية بعيدة عن المواد الكيميائية من مواد خام طبيعية وصحية. ونعكس نهج إنتاج مستدامًا واعيًا بالبيئة في جميع عملياتنا؛ ومن خلال إيلاء الأولوية لسلامة الغذاء وإمكانية التتبع من المادة الخام حتى العبوة النهائية، نقدم لعملائنا منتجات موثوقة.\n    </p>",
+    "de": "<h2 style=\"font-size: 24px;\">Unsere Mission</h2>\n    <p style=\" font-size: 16px;\">\n        Unsere Mission ist es, aus natürlichen und gesunden Rohstoffen Lebensmittel ohne Chemikalien herzustellen. Ein umweltbewusstes, nachhaltiges Produktionsverständnis prägt all unsere Prozesse; indem wir Lebensmittelsicherheit und Rückverfolgbarkeit vom Rohstoff bis zur fertigen Verpackung in den Vordergrund stellen, bieten wir unseren Kundinnen und Kunden vertrauenswürdige Produkte.\n    </p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2 style=\"font-size: 24px;\">우리의 미션</h2>\n    <p style=\" font-size: 16px;\">\n        당사의 미션은 천연의 건강한 원료로 화학 물질 없는 식품을 생산하는 것입니다. 환경 의식을 바탕으로 한 지속 가능한 생산 철학을 모든 공정에 반영하고 있으며, 원료부터 최종 포장까지 식품 안전과 이력 추적을 최우선으로 하여 고객에게 신뢰할 수 있는 제품을 제공합니다.\n    </p>"
   },
   "desing": {
     "header": [],
@@ -28,29 +27,28 @@
   "index": 1,
   "icon": "home",
   "title": {
-    "tr": "Misyonumuz | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "tr": "Misyon | Tillo Kochari",
+    "en": "Mission | Tillo Kochari",
+    "ar": "الرسالة | Tillo Kochari",
+    "de": "Mission | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "미션 | Tillo Kochari"
   },
   "description": {
     "tr": "Tillo Kochari misyonu. Doğal hammaddeden katkısız ürünler; çevreye duyarlı ve sürdürülebilir üretim.",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "en": "Tillo Kochari's mission: additive-free products from natural raw materials, made through environmentally conscious and sustainable production.",
+    "ar": "Tillo Kochari – رسالتنا: منتجات خالية من الإضافات مصنوعة من مواد خام طبيعية، بإنتاج مستدام يراعي البيئة.",
+    "de": "Tillo Kochari – unsere Mission: zusatzstofffreie Produkte aus natürlichen Rohstoffen sowie eine umweltbewusste und nachhaltige Produktion.",
+    "ko": "Tillo Kochari의 미션은 천연 원료로 만든 무첨가 제품과 환경을 생각하는 지속 가능한 생산입니다."
   },
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, misyon, sürdürülebilir gıda, kalite güvencesi",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, mission, sustainable food, quality assurance",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, الرسالة, غذاء مستدام, ضمان الجودة",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Mission, nachhaltige Lebensmittel, Qualitätssicherung",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 미션, 지속 가능한 식품, 품질 보증"
   },
-  "update": "2026-05-21T08:39:29.632Z",
+  "update": "2026-10-28T09:07:51.996Z",
   "date": "2026-05-19"
 }

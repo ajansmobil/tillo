@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Yer Fıstığı Ezmesi"
+    "tr": "Yer Fıstığı Ezmesi",
+    "en": "Peanut Butter",
+    "ar": "زبدة الفول السوداني",
+    "de": "Erdnussbutter",
+    "ko": "땅콩버터"
   },
   "status": "play",
-  "category": "c04yerfist",
+  "category": "c06meycip",
   "id": "7aq2yyaaum",
   "externalUrl": "",
   "path": "yer-fistigi-ezmesi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Yer Fıstığı Ezmesi, Yer Fıstığı Ezme ve Krema, fıstık ezmesi, fıstık kreması, tuzlu fıstık",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Peanut Butter, Peanut Butters & Creams, peanut spread, peanut cream, salted peanuts",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, زبدة الفول السوداني, زبدة وكريمة الفول السوداني, معجون الفول السوداني, كريمة الفول السوداني, فول سوداني مملح",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Erdnussbutter, Erdnussbutter & -creme, Erdnussaufstrich, Erdnusscreme, gesalzene Erdnüsse",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 땅콩버터, 땅콩버터·크림, 땅콩 스프레드, 땅콩 크림, 가염 땅콩"
   },
   "description": {
-    "tr": "Tillo Kochari Yer Fıstığı Ezmesi: Klasik yer fıstığı ezmesi. Yer Fıstığı Ezme ve Krema grubunda. Sunulan gramaj: 500 g / 1 kg. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Yer Fıstığı Ezmesi: Klasik yer fıstığı ezmesi. Yer Fıstığı Ezme ve Krema grubunda. Sunulan gramaj: 500 g / 1 kg. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Peanut Butter is a classic peanut butter from the Peanut Butters & Creams range, offered in 500 g / 1 kg as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari زبدة الفول السوداني هي زبدة فول سوداني كلاسيكية من مجموعة زبدة وكريمة الفول السوداني، تتوفر بوزن 500 g / 1 kg، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Erdnussbutter ist eine klassische Erdnussbutter aus der Gruppe Erdnussbutter & -creme, erhältlich mit 500 g / 1 kg – ein Naturprodukt aus Gaziantep.",
+    "ko": "Tillo Kochari 땅콩버터 제품은 땅콩버터·크림 라인의 클래식 땅콩버터로, 500 g / 1 kg 용량으로 제공되는 가지안테프의 천연 식품입니다."
   },
-  "index": 16,
+  "index": 92,
   "icon": "nutrition",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Yer Fıstığı Ezmesi | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Peanut Butter | Tillo Kochari",
+    "ar": "زبدة الفول السوداني | Tillo Kochari",
+    "de": "Erdnussbutter | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "땅콩버터 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Klasik Tadıyla Yer Fıstığı Ezmesi</h2><p>Yer fıstığı ezmesi, pek çok mutfakta kahvaltının ve hızlı atıştırmalıkların demirbaşıdır. Tillo Kochari Yer Fıstığı Ezmesi bu klasik çizgiyi izler: tanıdık ve dolgun bir tat, ekmeğe kolayca yayılan bir kıvam. Gaziantep kökenli üreticinin rafında, ezme geleneğinin en bilinen yüzlerinden birini temsil eder.</p><p>500 gram ve 1 kilogramlık seçenekleri, ezmeyi sık kullanan evler ve kalabalık mutfaklar düşünülerek sunulur. Sandviçten soslara, kurabiyeden smoothie'ye uzanan tariflerde kolayca yer bulur. Uzak Doğu mutfağından esinlenen sebze ve erişte yemeklerinde de sosun ana malzemelerinden biri olabilir.</p><h3>Kullanım Önerileri</h3><ul><li>Kızarmış ekmeğe sürüp üzerine çilek reçeli ekleyerek klasik bir sandviç hazırlayın.</li><li>Soya sosu, limon ve biraz sıcak suyla açıp erişte ya da sebze sotesi için sos yapın.</li><li>Yulaf, bal ve kuru meyveyle karıştırıp fırınlayarak ev yapımı bar hazırlayın.</li></ul><p><strong>Gramaj:</strong> 500 g / 1 kg</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Peanut Butter with a Classic Taste</h2><p>Peanut butter is a staple of breakfasts and quick snacks in many kitchens. Tillo Kochari Peanut Butter follows this classic line: a familiar, full flavor and a consistency that spreads easily on bread. On the Gaziantep-rooted producer's shelf, it represents one of the best-known faces of the spread tradition.</p><p>The 500 g and 1 kg options are offered with households that use it often and busy kitchens in mind. It easily finds a place in recipes ranging from sandwiches to sauces and from cookies to smoothies. It can also be one of the main sauce ingredients in Far Eastern-inspired vegetable and noodle dishes.</p><h3>Serving Suggestions</h3><ul><li>Spread it on toasted bread and add strawberry jam for a classic sandwich.</li><li>Thin it with soy sauce, lemon and a little hot water to make a sauce for noodles or a vegetable stir-fry.</li><li>Mix it with oats, honey and dried fruit, then bake to make homemade bars.</li></ul><p><strong>Weight:</strong> 500 g / 1 kg</p>",
+    "ar": "<h2>زبدة الفول السوداني بمذاقها الكلاسيكي</h2><p>زبدة الفول السوداني من الأساسيات الثابتة في وجبات الإفطار والوجبات الخفيفة السريعة في كثير من المطابخ. وتسير زبدة الفول السوداني من Tillo Kochari على هذا النهج الكلاسيكي: مذاق مألوف وممتلئ، وقوام يسهل دهنه على الخبز. وعلى رفوف المنتج ذي الجذور في غازي عنتاب، تمثل أحد أشهر وجوه تقاليد الزبدات.</p><p>ويأتي خيارا 500 g و 1 kg مع مراعاة البيوت التي تستخدمها كثيرًا والمطابخ المزدحمة. وتجد مكانها بسهولة في وصفات تمتد من الساندويتش إلى الصلصات، ومن البسكويت إلى السموذي. كما يمكن أن تكون أحد المكونات الرئيسية للصلصة في أطباق الخضار والنودلز المستوحاة من مطابخ الشرق الأقصى.</p><h3>اقتراحات الاستخدام</h3><ul><li>ادهنها على الخبز المحمّص وأضف فوقها مربى الفراولة لتحضير ساندويتش كلاسيكي.</li><li>خففها بصلصة الصويا والليمون وقليل من الماء الساخن لتحضير صلصة للنودلز أو الخضار المقلية سريعًا.</li><li>اخلطها مع الشوفان والعسل والفواكه المجففة ثم اخبزها لتحضير ألواح منزلية.</li></ul><p><strong>الوزن:</strong> 500 g / 1 kg</p>",
+    "de": "<h2>Erdnussbutter mit klassischem Geschmack</h2><p>Erdnussbutter ist in vielen Küchen ein fester Bestandteil von Frühstück und schnellen Snacks. Tillo Kochari Erdnussbutter folgt dieser klassischen Linie: ein vertrauter, voller Geschmack und eine Konsistenz, die sich leicht auf Brot verstreichen lässt. Im Regal des aus Gaziantep stammenden Herstellers steht sie für eines der bekanntesten Gesichter der Aufstrichtradition.</p><p>Die Varianten mit 500 g und 1 kg sind für Haushalte mit hohem Verbrauch und große Küchen gedacht. Sie findet mühelos Platz in Rezepten vom Sandwich bis zur Sauce, vom Keks bis zum Smoothie. Auch in fernöstlich inspirierten Gemüse- und Nudelgerichten kann sie eine der Hauptzutaten der Sauce sein.</p><h3>Verwendungsvorschläge</h3><ul><li>Streichen Sie sie auf geröstetes Brot und geben Sie Erdbeerkonfitüre darauf – für ein klassisches Sandwich.</li><li>Verdünnen Sie sie mit Sojasauce, Zitrone und etwas heißem Wasser zu einer Sauce für Nudeln oder Gemüsepfanne.</li><li>Vermengen Sie sie mit Haferflocken, Honig und Trockenfrüchten und backen Sie daraus selbst gemachte Riegel.</li></ul><p><strong>Gewicht:</strong> 500 g / 1 kg</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>클래식한 맛의 땅콩버터</h2><p>땅콩버터는 많은 가정에서 아침 식사와 간단한 간식에 빠지지 않는 기본 식품입니다. Tillo Kochari 땅콩버터는 이 클래식한 흐름을 따라, 익숙하고 풍성한 맛과 빵에 쉽게 펴 발리는 농도를 갖추었습니다. 가지안테프에 뿌리를 둔 생산자의 제품군에서 스프레드 전통의 가장 잘 알려진 얼굴 중 하나를 대표합니다.</p><p>500 g과 1 kg 두 가지 용량은 자주 사용하는 가정과 식구가 많은 주방을 고려해 준비했습니다. 샌드위치부터 소스, 쿠키부터 스무디까지 다양한 요리에 손쉽게 활용됩니다. 극동 요리에서 영감을 받은 채소·면 요리에서도 소스의 주재료 중 하나가 될 수 있습니다.</p><h3>활용 방법</h3><ul><li>구운 빵에 바르고 딸기잼을 더해 클래식한 샌드위치를 만들어 보세요.</li><li>간장, 레몬, 약간의 뜨거운 물로 묽게 풀어 국수나 채소 볶음용 소스를 만들어 보세요.</li><li>귀리, 꿀, 말린 과일과 섞어 오븐에 구워 홈메이드 바를 만들어 보세요.</li></ul><p><strong>중량:</strong> 500 g / 1 kg</p>"
   },
-  "update": "2026-10-28T07:04:25.922Z",
+  "update": "2026-10-28T09:07:29.502Z",
   "date": "2026-05-20T09:54:44.977Z",
   "img": "index.webp"
 }

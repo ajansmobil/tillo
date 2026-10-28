@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "Portakal Suyu"
+    "tr": "Portakal Suyu",
+    "en": "Orange Juice",
+    "ar": "عصير البرتقال",
+    "de": "Orangensaft",
+    "ko": "오렌지 주스"
   },
   "status": "play",
   "category": "c10meyves",
@@ -9,16 +13,20 @@
   "path": "portakal-suyu",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Portakal Suyu, Meyve Suları, meyve suyu, nar suyu, doğal meyve suyu, katkısız içecek",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Orange Juice, Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, عصير البرتقال, عصائر الفواكه, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Orangensaft, Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 오렌지 주스, 과일 주스, 과일즙, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
-    "tr": "Tillo Kochari Portakal Suyu: Taze sıkım portakal. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Portakal Suyu: Taze sıkım portakal. Meyve Suları grubunda. Sunulan gramaj: 1 L. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Orange Juice is freshly squeezed orange juice from the Fruit Juices range, offered in 1 L as a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari — عصير البرتقال: عصير برتقال معصور طازجًا ضمن فئة عصائر الفواكه، يُقدَّم بسعة 1 L، وهو غذاء طبيعي أصله من غازي عنتاب.",
+    "de": "Tillo Kochari Orangensaft – frisch gepresster Orangensaft aus der Kategorie Fruchtsäfte, angeboten in 1 L, ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 오렌지 주스는 과일 주스 카테고리의 갓 짜낸 오렌지 주스로, 1 L 용량으로 제공되는 가지안테프 출신의 자연 식품입니다."
   },
-  "index": 74,
+  "index": 150,
   "icon": "local_bar",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Portakal Suyu | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Orange Juice | Tillo Kochari",
+    "ar": "عصير البرتقال | Tillo Kochari",
+    "de": "Orangensaft | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "오렌지 주스 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Taze Sıkım Portakal Suyu</h2>\n<p>Portakal Suyu, taze sıkım portakalın canlı rengini ve hafif ekşimsi tatlılığını bir araya getiren bir kahvaltı içeceğidir. Bardağa döküldüğünde portakal kabuğunu hatırlatan kokusu hemen yayılır. Tadı dengelidir; ne ağır tatlı ne de keskin ekşi, sabahın ilk saatlerinde güne başlamak için hoş bir tazelik sunar.</p>\n<p>Gaziantep'in bol çeşitli kahvaltı sofralarında bir bardak portakal suyu, çayın yanında sık rastlanan bir eşlikçidir. Tillo Kochari'nin portakal suyu, bu alışkanlığı her sabah sıkma zahmetine girmeden sürdürmek isteyenler için 1 litrelik şişede sunuluyor. Börek, simit ve yumurtalı kahvaltılıklarla iyi anlaşır.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Kahvaltıda menemen ya da peynirli börekle birlikte soğuk olarak servis edin.</li>\n<li>Kek hamurunda sütün bir kısmı yerine kullanarak hafif bir portakal aroması katın.</li>\n<li>Buz küpleri ve birkaç nane yaprağıyla uzun bir bardakta yaz içeceği olarak sunun.</li>\n</ul>\n<p><strong>Gramaj:</strong> 1 L</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Freshly Squeezed Orange Juice</h2>\n<p>Orange Juice is a breakfast drink that brings together the vivid color and lightly tangy sweetness of freshly squeezed oranges. When poured into the glass, its aroma, reminiscent of orange peel, spreads at once. Its taste is balanced, neither heavily sweet nor sharply sour, offering a pleasant freshness to start the day in the early morning hours.</p>\n<p>At Gaziantep's richly varied breakfast tables, a glass of orange juice is a frequent companion to tea. Tillo Kochari's Orange Juice comes in a 1 L bottle for those who want to keep up this habit without the effort of squeezing oranges every morning. It pairs well with savory pastries, sesame bread rings and egg dishes.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve cold at breakfast with Turkish-style scrambled eggs or cheese-filled pastry.</li>\n<li>Use it in cake batter in place of part of the milk to add a light orange aroma.</li>\n<li>Serve as a summer drink in a tall glass with ice cubes and a few mint leaves.</li>\n</ul>\n<p><strong>Volume:</strong> 1 L</p>",
+    "ar": "<h2>عصير برتقال معصور طازجًا</h2>\n<p>عصير البرتقال مشروب فطور يجمع اللون الزاهي والحلاوة المائلة إلى الحموضة الخفيفة للبرتقال المعصور طازجًا. وما إن يُسكب في الكأس حتى تنتشر رائحته التي تذكّر بقشر البرتقال. مذاقه متوازن، لا هو شديد الحلاوة ولا حادّ الحموضة، فيمنح نضارة لطيفة لبدء اليوم في ساعات الصباح الأولى.</p>\n<p>على موائد الفطور المتنوعة في غازي عنتاب، كثيرًا ما يرافق كأسُ عصير البرتقال الشايَ. ويُقدَّم عصير البرتقال من Tillo Kochari في زجاجة سعة 1 L لمن يرغبون في الحفاظ على هذه العادة دون عناء عصر البرتقال كل صباح. وهو ينسجم جيدًا مع الفطائر المالحة وكعك السمسم وأطباق البيض.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>قدّمه باردًا في الفطور مع البيض المخفوق على الطريقة التركية أو الفطائر بالجبن.</li>\n<li>استخدمه في عجينة الكيك بدلًا من جزء من الحليب لإضفاء نكهة برتقال خفيفة.</li>\n<li>قدّمه مشروبًا صيفيًا في كأس طويلة مع مكعبات الثلج وبضع أوراق من النعناع.</li>\n</ul>\n<p><strong>الحجم:</strong> 1 L</p>",
+    "de": "<h2>Frisch gepresster Orangensaft</h2>\n<p>Orangensaft ist ein Frühstücksgetränk, das die leuchtende Farbe und die leicht säuerliche Süße frisch gepresster Orangen vereint. Sobald er ins Glas gegossen wird, verbreitet sich sein an Orangenschale erinnernder Duft. Sein Geschmack ist ausgewogen – weder schwer süß noch scharf sauer – und bietet in den frühen Morgenstunden eine angenehme Frische für den Start in den Tag.</p>\n<p>An den reichhaltigen Frühstückstischen von Gaziantep ist ein Glas Orangensaft ein häufiger Begleiter zum Tee. Der Orangensaft von Tillo Kochari wird in der 1-L-Flasche angeboten – für alle, die diese Gewohnheit beibehalten möchten, ohne jeden Morgen Orangen pressen zu müssen. Er passt gut zu herzhaftem Teiggebäck, Sesamkringeln und Eierspeisen.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Zum Frühstück kalt zu Rührei nach türkischer Art oder Käse-Teiggebäck servieren.</li>\n<li>Im Kuchenteig einen Teil der Milch ersetzen, um ein leichtes Orangenaroma zu verleihen.</li>\n<li>Mit Eiswürfeln und einigen Minzblättern im hohen Glas als Sommergetränk servieren.</li>\n</ul>\n<p><strong>Inhalt:</strong> 1 L</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>갓 짜낸 오렌지 주스</h2>\n<p>오렌지 주스는 갓 짜낸 오렌지의 생생한 색과 살짝 새콤한 단맛을 함께 담은 아침 음료입니다. 잔에 따르면 오렌지 껍질을 연상시키는 향이 곧바로 퍼집니다. 맛은 균형 잡혀 있어 지나치게 달지도, 날카롭게 시지도 않으며 이른 아침 하루를 시작하기에 기분 좋은 상쾌함을 선사합니다.</p>\n<p>다채로운 가지안테프의 아침 식탁에서 오렌지 주스 한 잔은 차와 함께 자주 등장하는 곁들임입니다. Tillo Kochari의 오렌지 주스는 매일 아침 직접 짜는 수고 없이 이 습관을 이어 가고 싶은 분들을 위해 1 L 병으로 제공됩니다. 짭짤한 페이스트리, 참깨 링 빵, 달걀 요리와 잘 어울립니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>아침 식사에 튀르키예식 스크램블드에그나 치즈 페이스트리와 함께 차갑게 내기 좋습니다.</li>\n<li>케이크 반죽에 우유 일부 대신 넣으면 은은한 오렌지 향을 더할 수 있습니다.</li>\n<li>얼음과 민트 잎 몇 장을 넣어 긴 잔에 담으면 여름 음료로 즐길 수 있습니다.</li>\n</ul>\n<p><strong>용량:</strong> 1 L</p>"
   },
-  "update": "2026-10-28T07:04:29.024Z",
+  "update": "2026-10-28T09:07:18.070Z",
   "date": "2026-05-20T09:54:45.462Z",
   "img": "index.webp"
 }

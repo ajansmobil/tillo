@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Sade Yağ"
+    "tr": "Sade Yağ",
+    "en": "Clarified Butter (Ghee)",
+    "ar": "سمن",
+    "de": "Butterschmalz",
+    "ko": "정제 버터 (기)"
   },
   "status": "play",
-  "category": "c12sut",
+  "category": "c07kuruseb",
   "id": "yy6aqayi26",
   "externalUrl": "",
   "path": "sade-yag",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Sade Yağ, Süt ve Süt Ürünleri, süt ürünleri, kaşar peynir, beyaz peynir, tereyağı",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Clarified Butter (Ghee), Milk and Dairy Products, dairy products, kashar cheese, white cheese, butter",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, سمن, الحليب ومشتقاته, منتجات الألبان, جبن قشقوان, جبن أبيض, زبدة",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Butterschmalz, Milch und Milchprodukte, Milchprodukte, Kaşar-Käse, Weißkäse, Butter",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 자연 식품, 정제 버터 (기), 우유 및 유제품, 유제품, 카사르 치즈, 화이트 치즈, 버터"
   },
   "description": {
-    "tr": "Tillo Kochari Sade Yağ: Geleneksel sade yağ. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Sade Yağ: Geleneksel sade yağ. Süt ve Süt Ürünleri grubunda. Sunulan gramaj: 500 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Clarified Butter (Ghee) is a traditional clarified butter from the Milk and Dairy Products range, available in 500 g, and a natural food rooted in Gaziantep.",
+    "ar": "Tillo Kochari سمن: سمن تقليدي من فئة الحليب ومشتقاته، متوفر بوزن 500 g، وهو غذاء طبيعي يعود أصله إلى غازي عنتاب.",
+    "de": "Tillo Kochari Butterschmalz ist ein traditionelles Butterschmalz aus der Kategorie Milch und Milchprodukte, erhältlich in 500 g – ein Naturprodukt mit Wurzeln in Gaziantep.",
+    "ko": "Tillo Kochari 정제 버터(기)는 우유 및 유제품 카테고리의 전통 정제 버터로, 500 g 용량으로 제공되는 가지안테프 출신의 자연 식품입니다."
   },
-  "index": 93,
+  "index": 169,
   "icon": "egg",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Sade Yağ | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Clarified Butter (Ghee) | Tillo Kochari",
+    "ar": "سمن | Tillo Kochari",
+    "de": "Butterschmalz | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "정제 버터 (기) | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Sade Yağ ile Kavurma ve Hamur İşlerinde Derin Bir Aroma</h2>\n<p>Sade Yağ, tereyağının süt katısı ve suyundan ayrılmış hâli olarak bilinen geleneksel bir pişirme yağıdır. Altın sarısı rengi ve kavrulmuş tereyağını andıran yoğun kokusuyla öne çıkar. Yüksek ısıda tereyağı kadar çabuk yanmadığı için kavurma, kızartma ve hamur işlerinde rahatlıkla kullanılabilir.</p>\n<p>Gaziantep'in baklava ve pilav geleneğinde sade yağ, sıkça başvurulan bir malzemedir. Tillo Kochari Sade Yağ, bu geleneksel kullanımı ev mutfağına taşıyan 500 gramlık bir seçenek sunar. Serin ortamda katılaşabilir; tencereye ya da tavaya alındığında kısa sürede erir ve kullanıma hazır hâle gelir, ölçmesi de kaşıkla kolaydır.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Ev yapımı baklava veya börek katlarının arasına eritilmiş olarak sürün.</li>\n<li>Pirinç pilavında pirinci kavururken tereyağı yerine kullanarak taneli bir sonuç alın.</li>\n<li>Kavurma veya etli sebze yemeklerinde eti tavada mühürlemek için kullanın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 500 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Deep Aroma in Sautéing and Pastries with Clarified Butter</h2>\n<p>Clarified butter is a traditional cooking fat known as butter separated from its milk solids and water. It stands out with its golden-yellow colour and an intense aroma reminiscent of browned butter. Because it does not burn as quickly as butter at high heat, it can easily be used for sautéing, frying and pastries.</p>\n<p>In Gaziantep's baklava and pilaf tradition, clarified butter is a frequently used ingredient. Tillo Kochari Clarified Butter offers a 500 g option that brings this traditional use into the home kitchen. It may solidify in a cool place; once added to a pot or pan it melts quickly and is ready to use, and it is easy to measure with a spoon.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Brush it, melted, between the layers of homemade baklava or savoury filo pastries.</li>\n<li>Use it instead of butter when toasting the rice for rice pilaf to get separate, fluffy grains.</li>\n<li>Use it to sear meat in the pan for pan-roasted meat or vegetable dishes with meat.</li>\n</ul>\n<p><strong>Size:</strong> 500 g</p>",
+    "ar": "<h2>نكهة عميقة في التحمير والمعجنات مع السمن</h2>\n<p>السمن دهن طهي تقليدي يُعرف بأنه الزبدة بعد فصلها عن جوامد الحليب والماء. يتميز بلونه الذهبي ورائحته القوية التي تذكّر بالزبدة المحمّرة. ولأنه لا يحترق بسرعة الزبدة عند الحرارة العالية، يمكن استخدامه بسهولة في التحمير والقلي والمعجنات.</p>\n<p>يُعد السمن مكوّنًا شائع الاستخدام في تقاليد البقلاوة والأرز في غازي عنتاب. ويقدم سمن Tillo Kochari خيارًا بوزن 500 g ينقل هذا الاستخدام التقليدي إلى المطبخ المنزلي. قد يتجمد في الأماكن الباردة، لكنه يذوب سريعًا عند وضعه في القدر أو المقلاة ويصبح جاهزًا للاستخدام، كما يسهل قياسه بالملعقة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>ادهنه ذائبًا بين طبقات البقلاوة أو البوريك المنزلي.</li>\n<li>استخدمه بدل الزبدة عند تحميص الأرز لتحضير الأرز المفلفل والحصول على حبات منفصلة.</li>\n<li>استخدمه لتشويح اللحم في المقلاة عند تحضير القاورما أو أطباق الخضار باللحم.</li>\n</ul>\n<p><strong>العبوة:</strong> 500 g</p>",
+    "de": "<h2>Tiefes Aroma beim Anbraten und Backen mit Butterschmalz</h2>\n<p>Butterschmalz ist ein traditionelles Kochfett, das als von Milchfeststoffen und Wasser getrennte Butter bekannt ist. Es besticht durch seine goldgelbe Farbe und ein intensives Aroma, das an gebräunte Butter erinnert. Da es bei hoher Hitze nicht so schnell verbrennt wie Butter, eignet es sich problemlos zum Anbraten, Frittieren und für Teiggebäck.</p>\n<p>In der Baklava- und Pilaw-Tradition von Gaziantep ist Butterschmalz eine häufig verwendete Zutat. Tillo Kochari Butterschmalz bringt diese traditionelle Verwendung mit einer Packung zu 500 g in die heimische Küche. An einem kühlen Ort kann es fest werden; im Topf oder in der Pfanne schmilzt es jedoch rasch und ist sofort einsatzbereit – zudem lässt es sich bequem mit dem Löffel abmessen.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Geschmolzen zwischen die Schichten von selbst gemachter Baklava oder herzhaftem Filoteiggebäck streichen.</li>\n<li>Beim Anrösten des Reises für Reis-Pilaw anstelle von Butter verwenden – für lockere, körnige Ergebnisse.</li>\n<li>Zum scharfen Anbraten von Fleisch in der Pfanne für Schmorfleisch oder Gemüsegerichte mit Fleisch verwenden.</li>\n</ul>\n<p><strong>Packungsgröße:</strong> 500 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>정제 버터로 볶음과 페이스트리에 깊은 풍미를</h2>\n<p>정제 버터는 버터에서 유고형분과 수분을 분리한 형태로 알려진 전통 조리용 유지입니다. 황금빛 색과 볶은 버터를 연상시키는 진한 향이 돋보입니다. 높은 온도에서 버터만큼 빨리 타지 않기 때문에 볶음, 튀김, 페이스트리 요리에 부담 없이 사용할 수 있습니다.</p>\n<p>가지안테프의 바클라바와 필라프 전통에서 정제 버터는 자주 쓰이는 재료입니다. Tillo Kochari 정제 버터는 이러한 전통적인 쓰임을 가정 주방으로 옮겨 온 500 g 제품입니다. 서늘한 곳에서는 굳을 수 있지만, 냄비나 팬에 넣으면 금세 녹아 바로 사용할 수 있으며 숟가락으로 계량하기도 쉽습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>홈메이드 바클라바나 뵈렉(튀르키예식 페이스트리)의 반죽 층 사이에 녹여서 발라 주세요.</li>\n<li>쌀 필라프를 만들 때 쌀을 볶는 단계에서 버터 대신 사용하면 고슬고슬한 밥알을 얻을 수 있습니다.</li>\n<li>카부르마(볶은 고기 요리)나 고기를 넣은 채소 요리에서 고기 겉면을 팬에 익힐 때 사용하세요.</li>\n</ul>\n<p><strong>용량:</strong> 500 g</p>"
   },
-  "update": "2026-10-28T07:04:30.045Z",
+  "update": "2026-10-28T09:08:11.590Z",
   "date": "2026-05-20T09:54:45.615Z",
   "img": "index.webp"
 }

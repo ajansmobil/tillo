@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "IQF Brokoli"
+    "tr": "IQF Brokoli",
+    "en": "IQF Broccoli",
+    "ar": "بروكلي IQF",
+    "de": "IQF Brokkoli",
+    "ko": "IQF 브로콜리"
   },
   "status": "play",
   "category": "c16iqfseb",
@@ -9,16 +13,20 @@
   "path": "iqf-brokoli",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, IQF Brokoli, IQF Dilimlenmiş Sebzeler, IQF sebze, dondurulmuş sebze, endüstriyel sebze, dilim sebze",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, IQF Broccoli, IQF Sliced Vegetables, IQF vegetables, frozen vegetables, industrial vegetables, sliced vegetables",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, بروكلي IQF, خضروات مقطعة IQF, خضروات IQF, خضروات مجمدة, خضروات للصناعات الغذائية, خضروات مقطعة شرائح",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, IQF Brokkoli, IQF geschnittenes Gemüse, IQF Gemüse, Tiefkühlgemüse, Industriegemüse, geschnittenes Gemüse",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, IQF 브로콜리, IQF 슬라이스 채소, IQF 채소, 냉동 채소, 산업용 채소, 슬라이스 채소"
   },
   "description": {
-    "tr": "Tillo Kochari IQF Brokoli: Çiçek brokoli. IQF Dilimlenmiş Sebzeler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari IQF Brokoli: Çiçek brokoli. IQF Dilimlenmiş Sebzeler grubunda. Sunulan gramaj: 10 kg. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari IQF Broccoli: broccoli florets from the IQF Sliced Vegetables range, offered in a 10 kg pack — a natural food from Gaziantep.",
+    "ar": "Tillo Kochari – بروكلي IQF: زهيرات بروكلي ضمن مجموعة الخضروات المقطّعة IQF، متوفرة بعبوة 10 kg، غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari IQF Brokkoli: Brokkoliröschen aus der Gruppe IQF geschnittenes Gemüse, erhältlich in der Packung zu 10 kg – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari IQF 브로콜리는 IQF 슬라이스 채소 그룹의 송이 브로콜리로, 10 kg 포장으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 140,
+  "index": 216,
   "icon": "ac_unit",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "IQF Brokoli | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "IQF Broccoli | Tillo Kochari",
+    "ar": "بروكلي IQF | Tillo Kochari",
+    "de": "IQF Brokkoli | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "IQF 브로콜리 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>IQF Brokoli: Çiçek Çiçek, Kullanıma Hazır</h2>\n<p>IQF Brokoli, brokolinin sapından ayrılmış çiçeklerinden oluşur ve her parça ayrı ayrı dondurulur. Bu sayede ambalajdan yalnızca gereken miktar alınır, kalan brokoli dondurucuda bekler. Tillo Kochari bu ürünü 10 kg'lık ambalajda, düzenli sebze tüketen otel, okul ve restoran mutfakları için hazırlıyor.</p>\n<p>Brokoli kısa sürede pişirildiğinde koyu yeşil rengini ve hafif çıtır dokusunu korur; fazla pişirildiğinde ise yumuşar. Bu yüzden buharda ya da haşlamada birkaç dakika genellikle yeterlidir. Gaziantep merkezli Tillo Kochari'nin doğal ürün çizgisinde yer alan brokoli, hem sade garnitürlerde hem kremalı tariflerde rahatça kullanılır.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Buharda kısa süre pişirip limon ve zeytinyağıyla sade bir garnitür hazırlayın.</li>\n<li>Kremalı makarna veya brokoli çorbası tariflerinde ana sebze olarak kullanın.</li>\n<li>Tavuk ve soya sosuyla wok tavada çevirerek hızlı bir ana yemek yapın.</li>\n</ul>\n<p><strong>Gramaj:</strong> 10 kg</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>IQF Broccoli: Floret by Floret, Ready to Use</h2>\n<p>IQF Broccoli consists of florets separated from the broccoli stalk, with each piece frozen individually. This way, you take only the amount you need from the pack, while the rest of the broccoli waits in the freezer. Tillo Kochari prepares this product in a 10 kg pack for hotel, school and restaurant kitchens that use vegetables on a regular basis.</p>\n<p>When cooked briefly, broccoli keeps its deep green color and slightly crisp texture; when overcooked, it softens. That is why a few minutes of steaming or boiling is usually enough. Part of the natural product line of Gaziantep-based Tillo Kochari, this broccoli works easily in both simple side dishes and creamy recipes.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Steam briefly and dress with lemon and olive oil for a simple side dish.</li>\n<li>Use as the main vegetable in creamy pasta or broccoli soup recipes.</li>\n<li>Stir-fry in a wok with chicken and soy sauce for a quick main course.</li>\n</ul>\n<p><strong>Weight:</strong> 10 kg</p>",
+    "ar": "<h2>بروكلي IQF: زهيرة تلو الأخرى، جاهز للاستخدام</h2>\n<p>يتكوّن بروكلي IQF من زهيرات البروكلي المفصولة عن الساق، وتُجمَّد كل قطعة على حدة. وبذلك تُؤخذ من العبوة الكمية المطلوبة فقط، ويبقى باقي البروكلي في المُجمِّد. تُعِدّ Tillo Kochari هذا المنتج في عبوة 10 kg لمطابخ الفنادق والمدارس والمطاعم التي تستهلك الخضروات بانتظام.</p>\n<p>عند طهي البروكلي لفترة قصيرة يحتفظ بلونه الأخضر الداكن وقوامه المقرمش قليلاً، أما إذا أُفرط في طهيه فيلين. لذلك تكفي عادةً بضع دقائق من الطهي بالبخار أو السلق. ويُستخدم هذا البروكلي، الذي ينتمي إلى خط المنتجات الطبيعية لدى Tillo Kochari ومقرها غازي عنتاب، بسهولة في الأطباق الجانبية البسيطة وفي الوصفات الكريمية على حد سواء.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اطهه على البخار لفترة قصيرة وقدّمه مع الليمون وزيت الزيتون كطبق جانبي بسيط.</li>\n<li>استخدمه كخضار رئيسي في وصفات المعكرونة بالكريمة أو حساء البروكلي.</li>\n<li>قلّبه في مقلاة الووك مع الدجاج وصلصة الصويا لتحضير طبق رئيسي سريع.</li>\n</ul>\n<p><strong>الوزن:</strong> 10 kg</p>",
+    "de": "<h2>IQF Brokkoli: Röschen für Röschen, sofort einsatzbereit</h2>\n<p>IQF Brokkoli besteht aus vom Stiel getrennten Brokkoliröschen, wobei jedes Stück einzeln tiefgefroren wird. So entnehmen Sie der Packung nur die benötigte Menge, während der restliche Brokkoli im Gefrierschrank bleibt. Tillo Kochari bietet dieses Produkt in der Packung zu 10 kg für Hotel-, Schul- und Restaurantküchen an, die regelmäßig Gemüse verarbeiten.</p>\n<p>Kurz gegart behält Brokkoli seine dunkelgrüne Farbe und seine leicht knackige Textur; zu lange gegart wird er weich. Deshalb genügen beim Dämpfen oder Kochen meist wenige Minuten. Der Brokkoli aus der Naturproduktlinie von Tillo Kochari mit Sitz in Gaziantep eignet sich gleichermaßen für schlichte Beilagen wie für cremige Rezepte.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Kurz dämpfen und mit Zitrone und Olivenöl als einfache Beilage servieren.</li>\n<li>Als Hauptgemüse in cremigen Nudelgerichten oder in Brokkolisuppe verwenden.</li>\n<li>Mit Hähnchen und Sojasoße im Wok pfannenrühren – für ein schnelles Hauptgericht.</li>\n</ul>\n<p><strong>Gewicht:</strong> 10 kg</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>IQF 브로콜리: 송이송이 바로 쓰는 편리함</h2>\n<p>IQF 브로콜리는 줄기에서 분리한 브로콜리 송이로 구성되며, 각 조각을 개별 냉동합니다. 덕분에 포장에서 필요한 양만 꺼내 쓰고 나머지 브로콜리는 냉동고에 그대로 보관할 수 있습니다. Tillo Kochari는 채소를 꾸준히 사용하는 호텔, 학교, 레스토랑 주방을 위해 이 제품을 10 kg 포장으로 준비합니다.</p>\n<p>브로콜리는 짧게 조리하면 진한 녹색과 살짝 아삭한 식감을 유지하지만, 너무 오래 익히면 물러집니다. 그래서 찌거나 데칠 때는 보통 몇 분이면 충분합니다. 가지안테프에 본사를 둔 Tillo Kochari의 천연 제품 라인에 속하는 이 브로콜리는 담백한 곁들임 요리와 크림 요리 모두에 손쉽게 활용됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>짧게 쪄서 레몬과 올리브유를 곁들여 담백한 가니시를 만들어 보세요.</li>\n<li>크림 파스타나 브로콜리 수프 레시피의 주재료 채소로 사용하세요.</li>\n<li>닭고기, 간장과 함께 웍에서 볶아 간편한 메인 요리를 만드세요.</li>\n</ul>\n<p><strong>중량:</strong> 10 kg</p>"
   },
-  "update": "2026-10-28T07:04:32.664Z",
+  "update": "2026-10-28T09:07:34.536Z",
   "date": "2026-05-20T09:54:46.002Z",
   "img": "index.webp"
 }

@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Meyve Cipsi Karışımı"
+    "tr": "Meyve Cipsi Karışımı",
+    "en": "Mixed Fruit Chips",
+    "ar": "مزيج رقائق الفواكه",
+    "de": "Fruchtchips-Mischung",
+    "ko": "믹스 과일칩"
   },
   "status": "play",
-  "category": "c06meycip",
+  "category": "c13konserve",
   "id": "6am6eyqeeq",
   "externalUrl": "",
   "path": "meyve-cipsi-karisimi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Meyve Cipsi Karışımı, Meyve Cipsleri, meyve cipsi, elma cipsi, kuru meyve cips, sağlıklı atıştırmalık",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Mixed Fruit Chips, Fruit Chips, fruit chips, apple chips, dried fruit chips, healthy snack",
+    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, مزيج رقائق الفواكه, رقائق الفواكه, رقائق فواكه, رقائق التفاح, رقائق فواكه مجففة, وجبة خفيفة صحية",
+    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Fruchtchips-Mischung, Fruchtchips, Obstchips, Apfelchips, getrocknete Fruchtchips, gesunder Snack",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 믹스 과일칩, 과일칩, 과일 칩, 사과칩, 건과일 칩, 건강 간식"
   },
   "description": {
-    "tr": "Tillo Kochari Meyve Cipsi Karışımı: Elma, armut, kivi karışımı. Meyve Cipsleri grubunda. Sunulan gramaj: 120 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Meyve Cipsi Karışımı: Elma, armut, kivi karışımı. Meyve Cipsleri grubunda. Sunulan gramaj: 120 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Mixed Fruit Chips: a blend of apple, pear and kiwi from the Fruit Chips range, offered in a 120 g pack — natural food from Gaziantep.",
+    "ar": "Tillo Kochari مزيج رقائق الفواكه: خليط من التفاح والكمثرى والكيوي ضمن فئة رقائق الفواكه، يُقدَّم بوزن 120 g، وهو غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Fruchtchips-Mischung: eine Mischung aus Apfel, Birne und Kiwi aus der Kategorie Fruchtchips, angeboten in 120 g – ein natürliches Lebensmittel aus Gaziantep.",
+    "ko": "Tillo Kochari 믹스 과일칩은 사과, 배, 키위를 섞은 과일칩 제품으로, 120 g 용량으로 제공되는 가지안테프산 천연 식품입니다."
   },
-  "index": 41,
+  "index": 117,
   "icon": "breakfast_dining",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Meyve Cipsi Karışımı | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Mixed Fruit Chips | Tillo Kochari",
+    "ar": "مزيج رقائق الفواكه | Tillo Kochari",
+    "de": "Fruchtchips-Mischung | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "믹스 과일칩 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Meyve Cipsi Karışımı: Elma, Armut ve Kivi Bir Arada</h2><p>Bu karışımda üç farklı meyvenin kurutulmuş dilimleri bir araya gelir: elmanın tanıdık tatlılığı, armudun daha yumuşak ve sulu meyveyi hatırlatan tadı, kivinin ise belirgin ekşiliği. Her avuçta farklı bir renk ve tat dengesi çıkması, Meyve Cipsi Karışımı'nı tek meyveli cipslerden ayıran en belirgin özelliktir.</p><p>Tillo Kochari'nin Gaziantep'ten sunduğu meyve cipsleri arasında, karar veremeyenler ya da paylaşmak isteyenler için düşünülmüş bir seçenektir. 120 gramlık paket, aile içinde ya da misafir sofrasında bir kâseye boşaltılıp ortaya konmaya uygundur. Kivinin yeşili, elma ve armudun açık tonlarıyla birlikte göze de hoş gelir.</p><h3>Kullanım Önerileri</h3><ul><li>Okul veya iş çantası için küçük saklama kaplarına bölüştürün.</li><li>Kahvaltıda yulaf lapasının ya da sütlü mısır gevreğinin üzerine ekleyin.</li><li>Film akşamlarında patlamış mısırın yanında hafif bir alternatif olarak sunun.</li></ul><p><strong>Gramaj:</strong> 120 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Mixed Fruit Chips: Apple, Pear and Kiwi Together</h2><p>This mix brings together dried slices of three different fruits: the familiar sweetness of apple, the softer taste of pear reminiscent of juicy fruit, and the distinct tartness of kiwi. A different balance of colour and flavour in every handful is the most notable feature that sets Mixed Fruit Chips apart from single-fruit chips.</p><p>Among the fruit chips Tillo Kochari offers from Gaziantep, this is an option designed for those who cannot decide or who want to share. The 120 g pack is well suited to being emptied into a bowl and set out for the family or on a table for guests. The green of the kiwi together with the pale tones of apple and pear is also pleasing to the eye.</p><h3>Serving Suggestions</h3><ul><li>Divide them into small storage containers for school or work bags.</li><li>Add them on top of porridge or cornflakes with milk at breakfast.</li><li>Serve them as a light alternative alongside popcorn on movie nights.</li></ul><p><strong>Weight:</strong> 120 g</p>",
+    "ar": "<h2>مزيج رقائق الفواكه: التفاح والكمثرى والكيوي معًا</h2><p>يجتمع في هذا المزيج شرائح مجففة من ثلاث فواكه مختلفة: حلاوة التفاح المألوفة، وطعم الكمثرى الأنعم الذي يذكّر بالفاكهة العصيرية، وحموضة الكيوي الواضحة. ويُعدّ ظهور توازن مختلف في اللون والطعم في كل حفنة أبرزَ ما يميز مزيج رقائق الفواكه عن الرقائق المصنوعة من فاكهة واحدة.</p><p>من بين رقائق الفواكه التي تقدّمها Tillo Kochari من غازي عنتاب، يُعدّ هذا خيارًا مصممًا لمن لا يستطيعون الاختيار أو لمن يرغبون في المشاركة. والعبوة بوزن 120 g مناسبة لتفريغها في وعاء ووضعها في الوسط بين أفراد العائلة أو على مائدة الضيوف. كما يبدو اخضرار الكيوي مع الدرجات الفاتحة للتفاح والكمثرى جميلًا للعين.</p><h3>اقتراحات للاستخدام</h3><ul><li>وزّعها في علب حفظ صغيرة لحقيبة المدرسة أو العمل.</li><li>أضفها في الفطور فوق عصيدة الشوفان أو رقائق الذرة بالحليب.</li><li>قدّمها في أمسيات الأفلام بديلًا خفيفًا إلى جانب الفشار.</li></ul><p><strong>الوزن:</strong> 120 g</p>",
+    "de": "<h2>Fruchtchips-Mischung: Apfel, Birne und Kiwi vereint</h2><p>In dieser Mischung kommen getrocknete Scheiben dreier verschiedener Früchte zusammen: die vertraute Süße des Apfels, der sanftere, an saftiges Obst erinnernde Geschmack der Birne und die ausgeprägte Säure der Kiwi. Dass jede Handvoll eine andere Balance aus Farbe und Geschmack bietet, ist das auffälligste Merkmal, das die Fruchtchips-Mischung von Chips aus nur einer Frucht unterscheidet.</p><p>Unter den Fruchtchips, die Tillo Kochari aus Gaziantep anbietet, ist dies eine Option für alle, die sich nicht entscheiden können oder teilen möchten. Die Packung mit 120 g eignet sich gut, um sie in eine Schale zu füllen und im Familienkreis oder am Gästetisch in die Mitte zu stellen. Das Grün der Kiwi zusammen mit den hellen Tönen von Apfel und Birne ist auch fürs Auge ansprechend.</p><h3>Verwendungsvorschläge</h3><ul><li>Für Schul- oder Arbeitstaschen in kleine Vorratsdosen portionieren.</li><li>Zum Frühstück über Haferbrei oder Cornflakes mit Milch geben.</li><li>An Filmabenden als leichte Alternative neben Popcorn servieren.</li></ul><p><strong>Gewicht:</strong> 120 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>믹스 과일칩: 사과, 배, 키위를 한 번에</h2><p>이 믹스에는 세 가지 과일의 말린 슬라이스가 함께 담겨 있습니다. 사과의 익숙한 단맛, 즙 많은 과일을 떠올리게 하는 배의 한층 부드러운 맛, 그리고 키위의 뚜렷한 새콤함입니다. 한 줌마다 색과 맛의 균형이 다르게 느껴진다는 점이 믹스 과일칩을 단일 과일칩과 구별 짓는 가장 큰 특징입니다.</p><p>Tillo Kochari가 가지안테프에서 선보이는 과일칩 가운데, 하나를 고르기 어려운 분이나 함께 나누고 싶은 분을 위해 마련한 선택지입니다. 120 g 포장은 그릇에 부어 가족끼리 또는 손님상 가운데에 내놓기에 알맞습니다. 키위의 초록빛이 사과와 배의 밝은 색감과 어우러져 보기에도 좋습니다.</p><h3>활용 제안</h3><ul><li>학교나 직장 가방에 넣을 수 있도록 작은 보관 용기에 나눠 담으세요.</li><li>아침 식사 때 오트밀 죽이나 우유를 부은 콘플레이크 위에 올려 보세요.</li><li>영화 보는 밤에 팝콘 옆에 가벼운 대안으로 내어 보세요.</li></ul><p><strong>중량:</strong> 120 g</p>"
   },
-  "update": "2026-10-28T07:04:27.242Z",
+  "update": "2026-10-28T09:07:28.006Z",
   "date": "2026-05-20T09:54:45.181Z",
   "img": "index.webp"
 }

@@ -8,10 +8,25 @@
       "category": "menu",
       "id": "vey1el",
       "desing": {
-        "bgcolor": "#1B3A4B",
-        "color": "#F5E6C8",
-        "activebgcolor": "#C4A035",
-        "activecolor": "#1B3A4B"
+        "bgcolor": "#1e3046",
+        "color": "#ffffff",
+        "activebgcolor": "#ffffff",
+        "activecolor": "#000000",
+        "height": "100px",
+        "ariaToggle": {
+          "tr": "Menüyü aç/kapat",
+          "en": "Toggle menu",
+          "ar": "تبديل القائمة",
+          "de": "Menü umschalten",
+          "ko": "메뉴 열기/닫기"
+        },
+        "ariaClose": {
+          "tr": "Menüyü kapat",
+          "en": "Close menu",
+          "ar": "إغلاق القائمة",
+          "de": "Menü schließen",
+          "ko": "메뉴 닫기"
+        }
       },
       "version": "1.0.0",
       "icon": "menu"
@@ -48,11 +63,16 @@
       "category": "contact",
       "id": "fhxr98",
       "desing": {
-        "color": "#1B3A4B",
+        "color": "#000",
         "name": {
-          "tr": "Bize Ulaşın"
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "تواصل معنا",
+          "de": "Kontaktieren Sie uns",
+          "ko": "문의하기"
         },
-        "margin": "30px 0px 30px 0px"
+        "margin": "30px 0px 30px 0px",
+        "linkcolor": "#1B3A6B"
       },
       "data": [
         {
@@ -83,7 +103,7 @@
       "desing": {
         "height": "200",
         "opacity": "0.5",
-        "backgroundcolor": "#FAF7F2",
+        "backgroundcolor": "#ffffff",
         "color": "#1B3A4B",
         "img": "map.png",
         "externalUrl": ""
@@ -119,10 +139,82 @@
       "desing": {
         "height": "200",
         "opacity": "0.5",
-        "font-size": "36",
-        "backgroundcolor": "#1B3A4B",
-        "menu-active": "#C4A035",
-        "textcolor": "#F5E6C8"
+        "font-size": "32",
+        "backgroundcolor": "#000",
+        "menu-active": "#000",
+        "textcolor": "#fff",
+        "bgcolor": "#ffffff",
+        "border_radius": "8px",
+        "card_shadow": "0 10px 28px rgba(0, 0, 0, 0.08)",
+        "color": "#111111",
+        "colortitle": "#111111",
+        "coloractive": "#000000",
+        "ui": {
+          "tr": {
+            "home": "Anasayfa",
+            "products": "Ürünler",
+            "dimensions": "Ölçüler",
+            "dimNote": "Standart üretim referansıdır; proje bazında özelleştirilebilir.",
+            "quote": "Teklif Al",
+            "whatsapp": "WhatsApp",
+            "prev": "Önceki",
+            "next": "Sonraki"
+          },
+          "en": {
+            "home": "Home",
+            "products": "Products",
+            "dimensions": "Dimensions",
+            "dimNote": "Standard production reference; customizable per project.",
+            "quote": "Get Quote",
+            "whatsapp": "WhatsApp",
+            "prev": "Previous",
+            "next": "Next"
+          },
+          "ar": {
+            "home": "الرئيسية",
+            "products": "المنتجات",
+            "dimensions": "الأبعاد",
+            "dimNote": "مرجع إنتاج قياسي؛ قابل للتخصيص حسب المشروع.",
+            "quote": "عرض سعر",
+            "whatsapp": "واتساب",
+            "prev": "السابق",
+            "next": "التالي"
+          },
+          "de": {
+            "home": "Startseite",
+            "products": "Produkte",
+            "dimensions": "Maße",
+            "dimNote": "Standardmäßige Produktionsreferenz; projektbezogen anpassbar.",
+            "quote": "Angebot anfordern",
+            "whatsapp": "WhatsApp",
+            "prev": "Zurück",
+            "next": "Weiter"
+          },
+          "ko": {
+            "home": "홈",
+            "products": "제품",
+            "dimensions": "치수",
+            "dimNote": "표준 생산 기준이며 프로젝트별로 맞춤 설정할 수 있습니다.",
+            "quote": "견적 요청",
+            "whatsapp": "WhatsApp",
+            "prev": "이전",
+            "next": "다음"
+          }
+        },
+        "noTitle": {
+          "tr": "Başlık Yok",
+          "en": "No title",
+          "ar": "بدون عنوان",
+          "de": "Kein Titel",
+          "ko": "제목 없음"
+        },
+        "productNavAria": {
+          "tr": "Ürün navigasyonu",
+          "en": "Product navigation",
+          "ar": "تنقل المنتج",
+          "de": "Produktnavigation",
+          "ko": "제품 탐색"
+        }
       },
       "version": "1.0.0",
       "icon": "web"
@@ -194,14 +286,31 @@
         "height": "200",
         "opacity": "0.5",
         "font-size": "32",
-        "backgroundcolor": "#1B3A4B",
-        "menu-active": "#C4A035",
-        "textcolor": "#F5E6C8",
-        "bgcolor": "#FAF7F2",
+        "backgroundcolor": "#1e3046",
+        "menu-active": "#2196f3",
+        "textcolor": "#ffffff",
+        "bgcolor": "#f8f9fa",
         "color": "#333333",
-        "colortitle": "#1B3A4B",
+        "colortitle": "#1e3046",
+        "coloractive": "#2196f3",
+        "border_radius": "12px",
+        "card_shadow": "0 4px 20px rgba(0, 0, 0, 0.1)",
+        "max": "1200px",
         "category": "category",
-        "coloractive": "#C4A035"
+        "olcuTitle": {
+          "tr": "Ölçüler",
+          "en": "Dimensions",
+          "ar": "الأبعاد",
+          "de": "Maße",
+          "ko": "치수"
+        },
+        "olcuNote": {
+          "tr": "Standart üretim referans ölçüsüdür; proje bazında özelleştirilebilir.",
+          "en": "Standard production reference; customizable per project.",
+          "ar": "مرجع إنتاج قياسي؛ قابل للتخصيص حسب المشروع.",
+          "de": "Standardmäßige Produktionsreferenz; projektbezogen anpassbar.",
+          "ko": "표준 생산 기준이며 프로젝트별로 맞춤 설정할 수 있습니다."
+        }
       },
       "category": "page",
       "version": "1.0.0",
@@ -230,7 +339,7 @@
         "ui": {
           "tr": {
             "quote": "Bize Ulaşın",
-            "whatsapp": ""
+            "whatsapp": "WhatsApp"
           },
           "en": {
             "quote": "Contact Us",
@@ -239,9 +348,179 @@
           "ar": {
             "quote": "اتصل بنا",
             "whatsapp": "واتساب"
+          },
+          "de": {
+            "quote": "Kontaktieren Sie uns",
+            "whatsapp": "WhatsApp"
+          },
+          "ko": {
+            "quote": "문의하기",
+            "whatsapp": "WhatsApp"
           }
         }
       }
+    },
+    {
+      "name": "Ollama Chatbot",
+      "desing": {
+        "model": "@cf/google/gemma-4-26b-a4b-it",
+        "ollamaHost": "",
+        "proxyUrl": "https://nameless-math-8e53.yunusevgane.workers.dev/api/workers-ai-chat",
+        "apiKey": "",
+        "name": {
+          "tr": "Tillo Asistan",
+          "en": "Tillo Assistant",
+          "ar": "مساعد Tillo",
+          "de": "Tillo Assistent",
+          "ko": "Tillo 어시스턴트"
+        },
+        "status": {
+          "tr": "Çevrimiçi — size yardımcı olmaya hazır",
+          "en": "Online — ready to help",
+          "ar": "متصل — جاهز للمساعدة",
+          "de": "Online — bereit zu helfen",
+          "ko": "온라인 — 도움을 드릴 준비가 되었습니다"
+        },
+        "welcome": {
+          "tr": "Merhaba! Tillo Kochari ürünleri, ürün grupları ve toptan sipariş konularında size yardımcı olabilirim.",
+          "en": "Hello! I can help you with Tillo Kochari products, product groups and wholesale orders.",
+          "ar": "مرحباً! يمكنني مساعدتك في منتجات Tillo Kochari ومجموعات المنتجات وطلبات الجملة.",
+          "de": "Hallo! Ich helfe Ihnen gern bei Produkten, Produktgruppen und Großbestellungen von Tillo Kochari.",
+          "ko": "안녕하세요! Tillo Kochari 제품, 제품군, 도매 주문에 대해 도와드리겠습니다."
+        },
+        "placeholder": {
+          "tr": "Sorunuzu yazın...",
+          "en": "Type your question...",
+          "ar": "اكتب سؤالك...",
+          "de": "Fragen Sie hier...",
+          "ko": "질문을 입력하세요..."
+        },
+        "send_text": {
+          "tr": "Gönder",
+          "en": "Send",
+          "ar": "إرسال",
+          "de": "Senden",
+          "ko": "보내기"
+        },
+        "typing_text": {
+          "tr": "Yazıyor",
+          "en": "Typing",
+          "ar": "يكتب",
+          "de": "Schreibt",
+          "ko": "입력 중"
+        },
+        "error_text": {
+          "tr": "Bağlantı hatası. Lütfen tekrar deneyin.",
+          "en": "Connection error. Please try again.",
+          "ar": "خطأ في الاتصال. حاول مرة أخرى.",
+          "de": "Verbindungsfehler. Bitte erneut versuchen.",
+          "ko": "연결 오류입니다. 다시 시도해 주세요."
+        },
+        "system_prompt": {
+          "tr": "Sen Tillo Kochari (Gaziantep merkezli doğal gıda üreticisi) web sitesinin yardımcı asistanısın. Tahıl, bakliyat, kuruyemiş, reçel, pekmez, süt ürünleri, kurutulmuş ve dondurulmuş meyve-sebze, kadayıf, lavaş, zeytin yağı ve aromatik bitkiler gibi 22 ürün grubu hakkında kısa, net ve nazik Türkçe yanıt ver. Fiyat, stok, sağlık iddiası ya da sertifika bilgisi uydurma; fiyat ve toptan sipariş için ziyaretçiyi İletişim sayfasına yönlendir. Ürün önerirken mutlaka [[PRODUCTS]]...[[/PRODUCTS]] bloğu kullan.",
+          "en": "You are the assistant of the Tillo Kochari website (a natural food producer based in Gaziantep). Reply briefly, clearly and politely in English about 22 product groups such as grains, pulses, nuts, jams, pekmez, dairy, dried and frozen fruits and vegetables, kadayif, lavash, olive oil and aromatic herbs. Never invent prices, stock, health claims or certificates; send visitors to the Contact page for prices and wholesale orders. Use the [[PRODUCTS]]...[[/PRODUCTS]] block when listing products.",
+          "ar": "أنت مساعد موقع Tillo Kochari (منتج أغذية طبيعية مقره غازي عنتاب). أجب باختصار ووضوح ولطف بالعربية عن 22 مجموعة منتجات مثل الحبوب والبقوليات والمكسرات والمربيات والدبس ومنتجات الألبان والفواكه والخضروات المجففة والمجمدة والقطايف واللافاش وزيت الزيتون والأعشاب العطرية. لا تخترع أسعاراً أو مخزوناً أو ادعاءات صحية أو شهادات؛ وجّه الزائر إلى صفحة اتصل بنا للأسعار وطلبات الجملة. استخدم كتلة [[PRODUCTS]]...[[/PRODUCTS]] عند سرد المنتجات.",
+          "de": "Du bist der Assistent der Website von Tillo Kochari (Hersteller natürlicher Lebensmittel mit Sitz in Gaziantep). Antworte kurz, klar und höflich auf Deutsch zu 22 Produktgruppen wie Getreide, Hülsenfrüchten, Nüssen, Konfitüren, Pekmez, Milchprodukten, getrocknetem und tiefgefrorenem Obst und Gemüse, Kadayif, Lavash, Olivenöl und aromatischen Kräutern. Erfinde niemals Preise, Bestände, Gesundheitsversprechen oder Zertifikate; verweise für Preise und Großbestellungen auf die Kontaktseite. Verwende beim Auflisten von Produkten den Block [[PRODUCTS]]...[[/PRODUCTS]].",
+          "ko": "당신은 Tillo Kochari(가지안테프 기반 천연 식품 생산업체) 웹사이트의 어시스턴트입니다. 곡물, 콩류, 견과류, 잼, 페크메즈, 유제품, 건조·냉동 과일과 채소, 카다이프, 라바시, 올리브유, 허브 등 22개 제품군에 대해 한국어로 짧고 명확하며 정중하게 답하세요. 가격, 재고, 건강 효능, 인증 정보를 지어내지 말고 가격과 도매 주문은 문의 페이지로 안내하세요. 제품을 추천할 때는 반드시 [[PRODUCTS]]...[[/PRODUCTS]] 블록을 사용하세요."
+        },
+        "product_link_text": {
+          "tr": "İncele",
+          "en": "View",
+          "ar": "عرض",
+          "de": "Ansehen",
+          "ko": "보기"
+        },
+        "color": "#1B3A4B",
+        "bgcolor": "#FFFFFF",
+        "colortitle": "#1B3A4B",
+        "coloractive": "#C4A035",
+        "buttontext": "#FFFFFF",
+        "text": "#1B3A4B",
+        "surface": "#F0EBE3",
+        "border_radius": "16px",
+        "z_index": 10001,
+        "position": "fixed",
+        "allow_close": true,
+        "close_label": {
+          "tr": "Kapat",
+          "en": "Close",
+          "ar": "إغلاق",
+          "de": "Schließen",
+          "ko": "닫기"
+        },
+        "proxy_url_missing": {
+          "tr": " (proxyUrl ayarlanmadı)",
+          "en": " (proxyUrl not configured)",
+          "ar": " (proxyUrl غير مضبوط)",
+          "de": " (proxyUrl nicht konfiguriert)",
+          "ko": " (proxyUrl 미설정)"
+        },
+        "product_list_rules": {
+          "tr": "\n\n--- URUN LISTESI CIKTISI (ZORUNLU) ---\nBirden fazla urun onerirken duz yazi listesi YAZMA. Her urun icin asagidaki blogu kullan:\n[[PRODUCTS]]\nUrunAdi|url-slug|gramaj|kategori\n[[/PRODUCTS]]\nOrnek:\n[[PRODUCTS]]\nKuru Incir|kuru-incir|500 g|Kurutulmus Meyve Grubu\n[[/PRODUCTS]]\nurl-slug yalnizca katalogdaki path degeridir. Tek urun icin de ayni blok tek satirla.\nBloktan once 1-2 cumle aciklama, sonra blok. Blok icinde markdown veya numara kullanma.\nKatalog blogundaki urunleri kullan; uydurma.\nKategori sayfasi icin: [[PRODUCTS]]\\nKategori Adi|kategori-slug||\\n[[/PRODUCTS]] (gramaj bos birakilabilir).\n",
+          "en": "\n\n--- PRODUCT LIST OUTPUT (MANDATORY) ---\nWhen recommending several products do NOT write a plain list. Use this block:\n[[PRODUCTS]]\nProductName|url-slug|weight|category\n[[/PRODUCTS]]\nurl-slug is only the catalog path value. Use the same block with one line for a single product.\nWrite 1-2 sentences before the block. No markdown or numbering inside the block.\nUse only catalog products; do not invent.\nFor a category page: [[PRODUCTS]]\\nCategory Name|category-slug||\\n[[/PRODUCTS]] (weight may be empty).\n",
+          "ar": "\n\n--- مخرجات قائمة المنتجات (إلزامي) ---\nعند اقتراح عدة منتجات لا تكتب قائمة نصية. استخدم هذه الكتلة:\n[[PRODUCTS]]\nاسم المنتج|url-slug|الوزن|الفئة\n[[/PRODUCTS]]\nurl-slug هو قيمة path في الكتالوج فقط. استخدم الكتلة نفسها بسطر واحد لمنتج واحد.\nاكتب جملة أو جملتين قبل الكتلة. لا تستخدم markdown أو ترقيماً داخل الكتلة.\nاستخدم منتجات الكتالوج فقط ولا تخترع.\n",
+          "de": "\n\n--- PRODUKTLISTE AUSGABE (PFLICHT) ---\nBei mehreren Produktempfehlungen KEINE einfache Textliste schreiben. Nutze diesen Block:\n[[PRODUCTS]]\nProduktname|url-slug|Gewicht|Kategorie\n[[/PRODUCTS]]\nurl-slug ist nur der path-Wert aus dem Katalog. Auch bei einem Produkt derselbe Block mit einer Zeile.\nVor dem Block 1-2 Sätze. Kein Markdown und keine Nummerierung im Block.\nNur Katalogprodukte verwenden, nichts erfinden.\n",
+          "ko": "\n\n--- 제품 목록 출력 (필수) ---\n여러 제품을 추천할 때 일반 텍스트 목록을 쓰지 마세요. 다음 블록을 사용하세요:\n[[PRODUCTS]]\n제품명|url-slug|중량|카테고리\n[[/PRODUCTS]]\nurl-slug는 카탈로그의 path 값만 사용합니다. 제품이 하나여도 같은 블록을 한 줄로 쓰세요.\n블록 앞에 1-2문장을 쓰세요. 블록 안에서는 마크다운이나 번호를 쓰지 마세요.\n카탈로그의 제품만 사용하고 지어내지 마세요.\n"
+        },
+        "site_info_header": {
+          "tr": "\n\n--- SITE BILGI BANKASI (sys.text) ---\n",
+          "en": "\n\n--- SITE KNOWLEDGE BASE (sys.text) ---\n",
+          "ar": "\n\n--- قاعدة معلومات الموقع (sys.text) ---\n",
+          "de": "\n\n--- WEBSITE-WISSENSBASIS (sys.text) ---\n",
+          "ko": "\n\n--- 사이트 지식 베이스 (sys.text) ---\n"
+        },
+        "catalog_header": {
+          "tr": "\n\n--- KATALOG ---\nAsagidaki urunleri kullan; katalogda olmayan urun uydurma.\n",
+          "en": "\n\n--- CATALOG ---\nUse the products below; do not invent items missing from this list.\n",
+          "ar": "\n\n--- الكتالوج ---\nاستخدم المنتجات أدناه؛ لا تخترع عناصر غير موجودة.\n",
+          "de": "\n\n--- KATALOG ---\nNutze die folgenden Produkte; erfinde keine Artikel, die nicht in der Liste stehen.\n",
+          "ko": "\n\n--- 카탈로그 ---\n아래 제품만 사용하고 목록에 없는 제품은 지어내지 마세요.\n"
+        },
+        "contact_phone": {
+          "tr": "Telefon",
+          "en": "Phone",
+          "ar": "هاتف",
+          "de": "Telefon",
+          "ko": "전화"
+        },
+        "contact_whatsapp": {
+          "tr": "WhatsApp",
+          "en": "WhatsApp",
+          "ar": "واتساب",
+          "de": "WhatsApp",
+          "ko": "WhatsApp"
+        },
+        "contact_email": {
+          "tr": "E-posta",
+          "en": "Email",
+          "ar": "البريد",
+          "de": "E-Mail",
+          "ko": "이메일"
+        },
+        "contact_address": {
+          "tr": "Adres",
+          "en": "Address",
+          "ar": "العنوان",
+          "de": "Adresse",
+          "ko": "주소"
+        },
+        "contact_rules": {
+          "tr": "\n\n--- ILETISIM CIKTISI ---\nIletisim istendiginde duz yazi yerine su blogu kullan:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nBos satir yazma. Telefon tel:, WhatsApp wa.me, e-posta mailto.\n",
+          "en": "\n\n--- CONTACT OUTPUT ---\nWhen giving contact details use this block, not plain text:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nSkip empty lines. Phone tel:, WhatsApp wa.me, email mailto.\n",
+          "ar": "\n\n--- مخرجات الاتصال ---\nعند إعطاء معلومات الاتصال استخدم الكتلة:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\n",
+          "de": "\n\n--- CONTACT OUTPUT ---\nWhen giving contact details use this block, not plain text:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nSkip empty lines. Phone tel:, WhatsApp wa.me, email mailto.\n",
+          "ko": "\n\n--- CONTACT OUTPUT ---\nWhen giving contact details use this block, not plain text:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nSkip empty lines. Phone tel:, WhatsApp wa.me, email mailto.\n"
+        }
+      },
+      "category": "contact",
+      "data": [],
+      "description": "Workers AI (Gemma 4) sohbet botu. Ilk ziyarette panel acik; isOpen===false ise kapali kalir (RestoreSession panel acmaz). Katalog webDir products.json + setting.json iletisim. [[CONTACT]] kart + panel serit. sys.text: img/{modulId}/sys.text. Cloudflare Worker env.AI.run — istemci apiKey yok.",
+      "version": "1.3.0",
+      "icon": "smart_toy",
+      "id": "b3w21k",
+      "path": "ollama-chatbot",
+      "local": "footer",
+      "index": 11
     }
   ]
 }

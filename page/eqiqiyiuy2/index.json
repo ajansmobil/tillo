@@ -1,24 +1,32 @@
 {
   "name": {
-    "tr": "Yer Fıstığı Kreması"
+    "tr": "Yer Fıstığı Kreması",
+    "en": "Peanut Cream",
+    "ar": "كريمة الفول السوداني",
+    "de": "Erdnusscreme",
+    "ko": "땅콩 크림"
   },
   "status": "play",
-  "category": "c04yerfist",
+  "category": "c06meycip",
   "id": "eqiqiyiuy2",
   "externalUrl": "",
   "path": "yer-fistigi-kremasi",
   "keyword": {
     "tr": "Tillo Kochari, Gaziantep, doğal gıda, Yer Fıstığı Kreması, Yer Fıstığı Ezme ve Krema, yer fıstığı ezmesi, fıstık ezmesi, fıstık kreması, tuzlu fıstık",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Tillo Kochari, Gaziantep, natural food, Peanut Cream, Peanut Butters & Creams, peanut butter, peanut spread, peanut cream, salted peanuts",
+    "ar": "Tillo Kochari, غازي عنتاب, أغذية طبيعية, كريمة الفول السوداني, زبدة وكريمة الفول السوداني, زبدة الفول السوداني, معجون الفول السوداني, كريمة الفول السوداني, فول سوداني مملح",
+    "de": "Tillo Kochari, Gaziantep, Naturkost, Erdnusscreme, Erdnussbutter & -creme, Erdnussbutter, Erdnussaufstrich, Erdnusscreme, gesalzene Erdnüsse",
     "ja": "",
-    "ko": ""
+    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 땅콩 크림, 땅콩버터·크림, 땅콩버터, 땅콩 스프레드, 땅콩 크림, 가염 땅콩"
   },
   "description": {
-    "tr": "Tillo Kochari Yer Fıstığı Kreması: Kremamsı yer fıstığı kreması. Yer Fıstığı Ezme ve Krema grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda."
+    "tr": "Tillo Kochari Yer Fıstığı Kreması: Kremamsı yer fıstığı kreması. Yer Fıstığı Ezme ve Krema grubunda. Sunulan gramaj: 400 g. Gaziantep kökenli doğal gıda.",
+    "en": "Tillo Kochari Peanut Cream is a creamy peanut cream from the Peanut Butters & Creams range, offered in 400 g as a natural food from Gaziantep.",
+    "ar": "Tillo Kochari كريمة الفول السوداني هي كريمة فول سوداني ناعمة القوام من مجموعة زبدة وكريمة الفول السوداني، تتوفر بوزن 400 g، وهي غذاء طبيعي من غازي عنتاب.",
+    "de": "Tillo Kochari Erdnusscreme ist eine cremige Erdnusscreme aus der Gruppe Erdnussbutter & -creme, erhältlich mit 400 g – ein Naturprodukt aus Gaziantep.",
+    "ko": "Tillo Kochari 땅콩 크림 제품은 땅콩버터·크림 라인의 크리미한 땅콩 크림으로, 400 g 용량으로 제공되는 가지안테프의 천연 식품입니다."
   },
-  "index": 17,
+  "index": 93,
   "icon": "nutrition",
   "desing": {
     "header": [],
@@ -32,21 +40,21 @@
   },
   "title": {
     "tr": "Yer Fıstığı Kreması | Tillo Kochari",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "Peanut Cream | Tillo Kochari",
+    "ar": "كريمة الفول السوداني | Tillo Kochari",
+    "de": "Erdnusscreme | Tillo Kochari",
     "ja": "",
-    "ko": ""
+    "ko": "땅콩 크림 | Tillo Kochari"
   },
   "text": {
     "tr": "<h2>Yer Fıstığı Kreması: Pürüzsüz ve Hafif Bir Kahvaltılık</h2><p>Yer Fıstığı Kreması, ezmeye kıyasla daha yumuşak ve kremamsı bir yapıdadır. Kaşıkta hafifçe süzülen bu kıvam, çocukların bile kolayca sürebileceği bir rahatlık sunar. Tillo Kochari, Gaziantep kökenli kahvaltılık ürünleri arasında yer fıstığını bu kez daha akışkan bir dokuyla sofraya getiriyor.</p><p>Tadı yer fıstığının tanıdık aromasını korurken kremamsı yapısı sayesinde daha hafif algılanır. Sıcak içeceklerin, dondurmanın ya da sütlü tatlıların içinde kolayca çözülür, tatlı soslarına kıvam verir. 400 gramlık kavanoz, birkaç kişilik bir hanenin kahvaltı sofrasında rahatça kullanabileceği bir boyuttadır.</p><h3>Kullanım Önerileri</h3><ul><li>Vanilyalı dondurmanın üzerine hafifçe ılıtarak sos gibi dökün.</li><li>Muzlu süt hazırlarken bir kaşık ekleyerek yer fıstıklı bir içecek yapın.</li><li>Bisküvilerin arasına sürerek sandviç kurabiye hazırlayın.</li></ul><p><strong>Gramaj:</strong> 400 g</p>",
-    "en": "",
-    "ar": "",
-    "de": "",
+    "en": "<h2>Peanut Cream: A Smooth, Light Breakfast Spread</h2><p>Peanut Cream has a softer, creamier texture than peanut butter. This consistency, which glides gently off the spoon, is so easy to spread that even children can manage it. This time, Tillo Kochari brings peanuts to the table with a more fluid texture among its Gaziantep-rooted breakfast products.</p><p>Its taste retains the familiar aroma of peanuts, while its creamy texture makes it feel lighter. It dissolves easily into hot drinks, ice cream or milk-based desserts and adds body to dessert sauces. The 400 g jar is a size that a household of a few people can comfortably use at the breakfast table.</p><h3>Serving Suggestions</h3><ul><li>Warm it slightly and pour it over vanilla ice cream like a sauce.</li><li>Add a spoonful when making banana milk for a peanut drink.</li><li>Spread it between biscuits to make sandwich cookies.</li></ul><p><strong>Weight:</strong> 400 g</p>",
+    "ar": "<h2>كريمة الفول السوداني: دهن إفطار ناعم وخفيف</h2><p>تتميز كريمة الفول السوداني بقوام أنعم وأكثر كريمية مقارنةً بالزبدة. وهذا القوام الذي ينساب برفق من الملعقة يوفر سهولة تتيح حتى للأطفال دهنها بيسر. وتقدّم Tillo Kochari الفول السوداني هذه المرة بقوام أكثر سيولة ضمن منتجات الإفطار ذات الجذور في غازي عنتاب.</p><p>يحافظ مذاقها على عبير الفول السوداني المألوف، بينما يجعلها قوامها الكريمي تبدو أخف. تذوب بسهولة في المشروبات الساخنة والآيس كريم والحلويات بالحليب، وتمنح صلصات الحلوى قوامًا. والبرطمان بوزن 400 g حجم يمكن لأسرة من بضعة أفراد استخدامه بارتياح على مائدة الإفطار.</p><h3>اقتراحات الاستخدام</h3><ul><li>دفّئها قليلًا واسكبها فوق آيس كريم الفانيليا كالصلصة.</li><li>أضف ملعقة منها عند تحضير حليب الموز لتحصل على مشروب بالفول السوداني.</li><li>ادهنها بين قطع البسكويت لتحضير بسكويت محشو.</li></ul><p><strong>الوزن:</strong> 400 g</p>",
+    "de": "<h2>Erdnusscreme: Ein glatter, leichter Frühstücksaufstrich</h2><p>Erdnusscreme ist im Vergleich zu Erdnussbutter weicher und cremiger. Diese Konsistenz, die sanft vom Löffel gleitet, lässt sich so bequem verstreichen, dass selbst Kinder es mühelos schaffen. Diesmal bringt Tillo Kochari Erdnüsse mit einer flüssigeren Textur auf den Tisch – als Teil seiner aus Gaziantep stammenden Frühstücksprodukte.</p><p>Der Geschmack bewahrt das vertraute Erdnussaroma, wirkt durch die cremige Struktur aber leichter. In heißen Getränken, Eiscreme oder Milchdesserts löst sie sich leicht auf und verleiht süßen Saucen Bindung. Das Glas mit 400 g hat eine Größe, die ein Haushalt mit einigen Personen bequem am Frühstückstisch nutzen kann.</p><h3>Verwendungsvorschläge</h3><ul><li>Erwärmen Sie sie leicht und gießen Sie sie wie eine Sauce über Vanilleeis.</li><li>Geben Sie beim Zubereiten von Bananenmilch einen Löffel hinzu – für ein Getränk mit Erdnussgeschmack.</li><li>Streichen Sie sie zwischen Kekse und stellen Sie so Sandwichkekse her.</li></ul><p><strong>Gewicht:</strong> 400 g</p>",
     "ja": "",
-    "ko": ""
+    "ko": "<h2>땅콩 크림: 매끄럽고 가벼운 아침 스프레드</h2><p>땅콩 크림은 땅콩버터에 비해 더 부드럽고 크리미한 질감을 지녔습니다. 숟가락에서 살며시 흘러내리는 농도 덕분에 아이들도 손쉽게 바를 수 있습니다. Tillo Kochari는 가지안테프에 뿌리를 둔 아침 식사용 제품군에서 이번에는 땅콩을 한층 부드럽게 흐르는 질감으로 선보입니다.</p><p>땅콩 특유의 익숙한 향은 그대로 살리면서 크리미한 질감 덕분에 더 가볍게 느껴집니다. 따뜻한 음료, 아이스크림, 우유 디저트에 쉽게 녹아들고 디저트 소스에 농도를 더합니다. 400 g 용량은 몇 명이 함께 사는 가정의 아침 식탁에서 넉넉히 사용할 수 있는 크기입니다.</p><h3>활용 방법</h3><ul><li>살짝 데워 바닐라 아이스크림 위에 소스처럼 부어 보세요.</li><li>바나나 우유를 만들 때 한 숟가락 넣어 땅콩 음료를 만들어 보세요.</li><li>비스킷 사이에 발라 샌드위치 쿠키를 만들어 보세요.</li></ul><p><strong>중량:</strong> 400 g</p>"
   },
-  "update": "2026-10-28T07:04:25.978Z",
+  "update": "2026-10-28T09:07:40.046Z",
   "date": "2026-05-20T09:54:44.987Z",
   "img": "index.webp"
 }
