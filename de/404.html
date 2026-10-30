@@ -1,7 +1,7 @@
 <nav>
   <div href="/" class="menu">
     <a href="/" class="website_name"
-      ><img src="/img/logo.png?v=zgoi7" width="300" alt="Tufan Organik Logo"
+      ><img src="/img/logo.png?v=v7i3d" width="300" alt="Tufan Organik Logo"
     /></a>
   </div>
 </nav>
@@ -819,8 +819,10 @@
   setTimeout(function() {
     var currentPath = window.location.pathname;
     var rtlLanguages = ['ar', 'he', 'fa']; // RTL diller: Arapça, İbranice, Farsça
+
     var langMatch = currentPath.match(/^\/([a-z]{2})\//);
     var currentLang = langMatch ? langMatch[1] : '';
+
     if (rtlLanguages.indexOf(currentLang) !== -1) {
       document.documentElement.setAttribute('dir', 'rtl');
     } else {
