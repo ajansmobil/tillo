@@ -355,13 +355,9 @@ ul {
 
 [dir="rtl"] {
     direction: rtl;
-    text-align: right;
 }
 
-[dir="rtl"] body {
-    direction: rtl;
-}
-
+[dir="rtl"] body,
 [dir="rtl"] #header,
 [dir="rtl"] #footer,
 [dir="rtl"] #content {
@@ -375,18 +371,40 @@ ul {
 
 [dir="rtl"] .poputfullchile {
     direction: rtl;
-    text-align: right;
 }
 
-[dir="rtl"] h1,
-[dir="rtl"] h2,
-[dir="rtl"] h3,
-[dir="rtl"] h4,
-[dir="rtl"] p,
-[dir="rtl"] span,
-[dir="rtl"] div {
-    text-align: right;
-    direction: rtl;
+
+[dir="rtl"] .mx-flip,
+[dir="rtl"] [data-mx-flip] {
+    transform: scaleX(-1);
+}
+
+
+.mx-ltr,
+bdi[dir="ltr"] {
+    direction: ltr;
+    unicode-bidi: isolate;
+}
+
+
+html[lang="ar"] body {
+    line-height: 1.7;
+}
+
+html[lang="ar"] *,
+html[lang="ar"] *::before,
+html[lang="ar"] *::after {
+    letter-spacing: 0;
+}
+
+html[lang="ar"] h1,
+html[lang="ar"] h2,
+html[lang="ar"] h3,
+html[lang="ar"] h4,
+html[lang="ar"] h5,
+html[lang="ar"] h6 {
+    font-weight: 600;
+    line-height: 1.5;
 }
 
 

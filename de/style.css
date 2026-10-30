@@ -1252,6 +1252,15 @@
     transition: transform 0.25s ease, box-shadow 0.25s ease;
   }
 
+  
+  .b0003-cta2 a.b0003-cta2-btn,
+  .b0003-cta2 a.b0003-cta2-btn:link,
+  .b0003-cta2 a.b0003-cta2-btn:visited,
+  .b0003-cta2 a.b0003-cta2-btn:hover,
+  .b0003-cta2 a.b0003-cta2-btn:active {
+    color: #fff;
+  }
+
   .b0003-cta2-btn:hover {
     transform: translateY(-3px);
     box-shadow: 0 10px 26px rgba(0, 0, 0, 0.18);
@@ -2319,6 +2328,11 @@
       margin-top: 6px;
       justify-content: center;
     }
+  }
+
+  
+  body:has(.f0001-chatbot-wrap):not(:has(.cookie-banner)) {
+    padding-bottom: var(--mx-chat-pad, 0px);
   }
 
   @media (prefers-reduced-motion: reduce) {
