@@ -12,7 +12,8 @@ a:visited {
     box-sizing: inherit;
     margin: 0;
     padding: 0;
-    font-family: Rubik, "Roboto Condensed", roboto condensed, sans-serif;
+    
+    font-family: var(--mx-font-sans, Rubik, "Roboto Condensed", sans-serif);
     font-size: 14px;
     line-height: 1.2;
     font-optical-sizing: auto;
@@ -193,6 +194,16 @@ body {
 
 .f50 {
     font-size: 50px !important
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--mx-font-heading, var(--mx-font-sans, Rubik, sans-serif))
 }
 
 h1 {

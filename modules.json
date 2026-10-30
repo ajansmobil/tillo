@@ -26,7 +26,14 @@
           "ar": "إغلاق القائمة",
           "de": "Menü schließen",
           "ko": "메뉴 닫기"
-        }
+        },
+        "logoimg": "logo-acik.png",
+        "logobg": "#0B2A5B",
+        "logoborder": "1px solid #B5831B",
+        "logoradius": "18px",
+        "logopad": "8px 22px",
+        "logopadmobil": "6px 14px",
+        "logomaxh": "84px"
       },
       "version": "1.0.0",
       "icon": "menu"

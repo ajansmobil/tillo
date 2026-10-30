@@ -1,7 +1,8 @@
+<link rel="stylesheet" href="/src/rubik.css?v=emb3y" />
 <nav>
   <div href="/" class="menu">
     <a href="/" class="website_name"
-      ><img src="/img/logo.png?v=puluz" width="300" alt="Tufan Organik Logo"
+      ><img src="/img/logo.png?v=emb3y" width="300" alt="Tufan Organik Logo"
     /></a>
   </div>
 </nav>
@@ -44,7 +45,7 @@
   </div>
 </section>
 <style>
-  @import url("https://fonts.googleapis.com/css?family=Barlow+Condensed:300,400,500,600,700,800,900|Barlow:300,400,500,600,700,800,900&display=swap");
+  
 
   .about {
     position: fixed;
@@ -234,7 +235,7 @@
     margin: 0;
     padding: 0;
     height: auto;
-    font-family: "Barlow", sans-serif;
+    font-family: var(--mx-font-sans, Rubik, system-ui, sans-serif);
     background: #695681;
   }
 
@@ -819,10 +820,8 @@
   setTimeout(function() {
     var currentPath = window.location.pathname;
     var rtlLanguages = ['ar', 'he', 'fa']; // RTL diller: Arapça, İbranice, Farsça
-
     var langMatch = currentPath.match(/^\/([a-z]{2})\//);
     var currentLang = langMatch ? langMatch[1] : '';
-
     if (rtlLanguages.indexOf(currentLang) !== -1) {
       document.documentElement.setAttribute('dir', 'rtl');
     } else {
