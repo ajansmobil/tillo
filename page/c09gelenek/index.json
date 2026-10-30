@@ -12,19 +12,19 @@
   "externalUrl": "",
   "path": "recel-ve-marmelatlar",
   "keyword": {
-    "tr": "Tillo Kochari, Reçel ve Marmelatlar",
-    "en": "Tillo Kochari, Jams and Marmalades",
-    "ar": "Tillo Kochari, المربيات ومربى الحمضيات",
-    "de": "Tillo Kochari, Konfitüren und Marmeladen",
+    "tr": "Tufan Organik, Reçel ve Marmelatlar",
+    "en": "Tufan Organik, Jams and Marmalades",
+    "ar": "Tufan Organik, المربيات ومربى الحمضيات",
+    "de": "Tufan Organik, Konfitüren und Marmeladen",
     "ja": "",
-    "ko": "Tillo Kochari, 잼 및 마멀레이드"
+    "ko": "Tufan Organik, 잼 및 마멀레이드"
   },
   "description": {
-    "tr": "Tillo Kochari Reçel ve Marmelatlar ürün grubu.",
-    "en": "Tillo Kochari Jams and Marmalades product group.",
-    "ar": "مجموعة منتجات المربيات ومربى الحمضيات من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Konfitüren und Marmeladen.",
-    "ko": "틸로 코차리 잼 및 마멀레이드 제품군."
+    "tr": "Tufan Organik Reçel ve Marmelatlar ürün grubu.",
+    "en": "Tufan Organik Jams and Marmalades product group.",
+    "ar": "مجموعة منتجات المربيات ومربى الحمضيات من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Konfitüren und Marmeladen.",
+    "ko": "투판 오가닉 잼 및 마멀레이드 제품군."
   },
   "index": 8,
   "icon": "category",
@@ -35,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Reçel ve Marmelatlar | Tillo Kochari",
-    "en": "Jams and Marmalades | Tillo Kochari",
-    "ar": "المربيات ومربى الحمضيات | Tillo Kochari",
-    "de": "Konfitüren und Marmeladen | Tillo Kochari",
+    "tr": "Reçel ve Marmelatlar | Tufan Organik",
+    "en": "Jams and Marmalades | Tufan Organik",
+    "ar": "المربيات ومربى الحمضيات | Tufan Organik",
+    "de": "Konfitüren und Marmeladen | Tufan Organik",
     "ja": "",
-    "ko": "잼 및 마멀레이드 | Tillo Kochari"
+    "ko": "잼 및 마멀레이드 | Tufan Organik"
   },
   "text": {
     "tr": "",

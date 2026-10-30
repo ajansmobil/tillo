@@ -12,19 +12,19 @@
   "externalUrl": "",
   "path": "makarna-grubu",
   "keyword": {
-    "tr": "Tillo Kochari, Makarna Grubu",
-    "en": "Tillo Kochari, Pasta Group",
-    "ar": "Tillo Kochari, مجموعة المعكرونة",
-    "de": "Tillo Kochari, Nudeln und Teigwaren",
+    "tr": "Tufan Organik, Makarna Grubu",
+    "en": "Tufan Organik, Pasta Group",
+    "ar": "Tufan Organik, مجموعة المعكرونة",
+    "de": "Tufan Organik, Nudeln und Teigwaren",
     "ja": "",
-    "ko": "Tillo Kochari, 파스타 그룹"
+    "ko": "Tufan Organik, 파스타 그룹"
   },
   "description": {
-    "tr": "Tillo Kochari Makarna Grubu ürün grubu.",
-    "en": "Tillo Kochari Pasta Group product group.",
-    "ar": "مجموعة منتجات مجموعة المعكرونة من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Nudeln und Teigwaren.",
-    "ko": "틸로 코차리 파스타 그룹 제품군."
+    "tr": "Tufan Organik Makarna Grubu ürün grubu.",
+    "en": "Tufan Organik Pasta Group product group.",
+    "ar": "مجموعة منتجات مجموعة المعكرونة من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Nudeln und Teigwaren.",
+    "ko": "투판 오가닉 파스타 그룹 제품군."
   },
   "index": 3,
   "icon": "category",
@@ -35,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Makarna Grubu | Tillo Kochari",
-    "en": "Pasta Group | Tillo Kochari",
-    "ar": "مجموعة المعكرونة | Tillo Kochari",
-    "de": "Nudeln und Teigwaren | Tillo Kochari",
+    "tr": "Makarna Grubu | Tufan Organik",
+    "en": "Pasta Group | Tufan Organik",
+    "ar": "مجموعة المعكرونة | Tufan Organik",
+    "de": "Nudeln und Teigwaren | Tufan Organik",
     "ja": "",
-    "ko": "파스타 그룹 | Tillo Kochari"
+    "ko": "파스타 그룹 | Tufan Organik"
   },
   "text": {
     "tr": "",

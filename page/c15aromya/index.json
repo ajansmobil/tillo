@@ -12,19 +12,19 @@
   "externalUrl": "",
   "path": "kurutulmus-sebze-grubu",
   "keyword": {
-    "tr": "Tillo Kochari, Kurutulmuş Sebze Grubu",
-    "en": "Tillo Kochari, Dried Vegetables",
-    "ar": "Tillo Kochari, الخضروات المجففة",
-    "de": "Tillo Kochari, Getrocknetes Gemüse",
+    "tr": "Tufan Organik, Kurutulmuş Sebze Grubu",
+    "en": "Tufan Organik, Dried Vegetables",
+    "ar": "Tufan Organik, الخضروات المجففة",
+    "de": "Tufan Organik, Getrocknetes Gemüse",
     "ja": "",
-    "ko": "Tillo Kochari, 건조 채소"
+    "ko": "Tufan Organik, 건조 채소"
   },
   "description": {
-    "tr": "Tillo Kochari Kurutulmuş Sebze Grubu ürün grubu.",
-    "en": "Tillo Kochari Dried Vegetables product group.",
-    "ar": "مجموعة منتجات الخضروات المجففة من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Getrocknetes Gemüse.",
-    "ko": "틸로 코차리 건조 채소 제품군."
+    "tr": "Tufan Organik Kurutulmuş Sebze Grubu ürün grubu.",
+    "en": "Tufan Organik Dried Vegetables product group.",
+    "ar": "مجموعة منتجات الخضروات المجففة من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Getrocknetes Gemüse.",
+    "ko": "투판 오가닉 건조 채소 제품군."
   },
   "index": 14,
   "icon": "category",
@@ -35,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Kurutulmuş Sebze Grubu | Tillo Kochari",
-    "en": "Dried Vegetables | Tillo Kochari",
-    "ar": "الخضروات المجففة | Tillo Kochari",
-    "de": "Getrocknetes Gemüse | Tillo Kochari",
+    "tr": "Kurutulmuş Sebze Grubu | Tufan Organik",
+    "en": "Dried Vegetables | Tufan Organik",
+    "ar": "الخضروات المجففة | Tufan Organik",
+    "de": "Getrocknetes Gemüse | Tufan Organik",
     "ja": "",
-    "ko": "건조 채소 | Tillo Kochari"
+    "ko": "건조 채소 | Tufan Organik"
   },
   "text": {
     "tr": "",

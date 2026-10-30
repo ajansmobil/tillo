@@ -12,19 +12,19 @@
   "externalUrl": "",
   "path": "dondurulmus-meyve-grubu",
   "keyword": {
-    "tr": "Tillo Kochari, Dondurulmuş Meyve Grubu",
-    "en": "Tillo Kochari, Frozen Fruits",
-    "ar": "Tillo Kochari, الفواكه المجمدة",
-    "de": "Tillo Kochari, Tiefkühl-Obst",
+    "tr": "Tufan Organik, Dondurulmuş Meyve Grubu",
+    "en": "Tufan Organik, Frozen Fruits",
+    "ar": "Tufan Organik, الفواكه المجمدة",
+    "de": "Tufan Organik, Tiefkühl-Obst",
     "ja": "",
-    "ko": "Tillo Kochari, 냉동 과일"
+    "ko": "Tufan Organik, 냉동 과일"
   },
   "description": {
-    "tr": "Tillo Kochari Dondurulmuş Meyve Grubu ürün grubu.",
-    "en": "Tillo Kochari Frozen Fruits product group.",
-    "ar": "مجموعة منتجات الفواكه المجمدة من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Tiefkühl-Obst.",
-    "ko": "틸로 코차리 냉동 과일 제품군."
+    "tr": "Tufan Organik Dondurulmuş Meyve Grubu ürün grubu.",
+    "en": "Tufan Organik Frozen Fruits product group.",
+    "ar": "مجموعة منتجات الفواكه المجمدة من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Tiefkühl-Obst.",
+    "ko": "투판 오가닉 냉동 과일 제품군."
   },
   "index": 13,
   "icon": "category",
@@ -35,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Dondurulmuş Meyve Grubu | Tillo Kochari",
-    "en": "Frozen Fruits | Tillo Kochari",
-    "ar": "الفواكه المجمدة | Tillo Kochari",
-    "de": "Tiefkühl-Obst | Tillo Kochari",
+    "tr": "Dondurulmuş Meyve Grubu | Tufan Organik",
+    "en": "Frozen Fruits | Tufan Organik",
+    "ar": "الفواكه المجمدة | Tufan Organik",
+    "de": "Tiefkühl-Obst | Tufan Organik",
     "ja": "",
-    "ko": "냉동 과일 | Tillo Kochari"
+    "ko": "냉동 과일 | Tufan Organik"
   },
   "text": {
     "tr": "",

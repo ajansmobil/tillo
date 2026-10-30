@@ -8,18 +8,18 @@
     "ko": "라바시 및 유프카 종류"
   },
   "description": {
-    "tr": "Tillo Kochari Lavaş ve Yufka Çeşitleri ürün grubu.",
-    "en": "Tillo Kochari Lavash and Yufka Varieties product group.",
-    "ar": "مجموعة منتجات أنواع اللافاش واليوفكا من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Lavaş und Yufka.",
-    "ko": "틸로 코차리 라바시 및 유프카 종류 제품군."
+    "tr": "Tufan Organik Lavaş ve Yufka Çeşitleri ürün grubu.",
+    "en": "Tufan Organik Lavash and Yufka Varieties product group.",
+    "ar": "مجموعة منتجات أنواع اللافاش واليوفكا من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Lavaş und Yufka.",
+    "ko": "투판 오가닉 라바시 및 유프카 종류 제품군."
   },
   "keyword": {
-    "tr": "Tillo Kochari, Lavaş ve Yufka Çeşitleri",
-    "en": "Tillo Kochari, Lavash and Yufka Varieties",
-    "ar": "Tillo Kochari, أنواع اللافاش واليوفكا",
-    "de": "Tillo Kochari, Lavaş und Yufka",
-    "ko": "Tillo Kochari, 라바시 및 유프카 종류"
+    "tr": "Tufan Organik, Lavaş ve Yufka Çeşitleri",
+    "en": "Tufan Organik, Lavash and Yufka Varieties",
+    "ar": "Tufan Organik, أنواع اللافاش واليوفكا",
+    "de": "Tufan Organik, Lavaş und Yufka",
+    "ko": "Tufan Organik, 라바시 및 유프카 종류"
   },
   "path": "lavas-ve-yufka-cesitleri",
   "icon": "category",
@@ -34,11 +34,11 @@
   "url": "",
   "text": {},
   "title": {
-    "tr": "Lavaş ve Yufka Çeşitleri | Tillo Kochari",
-    "en": "Lavash and Yufka Varieties | Tillo Kochari",
-    "ar": "أنواع اللافاش واليوفكا | Tillo Kochari",
-    "de": "Lavaş und Yufka | Tillo Kochari",
-    "ko": "라바시 및 유프카 종류 | Tillo Kochari"
+    "tr": "Lavaş ve Yufka Çeşitleri | Tufan Organik",
+    "en": "Lavash and Yufka Varieties | Tufan Organik",
+    "ar": "أنواع اللافاش واليوفكا | Tufan Organik",
+    "de": "Lavaş und Yufka | Tufan Organik",
+    "ko": "라바시 및 유프카 종류 | Tufan Organik"
   },
   "date": "2026-10-28T08:07:44.219Z",
   "update": "2026-10-28T08:07:44.446Z"

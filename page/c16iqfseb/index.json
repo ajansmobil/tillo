@@ -12,19 +12,19 @@
   "externalUrl": "",
   "path": "dondurulmus-sebze-grubu",
   "keyword": {
-    "tr": "Tillo Kochari, Dondurulmuş Sebze Grubu",
-    "en": "Tillo Kochari, Frozen Vegetables",
-    "ar": "Tillo Kochari, الخضروات المجمدة",
-    "de": "Tillo Kochari, Tiefkühl-Gemüse",
+    "tr": "Tufan Organik, Dondurulmuş Sebze Grubu",
+    "en": "Tufan Organik, Frozen Vegetables",
+    "ar": "Tufan Organik, الخضروات المجمدة",
+    "de": "Tufan Organik, Tiefkühl-Gemüse",
     "ja": "",
-    "ko": "Tillo Kochari, 냉동 채소"
+    "ko": "Tufan Organik, 냉동 채소"
   },
   "description": {
-    "tr": "Tillo Kochari Dondurulmuş Sebze Grubu ürün grubu.",
-    "en": "Tillo Kochari Frozen Vegetables product group.",
-    "ar": "مجموعة منتجات الخضروات المجمدة من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Tiefkühl-Gemüse.",
-    "ko": "틸로 코차리 냉동 채소 제품군."
+    "tr": "Tufan Organik Dondurulmuş Sebze Grubu ürün grubu.",
+    "en": "Tufan Organik Frozen Vegetables product group.",
+    "ar": "مجموعة منتجات الخضروات المجمدة من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Tiefkühl-Gemüse.",
+    "ko": "투판 오가닉 냉동 채소 제품군."
   },
   "index": 15,
   "icon": "category",
@@ -35,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Dondurulmuş Sebze Grubu | Tillo Kochari",
-    "en": "Frozen Vegetables | Tillo Kochari",
-    "ar": "الخضروات المجمدة | Tillo Kochari",
-    "de": "Tiefkühl-Gemüse | Tillo Kochari",
+    "tr": "Dondurulmuş Sebze Grubu | Tufan Organik",
+    "en": "Frozen Vegetables | Tufan Organik",
+    "ar": "الخضروات المجمدة | Tufan Organik",
+    "de": "Tiefkühl-Gemüse | Tufan Organik",
     "ja": "",
-    "ko": "냉동 채소 | Tillo Kochari"
+    "ko": "냉동 채소 | Tufan Organik"
   },
   "text": {
     "tr": "",

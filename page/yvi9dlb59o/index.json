@@ -22,28 +22,28 @@
   },
   "pathnext": "hakkimizda",
   "description": {
-    "tr": "Tillo Kochari kurumsal bilgiler. Hakkımızda, misyon, vizyon ve kalite politikamız. Gaziantep doğal gıda üretimi.",
-    "en": "Tillo Kochari corporate information: about us, mission, vision and quality policy. Natural food production in Gaziantep.",
-    "ar": "معلومات مؤسسة Tillo Kochari: من نحن، رسالتنا، رؤيتنا وسياسة الجودة. إنتاج الأغذية الطبيعية في غازي عنتاب.",
-    "de": "Unternehmensinformationen von Tillo Kochari: Über uns, Mission, Vision und Qualitätspolitik. Natürliche Lebensmittelproduktion in Gaziantep.",
-    "ko": "Tillo Kochari 회사 정보: 회사 소개, 사명, 비전, 품질 정책. 가지안테프의 천연 식품 생산."
+    "tr": "Tufan Organik kurumsal bilgiler. Hakkımızda, misyon, vizyon ve kalite politikamız. Gürün/Sivas doğal gıda üretimi.",
+    "en": "Tufan Organik corporate information: about us, mission, vision and quality policy. Natural food production in Gürün/Sivas.",
+    "ar": "معلومات مؤسسة Tufan Organik: من نحن، رسالتنا، رؤيتنا وسياسة الجودة. إنتاج الأغذية الطبيعية في غورون/سيواس.",
+    "de": "Unternehmensinformationen von Tufan Organik: Über uns, Mission, Vision und Qualitätspolitik. Natürliche Lebensmittelproduktion in Gürün/Sivas.",
+    "ko": "Tufan Organik 회사 정보: 회사 소개, 사명, 비전, 품질 정책. 귀륀/시바스의 천연 식품 생산."
   },
   "desc": {},
   "title": {
-    "tr": "Kurumsal | Tillo Kochari",
-    "en": "Corporate | Tillo Kochari",
-    "ar": "المؤسسة | Tillo Kochari",
-    "de": "Unternehmen | Tillo Kochari",
+    "tr": "Kurumsal | Tufan Organik",
+    "en": "Corporate | Tufan Organik",
+    "ar": "المؤسسة | Tufan Organik",
+    "de": "Unternehmen | Tufan Organik",
     "ja": "",
-    "ko": "회사 소개 | Tillo Kochari"
+    "ko": "회사 소개 | Tufan Organik"
   },
   "keyword": {
-    "tr": "Tillo Kochari, Gaziantep, doğal gıda, kurumsal, hakkımızda, vizyon misyon, kalite politikası",
-    "en": "Tillo Kochari, Gaziantep, natural food, corporate, about us, vision, mission, quality policy",
-    "ar": "Tillo Kochari, غازي عنتاب, غذاء طبيعي, مؤسسة, من نحن, رؤية ورسالة, سياسة الجودة",
-    "de": "Tillo Kochari, Gaziantep, natürliche Lebensmittel, Unternehmen, Über uns, Vision, Mission, Qualitätspolitik",
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, kurumsal, hakkımızda, vizyon misyon, kalite politikası",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, corporate, about us, vision, mission, quality policy",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مؤسسة, من نحن, رؤية ورسالة, سياسة الجودة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Unternehmen, Über uns, Vision, Mission, Qualitätspolitik",
     "ja": "",
-    "ko": "Tillo Kochari, 가지안테프, 천연 식품, 회사 소개, 비전, 사명, 품질 정책"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 회사 소개, 비전, 사명, 품질 정책"
   },
   "text": {
     "tr": "",

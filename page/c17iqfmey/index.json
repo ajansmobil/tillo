@@ -12,19 +12,19 @@
   "externalUrl": "",
   "path": "unlu-mamulleri",
   "keyword": {
-    "tr": "Tillo Kochari, Unlu Mamulleri",
-    "en": "Tillo Kochari, Bakery Products",
-    "ar": "Tillo Kochari, منتجات المخبوزات",
-    "de": "Tillo Kochari, Backwaren",
+    "tr": "Tufan Organik, Unlu Mamulleri",
+    "en": "Tufan Organik, Bakery Products",
+    "ar": "Tufan Organik, منتجات المخبوزات",
+    "de": "Tufan Organik, Backwaren",
     "ja": "",
-    "ko": "Tillo Kochari, 베이커리 제품"
+    "ko": "Tufan Organik, 베이커리 제품"
   },
   "description": {
-    "tr": "Tillo Kochari Unlu Mamulleri ürün grubu.",
-    "en": "Tillo Kochari Bakery Products product group.",
-    "ar": "مجموعة منتجات منتجات المخبوزات من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Backwaren.",
-    "ko": "틸로 코차리 베이커리 제품 제품군."
+    "tr": "Tufan Organik Unlu Mamulleri ürün grubu.",
+    "en": "Tufan Organik Bakery Products product group.",
+    "ar": "مجموعة منتجات منتجات المخبوزات من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Backwaren.",
+    "ko": "투판 오가닉 베이커리 제품 제품군."
   },
   "index": 16,
   "icon": "category",
@@ -35,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Unlu Mamulleri | Tillo Kochari",
-    "en": "Bakery Products | Tillo Kochari",
-    "ar": "منتجات المخبوزات | Tillo Kochari",
-    "de": "Backwaren | Tillo Kochari",
+    "tr": "Unlu Mamulleri | Tufan Organik",
+    "en": "Bakery Products | Tufan Organik",
+    "ar": "منتجات المخبوزات | Tufan Organik",
+    "de": "Backwaren | Tufan Organik",
     "ja": "",
-    "ko": "베이커리 제품 | Tillo Kochari"
+    "ko": "베이커리 제품 | Tufan Organik"
   },
   "text": {
     "tr": "",

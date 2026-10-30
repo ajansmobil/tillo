@@ -13,20 +13,20 @@
   "externalUrl": "",
   "path": "kahvaltilik-urunler",
   "keyword": {
-    "tr": "Tillo Kochari, Kahvaltılık Ürünler",
-    "en": "Tillo Kochari, Breakfast Products",
-    "ar": "Tillo Kochari, منتجات الإفطار",
-    "de": "Tillo Kochari, Frühstücksprodukte",
+    "tr": "Tufan Organik, Kahvaltılık Ürünler",
+    "en": "Tufan Organik, Breakfast Products",
+    "ar": "Tufan Organik, منتجات الإفطار",
+    "de": "Tufan Organik, Frühstücksprodukte",
     "ja": "",
-    "ko": "Tillo Kochari, 아침식사 제품"
+    "ko": "Tufan Organik, 아침식사 제품"
   },
   "description": {
-    "tr": "Tillo Kochari Kahvaltılık Ürünler ürün grubu.",
-    "en": "Tillo Kochari Breakfast Products product group.",
-    "ar": "مجموعة منتجات منتجات الإفطار من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Frühstücksprodukte.",
+    "tr": "Tufan Organik Kahvaltılık Ürünler ürün grubu.",
+    "en": "Tufan Organik Breakfast Products product group.",
+    "ar": "مجموعة منتجات منتجات الإفطار من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Frühstücksprodukte.",
     "ja": "",
-    "ko": "틸로 코차리 아침식사 제품 제품군."
+    "ko": "투판 오가닉 아침식사 제품 제품군."
   },
   "index": 5,
   "icon": "category",
@@ -37,12 +37,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Kahvaltılık Ürünler | Tillo Kochari",
-    "en": "Breakfast Products | Tillo Kochari",
-    "ar": "منتجات الإفطار | Tillo Kochari",
-    "de": "Frühstücksprodukte | Tillo Kochari",
+    "tr": "Kahvaltılık Ürünler | Tufan Organik",
+    "en": "Breakfast Products | Tufan Organik",
+    "ar": "منتجات الإفطار | Tufan Organik",
+    "de": "Frühstücksprodukte | Tufan Organik",
     "ja": "",
-    "ko": "아침식사 제품 | Tillo Kochari"
+    "ko": "아침식사 제품 | Tufan Organik"
   },
   "text": {
     "tr": "",

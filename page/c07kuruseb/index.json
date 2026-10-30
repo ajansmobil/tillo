@@ -13,20 +13,20 @@
   "externalUrl": "",
   "path": "sut-ve-sut-urunleri",
   "keyword": {
-    "tr": "Tillo Kochari, Süt ve Süt Ürünleri",
-    "en": "Tillo Kochari, Milk and Dairy Products",
-    "ar": "Tillo Kochari, الحليب ومنتجات الألبان",
-    "de": "Tillo Kochari, Milch und Milchprodukte",
+    "tr": "Tufan Organik, Süt ve Süt Ürünleri",
+    "en": "Tufan Organik, Milk and Dairy Products",
+    "ar": "Tufan Organik, الحليب ومنتجات الألبان",
+    "de": "Tufan Organik, Milch und Milchprodukte",
     "ja": "",
-    "ko": "Tillo Kochari, 우유 및 유제품"
+    "ko": "Tufan Organik, 우유 및 유제품"
   },
   "description": {
-    "tr": "Tillo Kochari Süt ve Süt Ürünleri ürün grubu.",
-    "en": "Tillo Kochari Milk and Dairy Products product group.",
-    "ar": "مجموعة منتجات الحليب ومنتجات الألبان من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Milch und Milchprodukte.",
+    "tr": "Tufan Organik Süt ve Süt Ürünleri ürün grubu.",
+    "en": "Tufan Organik Milk and Dairy Products product group.",
+    "ar": "مجموعة منتجات الحليب ومنتجات الألبان من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Milch und Milchprodukte.",
     "ja": "",
-    "ko": "틸로 코차리 우유 및 유제품 제품군."
+    "ko": "투판 오가닉 우유 및 유제품 제품군."
   },
   "index": 6,
   "icon": "category",
@@ -37,12 +37,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Süt ve Süt Ürünleri | Tillo Kochari",
-    "en": "Milk and Dairy Products | Tillo Kochari",
-    "ar": "الحليب ومنتجات الألبان | Tillo Kochari",
-    "de": "Milch und Milchprodukte | Tillo Kochari",
+    "tr": "Süt ve Süt Ürünleri | Tufan Organik",
+    "en": "Milk and Dairy Products | Tufan Organik",
+    "ar": "الحليب ومنتجات الألبان | Tufan Organik",
+    "de": "Milch und Milchprodukte | Tufan Organik",
     "ja": "",
-    "ko": "우유 및 유제품 | Tillo Kochari"
+    "ko": "우유 및 유제품 | Tufan Organik"
   },
   "text": {
     "tr": "",

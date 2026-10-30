@@ -12,19 +12,19 @@
   "externalUrl": "",
   "path": "meyve-ozu-grubu",
   "keyword": {
-    "tr": "Tillo Kochari, Meyve Özü Grubu",
-    "en": "Tillo Kochari, Fruit Extracts",
-    "ar": "Tillo Kochari, مستخلصات الفاكهة",
-    "de": "Tillo Kochari, Fruchtextrakte",
+    "tr": "Tufan Organik, Meyve Özü Grubu",
+    "en": "Tufan Organik, Fruit Extracts",
+    "ar": "Tufan Organik, مستخلصات الفاكهة",
+    "de": "Tufan Organik, Fruchtextrakte",
     "ja": "",
-    "ko": "Tillo Kochari, 과일 추출물"
+    "ko": "Tufan Organik, 과일 추출물"
   },
   "description": {
-    "tr": "Tillo Kochari Meyve Özü Grubu ürün grubu.",
-    "en": "Tillo Kochari Fruit Extracts product group.",
-    "ar": "مجموعة منتجات مستخلصات الفاكهة من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Fruchtextrakte.",
-    "ko": "틸로 코차리 과일 추출물 제품군."
+    "tr": "Tufan Organik Meyve Özü Grubu ürün grubu.",
+    "en": "Tufan Organik Fruit Extracts product group.",
+    "ar": "مجموعة منتجات مستخلصات الفاكهة من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Fruchtextrakte.",
+    "ko": "투판 오가닉 과일 추출물 제품군."
   },
   "index": 10,
   "icon": "category",
@@ -35,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Meyve Özü Grubu | Tillo Kochari",
-    "en": "Fruit Extracts | Tillo Kochari",
-    "ar": "مستخلصات الفاكهة | Tillo Kochari",
-    "de": "Fruchtextrakte | Tillo Kochari",
+    "tr": "Meyve Özü Grubu | Tufan Organik",
+    "en": "Fruit Extracts | Tufan Organik",
+    "ar": "مستخلصات الفاكهة | Tufan Organik",
+    "de": "Fruchtextrakte | Tufan Organik",
     "ja": "",
-    "ko": "과일 추출물 | Tillo Kochari"
+    "ko": "과일 추출물 | Tufan Organik"
   },
   "text": {
     "tr": "",

@@ -12,19 +12,19 @@
   "externalUrl": "",
   "path": "meyve-suyu-cesitleri",
   "keyword": {
-    "tr": "Tillo Kochari, Meyve Suyu Çeşitleri",
-    "en": "Tillo Kochari, Fruit Juices",
-    "ar": "Tillo Kochari, عصائر الفاكهة",
-    "de": "Tillo Kochari, Fruchtsäfte",
+    "tr": "Tufan Organik, Meyve Suyu Çeşitleri",
+    "en": "Tufan Organik, Fruit Juices",
+    "ar": "Tufan Organik, عصائر الفاكهة",
+    "de": "Tufan Organik, Fruchtsäfte",
     "ja": "",
-    "ko": "Tillo Kochari, 과일 주스"
+    "ko": "Tufan Organik, 과일 주스"
   },
   "description": {
-    "tr": "Tillo Kochari Meyve Suyu Çeşitleri ürün grubu.",
-    "en": "Tillo Kochari Fruit Juices product group.",
-    "ar": "مجموعة منتجات عصائر الفاكهة من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Fruchtsäfte.",
-    "ko": "틸로 코차리 과일 주스 제품군."
+    "tr": "Tufan Organik Meyve Suyu Çeşitleri ürün grubu.",
+    "en": "Tufan Organik Fruit Juices product group.",
+    "ar": "مجموعة منتجات عصائر الفاكهة من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Fruchtsäfte.",
+    "ko": "투판 오가닉 과일 주스 제품군."
   },
   "index": 9,
   "icon": "category",
@@ -35,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Meyve Suyu Çeşitleri | Tillo Kochari",
-    "en": "Fruit Juices | Tillo Kochari",
-    "ar": "عصائر الفاكهة | Tillo Kochari",
-    "de": "Fruchtsäfte | Tillo Kochari",
+    "tr": "Meyve Suyu Çeşitleri | Tufan Organik",
+    "en": "Fruit Juices | Tufan Organik",
+    "ar": "عصائر الفاكهة | Tufan Organik",
+    "de": "Fruchtsäfte | Tufan Organik",
     "ja": "",
-    "ko": "과일 주스 | Tillo Kochari"
+    "ko": "과일 주스 | Tufan Organik"
   },
   "text": {
     "tr": "",

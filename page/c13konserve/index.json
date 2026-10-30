@@ -12,19 +12,19 @@
   "externalUrl": "",
   "path": "kurutulmus-meyve-grubu",
   "keyword": {
-    "tr": "Tillo Kochari, Kurutulmuş Meyve Grubu",
-    "en": "Tillo Kochari, Dried Fruits",
-    "ar": "Tillo Kochari, الفواكه المجففة",
-    "de": "Tillo Kochari, Trockenfrüchte",
+    "tr": "Tufan Organik, Kurutulmuş Meyve Grubu",
+    "en": "Tufan Organik, Dried Fruits",
+    "ar": "Tufan Organik, الفواكه المجففة",
+    "de": "Tufan Organik, Trockenfrüchte",
     "ja": "",
-    "ko": "Tillo Kochari, 건조 과일"
+    "ko": "Tufan Organik, 건조 과일"
   },
   "description": {
-    "tr": "Tillo Kochari Kurutulmuş Meyve Grubu ürün grubu.",
-    "en": "Tillo Kochari Dried Fruits product group.",
-    "ar": "مجموعة منتجات الفواكه المجففة من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Trockenfrüchte.",
-    "ko": "틸로 코차리 건조 과일 제품군."
+    "tr": "Tufan Organik Kurutulmuş Meyve Grubu ürün grubu.",
+    "en": "Tufan Organik Dried Fruits product group.",
+    "ar": "مجموعة منتجات الفواكه المجففة من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Trockenfrüchte.",
+    "ko": "투판 오가닉 건조 과일 제품군."
   },
   "index": 12,
   "icon": "category",
@@ -35,12 +35,12 @@
   },
   "desc": {},
   "title": {
-    "tr": "Kurutulmuş Meyve Grubu | Tillo Kochari",
-    "en": "Dried Fruits | Tillo Kochari",
-    "ar": "الفواكه المجففة | Tillo Kochari",
-    "de": "Trockenfrüchte | Tillo Kochari",
+    "tr": "Kurutulmuş Meyve Grubu | Tufan Organik",
+    "en": "Dried Fruits | Tufan Organik",
+    "ar": "الفواكه المجففة | Tufan Organik",
+    "de": "Trockenfrüchte | Tufan Organik",
     "ja": "",
-    "ko": "건조 과일 | Tillo Kochari"
+    "ko": "건조 과일 | Tufan Organik"
   },
   "text": {
     "tr": "",

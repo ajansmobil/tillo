@@ -8,18 +8,18 @@
     "ko": "올리브 오일 및 아보카도 오일"
   },
   "description": {
-    "tr": "Tillo Kochari Zeytin Yağı ve Avakado Yağı ürün grubu.",
-    "en": "Tillo Kochari Olive Oil and Avocado Oil product group.",
-    "ar": "مجموعة منتجات زيت الزيتون وزيت الأفوكادو من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Olivenöl und Avocadoöl.",
-    "ko": "틸로 코차리 올리브 오일 및 아보카도 오일 제품군."
+    "tr": "Tufan Organik Zeytin Yağı ve Avakado Yağı ürün grubu.",
+    "en": "Tufan Organik Olive Oil and Avocado Oil product group.",
+    "ar": "مجموعة منتجات زيت الزيتون وزيت الأفوكادو من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Olivenöl und Avocadoöl.",
+    "ko": "투판 오가닉 올리브 오일 및 아보카도 오일 제품군."
   },
   "keyword": {
-    "tr": "Tillo Kochari, Zeytin Yağı ve Avakado Yağı",
-    "en": "Tillo Kochari, Olive Oil and Avocado Oil",
-    "ar": "Tillo Kochari, زيت الزيتون وزيت الأفوكادو",
-    "de": "Tillo Kochari, Olivenöl und Avocadoöl",
-    "ko": "Tillo Kochari, 올리브 오일 및 아보카도 오일"
+    "tr": "Tufan Organik, Zeytin Yağı ve Avakado Yağı",
+    "en": "Tufan Organik, Olive Oil and Avocado Oil",
+    "ar": "Tufan Organik, زيت الزيتون وزيت الأفوكادو",
+    "de": "Tufan Organik, Olivenöl und Avocadoöl",
+    "ko": "Tufan Organik, 올리브 오일 및 아보카도 오일"
   },
   "path": "zeytin-yagi-ve-avakado-yagi",
   "icon": "category",
@@ -34,11 +34,11 @@
   "url": "",
   "text": {},
   "title": {
-    "tr": "Zeytin Yağı ve Avakado Yağı | Tillo Kochari",
-    "en": "Olive Oil and Avocado Oil | Tillo Kochari",
-    "ar": "زيت الزيتون وزيت الأفوكادو | Tillo Kochari",
-    "de": "Olivenöl und Avocadoöl | Tillo Kochari",
-    "ko": "올리브 오일 및 아보카도 오일 | Tillo Kochari"
+    "tr": "Zeytin Yağı ve Avakado Yağı | Tufan Organik",
+    "en": "Olive Oil and Avocado Oil | Tufan Organik",
+    "ar": "زيت الزيتون وزيت الأفوكادو | Tufan Organik",
+    "de": "Olivenöl und Avocadoöl | Tufan Organik",
+    "ko": "올리브 오일 및 아보카도 오일 | Tufan Organik"
   },
   "date": "2026-10-28T08:07:44.231Z",
   "update": "2026-10-28T08:07:44.456Z"

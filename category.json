@@ -22,12 +22,12 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Tillo Kochari Tahıl Grubu ve Unları ürün grubu.",
-        "en": "Tillo Kochari Cereals and Flours product group.",
-        "ar": "مجموعة منتجات الحبوب والدقيق من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Getreide und Mehle.",
+        "tr": "Tufan Organik Tahıl Grubu ve Unları ürün grubu.",
+        "en": "Tufan Organik Cereals and Flours product group.",
+        "ar": "مجموعة منتجات الحبوب والدقيق من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Getreide und Mehle.",
         "ja": "",
-        "ko": "틸로 코차리 곡물 및 밀가루 제품군."
+        "ko": "투판 오가닉 곡물 및 밀가루 제품군."
       }
     },
     {
@@ -51,11 +51,11 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Tillo Kochari Bakliyat Grubu ve Ürünleri ürün grubu.",
-        "en": "Tillo Kochari Pulses and Pulse Products product group.",
-        "ar": "مجموعة منتجات البقوليات ومنتجاتها من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Hülsenfrüchte und Produkte.",
-        "ko": "틸로 코차리 두류 및 두류 제품 제품군."
+        "tr": "Tufan Organik Bakliyat Grubu ve Ürünleri ürün grubu.",
+        "en": "Tufan Organik Pulses and Pulse Products product group.",
+        "ar": "مجموعة منتجات البقوليات ومنتجاتها من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Hülsenfrüchte und Produkte.",
+        "ko": "투판 오가닉 두류 및 두류 제품 제품군."
       }
     },
     {
@@ -78,11 +78,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Yağlı Tohumlar ve Ürünleri ürün grubu.",
-        "en": "Tillo Kochari Oilseeds and Products product group.",
-        "ar": "مجموعة منتجات البذور الزيتية ومنتجاتها من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Ölsaaten und Produkte.",
-        "ko": "틸로 코차리 유지종자 및 제품 제품군."
+        "tr": "Tufan Organik Yağlı Tohumlar ve Ürünleri ürün grubu.",
+        "en": "Tufan Organik Oilseeds and Products product group.",
+        "ar": "مجموعة منتجات البذور الزيتية ومنتجاتها من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Ölsaaten und Produkte.",
+        "ko": "투판 오가닉 유지종자 및 제품 제품군."
       }
     },
     {
@@ -105,11 +105,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Makarna Grubu ürün grubu.",
-        "en": "Tillo Kochari Pasta Group product group.",
-        "ar": "مجموعة منتجات مجموعة المعكرونة من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Nudeln und Teigwaren.",
-        "ko": "틸로 코차리 파스타 그룹 제품군."
+        "tr": "Tufan Organik Makarna Grubu ürün grubu.",
+        "en": "Tufan Organik Pasta Group product group.",
+        "ar": "مجموعة منتجات مجموعة المعكرونة من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Nudeln und Teigwaren.",
+        "ko": "투판 오가닉 파스타 그룹 제품군."
       }
     },
     {
@@ -133,12 +133,12 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Salça ve Soslar ürün grubu.",
-        "en": "Tillo Kochari Pastes and Sauces product group.",
-        "ar": "مجموعة منتجات المعجونات والصلصات من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Pasten und Saucen.",
+        "tr": "Tufan Organik Salça ve Soslar ürün grubu.",
+        "en": "Tufan Organik Pastes and Sauces product group.",
+        "ar": "مجموعة منتجات المعجونات والصلصات من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Pasten und Saucen.",
         "ja": "",
-        "ko": "틸로 코차리 페이스트 및 소스 제품군."
+        "ko": "투판 오가닉 페이스트 및 소스 제품군."
       }
     },
     {
@@ -162,12 +162,12 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Kahvaltılık Ürünler ürün grubu.",
-        "en": "Tillo Kochari Breakfast Products product group.",
-        "ar": "مجموعة منتجات منتجات الإفطار من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Frühstücksprodukte.",
+        "tr": "Tufan Organik Kahvaltılık Ürünler ürün grubu.",
+        "en": "Tufan Organik Breakfast Products product group.",
+        "ar": "مجموعة منتجات منتجات الإفطار من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Frühstücksprodukte.",
         "ja": "",
-        "ko": "틸로 코차리 아침식사 제품 제품군."
+        "ko": "투판 오가닉 아침식사 제품 제품군."
       }
     },
     {
@@ -191,12 +191,12 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Süt ve Süt Ürünleri ürün grubu.",
-        "en": "Tillo Kochari Milk and Dairy Products product group.",
-        "ar": "مجموعة منتجات الحليب ومنتجات الألبان من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Milch und Milchprodukte.",
+        "tr": "Tufan Organik Süt ve Süt Ürünleri ürün grubu.",
+        "en": "Tufan Organik Milk and Dairy Products product group.",
+        "ar": "مجموعة منتجات الحليب ومنتجات الألبان من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Milch und Milchprodukte.",
         "ja": "",
-        "ko": "틸로 코차리 우유 및 유제품 제품군."
+        "ko": "투판 오가닉 우유 및 유제품 제품군."
       }
     },
     {
@@ -219,11 +219,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Kuruyemiş Grubu ve Ürünleri ürün grubu.",
-        "en": "Tillo Kochari Nuts and Nut Products product group.",
-        "ar": "مجموعة منتجات المكسرات ومنتجاتها من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Nüsse und Nussprodukte.",
-        "ko": "틸로 코차리 견과류 및 제품 제품군."
+        "tr": "Tufan Organik Kuruyemiş Grubu ve Ürünleri ürün grubu.",
+        "en": "Tufan Organik Nuts and Nut Products product group.",
+        "ar": "مجموعة منتجات المكسرات ومنتجاتها من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Nüsse und Nussprodukte.",
+        "ko": "투판 오가닉 견과류 및 제품 제품군."
       }
     },
     {
@@ -246,11 +246,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Reçel ve Marmelatlar ürün grubu.",
-        "en": "Tillo Kochari Jams and Marmalades product group.",
-        "ar": "مجموعة منتجات المربيات ومربى الحمضيات من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Konfitüren und Marmeladen.",
-        "ko": "틸로 코차리 잼 및 마멀레이드 제품군."
+        "tr": "Tufan Organik Reçel ve Marmelatlar ürün grubu.",
+        "en": "Tufan Organik Jams and Marmalades product group.",
+        "ar": "مجموعة منتجات المربيات ومربى الحمضيات من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Konfitüren und Marmeladen.",
+        "ko": "투판 오가닉 잼 및 마멀레이드 제품군."
       }
     },
     {
@@ -273,11 +273,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Meyve Suyu Çeşitleri ürün grubu.",
-        "en": "Tillo Kochari Fruit Juices product group.",
-        "ar": "مجموعة منتجات عصائر الفاكهة من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Fruchtsäfte.",
-        "ko": "틸로 코차리 과일 주스 제품군."
+        "tr": "Tufan Organik Meyve Suyu Çeşitleri ürün grubu.",
+        "en": "Tufan Organik Fruit Juices product group.",
+        "ar": "مجموعة منتجات عصائر الفاكهة من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Fruchtsäfte.",
+        "ko": "투판 오가닉 과일 주스 제품군."
       }
     },
     {
@@ -300,11 +300,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Meyve Özü Grubu ürün grubu.",
-        "en": "Tillo Kochari Fruit Extracts product group.",
-        "ar": "مجموعة منتجات مستخلصات الفاكهة من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Fruchtextrakte.",
-        "ko": "틸로 코차리 과일 추출물 제품군."
+        "tr": "Tufan Organik Meyve Özü Grubu ürün grubu.",
+        "en": "Tufan Organik Fruit Extracts product group.",
+        "ar": "مجموعة منتجات مستخلصات الفاكهة من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Fruchtextrakte.",
+        "ko": "투판 오가닉 과일 추출물 제품군."
       }
     },
     {
@@ -327,11 +327,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Pekmez Çeşitleri, Tahin ve Helva ürün grubu.",
-        "en": "Tillo Kochari Molasses, Tahini and Halva product group.",
-        "ar": "مجموعة منتجات أنواع الدبس والطحينة والحلاوة من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Pekmez, Tahin und Halva.",
-        "ko": "틸로 코차리 페크메즈, 타힌 및 할바 제품군."
+        "tr": "Tufan Organik Pekmez Çeşitleri, Tahin ve Helva ürün grubu.",
+        "en": "Tufan Organik Molasses, Tahini and Halva product group.",
+        "ar": "مجموعة منتجات أنواع الدبس والطحينة والحلاوة من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Pekmez, Tahin und Halva.",
+        "ko": "투판 오가닉 페크메즈, 타힌 및 할바 제품군."
       }
     },
     {
@@ -354,11 +354,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Kurutulmuş Meyve Grubu ürün grubu.",
-        "en": "Tillo Kochari Dried Fruits product group.",
-        "ar": "مجموعة منتجات الفواكه المجففة من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Trockenfrüchte.",
-        "ko": "틸로 코차리 건조 과일 제품군."
+        "tr": "Tufan Organik Kurutulmuş Meyve Grubu ürün grubu.",
+        "en": "Tufan Organik Dried Fruits product group.",
+        "ar": "مجموعة منتجات الفواكه المجففة من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Trockenfrüchte.",
+        "ko": "투판 오가닉 건조 과일 제품군."
       }
     },
     {
@@ -381,11 +381,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Dondurulmuş Meyve Grubu ürün grubu.",
-        "en": "Tillo Kochari Frozen Fruits product group.",
-        "ar": "مجموعة منتجات الفواكه المجمدة من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Tiefkühl-Obst.",
-        "ko": "틸로 코차리 냉동 과일 제품군."
+        "tr": "Tufan Organik Dondurulmuş Meyve Grubu ürün grubu.",
+        "en": "Tufan Organik Frozen Fruits product group.",
+        "ar": "مجموعة منتجات الفواكه المجمدة من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Tiefkühl-Obst.",
+        "ko": "투판 오가닉 냉동 과일 제품군."
       }
     },
     {
@@ -408,11 +408,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Kurutulmuş Sebze Grubu ürün grubu.",
-        "en": "Tillo Kochari Dried Vegetables product group.",
-        "ar": "مجموعة منتجات الخضروات المجففة من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Getrocknetes Gemüse.",
-        "ko": "틸로 코차리 건조 채소 제품군."
+        "tr": "Tufan Organik Kurutulmuş Sebze Grubu ürün grubu.",
+        "en": "Tufan Organik Dried Vegetables product group.",
+        "ar": "مجموعة منتجات الخضروات المجففة من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Getrocknetes Gemüse.",
+        "ko": "투판 오가닉 건조 채소 제품군."
       }
     },
     {
@@ -435,11 +435,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Dondurulmuş Sebze Grubu ürün grubu.",
-        "en": "Tillo Kochari Frozen Vegetables product group.",
-        "ar": "مجموعة منتجات الخضروات المجمدة من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Tiefkühl-Gemüse.",
-        "ko": "틸로 코차리 냉동 채소 제품군."
+        "tr": "Tufan Organik Dondurulmuş Sebze Grubu ürün grubu.",
+        "en": "Tufan Organik Frozen Vegetables product group.",
+        "ar": "مجموعة منتجات الخضروات المجمدة من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Tiefkühl-Gemüse.",
+        "ko": "투판 오가닉 냉동 채소 제품군."
       }
     },
     {
@@ -462,11 +462,11 @@
         "footer": []
       },
       "description": {
-        "tr": "Tillo Kochari Unlu Mamulleri ürün grubu.",
-        "en": "Tillo Kochari Bakery Products product group.",
-        "ar": "مجموعة منتجات منتجات المخبوزات من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Backwaren.",
-        "ko": "틸로 코차리 베이커리 제품 제품군."
+        "tr": "Tufan Organik Unlu Mamulleri ürün grubu.",
+        "en": "Tufan Organik Bakery Products product group.",
+        "ar": "مجموعة منتجات منتجات المخبوزات من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Backwaren.",
+        "ko": "투판 오가닉 베이커리 제품 제품군."
       }
     },
     {
@@ -479,11 +479,11 @@
         "ko": "카다이프 종류"
       },
       "description": {
-        "tr": "Tillo Kochari Kadayıf Çeşitleri ürün grubu.",
-        "en": "Tillo Kochari Kadayıf Varieties product group.",
-        "ar": "مجموعة منتجات أنواع القطايف من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Kadayıf-Sorten.",
-        "ko": "틸로 코차리 카다이프 종류 제품군."
+        "tr": "Tufan Organik Kadayıf Çeşitleri ürün grubu.",
+        "en": "Tufan Organik Kadayıf Varieties product group.",
+        "ar": "مجموعة منتجات أنواع القطايف من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Kadayıf-Sorten.",
+        "ko": "투판 오가닉 카다이프 종류 제품군."
       },
       "path": "kadayif-cesitleri",
       "icon": "category",
@@ -506,11 +506,11 @@
         "ko": "라바시 및 유프카 종류"
       },
       "description": {
-        "tr": "Tillo Kochari Lavaş ve Yufka Çeşitleri ürün grubu.",
-        "en": "Tillo Kochari Lavash and Yufka Varieties product group.",
-        "ar": "مجموعة منتجات أنواع اللافاش واليوفكا من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Lavaş und Yufka.",
-        "ko": "틸로 코차리 라바시 및 유프카 종류 제품군."
+        "tr": "Tufan Organik Lavaş ve Yufka Çeşitleri ürün grubu.",
+        "en": "Tufan Organik Lavash and Yufka Varieties product group.",
+        "ar": "مجموعة منتجات أنواع اللافاش واليوفكا من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Lavaş und Yufka.",
+        "ko": "투판 오가닉 라바시 및 유프카 종류 제품군."
       },
       "path": "lavas-ve-yufka-cesitleri",
       "icon": "category",
@@ -533,11 +533,11 @@
         "ko": "올리브 오일 및 아보카도 오일"
       },
       "description": {
-        "tr": "Tillo Kochari Zeytin Yağı ve Avakado Yağı ürün grubu.",
-        "en": "Tillo Kochari Olive Oil and Avocado Oil product group.",
-        "ar": "مجموعة منتجات زيت الزيتون وزيت الأفوكادو من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Olivenöl und Avocadoöl.",
-        "ko": "틸로 코차리 올리브 오일 및 아보카도 오일 제품군."
+        "tr": "Tufan Organik Zeytin Yağı ve Avakado Yağı ürün grubu.",
+        "en": "Tufan Organik Olive Oil and Avocado Oil product group.",
+        "ar": "مجموعة منتجات زيت الزيتون وزيت الأفوكادو من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Olivenöl und Avocadoöl.",
+        "ko": "투판 오가닉 올리브 오일 및 아보카도 오일 제품군."
       },
       "path": "zeytin-yagi-ve-avakado-yagi",
       "icon": "category",
@@ -560,11 +560,11 @@
         "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료"
       },
       "description": {
-        "tr": "Tillo Kochari Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler ürün grubu.",
-        "en": "Tillo Kochari Sour, Hot and Sweet Special Sauces, Vinegars and Beverages product group.",
-        "ar": "مجموعة منتجات الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke.",
-        "ko": "틸로 코차리 새콤·매콤·달콤 특선 소스, 식초 및 음료 제품군."
+        "tr": "Tufan Organik Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler ürün grubu.",
+        "en": "Tufan Organik Sour, Hot and Sweet Special Sauces, Vinegars and Beverages product group.",
+        "ar": "مجموعة منتجات الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke.",
+        "ko": "투판 오가닉 새콤·매콤·달콤 특선 소스, 식초 및 음료 제품군."
       },
       "path": "eksi-aci-ve-tatli-ozel-soslar-sirke-ve-icecekler",
       "icon": "category",
@@ -587,11 +587,11 @@
         "ko": "약용·방향 식물 및 오일"
       },
       "description": {
-        "tr": "Tillo Kochari Tıbbi Aromatik Bitkiler ve Yağları ürün grubu.",
-        "en": "Tillo Kochari Medicinal and Aromatic Plants and Oils product group.",
-        "ar": "مجموعة منتجات النباتات الطبية والعطرية وزيوتها من تيلو كوشاري.",
-        "de": "Tillo Kochari Produktgruppe Heil- und Aromapflanzen und ihre Öle.",
-        "ko": "틸로 코차리 약용·방향 식물 및 오일 제품군."
+        "tr": "Tufan Organik Tıbbi Aromatik Bitkiler ve Yağları ürün grubu.",
+        "en": "Tufan Organik Medicinal and Aromatic Plants and Oils product group.",
+        "ar": "مجموعة منتجات النباتات الطبية والعطرية وزيوتها من توفان أورغانيك.",
+        "de": "Tufan Organik Produktgruppe Heil- und Aromapflanzen und ihre Öle.",
+        "ko": "투판 오가닉 약용·방향 식물 및 오일 제품군."
       },
       "path": "tibbi-aromatik-bitkiler-ve-yaglari",
       "icon": "category",

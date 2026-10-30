@@ -8,18 +8,18 @@
     "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료"
   },
   "description": {
-    "tr": "Tillo Kochari Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler ürün grubu.",
-    "en": "Tillo Kochari Sour, Hot and Sweet Special Sauces, Vinegars and Beverages product group.",
-    "ar": "مجموعة منتجات الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات من تيلو كوشاري.",
-    "de": "Tillo Kochari Produktgruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke.",
-    "ko": "틸로 코차리 새콤·매콤·달콤 특선 소스, 식초 및 음료 제품군."
+    "tr": "Tufan Organik Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler ürün grubu.",
+    "en": "Tufan Organik Sour, Hot and Sweet Special Sauces, Vinegars and Beverages product group.",
+    "ar": "مجموعة منتجات الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات من توفان أورغانيك.",
+    "de": "Tufan Organik Produktgruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke.",
+    "ko": "투판 오가닉 새콤·매콤·달콤 특선 소스, 식초 및 음료 제품군."
   },
   "keyword": {
-    "tr": "Tillo Kochari, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
-    "en": "Tillo Kochari, Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
-    "ar": "Tillo Kochari, الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
-    "de": "Tillo Kochari, Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
-    "ko": "Tillo Kochari, 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+    "tr": "Tufan Organik, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+    "en": "Tufan Organik, Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+    "ar": "Tufan Organik, الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+    "de": "Tufan Organik, Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+    "ko": "Tufan Organik, 새콤·매콤·달콤 특선 소스, 식초 및 음료"
   },
   "path": "eksi-aci-ve-tatli-ozel-soslar-sirke-ve-icecekler",
   "icon": "category",
@@ -34,11 +34,11 @@
   "url": "",
   "text": {},
   "title": {
-    "tr": "Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler | Tillo Kochari",
-    "en": "Sour, Hot and Sweet Special Sauces, Vinegars and Beverages | Tillo Kochari",
-    "ar": "الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات | Tillo Kochari",
-    "de": "Saure, scharfe und süße Spezialsaucen, Essig und Getränke | Tillo Kochari",
-    "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료 | Tillo Kochari"
+    "tr": "Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler | Tufan Organik",
+    "en": "Sour, Hot and Sweet Special Sauces, Vinegars and Beverages | Tufan Organik",
+    "ar": "الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات | Tufan Organik",
+    "de": "Saure, scharfe und süße Spezialsaucen, Essig und Getränke | Tufan Organik",
+    "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료 | Tufan Organik"
   },
   "date": "2026-10-28T08:07:44.243Z",
   "update": "2026-10-28T08:07:44.465Z"
