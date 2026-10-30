@@ -17,7 +17,7 @@
   },
   "category": "Kurumsal",
   "name": "Tufan Organik",
-  "domain": "tillo.webyapar.com",
+  "domain": "tufanorganic.com",
   "langs": {
     "tr": true,
     "en": true,
@@ -62,5 +62,9 @@
   "address": "Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE",
   "icon": "icon.png",
   "theme_color": "#0B2A5B",
-  "background_color": "#FBF8F1"
+  "background_color": "#FBF8F1",
+  "font": {
+    "body": "nunito-sans",
+    "heading": "lora"
+  }
 }

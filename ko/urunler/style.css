@@ -1,4 +1,4 @@
-:root{--mx-site-primary:#0B2A5B;--mx-site-primary-contrast:#FFFFFF;--mx-site-bg:#FBF8F1;--mx-site-text:#0E2347;--mx-site-surface:#FFFFFF;--mx-site-surface-2:#F3ECDD}
+:root{--mx-site-primary:#0B2A5B;--mx-site-primary-contrast:#FFFFFF;--mx-site-bg:#FBF8F1;--mx-site-text:#0E2347;--mx-site-surface:#FFFFFF;--mx-site-surface-2:#F3ECDD;--mx-font-sans:"Nunito Sans", Rubik, system-ui, -apple-system, "Segoe UI", sans-serif;--mx-font-heading:"Lora", Rubik, Georgia, "Times New Roman", serif}
 
   .h0000 {
     width: 100%;

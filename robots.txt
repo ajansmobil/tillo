@@ -541,8 +541,8 @@ Disallow: /ko/siparislerim/
 Disallow: /ko/siparis-onay/
 
 # Sitemap
-Sitemap: https://tillo.webyapar.com/sitemap.xml
+Sitemap: https://tufanorganic.com/sitemap.xml
 
 # GEO (llmstxt.org)
-# https://tillo.webyapar.com/llms.txt
-# https://tillo.webyapar.com/llms-full.txt
+# https://tufanorganic.com/llms.txt
+# https://tufanorganic.com/llms-full.txt

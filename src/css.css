@@ -388,3 +388,77 @@ ul {
     text-align: right;
     direction: rtl;
 }
+
+
+.wm-langbar {
+    display: inline-flex;
+    align-items: center;
+    margin: 0 8px;
+    font-size: 13px;
+    line-height: 1;
+    color: var(--wm-lang-color, inherit)
+}
+
+.wm-langbar:empty,
+.wm-langbar ul:empty {
+    display: none
+}
+
+.wm-langbar ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+.wm-langbar li {
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+
+.wm-langbar li a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 34px;
+    min-height: 30px;
+    padding: 4px 9px;
+    border: 1px solid color-mix(in srgb, currentColor 35%, transparent);
+    border-radius: 8px;
+    background: var(--wm-lang-bg, transparent);
+    color: inherit;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease
+}
+
+.wm-langbar li a img {
+    display: block;
+    height: 18px;
+    width: auto
+}
+
+.wm-langbar li a:hover,
+.wm-langbar li a:focus-visible {
+    border-color: currentColor;
+    background: color-mix(in srgb, currentColor 10%, transparent)
+}
+
+.wm-langbar li.wm-lang-active a {
+    background: var(--wm-lang-active-bg, color-mix(in srgb, currentColor 16%, transparent));
+    color: var(--wm-lang-active-color, inherit);
+    border-color: currentColor;
+    font-weight: 700
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .wm-langbar li a {
+        transition: none
+    }
+}
