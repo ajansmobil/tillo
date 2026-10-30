@@ -1,4 +1,4 @@
-:root{--mx-site-primary:#C4A035;--mx-site-primary-contrast:#1B3A4B;--mx-site-bg:#FAF7F2;--mx-site-text:#1B3A4B;--mx-site-surface:#FFFFFF;--mx-site-surface-2:#F0EBE3}
+:root{--mx-site-primary:#0B2A5B;--mx-site-primary-contrast:#FFFFFF;--mx-site-bg:#FBF8F1;--mx-site-text:#0E2347;--mx-site-surface:#FFFFFF;--mx-site-surface-2:#F3ECDD}
 
   .h0000 {
     width: 100%;
@@ -23,7 +23,7 @@
   }
 
   .h0000titlebody {
-    color: #ffffff;
+    color: #0E2347;
     width: var(--max);
     display: flex;
     justify-content: flex-end;
@@ -65,18 +65,18 @@
     padding: 6px 12px;
     font-size: 13px;
     letter-spacing: 0.02em;
-    color: #1e3046 !important;
+    color: #FFFFFF !important;
     text-decoration: none;
-    border: 1px solid color-mix(in srgb, #1e3046 40%, transparent);
+    border: 1px solid color-mix(in srgb, #FFFFFF 40%, transparent);
     border-radius: 8px;
     transition: border-color 0.2s ease, background 0.2s ease, color 0.2s ease;
     cursor: pointer;
   }
 
   .h0000titlebodylang li a:hover {
-    border-color: #000000;
-    background: #ffffff;
-    color: #000000 !important;
+    border-color: #FFFFFF;
+    background: #0B2A5B;
+    color: #FFFFFF !important;
   }
 
   .h0000body {
@@ -115,8 +115,8 @@
   
   .h0000-mobile-toggle {
     display: none;
-    background: #1e3046;
-    color: #ffffff;
+    background: #FFFFFF;
+    color: #0E2347;
     border: none;
     border-radius: 6px;
     padding: 10px 12px;
@@ -140,7 +140,7 @@
 
   .h0000menulist {
     width: calc(100% - 20px);
-    background-color: #1e3046;
+    background-color: #FFFFFF;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -149,7 +149,7 @@
 
   .h0000menubody {
     width: 100%;
-    background-color: #1e3046;
+    background-color: #FFFFFF;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -167,7 +167,7 @@
   
   .h0000menulist ul > a:not(:first-child),
   .h0000menulist ul > .h0000menulist-menu:not(:first-child) {
-    border-left: 1px solid color-mix(in srgb, #ffffff 22%, transparent);
+    border-left: 1px solid color-mix(in srgb, #0E2347 22%, transparent);
   }
 
   
@@ -176,7 +176,7 @@
     min-width: 0;
     padding: 10px 15px;
     font-size: 16px;
-    color: #ffffff !important;
+    color: #0E2347 !important;
     border-bottom: 1px solid transparent;
     width: 100%;
     text-align: center;
@@ -192,8 +192,8 @@
   .h0000menulist-menu:hover > a,
   .h0000menulist-menu > a:hover,
   .dropdown-content-h0000 > a:hover {
-    background-color: #ffffff !important;
-    color: #000000 !important;
+    background-color: #0B2A5B !important;
+    color: #FFFFFF !important;
     opacity: 1;
     cursor: pointer;
   }
@@ -212,8 +212,8 @@
   .h0000menulist ul > a.h0000-menu-list-active,
   .h0000menulist-menu > a.h0000-menu-list-active,
   .h0000menulist-menu.dropdown-content-active-h0000 > a {
-    background-color: #ffffff !important;
-    color: #000000 !important;
+    background-color: #0B2A5B !important;
+    color: #FFFFFF !important;
     border-radius: 5px;
     cursor: pointer;
     box-shadow: none;
@@ -250,7 +250,7 @@
   .h0000menulist-menu > a {
     padding: 10px 15px;
     font-size: 16px;
-    color: #ffffff !important;
+    color: #0E2347 !important;
     border-bottom: 1px solid transparent;
     width: 100%;
     text-align: center;
@@ -280,7 +280,7 @@
     right: 0;
     min-width: 200px;
     margin-top: 0;
-    background-color: #1e3046;
+    background-color: #FFFFFF;
     border-radius: 5px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
     padding: 0;
@@ -292,7 +292,7 @@
     display: block;
     padding: 10px 14px;
     font-size: 14px;
-    color: #ffffff !important;
+    color: #0E2347 !important;
     text-decoration: none;
     text-align: left;
     white-space: nowrap;
@@ -301,7 +301,7 @@
     border-radius: 0;
     cursor: pointer;
     box-sizing: border-box;
-    border-bottom: 1px solid color-mix(in srgb, #ffffff 14%, transparent);
+    border-bottom: 1px solid color-mix(in srgb, #0E2347 14%, transparent);
   }
 
   .dropdown-content-h0000 > a:first-child {
@@ -331,9 +331,9 @@
   }
 
   .dropdown-content-h0000 > a.h0000-menu-list-active {
-    background-color: #ffffff !important;
-    color: #000000 !important;
-    border-left: 3px solid #000000;
+    background-color: #0B2A5B !important;
+    color: #FFFFFF !important;
+    border-left: 3px solid #FFFFFF;
     padding-left: 11px;
     border-radius: 0;
     cursor: pointer;
@@ -371,7 +371,7 @@
   
   .h0000languages-mobile li {
     list-style: none;
-    border: 1px solid color-mix(in srgb, #ffffff 35%, transparent);
+    border: 1px solid color-mix(in srgb, #0E2347 35%, transparent);
     padding: 0;
     min-width: 44px;
     min-height: 44px;
@@ -379,7 +379,7 @@
     align-items: center;
     justify-content: center;
     border-radius: 10px;
-    background: color-mix(in srgb, #ffffff 8%, transparent);
+    background: color-mix(in srgb, #0E2347 8%, transparent);
     transition: border-color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
   }
 
@@ -392,19 +392,19 @@
     padding: 10px 14px;
     font-size: 14px;
     letter-spacing: 0.03em;
-    color: #ffffff !important;
+    color: #0E2347 !important;
     text-decoration: none;
     cursor: pointer;
   }
 
   .h0000languages-mobile li:hover {
-    background-color: #ffffff;
-    border-color: #000000;
-    box-shadow: 0 2px 8px color-mix(in srgb, #000000 25%, transparent);
+    background-color: #0B2A5B;
+    border-color: #FFFFFF;
+    box-shadow: 0 2px 8px color-mix(in srgb, #FFFFFF 25%, transparent);
   }
 
   .h0000languages-mobile li:hover a {
-    color: #000000 !important;
+    color: #FFFFFF !important;
   }
 
   
@@ -417,7 +417,7 @@
     padding: 8px;
     background: transparent;
     border: none;
-    color: #ffffff;
+    color: #0E2347;
     cursor: pointer;
     border-radius: 8px;
   }
@@ -427,8 +427,8 @@
   }
 
   .h0000-menu2-drawer-close:hover {
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #0B2A5B;
+    color: #FFFFFF;
   }
 
   
@@ -597,7 +597,7 @@
       flex: none;
       width: 100%;
       min-width: 0;
-      border-bottom: 1px solid color-mix(in srgb, #ffffff 18%, transparent);
+      border-bottom: 1px solid color-mix(in srgb, #0E2347 18%, transparent);
     }
 
     .h0000menulist ul > a,
@@ -646,14 +646,14 @@
     .h0000menulist-menu:hover > a,
     .h0000menulist-menu > a:hover,
     .h0000menulist-menu .dropdown-content-h0000 > a:hover {
-      background-color: #ffffff !important;
-      color: #000000 !important;
+      background-color: #0B2A5B !important;
+      color: #FFFFFF !important;
       border-radius: 0;
     }
 
     .h0000menulist-menu:hover > a::after,
     .h0000menulist-menu > a:hover::after {
-      color: #000000;
+      color: #FFFFFF;
       opacity: 1;
     }
 
@@ -662,13 +662,13 @@
     .h0000menulist-menu > a.h0000-menu-list-active,
     .h0000menulist-menu.dropdown-content-active-h0000 > a {
       border-radius: 0;
-      box-shadow: inset 4px 0 0 #000000;
+      box-shadow: inset 4px 0 0 #FFFFFF;
     }
 
     .h0000menulist-menu .dropdown-content-h0000 > a.h0000-menu-list-active {
       border-left: none;
       padding-left: 28px;
-      box-shadow: inset 4px 0 0 #000000;
+      box-shadow: inset 4px 0 0 #FFFFFF;
     }
 
     .h0000menulist-menu {
@@ -686,7 +686,7 @@
       padding: 0;
       box-shadow: none;
       border-radius: 0;
-      background-color: color-mix(in srgb, #ffffff 5%, #1e3046);
+      background-color: color-mix(in srgb, #0E2347 5%, #FFFFFF);
     }
 
     .h0000menulist-menu.h0000-dropdown-open .dropdown-content-h0000 {
@@ -700,7 +700,7 @@
       min-height: 44px;
       display: flex;
       align-items: center;
-      border-bottom: 1px solid color-mix(in srgb, #ffffff 14%, transparent);
+      border-bottom: 1px solid color-mix(in srgb, #0E2347 14%, transparent);
       white-space: normal;
       word-break: break-word;
     }
@@ -748,19 +748,19 @@
     gap: 20px;
     transition: background-color 0.3s ease;
     text-decoration: none;
-    color: #1B3A6B;
+    color: #0B2A5B;
   }
 
   .b0000containerlist>div {
     display: flex;
     align-items: center;
     font-size: 20px;
-    color: #1B3A6B;
+    color: #0B2A5B;
   }
 
   .b0000containerlist:hover {
     background-color: #f9f9f9;
-    border-bottom-color: #000;
+    border-bottom-color: #0E2347;
   }
 
   .b0000container {
@@ -790,12 +790,12 @@
 
   .b0000containerlist>span {
     font-size: 24px;
-    color: #000;
+    color: #0E2347;
   }
 
   .b0000containerlist:hover {
     background-color: rgba(46, 107, 255, 0.08);
-    border-bottom-color: #000;
+    border-bottom-color: #0E2347;
   }
 
   @media screen and (max-width: 1024px) {
@@ -943,7 +943,7 @@
   
     .footer {
       position: relative;
-      background: #152E3D;
+      background: #F3ECDD;
       padding: 20px 50px;
       display: flex;
       justify-content: center;
@@ -969,7 +969,7 @@
   
     .social-icon__link {
       font-size: 2rem;
-      color: #F5E6C8;
+      color: #0E2347;
       margin: 0 10px;
       display: inline-block;
       transition: transform 0.5s;
@@ -981,7 +981,7 @@
   
     .menu__link {
       font-size: 1.2rem;
-      color: #F5E6C8 !important;
+      color: #0E2347 !important;
       margin: 0 10px;
       display: inline-block;
       transition: opacity 0.5s;
@@ -995,7 +995,7 @@
     }
   
     .footer p { 
-      color: #F5E6C8;
+      color: #0E2347;
       margin: 15px 0 10px 0;
       font-size: 1rem;
       font-weight: 300;
@@ -1007,7 +1007,7 @@
       left: 0;
       width: 100%;
       height: 100px;
-      background-image: url("data:image/svg+xml,%3Csvg version='1.0' id='katman_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 640 65' style='enable-background:new 0 0 640 65;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23152E3D;%7D %3C/style%3E %3Cpath class='st0' d='M0,22.4C0,22.4,74.1,0,153,0c176.5,0,328.1,76.6,487,22.4V65H0V22.4z'/%3E%3C/svg%3E");
+      background-image: url("data:image/svg+xml,%3Csvg version='1.0' id='katman_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 640 65' style='enable-background:new 0 0 640 65;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23F3ECDD;%7D %3C/style%3E %3Cpath class='st0' d='M0,22.4C0,22.4,74.1,0,153,0c176.5,0,328.1,76.6,487,22.4V65H0V22.4z'/%3E%3C/svg%3E");
       background-size: 1000px 102px;
     }
   

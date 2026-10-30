@@ -1,7 +1,4 @@
 {
-  "name": "Kurumsal",
-  "path": "kurumsal",
-  "desc": [],
   "data": [
     {
       "name": {
@@ -21,7 +18,7 @@
         "body": [],
         "footer": []
       },
-      "index": 0,
+      "index": 1,
       "icon": "home",
       "description": {
         "tr": "Tufan Organik hakkında. Gürün/Sivas kökenli doğal gıda üretimi, kalite ve müşteri odaklı hizmet anlayışımız.",
@@ -49,7 +46,7 @@
         "body": [],
         "footer": []
       },
-      "index": 1,
+      "index": 2,
       "icon": "home",
       "description": {
         "tr": "Tufan Organik misyonu. Doğal hammaddeden katkısız ürünler; çevreye duyarlı ve sürdürülebilir üretim.",
@@ -76,7 +73,7 @@
         "body": [],
         "footer": []
       },
-      "index": 2,
+      "index": 3,
       "icon": "home",
       "description": {
         "tr": "Tufan Organik vizyonu. Türkiye ve uluslararası pazarda tercih edilen doğal gıda markası olmak.",
@@ -103,7 +100,7 @@
         "body": [],
         "footer": []
       },
-      "index": 3,
+      "index": 4,
       "icon": "home",
       "description": {
         "tr": "Tufan Organik kalite politikası. Gıda güvenliği, izlenebilirlik ve sürekli iyileştirme taahhüdümüz.",
@@ -130,7 +127,7 @@
         "body": [],
         "footer": []
       },
-      "index": 4,
+      "index": 5,
       "icon": "home",
       "description": {
         "tr": "Tufan Organik gizlilik politikası. Kişisel verilerin korunması ve çerez kullanımı hakkında bilgilendirme.",
@@ -157,7 +154,7 @@
         "body": [],
         "footer": []
       },
-      "index": 5,
+      "index": 6,
       "icon": "home",
       "description": {
         "tr": "Tufan Organik kişisel veriler aydınlatma metni. 6698 sayılı KVKK kapsamında veri sorumlusu bilgileri.",
@@ -184,7 +181,7 @@
         "body": [],
         "footer": []
       },
-      "index": 6,
+      "index": 7,
       "icon": "home",
       "description": {
         "tr": "Tufan Organik kullanıcı hakları. Tüketici hakları, sipariş ve iade süreçleri hakkında bilgi.",
@@ -211,7 +208,7 @@
         "body": [],
         "footer": []
       },
-      "index": 7,
+      "index": 8,
       "icon": "home",
       "description": {
         "tr": "Tufan Organik yasal uyarı. Web sitesi kullanım şartları ve yasal sorumluluk sınırları.",
@@ -222,7 +219,7 @@
       }
     }
   ],
-  "index": 2,
+  "desc": [],
   "desing": {
     "header": [],
     "body": [

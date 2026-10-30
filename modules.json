@@ -8,10 +8,10 @@
       "category": "menu",
       "id": "vey1el",
       "desing": {
-        "bgcolor": "#1e3046",
-        "color": "#ffffff",
-        "activebgcolor": "#ffffff",
-        "activecolor": "#000000",
+        "bgcolor": "#FFFFFF",
+        "color": "#0E2347",
+        "activebgcolor": "#0B2A5B",
+        "activecolor": "#FFFFFF",
         "height": "100px",
         "ariaToggle": {
           "tr": "Menüyü aç/kapat",
@@ -63,7 +63,7 @@
       "category": "contact",
       "id": "fhxr98",
       "desing": {
-        "color": "#000",
+        "color": "#0E2347",
         "name": {
           "tr": "Bize Ulaşın",
           "en": "Contact Us",
@@ -72,7 +72,7 @@
           "ko": "문의하기"
         },
         "margin": "30px 0px 30px 0px",
-        "linkcolor": "#1B3A6B"
+        "linkcolor": "#0B2A5B"
       },
       "data": [
         {
@@ -110,7 +110,7 @@
         "height": "200",
         "opacity": "0.5",
         "backgroundcolor": "#ffffff",
-        "color": "#1B3A4B",
+        "color": "#0E2347",
         "img": "map.png",
         "externalUrl": ""
       },
@@ -129,8 +129,8 @@
         "height": "120",
         "opacity": "0.5",
         "font-size": "42",
-        "backgroundcolor": "#1B3A4B",
-        "textcolor": "#F5E6C8"
+        "backgroundcolor": "#F3ECDD",
+        "textcolor": "#0E2347"
       },
       "version": "1.0.0",
       "icon": "web"
@@ -232,8 +232,8 @@
       "category": "footer",
       "id": "txt39m",
       "desing": {
-        "bgcolor": "#152E3D",
-        "color": "#F5E6C8",
+        "bgcolor": "#F3ECDD",
+        "color": "#0E2347",
         "img": "",
         "imgwidth": "250px"
       },
@@ -248,13 +248,13 @@
       "path": "page-column-text",
       "desing": {
         "page": "category",
-        "bgcolor": "#1B3A4B",
-        "color": "#F5E6C8",
+        "bgcolor": "#FBF8F1",
+        "color": "#0E2347",
         "height": "220px",
         "font-size": "18px",
         "opacity": "0.5",
-        "chilebgcolor": "#2C4F63",
-        "chilecolor": "#F5E6C8",
+        "chilebgcolor": "#FFFFFF",
+        "chilecolor": "#0E2347",
         "chilesize": "16px"
       },
       "category": "page-list",
@@ -271,12 +271,12 @@
       "desing": {
         "size": 3,
         "page": "page",
-        "bgcolor": "#FAF7F2",
-        "color": "#1B3A4B",
-        "colortitle": "#1B3A4B",
-        "coloractive": "#C4A035",
+        "bgcolor": "#FBF8F1",
+        "color": "#0E2347",
+        "colortitle": "#0E2347",
+        "coloractive": "#0B2A5B",
         "border_radius": "8px",
-        "card_shadow": "0 6px 24px rgba(27, 58, 75, 0.18)",
+        "card_shadow": "0 6px 24px rgba(14, 35, 71, 0.12)",
         "max": "1200px"
       },
       "category": "page-category",
@@ -292,15 +292,15 @@
         "height": "200",
         "opacity": "0.5",
         "font-size": "32",
-        "backgroundcolor": "#1e3046",
-        "menu-active": "#2196f3",
-        "textcolor": "#ffffff",
-        "bgcolor": "#f8f9fa",
-        "color": "#333333",
-        "colortitle": "#1e3046",
-        "coloractive": "#2196f3",
+        "backgroundcolor": "#F3ECDD",
+        "menu-active": "#0B2A5B",
+        "textcolor": "#0E2347",
+        "bgcolor": "#FBF8F1",
+        "color": "#0E2347",
+        "colortitle": "#0E2347",
+        "coloractive": "#0B2A5B",
         "border_radius": "12px",
-        "card_shadow": "0 4px 20px rgba(0, 0, 0, 0.1)",
+        "card_shadow": "0 4px 20px rgba(14, 35, 71, 0.10)",
         "max": "1200px",
         "category": "category",
         "olcuTitle": {
@@ -334,11 +334,11 @@
       "version": "1.0.1",
       "icon": "article",
       "desing": {
-        "linkcolor": "#1B3A4B",
-        "textcolor": "#212a38",
-        "bgcolor": "#FAF7F2",
+        "linkcolor": "#0B2A5B",
+        "textcolor": "#0E2347",
+        "bgcolor": "#FBF8F1",
         "border_radius": "14px",
-        "card_shadow": "0 12px 32px rgba(27,58,75,.10)",
+        "card_shadow": "0 12px 32px rgba(14, 35, 71, 0.10)",
         "font-size": "17px",
         "contact_path": "iletisim",
         "whatsapp": "",
@@ -436,13 +436,13 @@
           "de": "Ansehen",
           "ko": "보기"
         },
-        "color": "#1B3A4B",
+        "color": "#0B2A5B",
         "bgcolor": "#FFFFFF",
-        "colortitle": "#1B3A4B",
-        "coloractive": "#C4A035",
+        "colortitle": "#0E2347",
+        "coloractive": "#B5831B",
         "buttontext": "#FFFFFF",
-        "text": "#1B3A4B",
-        "surface": "#F0EBE3",
+        "text": "#0E2347",
+        "surface": "#F3ECDD",
         "border_radius": "16px",
         "z_index": 10001,
         "position": "fixed",
@@ -527,6 +527,463 @@
       "path": "ollama-chatbot",
       "local": "footer",
       "index": 11
+    },
+    {
+      "name": "Hero 3 (Açık Zemin, Ortalanmış)",
+      "desing": {
+        "badge": {
+          "tr": "Gürün / Sivas'tan doğal ve organik",
+          "en": "Natural and organic from Gürün, Sivas",
+          "ar": "طبيعي وعضوي من غورون، سيواس",
+          "de": "Natürlich und biologisch aus Gürün, Sivas",
+          "ko": "시바스 귀륀에서 온 천연·유기농"
+        },
+        "title": {
+          "tr": "Toprağın doğal hâli, sofranıza",
+          "en": "Nature's goodness, straight to your table",
+          "ar": "خير الأرض الطبيعي إلى مائدتكم",
+          "de": "Die Natur der Erde, direkt auf Ihren Tisch",
+          "ko": "자연 그대로의 맛을 식탁까지"
+        },
+        "description": {
+          "tr": "Tufan Organik, Gürün/Sivas merkezli organik tarım ve doğal gıda üreticisidir. Tahıldan bakliyata, reçelden pekmeze, kurutulmuş meyveden zeytinyağına 22 ürün grubunda doğal lezzetler sunuyoruz.",
+          "en": "Tufan Organik is an organic farming and natural food producer based in Gürün, Sivas. From grains and pulses to jams, pekmez, dried fruit and olive oil, we offer natural flavours in 22 product groups.",
+          "ar": "توفان أورغانيك منتج للزراعة العضوية والأغذية الطبيعية مقره غورون، سيواس. من الحبوب والبقوليات إلى المربيات والدبس والفواكه المجففة وزيت الزيتون، نقدم نكهات طبيعية في 22 مجموعة منتجات.",
+          "de": "Tufan Organik ist ein in Gürün (Sivas) ansässiger Hersteller aus ökologischem Landbau und natürlicher Lebensmittel. Von Getreide und Hülsenfrüchten über Konfitüren, Pekmez und Trockenobst bis zu Olivenöl bieten wir natürliche Genüsse in 22 Produktgruppen.",
+          "ko": "투판 오가닉은 시바스주 귀륀에 본사를 둔 유기농 및 천연 식품 제조업체입니다. 곡물과 콩류부터 잼, 페크메즈, 건과일, 올리브 오일까지 22개 제품군의 자연 그대로의 맛을 선보입니다."
+        },
+        "btn1Text": {
+          "tr": "Ürünlerimiz",
+          "en": "Our Products",
+          "ar": "منتجاتنا",
+          "de": "Unsere Produkte",
+          "ko": "제품 보기"
+        },
+        "btn1Url": "urunler",
+        "btn2Text": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "تواصل معنا",
+          "de": "Kontakt",
+          "ko": "문의하기"
+        },
+        "btn2Url": "iletisim",
+        "stat1Value": "22",
+        "stat1Label": {
+          "tr": "Ürün grubu",
+          "en": "Product groups",
+          "ar": "مجموعة منتجات",
+          "de": "Produktgruppen",
+          "ko": "제품군"
+        },
+        "stat2Value": "5",
+        "stat2Label": {
+          "tr": "Dil",
+          "en": "Languages",
+          "ar": "لغات",
+          "de": "Sprachen",
+          "ko": "언어"
+        },
+        "max": "1200px",
+        "gradient": "linear-gradient(160deg, #FBF8F1 0%, #F3ECDD 100%)",
+        "glow1": "rgba(181, 131, 27, 0.28)",
+        "glow2": "rgba(11, 42, 91, 0.12)",
+        "color": "#0E2347",
+        "muted": "#3B4A68",
+        "badgebg": "#FFFFFF",
+        "badgeborder": "#E6DCC3",
+        "btnbg": "#0B2A5B",
+        "btncolor": "#FFFFFF",
+        "btn2border": "#0B2A5B",
+        "btn2color": "#0B2A5B"
+      },
+      "category": "hero",
+      "description": "Açık (krem/beyaz) zeminli ortalanmış hero: hafif degrade + yumuşak ışık lekeleri, rozet, büyük başlık, iki CTA ve isteğe bağlı iki istatistik (stat1/stat2 boşsa gizlenir). hero-2'nin koyu/beyaz-sabit metinli düzenine açık tema alternatifi; tüm renkler desing token'ı.",
+      "version": "1.0.0",
+      "icon": "hero",
+      "id": "6h3okl",
+      "path": "hero-3",
+      "local": "body",
+      "data": [],
+      "index": 12
+    },
+    {
+      "name": "Kategori Vitrin (Görselli Ürün Grupları)",
+      "desing": {
+        "title": {
+          "tr": "Ürün Gruplarımız",
+          "en": "Our Product Groups",
+          "ar": "مجموعات منتجاتنا",
+          "de": "Unsere Produktgruppen",
+          "ko": "제품군"
+        },
+        "subtitle": {
+          "tr": "22 ürün grubunda doğal ve organik lezzetler",
+          "en": "Natural and organic flavours in 22 product groups",
+          "ar": "نكهات طبيعية وعضوية في 22 مجموعة منتجات",
+          "de": "Natürliche und biologische Genüsse in 22 Produktgruppen",
+          "ko": "22개 제품군의 천연·유기농 맛"
+        },
+        "max": "1200px",
+        "bgcolor": "#FBF8F1",
+        "cardbg": "#FFFFFF",
+        "color": "#0E2347",
+        "accent": "#B5831B",
+        "bordercolor": "#E6DCC3"
+      },
+      "data": [
+        {
+          "img": "/img/kategori/tahil-grubu-ve-unlari.webp",
+          "name": {
+            "tr": "Tahıl Grubu ve Unları",
+            "en": "Cereals and Flours",
+            "ar": "الحبوب والدقيق",
+            "de": "Getreide und Mehle",
+            "ko": "곡물 및 밀가루"
+          },
+          "url": "tahil-grubu-ve-unlari"
+        },
+        {
+          "img": "/img/kategori/bakliyat-grubu-ve-urunleri.webp",
+          "name": {
+            "tr": "Bakliyat Grubu ve Ürünleri",
+            "en": "Pulses and Pulse Products",
+            "ar": "البقوليات ومنتجاتها",
+            "de": "Hülsenfrüchte und Produkte",
+            "ko": "두류 및 두류 제품"
+          },
+          "url": "bakliyat-grubu-ve-urunleri"
+        },
+        {
+          "img": "/img/kategori/yagli-tohumlar-ve-urunleri.webp",
+          "name": {
+            "tr": "Yağlı Tohumlar ve Ürünleri",
+            "en": "Oilseeds and Products",
+            "ar": "البذور الزيتية ومنتجاتها",
+            "de": "Ölsaaten und Produkte",
+            "ko": "유지종자 및 제품"
+          },
+          "url": "yagli-tohumlar-ve-urunleri"
+        },
+        {
+          "img": "/img/kategori/makarna-grubu.webp",
+          "name": {
+            "tr": "Makarna Grubu",
+            "en": "Pasta Group",
+            "ar": "مجموعة المعكرونة",
+            "de": "Nudeln und Teigwaren",
+            "ko": "파스타 그룹"
+          },
+          "url": "makarna-grubu"
+        },
+        {
+          "img": "/img/kategori/salca-ve-soslar.webp",
+          "name": {
+            "tr": "Salça ve Soslar",
+            "en": "Pastes and Sauces",
+            "ar": "المعجونات والصلصات",
+            "de": "Pasten und Saucen",
+            "ko": "페이스트 및 소스"
+          },
+          "url": "salca-ve-soslar"
+        },
+        {
+          "img": "/img/kategori/kahvaltilik-urunler.webp",
+          "name": {
+            "tr": "Kahvaltılık Ürünler",
+            "en": "Breakfast Products",
+            "ar": "منتجات الإفطار",
+            "de": "Frühstücksprodukte",
+            "ko": "아침식사 제품"
+          },
+          "url": "kahvaltilik-urunler"
+        },
+        {
+          "img": "/img/kategori/sut-ve-sut-urunleri.webp",
+          "name": {
+            "tr": "Süt ve Süt Ürünleri",
+            "en": "Milk and Dairy Products",
+            "ar": "الحليب ومنتجات الألبان",
+            "de": "Milch und Milchprodukte",
+            "ko": "우유 및 유제품"
+          },
+          "url": "sut-ve-sut-urunleri"
+        },
+        {
+          "img": "/img/kategori/kuruyemis-grubu-ve-urunleri.webp",
+          "name": {
+            "tr": "Kuruyemiş Grubu ve Ürünleri",
+            "en": "Nuts and Nut Products",
+            "ar": "المكسرات ومنتجاتها",
+            "de": "Nüsse und Nussprodukte",
+            "ko": "견과류 및 제품"
+          },
+          "url": "kuruyemis-grubu-ve-urunleri"
+        },
+        {
+          "img": "/img/kategori/recel-ve-marmelatlar.webp",
+          "name": {
+            "tr": "Reçel ve Marmelatlar",
+            "en": "Jams and Marmalades",
+            "ar": "المربيات ومربى الحمضيات",
+            "de": "Konfitüren und Marmeladen",
+            "ko": "잼 및 마멀레이드"
+          },
+          "url": "recel-ve-marmelatlar"
+        },
+        {
+          "img": "/img/kategori/meyve-suyu-cesitleri.webp",
+          "name": {
+            "tr": "Meyve Suyu Çeşitleri",
+            "en": "Fruit Juices",
+            "ar": "عصائر الفاكهة",
+            "de": "Fruchtsäfte",
+            "ko": "과일 주스"
+          },
+          "url": "meyve-suyu-cesitleri"
+        },
+        {
+          "img": "/img/kategori/meyve-ozu-grubu.webp",
+          "name": {
+            "tr": "Meyve Özü Grubu",
+            "en": "Fruit Extracts",
+            "ar": "مستخلصات الفاكهة",
+            "de": "Fruchtextrakte",
+            "ko": "과일 추출물"
+          },
+          "url": "meyve-ozu-grubu"
+        },
+        {
+          "img": "/img/kategori/pekmez-cesitleri-tahin-ve-helva.webp",
+          "name": {
+            "tr": "Pekmez Çeşitleri, Tahin ve Helva",
+            "en": "Molasses, Tahini and Halva",
+            "ar": "أنواع الدبس والطحينة والحلاوة",
+            "de": "Pekmez, Tahin und Halva",
+            "ko": "페크메즈, 타힌 및 할바"
+          },
+          "url": "pekmez-cesitleri-tahin-ve-helva"
+        },
+        {
+          "img": "/img/kategori/kurutulmus-meyve-grubu.webp",
+          "name": {
+            "tr": "Kurutulmuş Meyve Grubu",
+            "en": "Dried Fruits",
+            "ar": "الفواكه المجففة",
+            "de": "Trockenfrüchte",
+            "ko": "건조 과일"
+          },
+          "url": "kurutulmus-meyve-grubu"
+        },
+        {
+          "img": "/img/kategori/dondurulmus-meyve-grubu.webp",
+          "name": {
+            "tr": "Dondurulmuş Meyve Grubu",
+            "en": "Frozen Fruits",
+            "ar": "الفواكه المجمدة",
+            "de": "Tiefkühl-Obst",
+            "ko": "냉동 과일"
+          },
+          "url": "dondurulmus-meyve-grubu"
+        },
+        {
+          "img": "/img/kategori/kurutulmus-sebze-grubu.webp",
+          "name": {
+            "tr": "Kurutulmuş Sebze Grubu",
+            "en": "Dried Vegetables",
+            "ar": "الخضروات المجففة",
+            "de": "Getrocknetes Gemüse",
+            "ko": "건조 채소"
+          },
+          "url": "kurutulmus-sebze-grubu"
+        },
+        {
+          "img": "/img/kategori/dondurulmus-sebze-grubu.webp",
+          "name": {
+            "tr": "Dondurulmuş Sebze Grubu",
+            "en": "Frozen Vegetables",
+            "ar": "الخضروات المجمدة",
+            "de": "Tiefkühl-Gemüse",
+            "ko": "냉동 채소"
+          },
+          "url": "dondurulmus-sebze-grubu"
+        },
+        {
+          "img": "",
+          "name": {
+            "tr": "Unlu Mamulleri",
+            "en": "Bakery Products",
+            "ar": "منتجات المخبوزات",
+            "de": "Backwaren",
+            "ko": "베이커리 제품"
+          },
+          "url": "unlu-mamulleri"
+        },
+        {
+          "img": "/img/kategori/kadayif-cesitleri.webp",
+          "name": {
+            "tr": "Kadayıf Çeşitleri",
+            "en": "Kadayıf Varieties",
+            "ar": "أنواع القطايف",
+            "de": "Kadayıf-Sorten",
+            "ko": "카다이프 종류"
+          },
+          "url": "kadayif-cesitleri"
+        },
+        {
+          "img": "/img/kategori/lavas-ve-yufka-cesitleri.webp",
+          "name": {
+            "tr": "Lavaş ve Yufka Çeşitleri",
+            "en": "Lavash and Yufka Varieties",
+            "ar": "أنواع اللافاش واليوفكا",
+            "de": "Lavaş und Yufka",
+            "ko": "라바시 및 유프카 종류"
+          },
+          "url": "lavas-ve-yufka-cesitleri"
+        },
+        {
+          "img": "/img/kategori/zeytin-yagi-ve-avakado-yagi.webp",
+          "name": {
+            "tr": "Zeytin Yağı ve Avakado Yağı",
+            "en": "Olive Oil and Avocado Oil",
+            "ar": "زيت الزيتون وزيت الأفوكادو",
+            "de": "Olivenöl und Avocadoöl",
+            "ko": "올리브 오일 및 아보카도 오일"
+          },
+          "url": "zeytin-yagi-ve-avakado-yagi"
+        },
+        {
+          "img": "/img/kategori/eksi-aci-ve-tatli-ozel-soslar-sirke-ve-icecekler.webp",
+          "name": {
+            "tr": "Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+            "en": "Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+            "ar": "الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+            "de": "Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+            "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료"
+          },
+          "url": "eksi-aci-ve-tatli-ozel-soslar-sirke-ve-icecekler"
+        },
+        {
+          "img": "/img/kategori/tibbi-aromatik-bitkiler-ve-yaglari.webp",
+          "name": {
+            "tr": "Tıbbi Aromatik Bitkiler ve Yağları",
+            "en": "Medicinal and Aromatic Plants and Oils",
+            "ar": "النباتات الطبية والعطرية وزيوتها",
+            "de": "Heil- und Aromapflanzen und ihre Öle",
+            "ko": "약용·방향 식물 및 오일"
+          },
+          "url": "tibbi-aromatik-bitkiler-ve-yaglari"
+        }
+      ],
+      "category": "page-category",
+      "description": "Açık temalı görselli kategori vitrini: kare görsel kart + altında kategori adı, hover'da hafif yakınlaşma ve alt çizgi vurgusu. Masaüstü 4, tablet 3, mobil 2 sütun; yatay taşma yok. data[] boşsa site kategori listesinden (category.json) otomatik dolar; görsel yoksa logo ikonlu yer tutucu kart çizer.",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "id": "ddw72q",
+      "path": "kategori-vitrin",
+      "local": "body",
+      "index": 13
+    },
+    {
+      "name": "CTA Kart 2 (Ortalanmış)",
+      "desing": {
+        "bgcolor": "#FBF8F1",
+        "cardbg": "#FFFFFF",
+        "bordercolor": "#E6DCC3",
+        "titlecolor": "#0E2347",
+        "textcolor": "#3B4A68",
+        "accent": "#0B2A5B",
+        "icon": "local_shipping",
+        "title": {
+          "tr": "Toptan ve ihracat talepleriniz için",
+          "en": "For wholesale and export enquiries",
+          "ar": "لطلبات الجملة والتصدير",
+          "de": "Für Großhandels- und Exportanfragen",
+          "ko": "도매 및 수출 문의"
+        },
+        "description": {
+          "tr": "Ürün grupları, fiyat ve sevkiyat bilgisi için bizimle iletişime geçin.",
+          "en": "Contact us for product groups, pricing and shipping information.",
+          "ar": "تواصلوا معنا للحصول على معلومات عن مجموعات المنتجات والأسعار والشحن.",
+          "de": "Kontaktieren Sie uns für Informationen zu Produktgruppen, Preisen und Versand.",
+          "ko": "제품군, 가격 및 배송 정보는 문의해 주세요."
+        },
+        "btnText": {
+          "tr": "Hemen Arayın: +90 532 250 08 54",
+          "en": "Call now: +90 532 250 08 54",
+          "ar": "اتصل الآن: 54 08 250 532 90+",
+          "de": "Jetzt anrufen: +90 532 250 08 54",
+          "ko": "지금 전화: +90 532 250 08 54"
+        },
+        "btnUrl": "tel:+905322500854",
+        "note": {
+          "tr": "E-posta: tufan.organictr@gmail.com",
+          "en": "E-mail: tufan.organictr@gmail.com",
+          "ar": "البريد الإلكتروني: tufan.organictr@gmail.com",
+          "de": "E-Mail: tufan.organictr@gmail.com",
+          "ko": "이메일: tufan.organictr@gmail.com"
+        },
+        "max": "1200px"
+      },
+      "category": "cta",
+      "description": "Ortalanmış kart görünümlü CTA (cta-1'in yatay şerit düzenine alternatif). İkon, başlık, açıklama, tek büyük buton ve alt not satırı; dönüşüm odaklı sayfa sonlarında kullanılır.",
+      "version": "1.0.0",
+      "icon": "ads_click",
+      "id": "gw8d4i",
+      "path": "cta-2",
+      "local": "body",
+      "data": [],
+      "index": 15
+    },
+    {
+      "name": "Tanıtım Özeti (Açık Zemin)",
+      "desing": {
+        "badge": {
+          "tr": "Hakkımızda",
+          "en": "About Us",
+          "ar": "من نحن",
+          "de": "Über uns",
+          "ko": "회사 소개"
+        },
+        "title": {
+          "tr": "Bizi Tanıyın",
+          "en": "Get to Know Us",
+          "ar": "تعرّف علينا",
+          "de": "Lernen Sie uns kennen",
+          "ko": "저희를 소개합니다"
+        },
+        "description": {
+          "tr": "Tufan Organik, Gürün/Sivas'ta organik tarım ve doğal gıda alanında faaliyet gösterir. Tahıl, bakliyat, kuruyemiş, reçel, pekmez, süt ürünleri, kurutulmuş ve dondurulmuş meyve-sebze ile aromatik bitkiler dahil 22 ürün grubunu sunuyoruz.",
+          "en": "Tufan Organik operates in organic farming and natural food in Gürün, Sivas. We offer 22 product groups, including grains, pulses, nuts, jams, pekmez, dairy products, dried and frozen fruits and vegetables, and aromatic herbs.",
+          "ar": "تعمل توفان أورغانيك في مجال الزراعة العضوية والأغذية الطبيعية في غورون، سيواس. نقدم 22 مجموعة منتجات تشمل الحبوب والبقوليات والمكسرات والمربيات والدبس ومنتجات الألبان والفواكه والخضروات المجففة والمجمدة والأعشاب العطرية.",
+          "de": "Tufan Organik ist in Gürün (Sivas) im ökologischen Landbau und bei natürlichen Lebensmitteln tätig. Wir bieten 22 Produktgruppen, darunter Getreide, Hülsenfrüchte, Nüsse, Konfitüren, Pekmez, Milchprodukte, getrocknetes und tiefgefrorenes Obst und Gemüse sowie aromatische Kräuter.",
+          "ko": "투판 오가닉은 시바스주 귀륀에서 유기농 및 천연 식품 사업을 운영합니다. 곡물, 콩류, 견과류, 잼, 페크메즈, 유제품, 건조·냉동 과일과 채소, 아로마 허브 등 22개 제품군을 제공합니다."
+        },
+        "btn1Text": {
+          "tr": "Devamını Oku",
+          "en": "Read More",
+          "ar": "اقرأ المزيد",
+          "de": "Mehr erfahren",
+          "ko": "더 알아보기"
+        },
+        "btn1Url": "hakkimizda",
+        "max": "960px",
+        "bgcolor": "#F3ECDD",
+        "color": "#0E2347",
+        "muted": "#3B4A68",
+        "accent": "#B5831B",
+        "btnbg": "#0B2A5B",
+        "btncolor": "#FFFFFF"
+      },
+      "category": "module",
+      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
+      "version": "1.0.0",
+      "icon": "info",
+      "id": "hil5x6",
+      "path": "tanitim-ozet",
+      "local": "body",
+      "data": [],
+      "index": 15
     }
   ]
 }
